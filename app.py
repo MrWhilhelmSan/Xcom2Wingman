@@ -108,13 +108,24 @@ st.markdown("""
 # Sidebar - Campaign State & Config
 st.sidebar.markdown("<h3 style='color:#00f2ff;text-align:center;'>🛸 CAMPAIGN STATUS</h3>", unsafe_allow_html=True)
 
-# API Key configuration
-api_key = st.sidebar.text_input(
-    "Google Gemini API Key",
-    type="password",
-    value=os.environ.get("GEMINI_API_KEY", os.environ.get("GeminiApiKey", "")),
-    help="Provide your Google Gemini API Key. If set as an environment variable (GEMINI_API_KEY or GeminiApiKey), it will be loaded automatically."
-)
+# API Key configuration (Secure Load)
+env_key = os.environ.get("GEMINI_API_KEY", os.environ.get("GeminiApiKey", ""))
+
+if env_key:
+    api_key = env_key
+    st.sidebar.markdown(
+        "<div style='padding:10px; border-radius:5px; background-color:rgba(0, 242, 255, 0.1); border:1px solid #00f2ff; color:#00f2ff; text-align:center; font-weight:bold; letter-spacing:1px; font-size:0.85rem; margin-bottom:15px;'>"
+        "🟢 WORKING WITH GEMINI"
+        "</div>", 
+        unsafe_allow_html=True
+    )
+else:
+    api_key = st.sidebar.text_input(
+        "Google Gemini API Key",
+        type="password",
+        value="",
+        help="Provide your Google Gemini API Key. If running locally, you can paste it here. In production (Hugging Face), configure it as a Secret to keep it hidden."
+    )
 
 st.sidebar.markdown("---")
 
