@@ -1,3 +1,15 @@
+---
+title: XCOM 2 Tactical Wingman
+emoji: 🎯
+colorFrom: Steel
+colorTo: Slate
+sdk: streamlit
+sdk_version: 1.30.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # 🎯 XCOM 2 Tactical Wingman
 
 A local intelligent assistant (AI Agent) and strategic console designed to help XCOM 2 commanders make optimal base-building decisions, combat tactical choices, and soldier builds based on official guides and real game files. 
