@@ -1,0 +1,351 @@
+So the Training Center lets you rebuild your character builds (which I don’t think I’ve ever done, so whatever), bond soldiers up to level 2 and 3, and most importantly lets you spend AP getting abilities across the skill tree you didn’t pick up and buy XCOM abilities. So this is a guide to how to get the most out of all of that, first, bonds.
+
+Bonds:
+Every soldier has a compatibility with every other soldier, anywhere from 0.0 to 10.0, usually sitting in between those. The higher the number, the faster they build a bond. If the number is in the 9s you can build one just after one mission together, if it’s low enough you’d be better off doing the covert op. Once bonded, their compatibility increases to 7.5 if it is lower, and you gain a charge of teamwork. Then you can keep building up bond points until you can train in the training center for 10 days to level up the bond to level 2. A level 2 bond shaves 1 day off of covert actions if both of them are sent on it, if they are adjacent they gain a 10% aim bump, and they cleanse mind control and other mental statuses just by standing next to each other. At level 3 you gain an extra charge of teamwork and gain the Dual Strike ability. If a bond member dies, the other person will roll a very hard will check or enter a panic state. Berserker, Shattered, etc. This isn’t that big a deal, because you plan for units to not die, but it is worth noting.
+
+Teamwork (★★★★☆) - Teamwork is an active ability with one (two at Bond level 3) charge shared between bond mates that costs 1 AP. It gives that AP to the other bond mate.
+
+Teamwork is very, very good. Combat Presence, even limited to one other unit once per mission, is just very strong. It increases your flexibility greatly.
+
+Dual Strike (★★★★☆) - Dual strike is an active ability with one charge that ends your turn. Both units fire a standard shot (for Templar it’s an auto-pistol shot, similarly if a sharpshooter moved they fire their pistol) at the target. The target has to be in line of sight of both units to use this ability.
+
+This is pretty good. Sort of dependent on who you are bonded with but it’s a way to cheat holo-targeting and/or shred a target and obviously it is just a nice bump to your damage for that attack. Given how late into a run you usually get this you almost always have stronger tools, but this isn’t bad.
+
+Moving onto more general advice, there is, technically, a correct unit to bond every other unit to. You want all your highest ranking soldiers bonded together, for example. And certain soldier types benefit from bonds more if you are bonded with a ranger you can spend 1 action to give them a pseudo Run and Gun and you can similarly give the sharpshooter an extra AP to move and shoot.
+
+All that being said, don’t stress about it too much. You can just bond with whoever pops first. You don’t have to, if you want to wait that’s fine, too. But having bonds is better than not having them, and so waiting for the perfect bond pairs is sort of silly. We just don’t have time for that. But I wouldn’t stress too much about it. It isn’t too hard to sort of force 6 level 3 bonded soldiers to be the ones you send on Leviathan or whatever and there are other things more worth minmaxxing. It is sometimes worth it to send your A team on the “make bond” covert op, but it can be hard to justify given all the other covert ops you might be doing instead. 
+
+The thing that is important to note is that leveling up a bond to level 2 sucks. It sucks so bad. You incapacitate two soldiers for 10 whole days and get nothing for it! Sure you can cleanse mental status effects and all that but it isn’t worth not using your units for 1-2 missions. Especially because for some ungodly reason if the UFO or Chosen come knocking you can’t use the units at all. Bond level 3 is quite good, but it takes 15 days to get and that’s even more of a pain in the ass. I usually only upgrade bonds when I’m in the endgame just spinning my wheels until the Shadow Chamber is done cooking, and even then sometimes I don’t bother. It’s just not that big of a deal.
+
+Combat Intelligence and AP
+You can use AP (once you build the Training Center) to spend AP (ability points, not to be confused with Action Points, good job on that name Firaxis!). Most abilities cost 10 AP + the rank it is across from. So if an ability shows up at sergeant rank it’ll cost 12 AP because that’s two ranks above squaddie. Certain abilities that the devs thought were too powerful always cost 25 AP (though they missed the best one, lol).
+
+Soldiers gain a different amount of AP depending on their Combat Intelligence when they rank up. This is retroactive as well if you do the “increase combat int” covert op you’ll get the AP you would’ve got all in one go. Here’s a nice table of how it works and the percent chance a unit gets that combat int in the first place:
+
+Com Int	AP Gained (above baseline)	Starting % chance
+Standard	0	50%
+Above Average	+1	25%
+Gifted	+2	15%
+Genius	+4	9.5% 
+Savant	+7	0.5%
+So a 50/50 to do better than standard. This is mostly out of your control, but if you have a bunch of rookies to train up in the GTS, pick the ones with high combat int first, obviously. I wouldn’t stress too much about it, but more is better.
+
+You will also gain XCOM pool AP for taking high ground shots, doing what the game considers “team attacks” (blowing up cover to then shoot the guy, literally using teamwork, it’s pretty inconsistent though), attacking from stealth and generally “good plays” you make. You only get 1 AP per pop (without Trail by Fire) so I wouldn’t stress about it. You’ll get them anyway from just playing the game well. In addition killing a chosen is 5 AP, killing a Ruler is 8 AP and letting them run is 2 AP, and killing Julian is 15 AP if you do that mission. This is a big way to afford to buy stuff in the XCOM ability pool, but the covert Op to gain more also exists and again none of this is worth absolutely stressing over. You’ll get plenty just playing normally.
+
+XCOM Abilities
+If you want my advice on what abilities you didn’t already take are worth picking up go read the class guides and basically anything I rate 3 stars and up is worth your time, but for the XCOM abilities specifically it varies a bit by class, so let’s start with a big table that shows every possible thing you can get and how much I value it on each class. I’ll go over each ability individually as well but unless it’s super worth noting I won’t distinguish between classes there. In addition, here’s how the rankings go.
+
+★★★★★ - I always buy this when it shows up as soon as I can.
+★★★★☆ - I usually buy this when it shows up but if there is a better ability on the tree itself I might delay this a bit.
+★★★☆☆ - I buy it if I have surplus AP
+★★☆☆☆ - I don’t usually buy this
+★☆☆☆☆ - Buying this is an active waste of AP
+☆☆☆☆☆ - Buying this makes your unit worse.
+
+Ability	Ranger	Grenadier	Specialist	Sharpshooter
+Aim	★★☆☆☆ 	★☆☆☆☆ 	★☆☆☆☆ 	-
+Blast Padding	★☆☆☆☆ 	-	★☆☆☆☆ 	★☆☆☆☆ 
+Chain Shot (25 AP)	★★★★★ 	-	★★★★★ 	★★★★★ 
+Covering Fire	☆☆☆☆☆ 	☆☆☆☆☆ 	-	☆☆☆☆☆ 
+Deadeye	★★★☆☆ 	★★☆☆☆ 	★★☆☆☆ 	-
+Death From Above	★★★★★★	★★★★★★	★★★★★★	-
+Deep Cover	-	★☆☆☆☆ 	★☆☆☆☆ 	★★☆☆☆ 
+Ever Vigilant	★★☆☆☆ 	★★☆☆☆ 	-	★★☆☆☆ 
+Guardian	★★☆☆☆ 	★★★☆☆ 	-	★★☆☆☆ 
+Hail of Bullets	★★★★☆ 	-	★★★★☆ 	★★★★☆ 
+Holo Targeting	★★★★★ 	-	★★★★★ 	★★★★★ 
+Implacable	-	★★☆☆☆ 	★★☆☆☆ 	★★★☆☆ 
+Kill Zone (25 AP)	★★★☆☆ 	★★★★☆ 	★★★★☆ 	-
+Lighting Reflexes	★★☆☆☆ 	★★★☆☆ 	★★★☆☆ 	★★★☆☆ 
+Phantom	-	★☆☆☆☆ 	★☆☆☆☆ 	★☆☆☆☆ 
+Rapid Fire (25 AP)	-	★★★★★ 	★★★★★ 	★★★★★ 
+Run and Gun	-	★★★★★ 	★★★★★ 	★★★★★ 
+Rupture (25 AP)	★★★★☆ 	-	★★★★☆ 	★★★★☆ 
+Salvo	★★★★☆ 	-	★★★☆☆ 	★★★☆☆ 
+Serial (25 AP)	★★★★★ 	★★★★★ 	★★★★★ 	-
+Shadowstep	-	★★☆☆☆ 	★★☆☆☆ 	★★☆☆☆ 
+Shredder	★★★★☆ 	-	★★★★☆ 	★★★★☆ 
+Untouchable	-	★★★☆☆ 	★★★☆☆ 	★★★☆☆ 
+Volatile Mix	★★☆☆☆ 	-	★★☆☆☆ 	★★☆☆☆ 
+For the faction soldier ones, those are in their class guides, because this will be long enough. 
+
+Aim - Aim still sucks even when you put it on another class. It’s just way too slow. If you roll it on rangers you get to do the forbidden tech of having it and deep cover to get a free 20 aim for just not attacking last round. Which is decent, helps you when you are opening from stealth or if there is a little space between pods, but it also probably isn’t worth the AP unless literally every other ability they have is also trash. Rangers are rather AP hungry after all. They want to buy a lot of abilities on both sides of the tree. 
+
+Blast Padding - Still terrible, especially because you get it later. I am not interested in building a tank; the best defense is killing everything that moves.
+
+Chain Shot (25 AP) - Still bad Rapid Fire, but better because (with the exception of sharpshooters) it’s only classes with better aim. On tangers specifically it can be really easy to get this to double 100%s and then it just is Rapid Fire. And because it isn’t on your grenadier you can apply holo first then click this and that pushes that likelihood up even higher. It’s a little weird to give this the same rating as Rapid Fire, but they are both 5/5 worthy, it’s just Rapid Fire is even better as a 5/5, if that makes sense.
+
+Covering Fire - The reappearance of the worst ability in the game. If you want my full rant go check out the specialist guide but the short version is that taking this actively nerfs you. And I don’t know about you but taking an ability that makes me worse seems like a bad idea.
+
+Deadeye - Deadeye is better on classes that have real range tables than it is on sharpshooters. Especially on rangers who can actually hit the 133% aim requirement to get Deadeye to 100% to hit with their short range tables.
+
+Death From Above - I gave this 6 stars, because this in the normal pool was a mistake! If you get a kill from high ground on any class that isn’t a sniper rifle, you get one action point back, so you can shoot again. And if you get a kill you can shoot again, and again, and again, and again. Infinite Serial while you have high ground is pretty damn good. If a soldier rolls this, rejoice, grab it, and never look back. Also give them a Spider Suit/Icarus Armor, because now that soldier needs high ground. It doesn’t even really matter what class they are, any of them can make absurd use of this, though Specialists probably have the worst time because their gun does the least damage but, like, “oh no I’m fundamentally breaking the games action economy with a worse gun what a tragedy." There’s a reason I ban myself from doing this. 
+
+Deep Cover - This is as useless on other classes as it is on rangers. On sharpshooters specifically it can be a reason to go for Aim instead of Steady Hands, but if you are planning on using Serial or DfA chaining then Steady Hands is still better because Aim only applies to the next attack, not every attack that turn. This is basically a blank spot as far as I’m concerned.
+
+Shadowstep - You don’t really need more than one unit with this, because that unit can solve overwatch for the whole squad. It’s not the worst thing but I usually don’t buy it when it shows up.
+
+Ever Vigilant - No class gets to buff their overwatch like specialists do, but it is a free overwatch so it isn’t the worst thing. You can apply holo for free if it’s on a grenadier. That's not bad. But honestly I still skip because it annoys me. And even if it didn’t it still isn’t worth much.
+
+Guardian - Again no class has as good of overwatch as specialists, and this doesn’t work with killzone so that’s sad for sharpshooters. But even they sometimes just click overwatch and getting those 50/50 rolls is nice. It isn’t as good as on specialists but it's always pretty good.
+
+Hail of Bullets - Look no one likes missing and this makes it so you can’t miss. It’s really that simple, a “no miss” button is good on every class. I wish skirmishers could learn this, that’d be nice.
+
+Holo Targeting - This lets you set up chain shots for grenadiers and just buffing aim all around is very, very good. I’d take this on every unit if I could. 
+
+Implacable - This is better on sharpshooter because it gives them more forward momentum as they can’t move and shoot, but otherwise it's sort of meh. Without being able to pair this with untouchable or bladestorm it kind of is an extra move action to do…nothing with.
+
+Kill Zone (25 AP) - Kill Zone is worse on rangers because of their range table but every other class likes this quite a bit. Being able to holo an entire pod with a grenadier is quite nice and just a bunch of shots off is good.
+
+Lighting Reflexes - Weird how this is the only non-class ability you can learn, but whatever. Being able to break overwatch is nice because there is basically never more than one enemy overwatching at a time, so this is an upgraded shadowstep in a lot of ways. It isn’t super necessary, but it’s OK. Another important note is that shadowstep overrides this. So if you have shadowstep this is literally blank.That’s not that big a deal because you can just not buy this but it is important to note.
+
+Phantom - You only need one scout at a time, and the more that are stealthed the less you can have on overwatch or whatever. I think a lot of the time this actively harms you, but hey if you really need a scout then buy it, I guess. 
+
+Rapid Fire (25 AP) - Obviously this is insane on every class. It basically always ups your expected damage unless your chance to hit starts very, very low and then you can just not click this. Extra damage is good, shooting twice is good, this is good. You should buy it when it shows up.
+
+Run and Gun - This is probably the 2nd best non-25 cost you can get. It’s extra mobility and (unless you are a sharpshooter, lol) extra aim by getting closer. Sharpshooters still get a lot of use out of this because it lets them move and shoot with their main gun before the Darklance, only a blue move, but it's something! This is exceptionally strong and I’d take it on every unit I had.
+
+Rupture (25 AP) - This is actually better on other units than it is on grenadiers because you are more likely to get it early. And in a vacuum it is quite powerful. Anytime before andros and gatekeepers start showing up you’re pretty likely to just one tap any non-chosen with this. And debuffing the Chosen with Rupture is pretty sweet.
+
+Salvo - Salvo is a hair better on rangers because they want the RAGE Suit but it’s pretty good on every class. Most classes don’t really want to equip grenades late into a run but this a good reason to give them heavy armor. Is there any unit that doesn’t want to go rocket -> shoot? I don’t think so. You might skip this on a specialist to run mimic beacon/bluescreen or maybe skip it on a sharpshooter to have a grappling hook but I’d probably still consider it on both of them, depending on what I need.
+
+Serial (25 AP) - Chain killing is good, this lets you chain kill, so it's good. A lot of the time, especially early, you’ll actually use this to just get 1 AP back from killing one unit but that is still enough to often push you over the line on a turn. And late game it’s just as silly as on sharpshooters, probably more so because you can stack aim easier on other classes. Man sharpshooters are catching a lot of strays this guide huh? Oh well, nature of the beast.
+
+Shredder - More shred is more better. It gets redundant if you have too many copies of this on a team, but that’s like 4+ not just one additional unit. Shredding gatekeepers before you click chain shot is pretty sweet. 
+
+Untouchable - Without implaccable and a short range gun this is a little harder to get use out of than on its home class, but it will still sometimes save you some damage, not all the time, but sometimes. Worth considering picking up at least.
+
+Volatile Mix - If you build the training center super early and you find this early it is pretty good, it lets you play on Veteran for a bit. But if you are like me and build the training center later than then it doesn’t really do much. Most units don’t want to carry grenades late into a run. So really it’s 4 stars and then 1 star which I guess averages out to 3.
+
+Summary:
+I hope this helps give you some direction about how to use bonds or what abilities to buy. I know it was a lot of information to throw at you, but hey the name of the series is “overly complete guide” you signed up for that!
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+83
+
+Downvote
+
+18
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/comfortingmyself avatar
+comfortingmyself
+•
+2mo ago
+I feel like I never utilize Bonds to the best of my ability. Stand By Me is a really good perk and yet I always forget about it in the heat of battle. And Dual Strike is obtained sufficiently late into the game that I forget to incorporate it into my habits.
+
+The -1 days on Covert Ops is really good below Legendary, accelerating your Covert Ops by a pretty sizable amount. An intel run can take only 3 days with this, which is frankly absurd. On Legendary it's much less notable.
+
+Also a factual nitpick: Bonds take 6 (level 2) or 12 (level 3) days to upgrade on Legendary. 6 days is low enough that you can usually do it between missions. 12 days requires those soldiers to skip at least one mission, though.
+
+redbird7311
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I feel like bonds have the weakness of being tacked on, a cherry on top, instead of something you want to invest in.
+
+I’ve found them rarely being part of how I plan missions and, when I do, they still don’t mean too much.
+
+Nice to have in your back pocket, but not much to write home about most of the time.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I actually find Bonds to matter a lot more on Legend, though I agree below. The ability to give a Ranger an extra shot (which might translate to Implacable and/or Untouchable as well) is pretty damn good, as I feel like Rangers start to fall off a little til they get Arashi/Katana in the later part of the game. Being able to spend a point so Sharpshooters can actually move and shoot without Run and Gun or Darklance can also be meaningful, if you're running early Sharpshooters. The game is weird in that it gives you two action points but not everything costs one, so you can bend the system a little by just using one point on a soldier and squeeze out a full extra attack even with just a Level 1 Bond, which doesn't even need a Training Center. Level 2 and 3 Bonds are probably too weak to really sweat on Legend as something you build around, but I'd actually say Level 1 Bonds are underrated, as just a single charge of Teamwork might really help a turn when one of the units isn't in position to be all that useful anyways, needing to reload or move up or whatever.
+
+u/Chii avatar
+Chii
+•
+2mo ago
+Nice to have in your back pocket
+
+They are often my "backup plan" for missed shots. If i know i have a bonded soldier, they can take a 2nd shot if first misses.
+
+More often than not, i have grenadier bonded, which gives you a 2nd grenade if needed (which would be a flash as a last resort after using the first 'nade for cover destruction, and then shots miss...).
+
+I've never planned out a mission with bonds in mind tho - it's not tactically impactful enough, though i do keep an eye out for bonds when choosing soldiers to put on missions.
+
+When the opportunity rises to use a bond to get a perfect kill turn, i would probably take it (esp. for timer based missions), but otherwise, it is a backup plan that doesn't quite get much use until shit hits the fan - then it saves your squad wipe lol!
+
+redbird7311
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+This just makes me sad on how Skirmishers don’t get nice things from their X-com perk pool.
+
+Seriously, templars can get bladestorm and fortress, but Skirmishers can’t get rapid fire, shredder, holo, and so on?
+
+I’ve had Templars with blade storm solo pods and even occasionally clear maps alone, but Skirmishers, the class that is supposed to shoot good and shoot twice can’t get shit?
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I think the entire Skirmisher tree is likely incomplete anyways. Nearly half of their abilities are buggy, pointless, or confusing compared to the much greater potential of most other classes. It's still baffling to me that their ripjack can only directly melee attack as a LATE unlock and on a cooldown, and without Katana like with Rangers btw (but still also sort of Bladestorm?). Like, what the fuck? Their melee ripjack is best used as a ranged attack that's like an earlier, weaker Invert. Just utterly bizarre.
+
+redbird7311
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I have no idea why Fraxis decided that the Skirmishers is where they were concerned with balance with the faction classes.
+
+Reapers are right there just casually getting great perks every other level and Templars are practically unstoppable at a certain point.
+
+Skirmishers feel like they never get past being good though, which is sad, because they could be great, you just need a change here and there.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I treat Skirmishers the same way I do the Covert Operative unit from Enemy Within. Yes they technically can do damage and support or even kill, but they will never be doing the heavy lifting. Decent in the early game before light armor comes into play, and Combat Presence is handy in a pinch.
+
+voudo
+•
+19d ago
+yeah I've used Skirmishers as a walking mimic before the RustyDios or Iridar skirmisher redux mod lol, and even then, using perk packs and different tables barely fixes them. the mod community have tried but they are only mid still, after 6 years 😞
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+So I was today years old when I figured out that you can retrain SPARKs too. I never noticed as they are usually in some state of disrepair if I use them at all. An extremely limited niche that probably almost no one has ever done, but it's a thing. Losing extra AP spent makes the retraining almost pointless for humans. AP costs are pretty prohibitive in general unless you can somehow farm Covert Ops for AP (the Combat Intelligence ones barely matter til Savant) or farm Chosen for AP far beyond the point of reasonable. It's rare for me to have more than one or two supersoldiers in my whole roster due to lucky random skill rolls. Plus I'm not sure how tactically sound it is as it hurts when they're not available due to Ops or being Tired.
+
+Bond/squad members can also panic if one is injured or captured btw. Death is already the start of a failure spiral but you can't ALWAYS prevent injury if you get bad pod activations and bad enemy hit rolls. Capture is rare but I found the panic detail out the hard way on a map where things were just not going my way and the Hunter had all the advantages in his favor.
+
+My main issue with Dual Strike, even though I almost exclusively ever intentionally use it on Legend, is that nearly half a month out of service for what is likely some of your best soldiers is actually a LOT. Like, more than I realized. The level 2 bond time is paltry by comparison. I absolutely have made missions WAY harder by mistiming a Level 3, and I always seem to have one or more times in my campaign that just somehow 5+ missions align in like two weeks so everybody is Tired even if I do my best. Beware. Level 3 is overkill for Commander IMO, as if you're using both charges often you're either playing a Citadel/Leviathan, or you're messing up. I grant that I might just be playing stupid and reckless, but I feel like I'm usually Dual Striking in regards to pod activation mistakes, rather than it being truly tactically meaningful. Desperation DPS is how I'd categorize it.
+
+(blowing up cover to then shoot the guy, literally using teamwork, it’s pretty inconsistent though)
+
+So I only learned recently why this seems to be this way. The more evident thing is that it's hard capped to so many points per mission, minus anomalies like Chosen and Rulers. The thing the game doesn't really tell you anywhere is that when you have a chance to get a point, it's only a chance based on the Combat Intelligence of the unit performing the action. This both means that Standard units get team AP way less, but also it's usually not a big deal as you're performing so many relevant actions per mission you'd be hard pressed to not get to the point cap anyways, unless you just aren't really taking height advantage or flanked shots. It's a weird system, same as Will loss tbh which feels so overly complicated and hard to optimize.
+
+I actually think Implacable is pretty good on Grenadiers, as it applies to all kills, not just cannon shots. So if you kill a unit with a grenade or rocket or whatever, you can boost their momentum. While not unheard of I typically don't stack mobility on Grenadiers via PCS, etc, I typically like Scopes and Aim PCS on them if I can spare it. I don't always get kills with Grenadiers compared to AoE and softening targets with Shredder etc, but when I do it's pretty good and I like it. Salvo helps a little and I usually move up Specialists with Ever Vigilant so their actions don't totally go to waste. It's only Grenadiers that truly change my tactics with Implacable, as it can allow you to hit and run with the cannon range table a little better vs putting them in half cover where they are more likely to be targeted and have less to help them compared to Rangers and Templars.
+
+I think Phantom has some use if you're going to ever run early Sharpshooters. It lets them position better at a time when they are heavily dependent on good mobility and positioning, unless they roll an early Run and Gun. It sucks though because if I ever use Kill Zone more often than not Phantom actually hurts its utility. It's rare I get to do more than one Kill Zone a mission, and it's mostly a super overwatch in the early part of pod activation.
+
+I do agree that Rupture is weird by being better on literally any other class than the base one. Grenadiers just have too much other shit to do to be hitting Rupture all that often unless you're somehow fighting something over multiple turns and it has most of its HP left. It just doesn't happen with sound play with a Grenadier IMO. Something I also underrated is that if it hits, it guarantees a crit. It's like a different, better Hail of Bullets. Sometimes it's nice just to nail something through a wall with Hail, but more often it's useful to push a crit to get that extra damage to drop something into dead more assuredly. It's basically the only skill like it and it's interesting even if it doesn't come up super often. I've actually even found it useful on Rangers from time to time despite their high and easy crit fishing, both because I like autoloaders on them and because I don't always get Talon Rounds because of RNG. Being able to force a crit with AP, Dragon, Bluescreen, etc is interesting if you're running more than one Ranger per team. Niche, but a pretty good one tbh. You'll know if the 25 AP is worth it to you.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I've never seen a bond mate panic from injury before, they might from capture I honestly don't know but the first one I've never seen.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+There's some .ini files that deal with panic etc. If in the course of a mission a soldier's Will drops low enough to fall into the "Tired" threshold, then all sorts of ailments are more possible and likely. This is what's interesting about looking at the Will stats of soldiers who aren't listed as Tired technically but have 30/43 or whatever. In the course of the mission they will eventually fall low enough to be at risk. Whereas if you send them out on a mission with full Will, typically you have to face multiple pods before they hit the soft cap for Will loss, which usually soft caps at early Tired if not accounting for the possibility of injuries etc. As such if you're careful with Will you're less likely to see detrimental effects kicking in.
+
+EDIT: I double checked the direct files, it seems, won't (or... shouldn't [?] at least) ever panic the other half of a pair, but in practice this doesn't amount to much, because Squadmate rolls do happen for injury (which is what I meant to refer to earlier by what I've witnessed in clusterfuck missions). While it's maybe an oversight this might also be done this way to try to make better use of Stand By Me, so that pairs don't get completely debilitated from injury alone.
+
+u/lkwai avatar
+lkwai
+•
+2mo ago
+I only went into the first two paragraphs, and I already learnt that after being bonded, their compatibility is increased to 7.5?
+
+Damn I've always been concerned that the compatibility would stay low and never tried to send low-compats on missions to get bonded.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yeah the game doesn't tell you this at all. The only way you'd naturally discover it is if doing a Covert Op to bond two low compatibility (e.g. 4ish) units. It automatically bumps them up to a bare minimum, which seems to be 7.5
+
+darkdiashi
+•
+2mo ago
+My poor sharpshooters catching strays! I’m one of those ones who came from XCOM 1 with the ironclad belief that they’re busted and never faced reality lol. I know you don’t talk about mods in the guides themselves, but do you know any vanilla+ style mods that fix their issues? Or do you just put up with it?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+They caught so many strays and I promise it wasn't doing it on purpose! It's just how it is!
+
+Iridriar has a class rework mod for them, it just gives them their good abilities quicker, and so it's better, but it probably still isn't enough.
+
+The real thing they need is for their gun to not suck
+
+u/vndt_ avatar
+vndt_
+•
+2mo ago
+•
+Edited 2mo ago
+Appreciate the posts. Lots of effort here. I'd like to add some facts + some opinions, maybe it can help:
+
+Facts:
+
+Bond level 2 adds Spotter. Your call on the rating on that. Good for setting up Chain Shot/Deadeye, especially with free shots like Overwatches/Lightning Hands. Also good for counteracting Low Profile from Chosen.
+
+Implacable has a niche with Lost fights where you can use it as a situational Run and Gun on a 0 cooldown.
+
+Ever Vigilant uses Pistol Overwatch if the Sharpshooter is not wielding a Darklance. It doesn't trigger after the soldier uses neutral actions like opening doors/picking up loot. Not sure if it screws up on Free Reloads.
+
+Opinions:
+
+Teamwork is 5/5. It's the first reliable skill in the game that allows a soldier to use both actions on damage, apart from the Skirmisher-gated Marauder and Reaper-gated death combo.
+
+I think KZ sucks on Ranger. It's not my plan to make my Rangers end their turn as an opener and completely remove their crit mechanics. I guess the hidden +1 Hunter's Instinct tech on pod opening is something, but to me, not worth 25 AP.
+
+I'd also rate Shredder lower on Rangers lower than other classes. To me, it's mostly useful only versus Rapid Fire targets that could use the +3 damage like Chosen/Avatar/Andromedon. They're not going to get reliable Shredder alpha-strike Overwatch shots, unlike Specialists. I'm also not a fan of Holo-target on Ranger, at least not a 5/5 star fan. They start wasting shots on low hit Overwatches and the effect only comes in reliably on the second shot of a Rapid Fire.
+
+I think Blast Padding on Rangers is 2/5. It functions as a weak Fortress when you park your Ranger under the reinforcement flare/try to stab Gatekeepers with the 100% shot/5 armor piercing Katana (but by then the game is over so eh). For me, almost all the time, the lightly wounded injury heals as fast as the Tired state anyway. Will it win the game? No. Active waste of AP? Maybe not.
+
+I rate Phantom higher on Specialists than on other classes. They have many skills that don't break Concealment. Even not considering Medikits, they still have Aid Protocol, Threat Assessment, Revival Protocol, Scanning Protocol, Teamwork, Haywire Protocol, and it's a Phantom unit with Remote Hack. It can unlock Rangers that are otherwise used as forward scouts in no-Reaper squads.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+•
+Edited 1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Spotter is heavily dependent on the specific pair. Most of the time, especially early game, I just make bonds based off of compatibility ratings. Having basic Teamwork for an extra attack or move potentially is just really good almost no matter the class, and there will likely be times one half of a pair isn't even in position to do a good attack, so moving/reloading and using a point on Teamwork is pretty often useful. Now it is true that some classes probably benefit a little more, notably: Rangers to potentially get an extra sword or shotgun hit, Sharpshooters to potentially move and shoot the same turn, and Skirmishers to actually potentially attack three times. You can optimize but I really feel like that's more a thing for your "B" team, where you get past the early harder part of the game and you can be more picky, especially if remaining compatibility is like in the 4s and 5s and takes a while to naturally happen.
+
+===
+
+I have had cases where Spotter helps but I wouldn't call it reliable enough to really matter. The standing adjacent bonus in particular is really niche, basically only ever coming up if you're ambushing from a roof or something, usually when you're still in Concealment and not facing cover penalties anyways so big whoop. It also requires a specific order of operations to be useful. For instance, because Sharpshooters get Death from Above, I typically try to last hit things with them so they can either move up or get extra damage with a pistol shot. The problem is this means Spotter isn't really doing anything for their Ranger/Grenadier/Specialist bondmate. Which, if you're shooting from middle distance, the +10% might actually be nice. Instead you're often getting 10% on a class that might not even need it, either because they are tossing a grenade or already have better aim from being at height or whatever. The times when it brought a 90% to 100% are rare indeed, usually so inconsequential as to be almost unnoticeable, except I guess if fighting a Chosen with Low Profile or high defense units like Gatekeepers. Holo Targeting is just significantly more reliable and is often tied to something you want to be doing anyways, like applying Shredder. Anyways, it's something but really I get Level 2's because of the day saved on Covert Ops, and because sometimes Stand By Me is handy in a pinch.
+
+Your Implacable point is IMO only really relevant during the Lost World Dark Event. Yes it is nice, especially on Rangers that are pretty good at killing Lost but can't always have Run and Gun up. I don't find it that particularly relevant on normal Lost missions, as typically your team is either staying put (e.g. a perched Sharpshooter knocking down Lost while ammo allows) or ends up with staggered movement, where some are killing zombies and some are killing ADVENT and aliens. And I'd put forth that Lost World slows down Timed missions by about 2 turns on average, so recovering a little bit for your already most mobile units tends not to matter. Weakest link mobility is the limiting factor there. Similarly, Squadsight on Reaper is also good on Lost World, and can even be paired with Silent Killer and/or Soul Harvest for more utility, but that's a specific build that is less relevant with normal enemies, as I have to really go out of my way to pump up Soul Harvest for a whatever bonus with no Lost around.
+
+I can't say I'm 100% sure but I believe Ever Vigilant only triggers if the only actions you do that turn are move. As in, 2 action points spent on moving. Anything else messes it up IIRC, though I don't totally remember if Free Reload does. It doesn't come up often enough to matter, as I don't run autoloaders on Specialists typically nor do I usually see / pickup Ever Vigilant on other classes as I'd almost never double move them unless forced to. Specialists have mobility issues so it's best on them. Extra pistol or Darklance overwatch on Sharpshooters is largely irrelevant IMO. The range and damage on pistols is usually whatever til Plasma (desperation more than anything, to not like Hunker Down), and with Darklance you want to be maximizing its one action point shots with Death from Above. It not having extended mags means overwatch and Kill Zone is way worse on it even though it's a very strong weapon otherwise. Gives Plasma Sniper Rifles a small niche.
+
+There's probably something to be said for a Ranger with stocks and Killzone, but it's just not a strategy I run into basically ever. If I have two slots they are crit laser scope and autoloader, whatever of the best I have. If I have three slots I'm typically going to go extended mags, or maybe a superior hair trigger. I just don't run stocks on Rangers. If you got an early one I guess it's kind of like an early Hunter Protocol, which is something, but A) never seen it early enough to matter, and B) Rangers are pretty AP hungry anyways with almost all of their skills being competitive, so it'd be tough to justify it. Maybe one campaign though, as SPARKs for Hunter Protocol are a hefty investment. But yeah 25 AP for a super overwatch that has to be timed, has a cooldown, and more often than not misses anyways sucks. I usually stack Aim hard on Sharpshooters and if I ever use Killzone it still feels like a 50/50 on whether or not it even does anything, though Killzone -> Holo is a pretty decent opener.
+
+Shredder is worse on Rangers but I think it's still pretty good. Especially on Legend I find I feel like I can never have enough armor shredding unless like the Shadow Chamber tells me not that many enemies have armor to begin with. I definitely try to set it up so that Rangers get their Implacable/Untouchable procs, but that doesn't always happen. I tend to make them some of the first units that I move in case I get other surprise pod activations, and there definitely are times Rangers alongside Grenadiers are the first units to shoot that turn. It might be less pronounced below Legend, but there any and all units that can get Shredder and Holo Targeting are great. I try to killshot with Sharpshooters for similar class skill oriented reasons but it's hard to overstate just how powerful shredding from a safe distance is, as it often makes it a lot easier for a Ranger or whoever to kill afterwards. Death from Above pistoling or moving is nice but it's rarely instrumental til Darklance.
+
+If I take a Specialist at all on a mission, I'm either doing it for heals/support (such as Hacking), or because I need support and still hope they do some damage with their rifle. In both cases Phantom would be basically next to nothing. IMO only Rangers, Reapers, and Sharpshooters make sense to stealth up, as safe positioning until an ambush matters for all three of them. I also typically don't get my Specialists targeted by enemy fire unless they are close enough to shoot anyways, so defensive aspects of Phantom matter less then. Maybe if I got an early Phantom Specialist for scouting it's something, but it hasn't come up and Reapers are both better and more reliable, even if you don't start Gatecrasher with one. The super grenade of Claymore is too good to pass up even disregarding the strong stealth, and Remote Start can be a pod deleter too.

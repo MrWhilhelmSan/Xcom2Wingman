@@ -1,0 +1,401 @@
+So originally I was going to do every utility item in one, but because Reddit has a character cap that’s not gonna happen. So I’m going to just do the normal utility items that you can buy from the engineering screen. Then I’ll do proving ground items (though Plasma Grenades and Bluescreen items are in here, the line is a little messy). A note, the rating system is a little different because utility items are a bit different, but, you know, more stars is better.
+
+★★★★★ - Items that are utterly ridiculous. Things that fundamentally warp every mission you bring them on. Things you might consider bringing 6 of. 
+★★★★☆ - Items that are very, very good. Stuff that there isn’t much to complain about but they aren’t quite broken.
+★★★☆☆ - Items that are good. You’re happy to have them and wouldn’t mind buying them. This is where basic grenades sit, so any item worth using at all is at least this good.
+★★☆☆☆ - Items with very niche use. They might have applications in one or two spots but generally have too high an opportunity cost to be worth building. They aren’t the worst, like they have a function, but they aren’t really worth it either.
+★☆☆☆☆ - Trash items that you should forget exist.
+ 
+A further note, the main thing about ranking utility items is the opportunity cost. If you bring a vest, you aren’t bringing a grenade. So even if an item is good, if I’d rather have something else, that’ll dock it a few points. Utility items in this game are crazy strong, strong enough to let rookies beat Leviathan, so the difference between a good one and a bad one is a lot. I won’t, however, be holding specificity against them. If an item is very good on one class but terrible on another, that’s still pretty good. You aren’t forced to equip any item other than grenades so if they are specific that’s fine. Alright, on with the show. 
+
+Explosives
+We’ll start with the explosives (and smoke/flashbangs), here is a table of all their stats. Damage, shred, all that stuff. Also a note, I won’t go over their exact effect in the text if they can be covered in the table, just rank them. 
+
+Item	Base Damage	Shred	Radius	Range	Inflicts	Notes
+Frag Grenade (★★★☆☆)	3-4	1	3	10		Damages or destroys cover.
+Plasma Grenade (★★★★☆)	4-5	2	3	12		Destroys almost all cover
+Smoke Grenade (★☆☆☆☆)	-	-	4	15		+20 Defense for all units within smoke cloud. Lasts 3 turns.
+Smoke Bomb (★☆☆☆☆)	-	-	5	15		+20 Defense for all units within smoke cloud. Lasts 3 turns.
+Flashbang Grenade (★★★☆☆)	-	-	12	8		Inflicts disoriented on all enemies within the radius.
+Proximity Mine (★★★☆☆)	6	2	4	12		Destroys cover, does not break concealment when thrown. Trigged by enemy movement.
+Frost Bomb (★★★★★)	-	-	2	10		Freezes enemies for 1 turn (freezes boss monsters from one action)
+Alright, now on with the explanations.
+
+Frag Grenade (★★★☆☆) - This is an incredible item for something you get for free. It does damage with no dice roll and destroys cover. Literally what more could you want? Well, you could want it to destroy cover more reliably or do a little more damage, but that’s what plasma grandes are for! The only reason I give these up is because some utility items are broken, not because these are bad.
+
+Plasma Grenade (★★★★☆) - Holy shit these are good. I sometimes leave this on grenadiers for the entire length of a campaign. Enemy cover needs destroying, and this does the job. The extra damage is nice, too. Again I only replace these because some utility items are crazy, these drive a high price to be replaced. 
+
+Flashbang Grenade (★★★☆☆) - The flashbang is probably the best item I never use. It does so much for you. The disoriented status prevents a lot of enemy abilities. The enemy can’t use psionics, melee abilities (unless it’s their only attack like with faceless) and it nerfs their movement by 5 and aim by 20. That said, it doesn’t do everything. The enemy can (and will) crit you through full cover even while disoriented. This is a powerful stun tool, but it is fundamentally unreliable. That being said, it kills psi zombies, cancels mind control, stops codexes from splitting and stops mutons from stabbing you to death. But it doesn’t stop everything, and when I bring them I regret not having the grenade it replaces so much. That extra bit of damage and cover removal might be just what the doctor ordered. If you want to use these though, I get it. I think you can make the argument either way. It just depends on how comfortable you are being able to alpha strike with grenades or if you want an unreliable stun tool. 
+
+Smoke Grenade/Bomb (★☆☆☆☆) - Don’t…don’t build these. I know some people will go in for stacking defense, but to give up your extremely valuable utility items for a chance to help advent miss shots (and only shots, if you are getting micro-missled this is doing jack shit) is just a terrible deal. It can also buff ADVENT, by the way. Any unit in the AoE gets the defense buff, not just your guys. I just can’t with these. Fun fact, when the game first launched, they did nothing. I mean literally they were bugged; they had no effect. Shows you have much the QA guys used them.
+
+Proximity Mine (★★★☆☆) - These items are a lot of fun. You can combo them with a claymore and deal an obscene amount of damage to an unactivated pod. But these come into the game so late and by that point you probably have rockets and/or blaster launchers and it just isn’t needed. It is fun though, and that’s worth something.
+
+Frost Bomb (★★★★★) - So the Frost Bomb is either a scan reward, a proving ground project, or something you can just buy depending on your settings so I’ll cover it here. The frost bomb is supremely powerful. It just shuts down an enemy (or multiple, with a grenade launcher and a bit of luck) for an entire turn. And frozen enemies have a +10 aim bonus against them. It’s supremely powerful to freeze an enemy, it just buys you so much. A muton about to own your ass? Well now they are frozen like an idiot and ready to get shot at. As stun tools go this is second only to the mimic beacon in power. I bring them on literally every mission I go on, literally all of them. The only downside is that for Chosen, Avatars, Sectopods, and Gatekeepers it only takes one action point from them. And it’s basically not worth it to use on them for that reason. A Sectopod will still murder you with two action points. Better to stun the troopers in the pod with the Sectopod so you can focus fire on it.
+
+EDIT: I forgot to mention but the frost bomb cancels out an AVATAR's (or Chosen with Planeswalker) ability to teleport for a round, and that can be very, very useful specifically in Leviathan. It also breaks mind control from those enemies if you freeze them, which is nice.
+
+There is also their use for Rulers. It freezes the Viper King for 3 actions, the Berserker Queen for 2, and the Archon King for 1. Obviously it’s better against the weaker ones, but its still quite useful against the Queen. Against the Archon King it doesn’t do much, you are trading the action to throw the bomb with the action they are thawed out for basically, but it’s probably still worth bringing on the mission just to stun other enemies.
+
+I do want to mention a cheese strat with this. If you see a pod before they see you and open on them with a frost bomb you can probably hit all of them (you equip it on a grenadier for this). It gives you 2 entire turns to murder that pod while they have an aim buff against them and can't take cover. This is not what this item was intended for, but…I mean…it does basically kill a pod for free, and that's pretty good. I personally banned myself from this strat because it's too good, but hey if you're struggling with this game, don't do that!
+
+Mimic Beacon
+Because I bang on about them constantly, let’s go over the most powerful utility item in the game by far, the all powerful mimic beacon, and I don’t need a table for this one, because it stands alone.
+
+Mimic Beacon (★★★★★★★★★★) - The mimic beacon is a utility item that can be thrown just like a grenade, but doesn’t get the boost from the grenade launcher or anything like that and throwing it ends your turn unless you have Total Combat. It spawns a mimic that has 12 HP. Any enemy that has line of sight on the mimic beacon will attack it with a single target attack. So a viper won’t poison spit the area it’s in, they will try to tongue pull on it (which always fails against meme beacons) and/or just shoot at it. Andromodons will go for the punch or a shot depending on distance, officers shoot at it instead of their grenade, etc. The only exceptions are Chosen and Rulers who will ignore it (Chosen will target it if it’s the only thing in the LoS, but that rarely matters). Enemies are supposed to have a 100% accuracy against it but sometimes they miss anyway and I don’t know why or how but honestly it doesn’t matter much. 
+
+I gave this thing 10 stars mostly for the bit, but if anything in this game deserves it it’s this thing. This is absurdly overpowered. The way you can read the meme beacon is “at the cost of a turn, two to 4 enemies don’t exist for a round.” You just buy an entire turn of not getting shot at with this and it disables the most powerful abilities enemies have. In a game where a single andromodon acid bomb can lead to a squad wipe, just saying “actually no” to it is just absurd. Bring these, bring them on every mission the moment you unlock them. If ever a part of you thinks about not bringing them, tell that part of you it's dumb and bring one anyway. I often end up bringing two to missions once I get them they are just that good. This one item makes rookie only runs possible. It’s literally that powerful. It won’t kill pods for you, you still have to figure out how to get enough damage through with the turn this buys you, but if you can’t wipe the enemies out in two turns you’re probably boned no matter what items you have. This thing deserves 20 stars, 100 stars, 10 billion stars!
+
+Vests/Armors/Mindshield
+Here are the two vests you can build without the proving ground. Why you’d build them I have no idea, but you can! I’m also doing the mind shield here, because it’s kind of like a vest. Sort of, look sections for this guide was hard and annoying OK! EDIT: I am also throwing in the armors you can buy from this menu, because otherwise they don’t go anywhere.
+
+Utility Item	HP added	Additional effect
+Nanoscale Vest (★☆☆☆☆)	+1 (additional 1 if you do the purifier autopsy)	-
+Hellweave (★☆☆☆☆)	+2 (additional 1 if you do the purifier autopsy)	2-4 damage to anyone who damages you with a melee attack. Sets the target on fire.
+Mindshield (★★☆☆☆)	-	Grants immunity to panic, disoriented, dazed, being knocked unconscious, and mind control. 
+Predator Armor (★★★★★)	+4 HP	Extra utility item slot
+Warden Armor (★★★★☆)	+6 HP, 1 armor	Extra utility item slot, Reapers don’t gain the point of armor
+Reinforced Frame (★★★☆☆)	+3 HP, 1 armor, +1 mobility	SPARK only
+Annodized Chassis (★★★☆☆)	+5 HP, 2 armor, +2 mobility	SPARK only
+Nanoscale Vest (★☆☆☆☆) - What are we doing here? You’re trading a goddamn grenade for 1 HP?! Really? Just 1? That means you’re still getting one tapped by a Sectoid crit, so this does…nothing I’m pretty sure. Like actually nothing. Might as well just set supplies on fire if you build this.
+
+Hellweave (★☆☆☆☆) - 2 HP is more than 1, but still just…just no. The damage this does is tiny and it only happens after you get hit by some of the hardest hitting attacks in the game. Sure burning is nice but if you wanted that there’s this thing called dragon rounds. You also get this after the lid autopsy, which is waaay after you get mimic beacons. Don’t build these.
+
+Predator Armor (★★★★★) - You want this asap. It stops the game from being one shot city and gives you an extra utility item slot. It’s expensive, it costs 300 supplies but it is well worth it. Buy this as soon as you can.
+
+Warden Armor (★★★★☆) - I’m docking it a star but not being as critical as upgrading to Predator Armor, but this is still good to get. 600 supplies is bloody murder for this but you will eventually grab this just for the few situations where you have to take a hit, even in the late game.
+Reinforced Frame/Annodized Chassis (★★★☆☆) (the game spells anodized wrong, isn’t that funny) - I’ll talk about these together because my feelings on them don’t really change. They are super expensive and literally only for SPARKs and that’s a tough value proposition. If you are using your SPARK a lot then go for it. If you only use them once in a while then you can maybe skip it, though it makes your SPARK more fragile so do be cautious. If only it gave them a utility item slot.
+
+Battle Scanners and Lost Lures
+These items are weird so they get their own section. 
+
+Utility Item	Uses	Radius	Range	Additional effect
+Battle Scanner (★★☆☆☆)	2	12	28	Reveals hidden or burrowed enemies. Does not break concealment
+Lost Lures (★☆☆☆☆)	2	12	28	Draws Lost units to the lure's area of effect.
+Battle Scanner (★★☆☆☆) - This is a very niche item. It only works on faceless, chrysalids, and the assassin. It does also reveal targets in the fog of war, but you should be using reapers for that. If you are going to the assassin’s stronghold or the lid retal mission, bringing these is an OK choice, but otherwise don’t bother. Remember when this was a perk snipers got in EU? Fun times.
+
+Lost Lures (★☆☆☆☆) - The lost are basically no threat, so you are spending a utility item on a non-threat. And…why? Why would you do that? Has anyone ever built one of these? Ever? I had to look up footage of them being used because I literally never have. I guess you could use them to distract ADVENT? But don’t…don’t do that.
+
+Medikits
+If you’ve read my Specialist Guide, you already know I don't like medkits due to their opportunity cost. Proactive items like the frost bomb, mimic beacons or sometimes just a normal grenade often prevent more damage than this heals. If you want a complete (and it's a long one!) breakdown of exactly how I've come to that conclusion, it will be in a dedicated post tomorrow. For now, here's how they work. 
+
+Item	Uses	Effect
+Medikit  (★★☆☆☆)	1	Heals 4 HP. Removes burning, acid, poison, and bleeding. Also stabilized bleeding out units. Grants immunity to poison on the carrier.
+Nanomedikit (★★☆☆☆)	1	Heals 6 HP, otherwise the same as normal medkits
+Consumables
+There are a few consumable items in XCOM 2, items that unlike every other utility item are one time use then you have to build a new one. Here’s those (hint: don’t build them).
+
+Item	Effect
+Overdrive Serum (★★☆☆☆)	Grants +5 armor, +5 mobility and immunity to Disorientation, Panic, Dazing and Mind Control on the user for 2 turns. Is a free action to use.
+Refraction Field (★☆☆☆☆)	Puts the user in concealment, requiring one action to use.
+Sustaining Sphere (★☆☆☆☆)	If the soldier would die, they drop into stasis at 1 HP, not dying.
+Overdrive Serum (★★☆☆☆) - +5 mobility is a lot of mobility, and to extend things like Reaper chains that’s good. But it is just not worth it compared to things that are more permanent and effective. But if one was gifted into your inventory it’d be OK.
+
+Refraction Field (★☆☆☆☆) - So you are trading a utility slot for a kind of OK ranger ability. But a worse version of it because it costs an action…yea…no thanks. Also you consume them on use, so nope, not gonna use them.
+
+Sustaining Sphere (★☆☆☆☆) - You can’t plan for this to help, but instead pray for it to help. I hate all healing items in this game and this is just those but worse! Nope, not having it! 
+
+Bluescreen Protocol
+Bluescreen protocol is technically a Proving Ground item, but you buy them from the normal engineering menu, so I’ll put them here. Also they are crazy good.
+
+Item	Base Damage	Armor Shred	Blast Radius	Range	Inflicts	Notes
+EMP Grenade (★★★☆☆)	6	-	4	12	Shutdown/Stunned/Disoriented	Only damages mechanical and robot units. Pierce's armor  and has 50% chance to shutdown some robotic units. Removes energy shields. 
+EMP Bomb (★★★☆☆)	10	-	5	12	Shutdown/Stunned/Disoriented	Only damages mechanical and robot units. Pierce's armor and has 50% to shutdown some robotic units. Removes energy shields. 
+Item	Damage Increase	Notes
+Bluescreen Rounds (★★★★★)	+5 to mechanical and robotic enemies	Lowers Hack Defense by 10. Destroys energy shields.
+EMP Grenade/Bomb (★★★☆☆) - Another very strong item I never use. Mechanical/robots are the most dangerous enemies in the game and are about 1/4th of the enemies you fight. The thing is, they are only once (or twice with Heavy Ordnance) per mission compared with bluescreen rounds which work the entire time. Plus you have to do advanced explosives for their upgraded versions and if you don’t use special grenades (and I usually don’t) then that’s sort of a waste. Still, these are great. If they shutdown robots 100% of the time I’d give them 5 stars, but they don’t so only 3 for them.
+
+Bluescreen Rounds (★★★★★) - I’m sorry plus 5?! They do an extra 5 damage?! Why is that number so big?! That’s insane. That’s plus 10 damage on a rapid fire or plus 15 on a fan fire! Plus 15! The max enemy health (not on a ruler) is 60! There is an argument to equip 6 of these on your squad. I usually equip 4 or 5 in the endgame but I am tempted to go all the way and just roll with 6 sets of bluescreen rounds. Plus they auto-destroy shields if you hit, which is nice. Yea these are probably the third strongest utility item after the frost bomb and mimic beacon. Why did they think this was OK? Why not plus 3 or some more reasonable number? Truly the designers at Firaxis are an enigma. 
+
+And that’s it for this one! I don’t really have more to say, so this is it for now. Next time we cover all the proving ground items, see you then!
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+94
+
+Downvote
+
+27
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/Famout avatar
+Famout
+•
+2mo ago
+Generally agree, will put a slight asterisk though on Medkits.
+
+Specialist medic holding a single medkit? Four star at least, has saved the entire team more then once, and can still be very useful in combat as well. That one kit keeps the entire team alive or at least not bleeding out.
+
+Anyone else? Yea, maybe even just one star, it's lacking, the need to run up to the bleeding out target is finicky at best. Without a combat medic I'll still take ONE emergency kit, but not a fan.
+
+Will also give the Nanoscale Vest two stars at the very start, with such fleshy guys early on that one HP has kept units from getting one shot. Generally agree grenades are better, but before unlocking all the other toys, it can keep the organs in at least until anything else comes along to equip instead.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I'll save my full thoughts on medkits for tomorrow (it'll be a long one) but as for vests the best form of defense is offense. And it doesn't even always prevent you from getting one shot. A sectoid does 3-4 damage with +2 damage on a crit. So that's 5-6. Rookies have 4 HP and squaddies have 5. So you might still just eat it. And then you have to factor in that not bringing a grenade is a serious liability. Especially because you have to do hybrid materials to even unlock vests, meaning you are slowing down (not by much, but still, every day matters) getting the important research done. If you have the vest slot mod then maybe maybe but otherwise? No, don't bother.
+
+u/Famout avatar
+Famout
+•
+2mo ago
+Here is my two, and only two, use cases I have for em myself.
+
+First, standard mission early game, towing a rookie just to level em up, wear the damn vest, stay near the back, and gain experience. In case of combat medic being out of action though, said rookie is now the medkit holder instead.
+
+Second, unlocking armor with two items slots, and for a brief few missions until I can load em out fully with good stuff, that second slot is hellweave or Nanoscale on a couple of troopers.
+
+Either case not long term, but it has a place at least.
+
+I suppose a part of it is that I also treat grenades as a "if I must" item, since I want bodies and loot as much as possible rather then it being destroyed (won't stop me though from using one if there is the slightest risk.)
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I'd rather give a rookie a grenade, then they can at least do something productive. I also don't believe in having a unit "play it safe." This ain't that kind of game. The more offence the better. Plus I don't usually deploy rookies except on the first G. Op and first Lost mission. You can throw enough units into the GTS and Ring to just have enough squaddies and up after that.
+
+And there can be an awkward gap where you get predator armor and have a bunch of utility slots with nothing to put in them, but I think it's probably better to just leave them blank. Why waste supplies on an item that does nothing?
+
+Also grenades don't destroy bodies in this game, just weapon mods and cores. But the black market exists, so that doesn't really matter.
+
+baddoge9000
+•
+2mo ago
+Thanks bro!
+
+kittenwolfmage
+•
+2mo ago
+I largely agree with this one, though I will note that medkits do have some use on melee troopers purely for the poison immunity. The amount of poison clouds that can end up around the place gets a bit nuts sometimes, so being able to rush in and slash the enemy without worrying about them can be quite clutch.
+
+Still disagree on mimic beacons though. Hard CC >>> Soft CC, and when a lot of enemies can one-shot a beacon, they just aren’t reliable enough for the meme-ranking here. Four star? Sure, but frost bomb is still better.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+[Proximity Mines] Triggered by enemy movement (or other explosives).
+
+Nope, they are not triggered by other explosives, only Claymores are. That's actually part of why Proximity Mines are hindered a lot. ★★☆☆☆ IMO. Basically only a pod activation ambush or enemies happening to path into them trigger it. (I guess you could also use it for flared reinforcements but I find those are largely trivial, especially by the fairly late point in the game you can get these mines. Just overwatch trap flares.) Because I was forced to have Mines in a TLP campaign, I actually found out you can't even activate two on the same pod on a turn. The slightly higher base damage than grenades is something and is maybe useful on the first pod of a mission, but honestly they are like an infinitely worse claymore. They've failed me and disappointed more often than they've been useful. If your first pack is Mutons or Chryssalids and you're behind on the power curve they are MAYBE something, but they honestly just suck. You can't reliably path any pack other than the first one you engage into them. Just take more claymores or more plasma grenades.
+
+[flashbang] cancels mind control
+
+Caveat that it doesn't work on the Warlock. But yes it does work on other psi enemies, notably on early game Sectoids and is slightly useful vs Gatekeepers. The anti-teleport of Codices is something but eh. Frost Bomb or Mindshield does work vs this aspect of Warlock though.
+
+And it’s basically not worth it to use on them for that reason.
+
+HARD disagree, especially on Legend, I can't even overstate it. They are largely unnecessary for Gatekeepers because of the Disruptor Rifle and Bluescreen, but if you need to stall the damagespongey-ness of some enemies these are basically literally THE enemies to use them on IMO. Frost Bomb stops Planewalker on Chosen and the Avatar teleport (as well as Mind Control on Warlock), allowing you to focus fire them better. The -10 Defense bonus may also be the difference between 100%ing or 90%ing your shots to alpha strike them in one turn. With some reliability you can force a Sectopod to shoot at an active Parry or Untouchable unit nearby, then they'll move to do Wrath Cannon. I wouldn't rely on this tactic ALL the time, since there are better options like Fanfiring Bluescreen into their faces (or chipping damage and armor elsewhere and then using a Sharpshooter to kill them with Death from Above), but they are useful here from time to time. Unless I get a double or triple pod activation and don't have a Mimic Beacon, these enemies are almost exclusively what I save them for. It's not necessary later even on Legend as you catch up on power but it counters a lot of bullshit (especially with Chosen abilities and Strengths) that can happen, though one could argue for just making a Holo Targeting Grenadier shot. But hey with Salvo you can do both and double support your team with an effective +25% Aim bonus for all remaining shots! The only hard enemy I wouldn't recommend it against is the Archon King as it's just too insignificant of a stall. You really want to Stasis or Banish that one if you can and it's late enough game to make those options more realistic.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+yea you can use the frost bomb to cancel teleporting, I should've mentioned that. Sectopods AI is such that they basically coin flip between "shoot shoot shoot" and "shoot wrath cannon" so with the frost bomb it's "shoot shoot" or "shoot move" and them shooting twice will still just kill you sometimes.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I'm not sure if it's a coincidence, but I've been able to semi-consistently get them to Shoot on one (Aid Protocol as a last ditch Hail Mary, ideally a Templar Parry or Ranger Untouchable on another) and Wrath Cannon on another, especially if two soldiers are in its AoE. If your units are spread out or a frost bomb is NOT used it definitely can and possibly will shoot the same target twice. If you can Grenadier Frost Bomb two or three other targets there's a case to be made for just using the "saved" soldier actions to dump into the Sectopod but it depends on what you're going for. If I ever save and use a Dual Strike (and basically only on Legend realistically) it's going to be on a Sectopod or an Andromedon, sometimes allowing an "extra" Holo Targeting. A decked out Sharpshooter allows you to pick your lethality once the Hunter is down. You can either soften up targets with grenades and then just spam Death from Above as a more reusable and powerful Serial, or you can move your Sharpshooter close and Firefire most troublesome targets into oblivion, bonus if it's with Darkclaw too to one tap almost anything. I feel like Darklance is so strong that it makes Serial a way more niche choice even though it's similar to the famous In The Zone from Enemy Unknown. Having both Fanfire and Serial can be a hefty AP commitment. I imagine Serial was better without WotC but if you're going to use Sharpshooters at all almost I feel like aiming for taking down the Hunter is a valuable goal. The Katana and to a lesser extent Arashi also let you do certain funny plays with the Ranger but I feel like on Legend Rangers eventually fall behind when going into the late game as they can usually only really delete one unit (unless using Bond shenanigans which I do invest in), whereas Sharpshooters with Death From Above, Lightning Hands, Serial, Fanfire etc can pick off two or three more often, and Salvo on Grenadiers can help soften up targets to be finished off by other units. As such while a Ranger is a mainstay throughout my campaigns I feel like the Katana for extra tactical flexibility and "multi-hitting" with Reaper and Bladestorm helps bring them to up to parity to the damage potential of some other options.
+
+u/Lighty539 avatar
+Lighty539
+•
+2mo ago
+Sweet. So I took your advice to not bring medkits, but now I run with 5 mindshields instead :D Although with my soldiers' phobias and the first Warlock tragedy, it seems ok until I get better utility. Do you prioritize beast mission sometimes over e.g. scientist reward or an annoying dark event? I have only gotten enough corpses for 1 mimic beacon by month 7, so around 4,5 months.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+depends on the dark event. Some dark events you cannot let trigger under any circumstance. Alien Cypher, shutting down the Black Market, Signal Jamming, probably a few others I don't remember right now but most of them are only mildly annoying and you can let resolve if the rewards from other missions are better.
+
+ThePhysicistIsIn
+•
+2mo ago
+Lost lures are as useful as mimic beacons, particularly on a lost mission. All of a sudden, the lost ignore you, and focus entirely on Advent.
+
+The lost aren’t a huge roadblock, but they use up your shots, and every once in a while you fail to kill them in one hit, or miss the shot on a 95%, and you lose that soldier’s turn. In contrast, once there’s 10-15 lost up in advent’s business, they will be ignoring your units.
+
+It also lets you use explosives on lost missions completely safely. The more the merrier.
+
+Lots of great players build and use lost beacons.
+
+Double_Pea_5812
+•
+2mo ago
+Another point for the lure is that ADVENT units with melee attack will go for it anytime they have a target in melee. Since the Lost will themselves go for the melee, this basically locks Muton, Vipers, Lancers, Andromedon, Berserkers, etc. for as many turn as there are Lost around them. One time, I literally immobilised the Berserker Queen that way by letting 20+ Lost on her.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The way the AI works sometimes they will just go for the lost but sometimes they will still go for you. Their AI doesn't actually care about the lost, in that they are just another target for them to attack. For example a Stun Lancer will just roll a die for who they attack. So if there are 10 lost and 6 of your guys you have a 6/16 chance of getting targeted, which is not great. But it will draw MECs micro missiles or force a Muton to through their grenade at Lost, that's kind of nice.
+
+And you can use explosives on lost missions like normal, and you should. The lost do 1-2 damage when they hit you, unless you absolutely fuck up they cannot possibly ever kill a unit, while ADVENT can. So you can just make that trade everyday. You often don't have to especially later into a run the difference between 2 lost and 2000 lost becomes smaller and smaller as time goes on but even early they just aren't a threat. And brining a utility item for them is such a bad investment. I'm sure good players use them but good players use medkits and vests sometimes. The better you are at this game the less your utility item slots matter because you can ring out usefulness out of them worse players can't. being very good at tactics doesn't mean you are good at the theory behind XCOM 2, obviously they are related, but they are not the same thing.
+
+ThePhysicistIsIn
+•
+2mo ago
+I don't think it's just the mods I play, but an unfortunate swarm of lost with 2-3 lost attacking a single unit will usually do more like 4-6 damage, which can often kill them or leave them very heavily injured.
+
+Yes, you can technically use explosives when the lost are there. But you have to be careful. You can't use your last soldier to throw a grenade, or a frost bomb, or whichever. If you've unfortunately triggered a new pod, you can't have the last soldier use a flashbang to reduce the pain. Because if you do, you will spawn 10 or so melee attackers, three quarters of which will bumrush you and kill a bunch of your soldiers.
+
+Early in the turn, when everything goes to plan and there are no surprises, sure. Then you can have your other units mop them up.
+
+It's still a lot more useful to be sure that they will go after Advent, and to be incentivized rather than discouraged to lob grenades.
+
+u/SidewinderSerpent avatar
+SidewinderSerpent
+•
+2mo ago
+Huh what, the Plasma Grenade has a radius of 4?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh they sure don't! Typos are fun.
+
+u/AppleCorn avatar
+AppleCorn
+•
+2mo ago
+The biggest flex on aliens:
+
+Unused mimic beacons at the end of a mission
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+Only thing I disagree with is mindshields. I think they are super valuable against Warlock in the early game. To the point that I’ll put one on every unit in the squad.
+
+I know you said he’s not super threatening, but it just completely shuts down the only ability of his that you truly care about, which is his mind control. Flashbangs don’t reverse his mind control the way they do vs sectoids since he’s immune. Frost bomb is the only other option. But sometimes he mind controls your grenadier.
+
+Are they strictly necessary? Maybe not. Do they make your life a hell of a lot easier on missions where the warlock can show up? Absolutely.
+
+Unless I’ve been missing something this whole time and you have a reliable way other than frost bomb to break warlock MC.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+So when the warlock shows up he always follows the same script. Daze -> mind control -> daze until your whole squad is dead, he extracts knowledge/kidnaps someone or he drops under 50% HP when he goes into his bubble. So when he first shows up and dazed one of your units, you have to ask if you can undaze them and deal 50% of the warlocks HP in two turns down one soldier. If you can, then do that and kill him. If you can't, just let him extract knowledge and fuck off. He won't kidnap until he levels up once, so early into a run he can just leave.
+
+becircus
+•
+2mo ago
+Proximity mine should probably be a 4 the reason being it scales up with volatile mix and more importantly shred. You can use it to directly replace plasmas. You can say "by the time you have it you won" but you can say that for a lot of items and I don't think that should detract from the rating. Pods just get deleted.
+
+Battle scanner is at least a 3 maybe a 4 depending on playstyle. With grenade launcher they go even further. Reapers and rangers don't have unlimited cloak and with battle scanner you can bring heavy firepower with three or even more heavies.
+
+Hellweave is for templars and for chrysallid missions; it has limited utility but when it works it's amazing so it should be a 2
+
+Mindshield is useful for shaken malus or characters with extremely low will or some kind of strange phobia turns a useless soldier into a bench warmer at least
+
+Flashbangs are the first special and useful through the whole game so I would give them a 4 too depending on playstyle. Because flashbangs clear mind control you can make sure mind control is totally cleared with two flashbangs and basically overpower sectoid pods... you can focus on the trash, sectoid will mind control one of yours and you can pop to clear and make him useless. 3 is probably a good rating for someone who barely uses them but why not (they work on gatekeeper). There is something pleasing about using a start game item all the way to the end of the game (except for super long missions like the last mission that need sustain instead of consumables)
+
+EMP Bomb completely disables sectopods or gatekeeper or codex. Bluescreen depends on aim and I would take guaranteed items over aim. But 3 is probably the right rating for it. The rounds are better for very long missions that you need sustain
+
+Mimics are a lot less powerful when enemies can one shot the mimic. It's a get out of jail free but you don't need it unless there's something going on. Late game you can drop the safety net
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Proximity mine ONLY triggers when units move. When you ambush pods this obviously isn't an issue and is a decent opener. However it's strictly worse in MANY scenarios. Unlike car explosions, claymores, etc, these explosions do NOT chain reaction. Grenades can activate claymores and cars and sometimes if you're lucky this will just entirely delete a pack of three enemies with two actions. Proximity mines are on movement only. This typically means it's a lot harder to actually hit 3 enemies with mines unless you're staying in or reapplying Concealment for long stretches of time. And if you can't hit 3, just take another grenade that can AND can reliably break cover on YOUR turn to get more accurate shots. Mines have some utility to guaranteeing damage on a reinforcement drop but by and large I feel like these are some of the least threatening things to happen on the battlefield unless you're already dealing with two pods or a Chosen. They just don't matter and overwatching typically softens them up significantly.
+
+===
+
+The initial Shadow on Reaper and the free second reapply are sufficient in most cases. If you're shooting ALL the time with a Reaper you shouldn't even be breaking Shadow over and over like that. Shadow into position, fight a pod or two, then reup when you need to scout forward into dangerous territory. Other abilities that interact with Shadow breaking RNG aren't really relevant if you play carefully so you can spend AP on other things for damage or utility.
+
+===
+
+Bluescreen is absolutely one of the strongest items in the game. You should often have at least two soldiers with it and can make a case for 3 or 4. If you're having aim issues you are probably underusing scopes, not destroying cover enough, and/or stacking crit where it's not needed. Sharpshooters and Rangers should have very little aim issues, Grenadier grenades aren't aim dependent plus they have Holo Targeting for their cannon and supporting other units that might not have scopes on their weapons.
+
+becircus
+•
+2mo ago
+If you flank, they will move. And if you have a mix of units or 3+ grenadier, you can afford a prox mine. It is all about capabilities. Even with two grenadier one can have prox mines.
+
+Reapers are midrange executioners. Scouting alone isnt worth the slot except very early (you can make the argument early is all that matters). Late game you want superior expanded mag and superior repeaters with banish and annihilate. Early on I would argue the point is claymore and remote start and shrapnel to beef up the claymore.
+
+Superior repeaters are the broken mod. If your squad is loaded out on superior repeaters its a good chance a couple units per pod just get deleted. You can even kill an alien ruler with it. After superior repeaters you would want superior stock, for archon and other high dodge enemies. Scopes are more for snipers or SPARK. I agree with blue rounds for a gunslinger sniper. I think there's more synergistic choices for other builds or classes.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+If you run two Grenadiers you can specialize them, this is true. But at the same time doing damage and breaking cover with plasma grenades can help you better kill them before they move (and again bear in mind some enemies like MECs are prone to staying still on activation and sometimes with their missile attack), saving time and not being as restrictive. Regular grenades are extremely versatile to the point you can use them at the start all the way through to the end. IF you can get utility out of Mines yes they are a straight upgrade in damage, but they do not allow you to break cover on your turn unless you pull off an Ambush, which is often going to require Concealment or Shadow. A Reaper can be a spotter for mine launches or squadsight but they carry their own claymore and can later carry two. Claymores also can chain react despite functioning similarly to mines including the ability to drop them from range and in stealth. I have a feeling Mines might have been better before WotC but the Reaper just supersedes it.
+
+===
+
+You don't ONLY scout with Reapers. The scouting is invaluable on ironman to not have to carry Battle Scanners or Scanning Protocol. Especially on Legend you frequently can have bad pod activation if you don't have good sight of the battlefield. While the function CAN work with Rangers, they have a higher detection radius and you have to specialize them that way compared to other also very competitive rank abilities. If you run two Rangers though then sure, it's probably a better setup than a Reaper for a bit. While Remote Start is not something you'll use every mission, when it does work it's amazing. It's a stealth ability that does MORE damage than a Claymore (allowing you to save it for other circumstances), and can conceivably clear or at least cripple a pack for a single action, often allowing you to move on the same turn too. Also, while Reapers have limited damage potential in the early game until they get more ranks (the Vektor Rifle range hurts on Legend), their spotter function often allows you to better setup AoE. In this case theoretically you could use Mines better, though I usually prefer heavy weapons like the rocket launcher, shredstorm, or blaster bomb first and foremost. There's also something to be said for being a spotter for Sharpshooters with Killzone. If you get expanded mags you can significantly soften up a bunch of enemies and it fills a niche before Darklance functions for execution shots.
+
+===
+
+If I use repeaters I tend to only use it on multi-hit soldiers, primarily Skirmishers with their double shot and Reapers once they get Banish. A case could be made for Sharpshooters to have it but all sorts of modifications are useful on rifles, and I tend to go for tried and true options like Scopes and either expanded mags or autoloaders as both have value and you can't have all three til a Breakthrough. If I got a bunch of Superior Repeaters I'd probably run them more on my squad but I don't think the 5 and 10% ones are really worth it. It's too unreliable before 15%. I'd have to math it out but I'm pretty sure the damage of stocks is probably higher overall even though Execution is strong. Additionally and more importantly, stocks guarantee you can chip down or kill some enemies on any given turn depending on your tactics, whereas repeaters are a dice roll. The game has enough RNG and I prefer tactics like heavy grenades or getting to 100% aim to mitigate randomness best I can, because a 2 or 5% miss often enough caused issues for me.
+
+becircus
+•
+2mo ago
+Breaking cover is easy; you have another unit shoot or throw a grenade. Pod deleted. Most people found the power of prox mines when the Bradford DLC came out.
+
+If you can get a feel for the maps and pay attention to the sounds, you often don't need to scout with concealed units at all. The maps and pod placements follow a predictable tempo and are designed to be cleared with optimal moves and equipment available for the force level. XCOM2 isn't a stealth game where you walk around and figure out where all the enemy patrols are and avoid them... in fact stealth often comes at the cost of firepower. The timer guarantees that.
+
+If you overwatch and wait for them to walk into you, that's when the repeaters shine. Because you are starting the fight with -1 or -2 units, plus whatever overwatch damage.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I find your last points strange and in direct contradiction. While you can overwatch trap a little, especially on untimed missions (and it IS better there, similar to how overwatch was more powerful in Enemy Unknown), the main danger and hard part of XCOM2 is balancing pushing forward to not lose objectives to timers. Keeping pace, IMO, favors being proactive on your turn. You definitely can set up turns such that something like Burning (or I guess Mines if they scramble for cover) kills an enemy on "their" turn. But you can also just stack damage and reduce RNG to kill entire pods without giving the enemy a turn and relying on their AI behaviors so... I don't know. I'm not saying you're wrong, but I am saying that the way pod activation works, you get a huge attacker's advantage in a lot of cases. You pick and choose how to act and can potentially knock all of their pieces off the board. The AI is predictable and you can manipulate its patterns in your favor, but it's usually only necessary if you don't have the firepower. More explosions, more heavy weapons, better aim, bluescreen vs robotics, etc all help with that. You can end up in glass cannon situations in XCOM but I feel like once you start getting some equipment and strong class skills you can be both strong AND resilient once you get Predator armor, it's just getting up to that point.
+
+becircus
+•
+2mo ago
+The beginning you move or more likely double move. Then you double move again and possibly again until first contact. This buys you the spare turns. Then you aim and kill the first pod. From then on you advance with blue moves and in a way everyone can shoot and overwatch if you see no pod. They walk into you, get shot at and you can shoot them on your turn. All made possible by the quick infiltration early on when you have conceal and there are no enemies.
+
+Killing on their turn is simple to take advantage of their AI. Drop a prox, then blow their cover. If they are exposed (flanked) they will move and be killed. You are killing them on their turn but you setup on yours. Same with overwatch repeaters. Alpha strike is much easier when they are all damaged or even one or two are dead. Overwatch is not the same as the overwarch trap taught in the tutorial. All possible because of your initial rush.
+
+If you can stasis or stun or disorient that is often stronger than pure killing because you can split the damage between two turns instead of one and still not get shot at.

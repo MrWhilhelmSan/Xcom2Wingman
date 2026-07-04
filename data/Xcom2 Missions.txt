@@ -1,0 +1,428 @@
+Search
+
+
+XCOM Wiki
+Explore
+XCOM 2
+XCOM: Enemy Unknown
+XCOM: Chimera Squad
+The Bureau
+Search
+
+
+Home
+
+Explore
+Saved
+Progress
+
+History
+Utilities
+
+More
+
+Advertisement
+Skip to content
+XCOM Wiki
+XCOM Wiki
+1,174
+pages
+Explore
+XCOM 2
+XCOM: Enemy Unknown
+XCOM: Chimera Squad
+The Bureau
+
+
+
+in: Missions (XCOM 2)
+Missions (XCOM 2)
+
+Save
+Edit
+A VIP escapes to safety aboard the Skyranger's rappel line in a Council Mission.
+A VIP escapes to safety aboard the Skyranger's rappel line in a Council Mission.
+
+Missions of XCOM 2 are key tactical combat operations and gameplay elements. During missions, the player directs a variable-sized squad of soldiers on a map in tense turn-based combat, engaging the alien and ADVENT ground forces and completing (or attempting to complete) the stipulated objectives.
+
+Missions can mainly be split up into two different types: Generic and Key.
+
+Generic missions don't affect the story, and make up the bulk of in-game missions. There are several different types of Generic missions, which have many sub-missions on their own:
+Guerrilla Ops
+Council Missions
+Supply Raids
+Alien Facility Assaults
+Retaliation Strikes
+Key missions are plot centric, and make up the rest of in-game missions. These missions can be found below.
+In addition to generic and key missions, there is one non-optional mission that occurs when a certain Dark Event is active or some time after the Codex Brain Coordinates or Forge Facility Mission. A similar variant also exists for XCOM 2: War of the Chosen.
+
+Loot left on the ground with an active pickup timer (that is >= 1) upon finishing a mission will be collected automatically and added to the post mission overview. Mission with a forced evac will not provide any alien corpses, or any regular loot for that matter.
+
+
+Contents
+1	Guerilla Ops
+1.1	Recover Item
+1.2	Hack Workstation
+1.3	Destroy Alien Relay
+1.4	Protect Device
+2	Council Missions
+2.1	Rescue VIP
+2.2	Extract VIP
+2.3	Neutralize Enemy VIP
+3	Supply Raids
+3.1	Supply Raid
+3.2	Landed UFO
+3.3	Recover ADVENT crates
+4	Alien Facility Assault
+5	ADVENT Retaliation Missions
+6	Avenger Defense
+7	Ambush
+8	Key Missions
+8.1	Operation Gatecrasher (Tutorial)
+8.2	Recover the ADVENT Power Converter (Tutorial)
+8.3	Sabotage ADVENT Monument (Operation Gatecrasher)
+8.3.1	Operation Gatecrasher (Sabotage ADVENT Monument, XCOM 2)
+8.4	ADVENT Blacksite Assault
+8.5	ADVENT Forge Facility Assault
+8.6	Codex Data Coordinates Investigation
+8.7	ADVENT Network Tower Assault
+8.8	Alien Fortress Assault (Operation Leviathan)
+9	DLC Missions
+9.1	Alien Nest Investigation (Operation Regal Beast)
+9.2	Lost Towers Investigation (Operation Last Gift)
+9.3	Lost and Abandoned
+10	Rating
+11	References
+Guerilla Ops
+Main article: Guerilla Ops
+
+Guerilla Ops are a series of missions geared to countering ADVENT's Dark Events. Like Abduction missions from the previous game, multiple Guerilla Ops missions will appear at a time (usually between two and three, depending on the quantity of Dark Events, although one Guerilla Op is still possible in rare cases), but only one Guerilla Op may be completed at a time.
+
+To succeed, the objective must be satisfied before the time limit. The mission will not fail if the objective has been completed and there are remaining enemies in the AO.
+
+If a Guerilla Ops mission is skipped (ignored) or failed, then all Pending Dark Events will come to pass in quick succession.
+
+There are 4 possible Guerilla Ops missions. All Guerilla Op missions begin in concealment, and almost all of them are timed.
+
+Recover Item
+A self-detonating object is placed in a certain location, and players have a total of 6 turns to hack and disable the self-detonating charges before they are activated. The mission will fail if the object is destroyed, even if the charges have been disarmed. [1]
+
+Hack Workstation
+Players have 8 turns to hack an ADVENT workstation before the network shuts down, rendering the data inaccessible [2]. If the workstation is destroyed without a successful hack or the network is locked out, the mission is failed.
+
+Destroy Alien Relay
+Players have 8 turns to destroy an alien relay before the data transfer is terminated and the mission is failed. The health of the device (6-8 HP) increases with the game difficulty.
+
+Protect Device
+Players must secure and protect a device before the aliens destroy it. The device has a static 30 HP. If the data tap is destroyed, the mission is failed.[3]
+
+An ADVENT container, the objective of the "Recover Item" mission.
+An ADVENT container, the objective of the "Recover Item" mission.
+The Alien Relay in the Destroy Enemy Device mission.
+The Alien Relay in the Destroy Enemy Device mission.
+The data tap which will need to be protected in the "Protect Device" mission.
+The data tap which will need to be protected in the "Protect Device" mission.
+Council Missions
+Main article: Council Missions
+
+Council Missions are missions that involve the extraction of a VIP in an ADVENT city. In order to succeed, players must extract the VIP and all XCOM soldiers within a timeframe of 12 turns.
+
+Soldiers who have not left from the EVAC zone or left outside of the EVAC zone will be captured by ADVENT at the end of the mission. The EVAC zone for these missions is fixed and cannot be changed unless access to the EVAC point is made impossible (via explosives or other means), where it will then reappear in another location.
+
+Council missions are guaranteed to offer Intel rewards.
+
+Resistance VIP extraction missions will additionally reward an Engineer, Scientist, or a previously lost XCOM soldier (from capture) as a reward.
+
+Enemy VIP extraction missions will grant a Supplies reward (if the VIP is alive or dead) and Intel (if the VIP is alive).
+
+This happens if you let a Council Mission Expire.
+This happens if you let a Council Mission Expire.
+
+If a Council Mission is skipped (ignored) or failed, you will lose contact with the corresponding resistance region, similar to the consequences of losing a Retaliation Mission.
+
+Council Missions can be one of the following:
+
+Rescue VIP
+Players have 12 turns to recover the VIP from a van or a jail cell and extract them along with all XCOM soldiers to the designated EVAC zone. Mission begins in concealment.
+
+Extract VIP
+Players begin with the VIP and must extract them along with XCOM soldiers to the designated EVAC zone within 12 turns. Mission does not begin in concealment.
+
+Neutralize Enemy VIP
+Players are given 12 turns to kill/subdue the VIP, and extract them to the EVAC zone. Mission begins in concealment. If the VIP is killed in any way (including ways caused by alien forces), the Intel reward will be lost.
+
+Supply Raids
+Main article: Supply Raid
+
+Supply Raids are missions that result from an ADVENT supply line or UFO being sabotaged by the Resistance, granting XCOM the opportunity to seize valuable resources from them.
+
+Unlike Guerilla Ops or Council Missions, Supply Raids are not timed, and always begin in concealment. The only requirement needed to complete the mission is to neutralize all hostile targets.
+
+Supply Raid missions are guaranteed to have Supplies, Alien Alloys, and Elerium Crystals as rewards, with a chance for Elerium Cores.
+
+If a Supply Raid is skipped (ignored), you will lose contact with the corresponding resistance region, similar to the consequences of losing a Retaliation Mission.
+
+There are two possible Supply Raid Missions that can take place in XCOM 2, with one extra mission only possible in War of the Chosen.
+
+Supply Raid
+Players must secure a disabled ADVENT convoy or supply train. Various supplies will be scattered across the map. Some supplies can also be environmental explosives. Destroying supplies via explosives or gunshots will decrease rewards. Possible in both XCOM 2 and War of the Chosen.
+
+Landed UFO
+Players must secure a disabled UFO. After concealment is broken, players have 6 turns to disable the UFO's distress beacon, or else ADVENT reinforcements will be called in. Destroying parts of the UFO will not decrease rewards from the mission. Possible in both XCOM 2 and War of the Chosen.
+
+Recover ADVENT crates
+Players must tag crates for pick-up before ADVENT pick them up for themselves (2 crates per each 2 turn after сoncealment is broken). The mission starts with 12 crates (sometimes fewer). The mission has ADVENT Troopers, The Lost (sometimes), and The Chosen (have the potential to ambush the squad). Eliminating all opponents will end the mission with the player claiming all remaining crates. Only possible in War of the Chosen.
+
+Alien Facility Assault
+Main article: Alien Facility Assault
+
+Alien Facility Assault missions are critical missions (but not story missions) dedicated to destroying the Alien Facilities containing critical data on the Avatar Project. Successful missions will reduce the progress meter of the Avatar Project to the equivalent amount that the facility has contributed to it. (For example, if a Facility contributed 5 pips to the Avatar Project, destroying it will reduce progress by 5 pips.)
+
+Alien Facilities will only appear in locations XCOM has not made contact with yet, unless you have made contact with all regions in the game, in which case facilities may appear in a region that XCOM has made contact with. There are only two ways to unlock an Alien Facility Assault.
+
+Make contact with the resistance cell that has the alien facility.
+Unlock an Alien Facility Lead via mission [4] or research [5], allowing for an immediate assault on the facility without making contact with the resistance cell.
+Alien Facility Assault missions have no timer and always begin in concealment. To complete the mission, players must arm an X4 charge in the designated point of the facility and EVAC all soldiers from the area of operations. It is not necessary to neutralize all hostiles.
+
+Upon completion of the mission, not only will the current Alien Facility be destroyed, the timer towards next Alien Facility will also be reset.
+
+ADVENT Retaliation Missions
+Main article: ADVENT Retaliation
+
+Every 4 to 5 weeks, an ADVENT Retaliation Mission will take place. Retaliation Missions are tactical strikes in an effort to destroy Resistance Havens in a region.
+
+Completion of these missions grants an income increase from that region by 3 for each rescued civilian (4 on easy difficulty). While failure will result in a temporary loss of contact with the region, increasing Intel costs and contact time to re-establish contact with it.
+
+ADVENT Retaliation missions have no timeframe and do not start in concealment. 13 civilians will be scattered across the map, and XCOM soldiers will need to rescue a minimum of 6 civilians while neutralizing all hostile targets to complete the mission.
+
+While there are still undiscovered pods on the mission, undiscovered units will collectively fire on a single civilian every turn, usually resulting in the death of that civilian. Civilians can be rescued by moving a soldier adjacent to them.
+
+These are the only generic missions where Faceless and Chryssalids are coded to spawn naturally, making them an extremely useful mission to gather Mimic Beacons and Hellweaves.
+
+There is a kind of retaliation mission in War of the Chosen. Enemies attack two groups of civilians, a small and a large main, which need to be protected consistently. Some civilians are armed with conventional rifles and help us in battle. The total number of civilians, including armed ones, reaches 19. Accordingly, the potential reward for salvation is greater.
+
+Avenger Defense
+Main article: Avenger Defense
+
+Avenger Defense is an optional mission that has two ways of being triggered:
+
+A UFO hunts the Avenger as a result of the Hunt XCOM Dark Event (there is a chance that the Avenger evades the UFO) or
+After the storyline missions Forge Facility Assault or Codex Brain Coordinates (whichever one is completed first), the UFO will intercept the Avenger 20-30 days later. (In this case, there is a chance to evade the UFO only if you have already completed an Avenger Defense mission earlier in the current campaign.)
+Since completion of the two storyline missions is required to progress the game, this mission can only be avoided if finishing the campaign before it triggers. This is possible (at least on normal difficulty) if you've built the Shadow Chamber very late into the game.
+
+The mission is critical, and does not grant rewards. Failure will lead to an instant loss of the game. Players are required to destroy a device that is grounding the Avenger with an electromagnetic pulse and prevent enemy units from reaching the Avenger's ramp.
+
+Reinforcements occur every turn, and do not stop until all of the XCOM soldiers are back on the ramp. The Avenger Defense mission does not begin in concealment or have a limited time window. The mission will fail if all soldiers are killed or incapacitated and the Disruptor has not been destroyed, or if an enemy remains on the Avenger's ramp for one turn.
+
+In addition to the normal squad, Central Officer Bradford will send reinforcements in the form of additional XCOM soldiers every other turn from the Avenger's Barracks. Wounded soldiers can be used for this mission both as squad members and reinforcements. The Defense Matrix facility will grant four recycled ADVENT Turrets for this mission to guard the Avenger's ramp and attack enemies.
+
+After the Disruptor has been destroyed, any troops who are outside of the Avenger's ramp when it lifts off will be abandoned and get captured. Unconscious or bleeding out soldiers who are on the ramp are considered safe, while dead soldiers on the ramp will have their weapons recovered.
+
+If the War of the Chosen DLC is enabled, there is a variant of the Avenger defense mission that may occur if one of the Chosen is able to acquire sufficient information. That Chosen will lead a mission which includes several smaller vehicle mounted artillery pieces and one large cannon with a separate power source. These cannons will attack and gradually damage the Avenger, as indicated by a display in the upper right corner. All of the cannons must be destroyed before they destroy the Avenger, which will result in failure. All the cannons, as well as all hostile units, include whichever Chosen is leading the attack must be destroyed to succeed. Upon success, that Chosen will have to begin tracking the Avenger all over again, while the game will end if the mission is failed.
+
+In both situations, enemy forces will be numerous and commensurate with a Very Difficult mission. You will be able to immediately deploy a double squad, and you will also have the option to deploy troopers who are still recovering from previous wounds.
+
+Ambush
+An Ambush is only possible in War of the Chosen. It occurs when soldiers deployed on a Covert Action are discovered by the Chosen. The mission will trigger immediately at the moment the Commander enters the Geoscape. One of the Chosen will mention the Ambush, and Bradford will explain the logistics. Regardless of the dialogue, the mission cannot be skipped. The pop-up will reveal the Chosen who ambushed them, and any SITREPs that may affect the mission.
+
+Once the begin mission option is clicked, the loading screen pops up. The only objective is to extract the covert XCOM operatives. A fixed Evac point will be generated on the opposite side of the map, and the soldiers are required to make their way there. Initially there are 3 ADVENT/alien enemy units dispersed amongst the Lost (one of the enemy units drops loot). Additionally, ADVENT reinforcements (1 ADVENT Officer and 2 ADVENT Troopers - they do not drop any loot)[explanation needed] arrive near the XCOM operatives' position after the first turn of the mission, prompting a verbal warning from Bradfordt. Moreover, a Lost swarm is spawned every few turns (its appearance is sped up by explosions and certain noise-producing items). However, the Chosen do not appear on this type of missions.
+
+“	Our soldiers have been ambushed during the undertaking of a Covert Action! Immediate extraction by the Skyranger is required!	”
+–Geoscape screen
+
+
+
+Key Missions
+Key Missions are plot-driven missions vital to the progression of the game. Completion rewards reduction on the Avatar Project (provided it is underway) and almost always rewards a key item for further progression.
+
+All XCOM 2 key missions including Avenger and Field Assignments
+SSSpoiler Icon WARNING: This article or section may contain spoilers!
+Operation Gatecrasher (Tutorial)
+Provided the tutorial is enabled, this is the first mission of the game. It is not possible to take actions other than what is highlighted, as the tutorial guides the player on the instructions of the game.
+
+In this mission, soldiers Ana Ramirez and Peter Osei are deployed to attack a facility. Ramirez is killed when a trooper flanks her, and Osei is killed after holding off an ADVENT Trooper. After killing the enemies in the front, Central Officer Bradford arrives with soldier Jane Kelly, and breaks into the facility to retrieve a stasis suit containing the Commander. ADVENT forces start charging in, and Kelly uses a grenade to open up another exit. Bradford is shot but survives and EVACs out with Kelly.
+
+Osei and Ramirez are both killed, but Kelly receives a promotion in the process, becoming a Ranger Squaddie.
+
+Recover the ADVENT Power Converter (Tutorial)
+If the tutorial is skipped, this mission is not present - otherwise this is the second tutorial of the game. The squad will consist of Jane Kelly and three randomly selected rookies. Players must head to the power converter and stop the overload within 8 turns or else the converter will explode, dealing 5 HP of damage to units in the radius, gravely injuring if not outright killing any soldiers. Disabling the converter can be done by hacking the device within this time limit. In addition, a total of 7 hostile targets must be eliminated: two ADVENT Troopers near the converter, an ADVENT Officer and a trooper on patrol, and a Sectoid with two ADVENT Troopers.
+
+Sabotage ADVENT Monument (Operation Gatecrasher)
+If the tutorial is not enabled, this mission serves as the first mission of the game, beginning immediately after the introductory cutscene. This mission starts in concealment.
+
+Operation Gatecrasher (Sabotage ADVENT Monument, XCOM 2)
+Main article: Operation Gatecrasher (Sabotage ADVENT Monument, XCOM 2)
+
+Four soldiers must eliminate a total of 6 hostile targets (a pod of 3 ADVENT Troopers and a pod of 2 Troopers and an Officer) and place an X-4 Charge on an Elder statue in order to complete the mission. On Legend difficulty, an additional pod containing a Sectoid and a Trooper will also be present. If all four soldiers are killed, the game ends.
+
+ADVENT Blacksite Assault
+Main article: ADVENT Blacksite Assault
+
+This mission becomes available after the Council Spokesman's introductory cutscene to the Avatar Project. In order to access it, players must make contact with the region the Blacksite exists beforehand (unlike Alien Facility Assaults, there is no way to unlock the Blacksite mission without making contact.)
+
+Players must make their way through the ADVENT Blacksite, recover the Blacksite Vial, and extract the soldier holding it to complete the mission. This mission begins in concealment.
+
+The rewards are fixed and do not change during games: 125 Supplies, reduction to the Avatar Project by 1, and the Blacksite Vial, a key item which can be researched in the Shadow Chamber.
+
+After the ADVENT Blacksite Assault, there is a chance that a UFO may start hunting the Avenger on the Geoscape.[6]
+
+ADVENT Forge Facility Assault
+Main article: ADVENT Forge Facility Assault
+
+This mission becomes available after completing the Blacksite Vial Shadow Project. In order to access it, players must make contact with the region the Forge Facility exists beforehand.
+
+Players must make their way to the ADVENT Forge Facility, enter the 'Clean Room', recover the ADVENT Stasis Suit, and carry it to the extraction point in order to complete the mission. This mission begins in concealment.
+
+The rewards for this mission are fixed: a number of Supplies, reduction to the Avatar Project by 3, and the ADVENT Stasis Suit, a key item.
+
+20 to 30 days after this mission is completed, a UFO will spawn and eventually catch the Avenger, triggering the Avenger Defense mission. This is one of two missions that will trigger the UFO.
+
+Codex Data Coordinates Investigation
+Main article: Investigate Codex Brain Coordinates
+
+This mission becomes available after completing the Codex Brain Shadow Project. In order to access it, players must make contact with the region the Codex Data Coordinates point to beforehand.
+
+Players must make their way to the alien Psi Gate and then neutralize all enemy targets. Chryssalids are abundant on this mission, and a Gatekeeper will exit the Psi Gate when it is discovered.
+
+The rewards for this mission are fixed: a number of Supplies, reduction to the Avatar Project by 3, and the Psi Gate, a key item.
+
+20 to 30 days after this mission is completed, a UFO will spawn and eventually catch the Avenger, triggering the Avenger Defense mission. This is one of two missions that will trigger the UFO.
+
+ADVENT Network Tower Assault
+Main article: ADVENT Network Tower Assault
+
+This is the penultimate mission of the game, unlocked after completing the Avatar Autopsy Shadow Project.
+
+Before the mission begins, players can spend Intel in order to gain up to 4 chosen bonuses for their squad members. Unless the player purchases the increased squad size bonus with Intel, squad size is limited to 3.
+
+Players will need to make their way to and hack the ADVENT Network Tower workstation in order to complete the mission. This mission begins in concealment.
+
+There are no rewards for this mission, as it immediately leads to the Alien Fortress Assault mission.
+
+Alien Fortress Assault (Operation Leviathan)
+Main article: Alien Fortress Assault
+
+The final mission of the game. Unlocked immediately after completion of the ADVENT Network Tower Assault mission. Players cannot take on any other missions or Geoscape activities after the mission is unlocked.
+
+Along with the squad chosen, the Commander's Avatar is present and controllable on this mission.
+
+Players must make their way to the Psi Gate hub at the end of a long, thin map, and then defeat the 3 Avatars present while keeping the Commander's Avatar alive in order to complete the mission. This mission does not begin in concealment.
+
+Success will mean victory for XCOM and will end the game. Failure will mean the end of XCOM; XCOM cannot continue on without the Commander.
+
+In War of the Chosen, if the Chosen have not been defeated, they will show up at the Alien Fortress Assault. The game will not progress unless they are defeated.
+
+DLC Missions
+These missions are missions exclusive to purchasable DLC for XCOM 2. They are completely optional, remain on the Geoscape indefinitely until they are taken, and do not hinder progress if not taken.
+
+Alien Nest Investigation (Operation Regal Beast)
+This mission is exclusive to the Alien Hunters DLC. Success of this mission will commence the spawning of Alien Rulers on missions and allow upgrading to the Bolt Caster, Shadowkeeper and Hunter's Axe, along with a number of Supplies.
+
+Central Officer Bradford appears on the squad for this mission as an Colonel rank Ranger, with all the abilities in the Blademaster tree. He cannot be switched out for another squad member.
+
+This mission requires the player to reach and kill/repel the Viper King in a facility previously used by Dr. Vahlen and then neutralize all hostile targets. The only enemies on this mission beyond the Viper King are Vipers and Neonate Vipers. Central Officer Bradford must also survive the mission or the mission will fail and must be restarted.
+
+Lost Towers Investigation (Operation Last Gift)
+This mission is exclusive to the Shen's Last Gift DLC. Success of this mission will reward a single SPARK soldier and allow for the production of SPARKs in the Proving Ground, along with a number of Supplies.
+
+Chief Engineer Lily Shen appears on the squad as a Colonel rank Specialist with abilities from both skill trees. She cannot be switched out for another soldier.
+
+Players are required to make their way through an abandoned ADVENT facility, activate the SPARK prototype inside, and destroy Julian to complete the mission. Derelict MECs and Decayed Turrets appear on this mission, and will endlessly spawn until the player reaches the next area of the mission. Lily Shen and the SPARK must survive the mission or the mission will fail and must be restarted.
+
+Lost and Abandoned
+This mission is exclusive to the War of the Chosen DLC.
+
+Rating
+At the end of each mission, the player will be awarded a grade rating based on their performance.
+
+Flawless: No soldiers are wounded or killed.
+Excellent: Soldiers are wounded, none are killed.
+Good: One or two soldiers are killed or captured.
+Fair: Half the squad is killed and/or captured.
+Poor: Mission failure (all units KIA/MIA and/or mission objective failed). Can also occur on mission success if you lose most of the squad.
+The number of Flawless missions are displayed on the final screen at the end of the campaign.
+
+References
+ If not deactivated within the 6-turn time limit, the charges will explode, dealing 5-6 HP damage in a 3 tile radius.
+ The hack is guaranteed to succeed as long as it is done within the time limit of the mission.
+ This is the only Guerilla Ops mission that has no explicit timer, but it has an implicit one of about 9-12 turns (approximately the time when the damage dealt to the device will destroy it).
+ Possible as a rare reward of a successful hack. The hack typically occurs at percentages less than 20-40% and is only obtainable through hacking ADVENT Security Towers or skullmining ADVENT soldiers.
+ Research of ADVENT Datapads that are collected through Loot Drops has a medium chance of revealing an Alien Facility lead.
+ This only occurs when the Avenger Defense mission or the Hunt XCOM Dark Event were not completed before this point.
+SSPoisoned Icon NOTE: This article or section is in need of cleanup or verification. You can help the XCOM Wiki by improving it.
+Reason: organize this list, add images, create individual story mission pages.
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
+
+Advertisement
+Advertisement
+Page Tools
+What links here
+Related changes
+Upload file
+Special pages
+Printable version
+Permanent link
+Page information
+ Recent Wiki Activity
+Greater Mind Merge
+N1ghtwalk3r-80
+a day ago
+Laser Pistol (The Bureau: XCOM Declassified)
+Samz707
+5 days ago
+Laser SMG
+Samz707
+5 days ago
+Backpacks (The Bureau: XCOM Declassified)
+Samz707
+5 days ago
+Psi Operative (XCOM 2)/Domination
+Outryder
+6 days ago
+
+Advertisement
+Advertisement
+Fandom logo
+Explore properties
+Fandom
+Fanatical
+GameSpot
+Metacritic
+TV Guide
+Honest Entertainment
+Follow Us
+Overview
+What is Fandom?
+Essentials
+About
+Careers
+Press
+Contact
+Terms of Use
+Privacy Policy
+Digital Services Act
+Global Sitemap
+Local Sitemap
+Cookies Settings
+Community
+Community Central
+Support
+Help
+Advertise
+Media Kit
+Contact
+Fandom Apps
+Take your favorite fandoms with you and never miss a beat.
+Fandom App logo
+Store icon
+Store icon
+XCOM Wiki is a Fandom Games Community.
+View Mobile Site
+Watch
+My Tools
+Customize
+Shortcuts
+Search this wiki
+Search all wikis

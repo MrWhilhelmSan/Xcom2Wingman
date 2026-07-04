@@ -1,0 +1,1020 @@
+This class sucks. It’s unfortunate, but it’s the truth. The “sniper-COM” meme of Enemy Unknown caused this class to get nerfed into the dirt in this game. Still, they aren’t unusable, they are just the worst one. You can use one for an entire run if you want to, I did on my deathless legend ironman grim horizon mission and it was fine. Would I have preferred them to be a ranger most of the time? Yes. Did I manage anyway? Also yes. They are quite powerful in the late game, it’s just a struggle to get them there and it isn’t really worth it because of how this game is structured, but I’ll talk more about that in a different guide. OK, that’s enough of me bitching, let’s begin.
+
+Here is how the rankings for abilities (and other stuff) is going to work. 
+
+★★★★★ - The Best of the best. Abilities and things that you build around, or weapon mods that are best in slot. Things of that nature. The difference between having stuff in this tier and not is so massive I’d consider it nerfing yourself not to grab them. You really, really, really want stuff with 5 stars.
+★★★★☆ - Really strong abilities. Abilities I am always happy to have and would trade a lot of other abilities for, but they aren’t quite as “must have” as the 5 star ones.
+★★★☆☆ - Abilities that are pretty good. Stuff that I would buy with AP quite happily but might pass up if the other ability is better.
+★★☆☆☆ - These are underwhelming. These abilities just don’t really do enough to justify having them. They might have very niche use or be passives that just kind of do very little. Stuff I just don’t care about. They aren’t horrible or useless, but you probably wouldn’t miss not having them.
+★☆☆☆☆ - Trash abilities that are just worth nothing.
+☆☆☆☆☆ - Given to abilities that are actively harmful. There is only one of these in the entire game.
+
+Stats:
+
+To begin, they have the following aim and HP at the following ranks:
+
+Rank	Aim (★★★★★)	HP (★★☆☆☆)
+Squaddie	75	5
+Corporal	79	5
+Sergeant	82	6
+Lieutenant	85	6
+Captain	85	7
+Major	89	7
+Colonel	91	8
+This is the best aim growth in the game, but that’s deceiving. This class actually has the worst aim of any in the game because the sniper rifle sucks so very bad, but we’ll get there in the weapons section. In terms of HP they have less than the other classes, but honestly that just doesn’t matter that much. It won’t often make the difference between death and not if you get hit, which you’re hoping not to.
+
+Weapons:
+Sharpshooters wield sniper rifles and pistols.
+
+Sniper Rifles (★☆☆☆☆) - This is the worst weapon in the game by far. It has a range table that only exists to hurt you and you can’t move and shoot with it! The only thing it has going for it is its 4-6 damage. If I could give this class an assault rifle they’d be 10 billion trillion times better. This weapon is so bad that sharpshooters, the class about being super accurate, can't ever get 100% to hit as a squaddie with their main gun (without a scope). It literally cannot be done. I hate these stupid things. I cannot stress enough how bad this is. It makes this class infinitely less reliable and less flexible than every other class in this game! So much so their mega ultra loot at the end of the run is…not having to put up with this weapons restriction! This weapon type dooms this class to being the worst by itself.
+
+Pistol (★★☆☆☆) - The pistol has the ever powerful short range table, but it does such low damage (starting at 2-3, the rest of the details are in the weapon guide) that it isn’t that great. Having infinite ammo is nice, I guess. It’s the better of this class's weapons (isn’t that insane), but still, meh.
+
+To go over their special weapons very briefly. They get the TLP Sniper Rifle (★★★☆☆) , the Shadowkeeper (★★★☆☆), the darklance (★★★★★), and the Darkclaw (★★★★★). The full breakdowns are in the weapon guide, but to briefly explain things. The TLP Sniper Rifle has a free scope and auto-loader. The shadowkeeper gives you a pistol shot that always hits and if it kills grants concealment. The darklance gives you extra damage over a beam sniper rifle, 4 weapon attachments, and most importantly lets you move and shoot with it. The darkclaw is a +1 damage beam pistol that pierces 5 armor. 
+
+If I am using sharpshooters (which I don’t always), I always just use the TLP sniper rifle until I get the darklance. If I don’t have the story mission turned on I usually don’t bother with the shadowkeeper, it’s just not that good, but it’s fine. The darklance and darkclaw are broken in the extreme, but I’ll explain more about that in the abilities section, or in the weapon guide.
+
+Abilities:
+As always, here is a table of every ability the sharpshooter has and my star rating of each of them. If that’s all you want, then here you go. If you just looked at this you’d think this class was a lot better than it was, but alas, their rifle drags them down. 
+
+Rank	Sniper	Gunslinger
+Squaddie	Squadsight (★★★☆☆)	
+Corporal	Long Watch (★★★☆☆)	Return Fire (★☆☆☆☆)
+Sergeant	Deadeye (★★☆☆☆)	Lightning Hands (★★★★☆)
+Lieutenant	Death From Above (★★★★☆)	Quickdraw (★★★★☆)
+Captain	Killzone (★★★☆☆)	Face-Off (★★★★☆)
+Major	Steady Hands (★★☆☆☆)	Aim (★☆☆☆☆)
+Colonel	Serial (★★★★★)	Fan Fire (★★★★★)
+GTS	Deadshot (★★☆☆☆)	
+Squadsight (★★★☆☆) - Squadsight is a passive ability that grants the ability for the sharpshooter to shoot any enemy (or object) with their sniper rifle that their squad can see that they have line of sight to. So if a Reaper is super far away scouting a pod and there is nothing blocking the way, your sharpshooter can hit those targets. Each tile of distance beyond normal vision applies a -2 aim penalty.
+
+First off, why the fuck did they hurt this class’s aim more? This did not need the aim debuff on it. I swear they want them to be bad. But anyway this ability is good. More vision is always good. That aim falls off blows but because this can be used on objects you can snipe at the objectives in the UFO/Chosen defense missions from halfway across the map, that’s fun. It’s a little limited in how good this is, but I’d rather have it than not.
+
+Long Watch (★★★☆☆) - Long Watch is a passive ability that allows sharpshooters to overwatch with their sniper rifle to hit targets they have squadsight vision on.
+
+This isn’t that good without a Reaper, but if you have one there’s a pretty neat strat you can do. Step 1) scout a pod. Step 2) have your sharpshooter see that pod with squadsight, not their actual LoS. Step 3) click Long Watch. You will shoot at the pod on the pod's turn when they patrol and this will, assuming you hit, always activate the pod on the alien’s turn. This is a guaranteed good pod activation. This is the thing to do with this class early in a campaign. And it’s good, but has a few caveats. 
+
+First, timed missions are a thing. You don’t have time to sit there and wait for a pod to activate like that if they don’t play along or you just keep missing (if you don’t do damage to a pod with Long Watch, they won’t activate). Second, it’s very specific. It only works in this one way, it isn’t as flexible as clicking slash or launching a grenade. It is very rigid in its use. It can even hurt you if you don’t want that pod activated. You can just not overwatch with your sniper rifle to avoid that, but that’s a bit of cognitive load you’re adding to yourself.
+
+Return Fire (★☆☆☆☆) - Return fire is a passive ability that causes you to fire a pistol shot at any enemy who attacks you after the attack resolves. Meaning if you die from that attack, this does nothing.
+
+By God does this suck. XCOM 2 is a game about alpha striking, why am I using a perk that requires me to get shot at to do anything? Not even a guaranteed thing, you might get one shot crit and just die and this perk literally had no text in it. And you can still just miss and still have done nothing! Don’t plan for failure folks, don’t take this. If you do solo runs, runs with a single unit, this perk is OK but that’s not the context in which this guide is meant. 
+
+Deadeye (★★☆☆☆) - Deadeye is an active ability with 2 turn cooldown and uses your sniper rifle, so it ends the turn and can’t be used the turn you move. You fire a shot that does 50% extra damage at the cost of 25% less aim.
+
+That’s not a 25% subtraction to your aim, it’s multiplicative. So if you have a 75% hit chance Deadeye will have a 56% to hit. You have to have 133 to hit to have this attack still have a 100% hit rate.
+
+Another early perk from sharpshooters that is bad. Extra damage is good and there are times when you can get use out of this, especially later into a run, but holy fuck does that aim penalty suck. This class has the worst aim of any class, why are we continuing to pile on aim penalties?! I’d much rather have the opposite, a nerf to damage for a higher hit rate. Reliability is king and this is not reliable. You can maybe almost justify buying this with AP but I never do. It just fails you when you need it the most.
+
+Lightning Hands (★★★★☆) - Lightning Hands is an active ability with a 3 turn cooldown that is a free action. It fires your pistol at a target, that’s it, that’s all it does.
+
+The first actually good sharpshooter ability! Hooray. So fun fact, if you don’t have special ammo (and this is a sergeant ability, so you might not yet) and fire a lightning hands + pistol shot at the same target, that is the exact same damage-per-round as a shotgun. Which is just so funny. “Hey, what should we give sharpshooters? I know, a shotgun once every 3 turns!” 
+
+OK, I’m being a little overly harsh, this has some extra utility in that you can fire it and your rifle in the same turn for more damage, you can split your fire so a grenade from a grenadier -> lightning hands + pistol shot can just kill two troopers quite nicely. It’s solid. Later into the game with special ammo this is quite strong. Applies burning/poison to a ruler for free with special ammo, you get that juice +5 from bluescreen rounds, and with the Darkclaw this is very strong because you have a free armor piercing attack that may do additional damage! But like most of this class, that’s all stuff that happens later into a run. Not when you just get this ability. Another big use is to activate pods you see while in stealth but don’t want to/can’t claymore. It’s a good ability. 
+
+Death From Above (★★★★☆) - Death From Above is a passive ability that grants you an additional action point if you score a kill with your primary weapon (so a sniper rifle) from high ground.
+
+I gave this 4 stars, but in reality it's 3 stars until it’s 5 stars. When you first get this, it’s only OK. You can kill with your rifle then fire your pistol or reposition or reload. And that’s not bad. It’s not that great, but it’s not bad. And then you get the darklance and this becomes utterly overpowered and breaks this entire game over its knee.
+
+So the darklance only takes one action point to fire, and DfA refunds one action point. So if you get a kill with the darklance, you get your action back, and can fire again. And then if you get another kill, you get your action back, and can fire again. And you keep going until you stop killing or have to reload (on the gun with a superior auto-loader). That’s absolutely nutty. It is an infinity serial as long as you have high ground. This is obviously insane and is certainly worth the full 5 stars. But it does have its problems. Mainly that other classes can eat this class’ lunch by rolling DfA from the training center. But if we ignore that this is absolutely crazy, and even with that it’s still good!
+
+Quickdraw (★★★★☆) - Quickdraw is a passive ability that makes your pistol attacks not turn ending. So if you don’t move you can fire your pistol twice.
+
+Now if you don’t move on your turn you get to use a shotgun! Once you get the darkclaw you can lightning hands-shoot-shoot and do a crazy amount of damage. And even if you just have AP rounds your pistol can do some nice chip damage to a lot of enemies. This is the first ability on the sharpshooter tree that makes the class worth using in my view. It is quite a good chunk of utility. 
+
+Killzone (★★★☆☆) - Killzone is an active ability that ends your turn with a 3 turn cooldown. It creates a cone where the sharpshooter will shoot with their sniper rifle at every enemy in it that moves or attacks.
+
+You can ignore that “or attacks” business. This is for overwatching trapping. The game softly pushes you to click overwatch with a bunch of your guys, then break concealment, then have all those shots go off. And while that’s not a good idea because it eats your entire turn and might not work it is very good when one soldier is doing it by themselves. However, it’s not without its problems. Mainly that’s a once per mission thing. It is really hard to set this up multiple times, and in the end, you are making overwatch shots. You might just whiff a bunch of aim reduced shots on the class with the worst aim and then this does nothing and your sharpshooter spent their turn and an entire ammo clip doing nothing.
+
+The real use of this ability is on Leviathan, where you can scout a pod, click killzone, and overwatch trap over and over again. But that's slow and also eats through the darklance’s superior auto-loader. This is a fine perk, not the best and you can live without it, but it's not bad.
+
+Face-Off (★★★★☆) - Face-Off is an active ability that ends your turn (even with quickdraw) that has a 3 turn cooldown. It fires a pistol shot at every target in your line of sight.
+
+This is some nice chip damage, but it has its problems. It ends your turn so it has to end a quickdraw turn, which if you are fighting codexes in particular is kind of annoying, and at the end of the day it’s just chip damage. With the darkclaw and bluescreen rounds this is quite silly and it can clean up a pod that has been exploded a few times or set up your ranger to go around Reapering things, but those are both late game things. It’s better than I’m selling it here. You will probably use this quite a bit, but it’s only pretty good.
+
+Steady Hands (★★☆☆☆) - Steady Hands is a passive ability that grants +10 and +10 crit chance if you didn’t move last turn.
+
+This is OK, I guess. It’s free, like literally free it costs you nothing to activate, but this game has a lot of missions where you can’t just sit there and stand still. Sometimes you can, and when it does hey 10 free aim and crit that’s good, but, eh. I think if I didn’t have this I wouldn’t miss it.
+
+Aim (★☆☆☆☆) - Aim is a passive ability that gives you 20 aim on your first shot next turn if you Hunker Down.
+
+This is terrible. 20 aim for doing a thing I’m never going to do, hooray! It’s only one shot as well, it’s not like you can set up serial or DfA chains with it, it only helps once! If you roll Deep Cover from the training center then maybe you can pick this instead of Steady Hands, but then you have to spend AP on Deep Cover and the thought of that sickens me. Just pretend this isn’t here. Isn’t it funny that a perk called Aim sucks? I always found that amusing, like, in XCOM 2, Aiming is bad. But whatever, I'm getting off track.
+
+Serial (★★★★★) - Serial is an active ability with a 4 turn cooldown that costs no actions to activate. While active, if you get a kill with your sniper rifle, you get your action points back. So you can just keep firing until you stop killing or have to reload.
+
+The game’s tooltip says it lowers crit chance for each shot fired. It does not, that is nowhere in this game's code. The tooltip, much like the cake, is a lie. I think they just forgot to code that in honestly. 
+
+So Serial is very, very good. You activate 16 trillion enemies at once and are boned? Well, if you can get enough shots off the enemy number will shrink to 0. It is the best chain kill skill in the game (if we don’t count DfA). It’s only problems are that a) I’d rather have it on a class that isn’t chained to the worst weapon type (no, I will not stop bringing that up) and b) once you get the darklance you can just sort of…do this forever if you have high ground and DfA. 
+
+There is some nuance to choosing to use Serial over high ground + darklance + DfA. Mainly this will refund all your action points back to you but DfA only gives one. So if you need to fire your rifle a bunch and still have two actions left at the end, say you want to pistol shot + fan fire someone at the end of the chain, then clicking Serial is better. Also sometimes you just…won’t have high ground. 
+
+Fan Fire (★★★★★) - Fan Fire is an active ability that ends your turn if you don’t have quickdraw but if you do only cost one action point and has a 3 turn cooldown. You fire your pistol at a target 3 times with no aim penalty.
+
+This is a “delete sectopod” button. If you have the darkclaw and bluescreen rounds this does a minimum of 27 damage to a robot. And that’s low rolling really badly because the darkclaw’s spread is 4-7. This is also great against avatars and with a bit of luck can burst them down almost by themselves in one attack. The damage output of this skill is just so high. Especially because you can go lightning hands, fan fire, pistol shot/face-off in one turn. And that’s without the darkclaw. If you don’t have the darkclaw make sure you have either AP rounds or have already shredded your target first before using this, otherwise it’ll be very sad to only do 3 damage to an andromodon.
+
+Deadshot (★★☆☆☆) - Deadshot is the GTS perk that gives all sharpshooter attacks an additional 10% crit chance.
+
+I mean, it’s more crit chance and more is always better, but it costs sooo much for so little. 200 Supplies on a 10% chance to crit is just insulting. It does increase your expected damage on things like fan fire by a decent bit, but honestly I wouldn’t rely on crits with any class not named ranger (and maybe reapers, but we’ll get there in a bit). If you are drowning in supplies, then sure, but eh.
+
+Armor and Utility Items:
+Onto Armors and utility items. Just like the other guides I won’t go over every utility item but I’ll highlight the important ones. Similarly I’m going to cover the armors in broad strokes. More detail will be in the armor and utility item guides respectively. As always, the ratings are a bit looser here because of how these things work. Anyway, on with the show:
+
+Anyway, here’s a table of how good each armor type is:
+
+Armor
+Light (★★★★☆)
+Medium - (★★★☆☆)
+Heavy - (★★★★☆)
+Viper Suit/Armor (★★★★☆)
+RAGE Suit/Armor (★★★★★)
+Icarus Armor (★★★★★)
+The 4 stars in heavy/rage armor might look a little strange, but on a class whose main gun sucks, being able to shoot a rocket is very good. And obviously light armor is good for triggering Death from Above. This class makes a strong case for holding the Icarus Armor because they natively get to DfA, but if another soldier rolls it from the Training Center then maybe it’ll be better on them.
+
+For utility items, the important ones are grenades, mimic beacons, and experimental ammo.
+
+Frag/Plasma Grenade (★★★☆☆) - You start with grenades and because this class's gun sucks, throwing grenades with them is even more appealing than on classes with a good weapon! They eventually fall off, but it takes a while.
+
+Mimic Beacon (★★★★☆) - Like I’ve said before, someone has to carry one, and sharpshooters make decent candidates. If you give them the Icarus armor lategame they have a utility slot that isn’t special ammo open so might as well. And even before that if you have DfA before you get the darklance it is a thing to do with their extra action. I wouldn’t trade special ammo for this most of the time (in context of equipping an actual squad for a mission, in a vacuum I’d make that trade 10/10 times) but it’s not bad.
+
+Experimental Ammo (★★★★★) - This class can get a lot of pistol shots off in a turn, and so the extra damage from special ammo really adds up. This is what you want to equip on this class most of the time.
+
+Here is a table of how I rank each of them.
+
+Ammo Type 
+Viper Rounds (★★★☆☆)
+Dragon Rounds (★★★☆☆)
+AP Rounds (★★★★☆)
+Tracer Rounds (★★★☆☆)
+Talon Rounds (★☆☆☆☆)
+Bluescreen Rounds (★★★★★)
+Viper/Dragon Rounds (★★★☆☆) - These are basically the same item so I’m ranking them together. It’s +1 damage and the potential to apply a status on a lot of enemies, but it won’t work on robots and that’s sad. It’s very good to equip these when going up against rulers for a lightning hands attack I will say. They are outcompeted by better ones, but they are pretty good.
+
+AP Rounds (★★★★☆) - These are really good before you get the darkclaw as it lets your pistol pierce armor as well. And being able to open pods with a lightning hands that pierces armor is quite good. But once you get the darkclaw this is redundant, so it doesn’t stay on this class forever.
+
+Tracer Rounds (★★★☆☆) - I’m going to keep saying it because it will keep being true, this class’s aim sucks, so tracer rounds to patch it up helps a lot. The only downside is you don’t really need these with the pistol, and you aren’t building on strength, you are patching a weakness, which isn’t really a strong position to be in when it comes to this game. Still, if you roll these, sure. Why not?
+
+Talon Rounds (★☆☆☆☆) - What are we doing here? Why are we building for crit on a class that can’t hit anything without a scope? No…just…just no.
+
+Bluescreen Rounds (★★★★★) - Bluescreen rounds + darkclaw is sooo good. You can just melt the most dangerous enemies in the game with ease. +5 damage on sectopods and gatekeepers is just hard to beat. Even before those show up these might still be better than AP rounds and similar. +5 damage on repeat pistol shots is just hard to beat.
+
+Weapon Mods:
+Let’s go through each weapon mod and why or why not you might want it on this class. 
+
+Here is a table of my ratings of each of them, with the understanding that higher tier versions are always better than the lower tier ones so I didn’t differentiate between them here. I am also considering that some classes want certain weapon mods over others, and that does factor into things, you do have to choose who gets what from a limited pool after all.
+
+Weapon Mod
+Scope (★★★★★)
+Laser Sight (★☆☆☆☆)
+Hair Trigger (★★★☆☆)
+Repeater (★★★★☆)
+Stock (★★★★☆)
+Expanded Mag (★★★★☆)
+Auto-Loader (★★★☆☆)
+**Scope (**★★★★★) - This class needs scopes. They need them like fish need water. This class’s aim sucks and if you want to hit shit you need to buff it. Lucky for you the TLP Sniper Rifle comes with one but if you are building your own Sniper put a motherfucking scope on it!
+
+Laser Sight (★☆☆☆☆) - Can’t have a scope and laser sight on the same weapon, next.
+
+Hair Trigger (★★★☆☆) - Getting actions refunded back to you on a class this action economy restricted is great, but because this class is so restricted in action economy you probably need something more reliable, or something with an even bigger upside. Still, this being on the darklance is quite good. I just don’t know if I’d give it to this class raw.
+
+Repeater (★★★★☆**)** - Reapers are very good on every class, and they make a nice home here. Generally you want to be guaranteeing a kill when you shoot with your rifle for DfA or Serial but in the cases where you don’t have those or are fighting something like the chosen, just lucking into “whoops you’re dead” is very nice. I might go with something more reliable on this class, but hey if you have one slap it on, why not?
+
+Stock (★★★★☆) - You know what’s good on a class who can’t hit their shots? Stocks! If you are early into a run this gives your sharpshooter a real use and a way to get XP. Just clean up kills even if they miss. As you start stacking aim more and more this falls off (why did they put this on the darklance?), but hey just “even if I miss I do damage” is quite nice.
+
+Expanded Mag (★★★★☆) - This is very good for Serial chains and killzone. It lets you extend those much further with both of those. Before you get those this doesn’t do much, but with those perks it's quite nice. I wish the darklance had this instead of an auto-loader really.
+
+Auto-Loader (★★★☆☆) - Auto-loaders are a kind of bad expanded mags for this class. It lets you reload after getting psi-bombed, but you can’t move and shoot anyway so who cares? On shorter missions this can be more shots in a row with Serial, but if you are taking that many shots with Serial in a row…how? How are there that many enemies active at once? Why are you in Leviathan without the darklance? It’s fine, but I’d prefer an expanded mag. 
+
+PCSs:
+And lastly, let us go over PCSs and how good they are on sharpshooters. And as before, the higher quality ones are always preferred.
+
+PCS
+Aim (★★★★★)
+HP (★☆☆☆☆)
+Dodge (★☆☆☆☆)
+Will (★☆☆☆☆)
+Mobility (★★★★☆)
+Aim (★★★★★) - This class needs more aim, so they absolutely need these. If you are going to use sharpshooters, give them an aim PCS stat, it’s that simple.
+
+HP (★☆☆☆☆) - I’m going to say this for every class. But this does basically nothing. This is a game about alpha striking. Hopefully you simply don’t get hit. Now if you do, will this save you? Only maybe! Get crit and you still just drop dead. The opportunity cost is also so high. You can’t have a better PCS if you have this one. Honestly just sell these.
+
+Dodge (★☆☆☆☆) - It’s an HP PCS, but worse! Literally don’t even think about using this. Dodge is just too unreliable to even consider a real stat on your soldiers. A classic case of “every bad for enemies, useless for you.” If you see a dodge PCS just see it as picking up credits for when you sell them at the black market. 
+
+Will (★☆☆☆☆) - Will can let you go on more missions in a row, but, honestly, for this class, I’m not sure that’s a benefit. And it comes at the cost of not being an aim PCS, so…nah.
+
+Mobility (★★★★☆) - This class is very slow because they can’t move and shoot, so extra mobility is good. But it’s not more aim, so it’s not as good. 
+
+Summary:
+I know I was very negative in this guide, but I want you to know, I’m not mad at this class, I’m just disappointed. I want them to be good, and they could be good if Firaxis didn’t shoot them in the foot. Still, they aren’t unusable, you can drag them through an L/I campaign if you really want to, I’ve done it many times. Or just buy a colonel one from the black market and skip the struggle. Once you get the darklance/darkclaw this class is quite powerful, it’s just a struggle to get there. Truly, what a shame.
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+183
+
+Downvote
+
+109
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+rynchenzo
+•
+2mo ago
+Really enjoying these guides, thank you for taking the time to put all of the information together.
+
+u/Overall-Bison4889 avatar
+Overall-Bison4889
+•
+2mo ago
+Snipers are the best colonel level class and one of the top classes even in the mid game after reaper and ranger. If you think that they are weak then you aren't abusing squadsight and killzone enough. They are only somewhat weak during the squaddie-sergrant ranks. 
+
+Hydralisk18
+•
+2mo ago
+I agree. If you pull up stats of a campaign and compare class hit %, Sharpshooters are gonna have the highest, and yet aim is talked about like its a draw back? I dont get it. I feel like OP is just not playing the class correctly. If theres an enemy i absolutely need killed, usually the sharpshooter or ranger take responsibility, and the sharpshooter can do it from 1/2 a mile away.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Sharpshooters are indeed a rough class at ground level. I recommend not using their sniper rifle then unless the target is exposed (e.g. blown up cover or a MEC/turret), or instead using their pistol can be occasionally more useful if at shorter range: e.g. bluescreen vs robotics.
+
+===
+
+Here there's this weird blindspot about the strategic value of height advantage aim. Even excluding Death from Above, snipers benefit the most from height. While it (as well as normally not being able to move and shoot) does restrict positioning, Squadsight helps once they are setup. There is something to be said for disliking the setup time. Once I started playing Legend more I realized my damage per turn with Sharpshooters was pretty rough in the early game compared to just running more Rangers or Grenadiers. However they are a sort of magikarp investment. Once you start getting special ammo, bluescreen guaranteed and AP possibly worth the hassle, they increase in effectiveness a lot. I under-rated Killzone for a long time but on Legend it became one of my favorite skills of theirs, as it gives them better ability to soften up activated pods that were damage sponges. If you happen to roll something like Shredder or Run and Gun they massively improve in the early game. My current campaign has some with Implacable and it fills a similar gap in their ability without strong equipment.
+
+===
+
+I acquiesce that they perform worse at a critical time in the game. Height is advantageous in general and I found myself using it aggressively on Legend to help ascertain my aim when every miss is the potential for more damage or enemy special abilities or losing precious turns on a timer etc. But if one hates Sharpshooters that much, train other classes in the GTS (personally I think Specialists' damage potential is even worse for a long time) and either wait til you get Darklance or just pick up more leveled soldiers later as a mission reward or from the Black Market. Once they get going their kill count rivals or exceeds even that of Rangers, my otherwise favorite class that's strong out of the gate but falls off a little in the late game outside of one for Katana Reaper-ing.
+
+u/Rex-Viper-Rock-Gods avatar
+Rex-Viper-Rock-Gods
+•
+2mo ago
+At the end of the game everything is overpowered. Irrelevant. The real question of strength is how long does it take for the class to come online and be more than cannon fodder.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Being weak in the squaddie-sargrant rank is what makes this class bad. Those are the most important ranks after all. At colonel they are extremely strong, but so is every unit not named Skimisher, so that's not that big a deal.
+
+Vokasak
+•
+2mo ago
+Being weak in the squaddie-sargrant rank is what makes this class bad. Those are the most important ranks after all.
+
+You sure bring up Darklance and Darkclaw pretty often if that's where you're focused 🤔
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+Because those items completely break the balance of the class. The class goes from super underwhelming to omega gigacarry. To the point that it’s worth building your sharpshooter’s skills around those items and prioritizing killing that chosen first for his weapons.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea it's the only reason to use this class it's what I'm going to talk about. Unless you want a guide that's even more negative than the one I wrote.
+
+Vokasak
+•
+2mo ago
+I'd prefer a guide from someone who knew what they were doing with the class instead of trying to shove them into a ranger-shaped hole.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You can disagree, but I most certainly know what I am doing. I have beaten this game on L/I more times than I can count and have done it deathless 6 times I think.
+
+If you want a guide from someone with a different opinion, go write it yourself.
+
+Vokasak
+•
+2mo ago
+You can disagree, but I most certainly know what I am doing. I have beaten this game on L/I more times than I can count and have done it deathless 6 times I think.
+
+Great! You're probably skilled at the game overall. But clearly this is a class that's a blind spot for you. That much is obvious with how much you keep repeating stuff like "the worst aim".
+
+If you want a guide from someone with a different opinion, go write it yourself.
+
+And then I can read it myself, and then I'll learn everything I know. 🙄
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I will also say I deploy sharpshooters on missions because I like them. I don't play in a "must flawless every mission at all costs' playstyle because some of the optimizations you do are boring. I've used them a lot, that's why I am so confident that they are bad. I have 3600 hours of experience to back it up.
+
+Vokasak
+•
+2mo ago
+I will also say I deploy sharpshooters on missions
+
+Do you, though? If it takes you over 30 missions to get to captain?
+
+I have 3600 hours of experience to back it up.
+
+So many hours, and still so wrong. Impressive.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+>Do you, though? If it takes you over 30 missions to get to captain?
+
+Yes I deployed them 9% of all total slots. I had one on 30/58 missions. That's more than I used skirmishers or sparks or psi ops (because I didn't at all) on that run. They were my least used out of the base classes but not by that much. Only 5 less deployments than specialists. Though compared to 18% of all deployments being grenadiers and a whopping 35% being rangers. It is certainly less than that.
+
+I actually only got my first captain on mission 21 so they weren't that far behind. My first captain specialist was on mission 28. Honestly that was probably just because they gain XP the slowest out of any class (technically they have the smallest XP share but same difference)
+
+>So many hours, and still so wrong. Impressive.
+
+Oh good a vague insult against me. Would you like me to insult you back? C'mon man, what are we doing here?
+
+2 more replies
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+They do have the worst aim. They are the only class that has an aim table that only exists to hurt them. Let's do some examples!
+
+Standing at 25 tiles away, so max vision for any other class, with high ground and a superior scope at colonel gets Grenadiers an aim of 110. It gets sharpshooters an aim of 124. So in that situation sharpshooters have better aim. Great. Now let's say they are 10 tiles away, which frankly, more realistic. Sharpshooters still win by 3.. They have 121 aim to a grenadiers 119 with the added aim from the range table. But at 5 tiles awat. Grenadiers have 129 aim, more than a sharpshooter has at their best, and the sharpshooter has 103 aim now. That means grenadiers can click chain shot and have a 100% chance to hit both of them while a sharpshooter never gets enough aim to click deadeye without the chance of a miss. And chain shot has a lot more damage output.
+
+And that's a colonel. At squaddie it's waaaay worse for sharpshooters. They have 75 aim, so 95% to hit with highground and without a scope and just barely getting that 100 with one. A grenadier has 67 aim, or 87 with high ground so they need to be within 4 tiles, within 6 if they have a basic scope. Now what's easier to achieve? Getting an enemy out of cover, being within 11-25 tiles with your sharpshooter while still having line of sight (remember they can't move and shoot) or getting high ground while being close to them on the class that can move and shoot. And can also blow up the cover of the enemy if you can't get that nice shot off because their squaddie perk isn't useless if they move that turn.
+
+The comparison gets even worse if we consider other classes. Rangers get 100% to hit with their shotgun out the gate, just get close. Same with every other class as every class has better aim than grenadiers (but sparks and psi ops).
+
+And if you have blademaster, you can click delete on any enemy within dash range that has 5 or less HP, and you just need combat protocol or a grenade to clean up a sectoid. Specialists extend mission timers and have combat protocol to deal with any enemy after you blow them up or to take out turrets. Skimishers have justice, a grappling hook, and can shoot twice. And templars literally can't miss ever. What do Sharpshooters get at that rank? The ability to pull pods if they have a reaper on the squad. Now that's not bad, but it's not as good as just "hey this enemy is dead now" or "hey I can play slower because actually this mission timer is 2 longer than the game says."
+
+Vokasak
+•
+2mo ago
+Standing at 25 tiles away, so max vision for any other class, with high ground and a superior scope at colonel gets Grenadiers an aim of 110. It gets sharpshooters an aim of 124. So in that situation sharpshooters have better aim. Great.
+
+Great.
+
+Now let's say they are 10 tiles away, which frankly, more realistic. Sharpshooters still win by 3.. They have 121 aim to a grenadiers 119 with the added aim from the range table.
+
+So, the sharpshooter still has more. Okay.
+
+But at 5 tiles awat. Grenadiers have 129 aim, more than a sharpshooter has at their best, and the sharpshooter has 103 aim now
+
+See, this is where I get off the train. Who gives a shit what a sharpshooter's aim is like from 5 tiles away? If you're in this situation, it's because you've blundered into it. The fact that you're even discussing this like it matters tells me that you don't know how to use this class. The constant "yay you get a shotgun now" on all the pistol skills confirms it.
+
+They're not rangers. Stop using them like that.
+
+And that's a colonel. At squaddie it's waaaay worse for sharpshooters. They have 75 aim, so 95% to hit with highground and without a scope and just barely getting that 100 with one. A grenadier has 67 aim, or 87 with high ground
+
+So... the grenadier still has less.
+
+Now what's easier to achieve? Getting an enemy out of cover, being within 11-25 tiles with your sharpshooter while still having line of sight (remember they can't move and shoot) or getting high ground while being close to them on the class that can move and shoot. And can also blow up the cover of the enemy if you can't get that nice shot off because their squaddie perk isn't useless if they move that turn.
+
+The first one, because a 25 tile radius is massive. The inability to move and shoot isn't a problem if you're not scooting your snipers to within five tiles so you can complain about how bad they are.
+
+And yeah, grenadiers can blow up cover. Sharpshooters benefit from that too. In an actual game, the two classes help each other and set up for each other instead of competing in some kind of weird xcom olympics.
+
+The comparison gets even worse if we consider other classes. Rangers get 100% to hit with their shotgun out the gate, just get close. Same with every other class as every class has better aim than grenadiers (but sparks and psi ops).
+
+At the obvious cost of...getting close. Close means you're easier to flank, and gives you fewer options for what position you're going to end your turn in. It's a risk. There's a tradeoff.
+
+Rangers are great, don't get me wrong. But they're good at doing ranger things. It's fine if that's your favorite class, but that doesn't mean that's the standard to measure every other class by.
+
+And if you have blademaster, you can click delete on any enemy within dash range that has 5 or less HP, and you just need combat protocol or a grenade to clean up a sectoid. Specialists extend mission timers and have combat protocol to deal with any enemy after you blow them up or to take out turrets. Skimishers have justice, a grappling hook, and can shoot twice. And templars literally can't miss ever. What do Sharpshooters get at that rank? The ability to pull pods if they have a reaper on the squad. Now that's not bad, but it's not as good as just "hey this enemy is dead now" or "hey I can play slower because actually this mission timer is 2 longer than the game says."
+
+You have multiple soldier slots for a reason, so you can fill them with different soldiers of different classes that do different things. The ability to do a ton of damage, accurately (because as you yourself admit, their aim is higher as long as you keep a halfway reasonable distance) is a huge benefit. The sniper/reaper combo is a huge benefit. It doesn't just pull pods, it can literally solo missions. I play with a mod that restores some cut content, including a sitrep called Fire Team that only lets you send two soldiers. Sharpshooter+Reaper can full clear those with 70+ kills without taking a scratch.
+
+Hydralisk18
+•
+2mo ago
+Fwiw I agree with you. The fact sharpshooters have highest aim and can do so while not even being on the same screen as the enemy is a huge benefit.
+
+BirdN01r
+•
+2mo ago
+You should write that guide he baited you to, it would be a fantastic read - I love your points <3
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The first one, because a 25 tile radius is massive.
+
+But they can't move to get a flank shot. You have to set it up for them. So often you are going to be eating -15 or -40 unless you spend a grenade to open the enemy up but at that point just click an attack with a stock and be done with it.
+
+Sharpshooters benefit from that too.
+
+But less than every other class because they can't maneuver to get into position and still fire their main gun.
+
+At the obvious cost of...getting close
+
+That is not a cost. Every mission in this game except maybe 2 of them requires you to go from A to B. Get to the objective, evac out, get close enough to the sarcophagus to blow it up move up to blow up the siege engines the game forces forward momentum on you at every step. Just turn timers alone put the pressure on you necessary to get in the enemies face.
+
+Close means you're easier to flank, and gives you fewer options for what position you're going to end your turn in. It's a risk.
+
+It's only a risk if you can't get the kill, dead enemies don't shoot back. And if getting close gives you a 100% chance to kill, well, then what's the risk again?
+
+You have multiple soldier slots for a reason, so you can fill them with different soldiers of different classes that do different things
+
+Why would I want something other than the delete button? What do Sharpshooters do that is better than a 100% chance to kill things? Especially that early when I only have 4 slots. Every tool they have is supplanted by a better one another class has.
+
+The sniper/reaper combo is a huge benefit. It doesn't just pull pods, it can literally solo missions.
+
+There are these things called turn timers. You don't got time to just sit there and play with them. If the pod is too close they will move up and shoot your sharpshooter and kill you.
+
+And you know what else a Reaper lets you do, know it's safe to do slash attacks. Taking away the only possibility of risk.
+
+1 more reply
+BirdN01r
+•
+2mo ago
+this
+
+Halollet
+•
+2mo ago
+So, I see you're points, but I respectfully disagree with this being the worse class. IMO I think they're one of the best and I have played impossible ironman successfully.
+
+Why? Because a sniper is the rest of the squad's guardian angel.
+
+Let me explain.
+
+All of the snipers down falls can be completely negated with a grappling hook. It gives them the best movement in the squad and always gives them high ground fixing their "terrible aim."
+
+Being out of line if sight allows them to take off angles. They're able to open fights and hitting things without cover is really easy.
+
+After you get death from above, they really open up. Because with that free actions you can move and then next turn grapple up to a new high ground and fire.
+
+Not to mention with blue screen rounds they can one shot turrets and mechs with ease. This opens up your grenadier to focus on other things, making them even better.
+
+And there's no reason they can't get the best pistol skills in the training center and basically solo lost hordes.
+
+I guess we must play the game very differently :)
+
+kittenwolfmage
+•
+2mo ago
+Yeah, OP is extremely ‘close range, Ranger focus, charge the enemy!’ focussed, with heavy weighting towards classes that are useful at low ranks, which bears out in his guides & replies. Of course from that point of view, Sharpshooters are basically baggage.
+
+But once you get some abilities and some aim on them, and some free movement gear to mitigate the ‘can’t move and fire’ aspect, they get incredibly strong. And if you go the DFA+Darklance route, they aren’t just strong, they just flat out break the entire game. Combine that with gunslinger perks for deleting robotic units and Lost, as well as cleanup of wounded but not dead units, and I really don’t understand OP’s hate.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The Sharpshooter is a ranged support class. Specialists are more mid-range and support in different ways. My killcount is always higher on Sharpshooters vs Specialists and tends to rival Ranger killcount by the late parts of campaigns.
+
+Leaving aside Reapers, Skirmishers, Templars, and Psi (and SPARKs), Rangers and Grenadiers are your only direct damage dealers for a good part of the start of the game. Even then I'd count Grenadiers less if you rely on their grenades and heavy weapons more, being a bit more indirect AoE. Sharpshooters are the squadsight master and as in IRL, they really need a spotter for full offensive utility. They have a niche. Far from the worst class and I'd still rate Specialists below them in the early game, because at least Sharpshooters can more realistically get up to 100% Aim and Specialists have different items competing for inventory slots compared to most classes that can usually safely run ammo or a grenade.
+
+u/Direct-Fix-2097 avatar
+Direct-Fix-2097
+•
+2mo ago
+They’re phenomenal classes, snipers are a mainstay for me.
+
+OP just plays them poorly. 🤷‍♂️
+
+u/yen_29 avatar
+yen_29
+•
+2mo ago
+Yep, same. Snipers are my absolute faves & yes they take a bit of an investment but the payoff is extremely good! Like so worth it honestly. Can't even say how many times they've got me out of really tough spots, esp serial and faceoff plus how well they fare off against the lost. I get the reasoning behind this guide but like it's kinda weird plus the experience varies for everyone so yeah you can't just put it like that they suck or are the worst class when it's absolutely NOT TRUE at all lol.
+
+OrlandoGW
+•
+2mo ago
+All of the snipers down falls can be completely negated with a grappling hook
+
+P2W ahh class
+
+shocky32
+•
+2mo ago
+I mostly agree but it’s still a class that I use 100% of the time. Early they are useless, but like you said, once you get Darklance they are S tier. Also during the attack on Avenger the Sniper and Reaper can single handedly beat it with ease.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea sharpshooter cheese on those missions is quite good.
+
+And that's what I do, too! I don't care that they are bad sharpshooters are too swag not to use! Also just buying a high level one from the black market feels like cheating
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Also just buying a high level one from the black market feels like cheating
+
+The Intel cost is not free, especially on Legend. Soldiers are actually one of the most intensive Intel costs then IMO, and then you better be managing the Avatar project with story missions, Covert Ops (opportunity cost for doing so), or lucking into the Sabotage card. As a mission / scan reward it's too RNG to stress about. Avenger power / resistance contact rewards are stronger anyways IMO as there are fewer alternatives.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It feels like cheating more from a "I didn't train this soldier" perspective than a "it's actually too strong" perspective. Buying soldiers with intel is rarely what you want to do unless you just got squad wiped.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I get what you mean, I just think the opportunity cost is steep. You only get one soldier per month that way, so it might not even be the class (or rank) you want. IMO Alloys, Elerium, or sometimes even supplies (or engineers) are a better priority for excess intel, as they can push equipment upgrades that might make the difference, while a single soldier almost never will while also being more expensive. Despite having Vulture my current campaign ended up kind of stingy on good PCS, so most of my mobility and aim PCS were from the market, I think I only got like one or two naturally from loot drops for a fair while. Every point of intel you spend at the market is less monthly supplies from contacts, so buying soldiers is short term gain for longer term pain. The only real cheating thing I think is that you theoretically can buy a unit more promoted than any other (e.g. a Colonel when you only have Majors), but that's just a win more bonus. I don't stress it because I feel like intel soldiers are just there to smooth out RNG or deaths, but since you can homegrow them with xp it's a less appealing choice. I also highly value bonds for action economy, so new soldiers are fresh out of the gate there and need work if you want to pair them, either naturally or with covert ops to force it.
+
+shocky32
+•
+2mo ago
+Agreed, and I get too attached to my characters to ditch one for an outsider mid game. Just gotta drag them through.
+
+u/stoptheycanseeus avatar
+stoptheycanseeus
+•
+2mo ago
+Love these guides to read through. Makes me think about reinstalling xcom on my laptop after not having played it in forever.
+
+Mqken2
+•
+2mo ago
+Thanks for making these, they're a fun read!
+
+Hollow-Lord
+•
+2mo ago
+My sniper was frequently the most dangerous and reliable and significant person on my time, constantly saving and killing. He even landed the final blow in end game despite the odds. I feel like calling them the worst class means you’re not using them correctly.
+
+u/AstoraTheInvincible avatar
+AstoraTheInvincible
+•
+2mo ago
+Agreed
+
+u/spiritplumber avatar
+spiritplumber
+•
+2mo ago
+Sniping's a good job mate
+
+u/spiritplumber avatar
+spiritplumber
+•
+2mo ago
+it's challenging work, out of doors
+
+Vokasak
+•
+2mo ago
+Strongly disagree.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I strongly disagree with your strong disagreement.
+
+biketheplanet
+•
+2mo ago
+Very in depth rebuttal. Usually one would follow up with what they disagree with and why.
+
+ThePhysicistIsIn
+•
+2mo ago
+One thing I am really confused about is that the guide prefers heavy armor over light.
+
+The sharpshooter was made for the spider suit. It’s a class that doesn’t want to move, wants to be on high ground, and needs to reposition to be able to shoot. That screams “grappling hook, grappling hook, grappling hook”.
+
+And yet the light armor is ranked worse than the heavy armor - why? I want heavy armor on my specialists and grenadiers.
+
+Vokasak
+•
+2mo ago
+All of it. The whole thing, the entire premise.
+
+Okay maybe not literally all of it, like I agree that scopes are good and AP ammo is good and Fan Fire is good and obvious stuff like that. But the overall conclusions are all wrong and ass backwards. It reads like someone who is trying very hard to make a marksman into a ranger instead of just letting them do what they're good at. A skill issue.
+
+Some of it is just straight up wrong, like the "worst aim" thing that gets repeated over and over again. That's just fake news, I literally have no idea where he's pulling that from. You can just read the numbers and see that it's not true. Anyone who's played for more than an hour will notice the aim percentages on their marksman are higher than their grenadier.
+
+Some of it is inconsistent: He bemoans how bad it is to not be able to move and shoot, then he calls all the abilities that synergize with not moving trash. He says Aim is bad because he never has actions to hunker down with, even though he mentions DfA in the same sentence. He says over and over that they have bad aim, so much so that he repeats it every time something that gives an aim bonus comes up, and somehow doesn't notice how many there are. It just boggles the mind, my mind is boggled.
+
+Maybe the class doesn't fit his playstyle, that's 100% perfectly fine, go in peace. But that's a statement about him and his style and not the class.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yeah this guide post is probably the hottest of hot takes yet. Sure, Sharpshooters benefit greatly from Scopes, but like, who else is that bad in competition with them?
+
+Rangers don't need it really because of short range aim bonuses on the shotgun and the melee sword. Grenadiers do have crap enough aim that they are in the running, but a scope alone doesn't suddenly make them all that reliable anyways. It definitely doesn't magically fix Chain Shot.
+
+Grenadiers really need to be high rank (OR have a scope AND PCS) to have better aim, and even then Holo Targetting is kind of necessary for reliability AND some of the best utility of Grenadiers is actually their grenades, which don't have to worry about percentage accuracy.
+
+Specialists are not really a damage dealing class for a fair while. The bolt caster helps but you can't modify it anyways, plus it has inherent aim. Most of the early utility of Specialists is distance Hacking (not aim reliant), Medkit heals (not aim reliant), and Combat Protocol (not aim reliant). Aim really only starts to matter when you're pushing Guardian or Ever Vigilant plays, which is fairly later in the game. By then the Disruptor Rifle starts being the better damage choice, which surprise, has inherent aim. As does the TLP assault rifle which is pretty good.
+
+So that leaves Sharpshooters of the base classes. Easy choice, and then spare scopes or weaker ones can go to other classes to maybe help.
+
+A case could be made for Reapers to have a Scope. Thing is, a lot of their early game utility is in stealth scouting and the claymore. I find their bolt action damage is just too low most of the time to rely on it (it also doesn't suffer from short range like actual sniper riles do). Instead you're often better off scouting a pod and then using AoE from a Grenadier or Killzone or a claymore. Once you get Sting and Banish then Aim is more relevant, but by then hopefully you have more scopes, Aim PCS, etc. Also unless you start with Reapers you can usually only get one so hardcore stressing about a build for one soldier seems misguided IMO. I tend to rotate between 2, sometimes 3 main Sharpshooters on a campaign because of Tired status, injuries, etc.
+
+Skirmishers in the early game can use Grapple for height advantage aim. This is actually one of the last classes I'd consider for a scope, as they get an inherent two attacks to mitigate misses/grazes, and things like stocks and repeaters are more competitive for modification slots. A case could even be made for extended mags and autoloaders if you have them.
+
+Templar shooting is almost irrelevant and you can't modify their weapons anyways.
+
+TL;DR: Scopes are Sharpshooter prio anyways so that complaint is a nonissue. Aim PCS are rarer, since they aren't transferable in the same way modified weapons are. A case could be made for Aim PCS on Grenadiers/Reapers. Sharpshooters don't really need a Scope AND Aim PCS, unless you're trying to shoot through walls. Even then they made decent candidates for Covert Opts that give +Aim.
+
+u/Altamistral avatar
+Altamistral
+•
+2mo ago
+I'm not sure if you are memeing or trolling. Sharpshooter is one of the best base classes in the game: it's up there with the Ranger and miles ahead the other two. It especially shines in burst dps and thanks to his generous action economy (free pistol shots, extra action on kills) it makes mech units a cakewalk with bluescreen rounds in a way no other class can match.
+
+It's ok to have a different playstyle, but at least don't give incorrect information.
+
+Stupendous_Spliff
+•
+2mo ago
+Sharpshooter is really strong. To say it's worse than specialist for example, is kinda crazy
+
+Sure, early on they suck, but so does everybody else, and you have to rely on grenades just to hit something. That's why early game is the hardest. With some investment they become a powerhouse. You got to be good at positioning them, so they do need a bit of work to make the most of them. I value them on par with Grenadiers, which are amazing most of the time, but fall off a lot in longer engagements if you run out of grenades and heavy weapon.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+but fall off a lot in longer engagements
+
+Sharpshooters are actually probably the best class for prolonged engagements. Leaving aside Shadowfall (which I think is largely irrelevant minus the aim bonus, as the low damage is just SO crap at every stage of the game), they are far less reliant on active abilities most of the time. A Ranger without Run and Gun is missing some of its potential. A Grenadier out of grenades or missing its heavy weapon ammo (which is hard limited to one compared to up to 3 grenades) merely has its "okay" cannon and Holo Targetting as remaining utility. A Specialist without Medkit charges, Scanning Protocol, Combat Protocol, etc is way less tactically flexible. The Sharpshooter's main benefit is high aim at height and sometimes breaking typical action economy. While Serial is an extra strong option, it's fairly late game and DfA with Darklance makes it less impactful. Sharpshooter doesn't stress about ability charges that much, and one of its strongest abilities of Lightning Hands is on a reasonably short cooldown.
+
+u/Altamistral avatar
+Altamistral
+•
+2mo ago
+Correct. They have pros and cons, like most things. They excel at some things and suck at others. I would love that that an "overly complete guide" would acknowledge nuance without making dumb click-bait claims such as that one of the better classes in this game "sucks".
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It is not incorrect, this is as close to as an objective fact as you can in this context.
+
+You spend most of this game with squaddies to lieutenants. Those are the ranks that matter the most. And sharpshooters have by far the worst perks in those sections. Longwatch is OK and lightning hands is pretty good and both DfA and Quickdraw are nice. But compare that to blademaster and run and gun or launch grenade shredder and holo targeting. It just doesn't compare.
+
+And let's not forget they can't move and shoot! A thing every other unit can do they just can't. And you can sort of fix that with a grappling hook or super fix it with the darklance, but those are later tools than you get in the hardest section of a run. And that slot could've just been a Ranger.
+
+u/taw avatar
+taw
+•
+2mo ago
+You spend most of this game with squaddies to lieutenants.
+
+You really don't. Early promotions are super fast, so you spend very little time on low ranks, and you can get already pre-leveled soldiers easily during the game.
+
+And as soon as you unlock Bluescreen Rounds, Sharpshooters are instantly A tier. Even with just Lightning Hands and Quickdraw, that's +15 of just bonus damage that trivializes any robotic units.
+
+Then when you get Chosen Weapons they go to S tier together with Reapers and Bladestorm Templars, leaving all classes far behind in pure damage output.
+
+Sharpshooters are underwhelming for the first few missions of the game, but then so are Templars before they get Parry, and everybody can still see them as S tier.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I actually have the data to back this up. I recorded when each soldier got deployed and how many in my last L/I deathless (plus a bunch of other stuff its not important) run and I didn't have a captain until mission 22 out of 58. And then even after you get squad size 6 you might have 1 or 2 captains in your roster at best. I didn't get a captain sharpshooter until mission 31 out of 58. And those 31 missions are way, way, way more important than the last 27.
+
+And sharpshooters aren't just weak the first few missions, they are weak until you get quickdraw and DfA at lieutenant! Compare that to a ranger, who can get a 100% to hit with a shotgun out of the gate and then gets an auto-hitting auto-killed trooper sword. Or specialists who have remote hack and combat protocol, or grenadiers with launch grenade, shredder, and holo. You only go 1-2 missions without parry, you have to go at least 20 without the perks needed to make sharpshooters strong. That just ain't worth it.
+
+Altamistral
+•
+2mo ago
+u/XCOM_Finx avatar
+XCOM_Finx
+•
+2mo ago
+While I don't agree with everything Hielispace says in his guide and tier list, his claim that Sharpshooter sucks is 100% spot on.
+
+As someone who's done challenge run myself and knows many of the challenge run player I know for a fact that they all agree that Sharpshooter are terrible. When all the top player of the game are unanimous that a class sucks its likely for good reason.
+
+You blame him for spreading misinformation but then make the statement that "It especially shines in burst dps and thanks to his generous action economy (free pistol shots, extra action on kills) it makes mech units a cakewalk with bluescreen rounds in a way no other class can match." You say that when Grenadier can kill mechs just as well with shredder, chain shot, rupture, saturation fire or that Sharpshooter have generous action economy when Specialist easily give them a run for their money with overwatch guardian/threat assessment chain.
+
+u/Altamistral avatar
+Altamistral
+•
+2mo ago
+As someone who's done challenge run myself and knows many of the challenge run player I know for a fact that they all agree that Sharpshooter are terrible.
+
+Sure mate, all the greatest and best-est happen to agree with you.
+
+I hate to break it to you, but doing challenge runs at XCOM2 L/I is not that difficult after you sank enough hours in the game. I've done that too, plenty.
+
+It's ok to have different playstyles. I'm not going to waste my time arguing with people who think they carry some kind of objective truth. Not worth it.
+
+u/XCOM_Finx avatar
+XCOM_Finx
+•
+2mo ago
+Doing challenge run is certainly harder than being a reddit troll who cant argue, but hey you do you.
+
+tooOldOriolesfan
+•
+2mo ago
+I get a ton of use out of the sniper and have one on most all missions (mostly legendary level) and will give it AP ammo.
+
+Besides the base sniper rifle and of course, the dark lance, there is another sniper rifle (anti-material?) that is better than the base weapon.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Anti material requires owning and playing TLP though. It is however one of the better unlocks and stays relevant into the late game.
+
+u/ulughen avatar
+ulughen
+•
+2mo ago
+•
+Edited 2mo ago
+Early game Sharpshooters are on cleanup duty. Finishing off wounded ayy with pistol is no different than finishing with any other weapon. But you can do it twice, spend no ammo and usually have better chance to hit. Sniper rifle is mostly for opening shots to -1 pod or making OW traps with Long Watch and concealed scout. Or if there is a good high ground point.
+
+Its ok to bring two on missions without timer though.
+
+u/Lighty539 avatar
+Lighty539
+•
+2mo ago
+Enjoying the last two installments as well. Some interesting takes, but I definitely have not liked Sharpshooters in many scenarios. However, with Aim PCS and between the eyes he was a godsent vs lost for a noobie. And with the Aim PCS he was 100% on many shots, so was good at deleting the dangerous opponents. Lategame with chosen rifle, I rather enjoyed talon rounds (when mostly non robotic enemies) and was critting so often, but at that point it was probably just "win more".
+
+Looking forward to the next installment.
+
+IBlackKiteI
+•
+2mo ago
+Yeah but being able to potentially shoot something anywhere on the map is funny
+
+BudgetNihilist
+•
+2mo ago
+I'm half and half on this. On the one hand, this entire mantra is clearly crazy because sharpshooters are wonderfully deadly and have excellent aim but I am admittedly using the sniper rifle as my primary weapon and not the pistol so I don't need to play them like rangers in order for them to be effective.
+
+On the other hand, in my last run, I had a sharpshooter roll run and gun, implacable, shredder and rupture as her GTS perks and she was so incredibly deadly and useful while being stupidly mobile (without ever needing a Darklance) that I can actually sympathize a little bit with your lamentations about mobility. It definitely changed how I used her specifically because of how much it opened the map for her but she still never came within 5 tiles of anything if I could help it, because why would I?
+
+u/plzreadmortalengines avatar
+plzreadmortalengines
+•
+2mo ago
+They're certainly the worst early, but I usually still bring one on the untimed missions. 4 DMG min is huge, being able to guaranteed kill troopers. Plus you can cheese turrets.
+
+Also light armour is 5 star on them. You cannot play mid game without it. It removes their main weakness.
+
+u/basedimitri avatar
+basedimitri
+•
+2mo ago
+Sharpshooters are the most extreme case of XCOM 2's balancing problem. Absolutely fucking woeful in the early game, able to solo everything in the late game. They put out absolutely disgusting damage even without the Darklance if you can reposition them via Icarus armour or a grappling hook, which also nullifies their aim penalties for longer ranges assuming you took high ground and they are a phenomenal "I need this guy dead and you're the bloke to kill him" class. However, without the Chosen Hunter's weapons, good skills or an Aim PCS, basically early to mid game, that move-and-shoot restriction is just too much of a penalty to work around. Especially in four man runs, having 25% of your squad be unusable if you happen to be caught out of position is devastating. Early game I would never ever take a Sharpshooter over a Ranger but late game, I would much prefer what is essentially a 100% accurate instant kill class that also just so happens to have Serial
+
+u/Japaroads avatar
+Japaroads
+•
+2mo ago
+Any chance you can unhide your posts so I can read your other guides?
+
+BirdN01r
+•
+2mo ago
+Wild take at the start - I love my sharpshooters more than any other class. I tend to see hate the the hate coming from ppl who prefer to use "ranger"'s tho, so idk
+
+u/comfortingmyself avatar
+comfortingmyself
+•
+2mo ago
+I usually feel as though people analyze the Sharpshooter class totally wrong, but I think you nailed it. The inverse difficulty curve is too prevalent. When a class is weak in the early game but strong in the late game, it's still a weak class overall.
+
+I do think Squadsight needed an aim penalty - the EW strats of flying up to the literal corner of the map and remaining there for the whole mission were admittedly pretty degenerate - but I wish that penalty was 1 aim per tile instead of 2.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Squadsight aim penalty is still largely irrelevant unless you're not positioned high enough or you're trying to shoot excessively across the map (which is tricky enough with sight lines blocked as is). A) is a skill issue and B) is overextending your team / not having your Reaper / Phantom soldier close enough to help the rest of your team with pods. So... tactical skill issue too IMO.
+
+u/comfortingmyself avatar
+comfortingmyself
+•
+2mo ago
+The most common and best use case for Squadsight occurs when your Sharpshooter has a decent high ground nest and the rest of your squad encounters a pod a little further away and your Sharpshooter ends up firing from like 5 tiles of Squadsight range. -10 Aim in this case isn't a huge deal, but it's not nothing either.
+
+For instance a Squaddie on high ground with the TLP rifle has exactly 100 Aim. Any Squadsight penalty means this is no longer a sure hit and I probably need to readjust my strategy to account for that possibility.
+
+u/ConstantPop4122 avatar
+ConstantPop4122
+•
+2mo ago
+Say what you like, two snipers in the right position can take out entire horde of lost leaving the rest of the squad to go about their business.
+
+I was also quite lucky in that I took out all of the Rulers at the first meeting, without any of them getting a single shot off by using a reaper and 2 snipers at an elevated position
+
+Agree, the two action points to take a shot should be an option, it'd totally fix a load of the issues of they had a snapshot/aimed shot mechanic like original xcom - with a single action point acting like the current shot, and a 2 action point aimed shot adding 50 accuracy.
+
+u/Altamistral avatar
+Altamistral
+•
+2mo ago
+Say what you like, two snipers in the right position can take out entire horde of lost leaving the rest of the squad to go about their business.
+
+So true. I often bring Rookies in (pure) Lost missions because a single Sharpshooter and a single Ranger is all I need to feel safe. One for when they are far away, one when they get close.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's true they are pretty good against lost hit honestly lost are just a non threat I don't really value that. It's sort of whatever.
+
+u/Bellagar avatar
+Bellagar
+•
+2mo ago
+Eh early game with a bunch of rookies they can be a threat/issue saying that…. You need some pretty bad luck/rolls to be taken out by lost and if you get shoot for the head they might as well not exist
+
+isigneduptomake1post
+•
+2mo ago
+My last playthrough I used my SS for covert ops only and got aim & mobility high, and got him to colonel by the time i had hunter weapons. Never upgraded rifles or pistols. It worked for me, I tend to just blow everything up with grenadiers and sparks until I get major/colonel with the rest.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+That's the way to do it. Skip the struggle and covert op chain promote a sharpshooter to colonel.
+
+u/Squidboi2679 avatar
+Squidboi2679
+•
+2mo ago
+There is a mod that adds a perk to sharp shoots through the GTS that removes the squad sight aim penalty and it genuinely shoots them into the best class slot because they can sit at the very far end of the map and just vaporize targets without moving anywhere
+
+generalguan4
+•
+2mo ago
+Can you link your other guide posts as well?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I will make a big post with links to all of them when I'm done, but for now you can search them up easily enough.
+
+ThedarkJosh
+•
+2mo ago
+Can’t dragon rounds force opponent to move/not used ranged shots?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Burning disables psionic and melee abilities, not normal ranges ones.
+
+ThedarkJosh
+•
+2mo ago
+Appreciate the write up. Was just confused on that poison/burning being the same grade. Agree with most of it except the benefits of a guaranteed 2 damage and reconceal is pretty fantastic
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I don't really value the difference between fire and poison. Sure fire is a better status but in the end they are both a little extra damage. The difference is small enough that they don't warrant a different rating. 7.1/10 and 7.2/10 both round to 7/10.
+
+The shadowkeeper is good if you get it for free or if you just buy it with supplies but as a proving ground project it's kind of a tough sell. It's also just not that big of a deal at the end of the day. 100% with the pistol isn't too hard to get because short range table and the sharpshooters very good aim stat and the reconceal is kind of niche if you bring a dedicated scout, which you should. But it's fine.
+
+DiggityDanksta
+•
+2mo ago
+I do love me some Marksman Rifles in Long War 1. Shame we can't use Vektor Rifles or something here.
+
+u/wristcontrol avatar
+wristcontrol
+•
+2mo ago
+What they did to Sharpshooters in 2 is one of the main reasons I went straight back to Long War after finishing my first campaign and never looked back. Going from Snap Shot/Lock n Load/ITZ to this gimp class is demoralizing.
+
+u/16years2late avatar
+16years2late
+•
+2mo ago
+Snipers are insanely good when they’re developed and have the equipment to supplement them, but in general, I agree with OP. They suck for most of the early/mid game.
+
+RoninPrime68
+•
+2mo ago
+Sharpshooters are funny cause they're the worst until they're the best (well probably not the best, there's still templar) but it's 100% will never not be funny that once you managed to slap some aim-upgrading stuff a good hit could 1-shot almost every enemy unit in this game or at the very least bring them to critical levels of "omg im dying pls dont kill me"
+
+some peole say reapers are just better sharpshooters but honestly I think they're just intro to what endgame sharpshooters can be, reapers are better for locking low-hp targets if anything.
+
+u/saitam93 avatar
+saitam93
+•
+2mo ago
+loving this guides. Really made me think about the importance of aligning the strategy with alfa striking and the importance of early game
+
+u/gassytinitus avatar
+gassytinitus
+•
+2mo ago
+This is like a serious version of the "bruh guides" from way back
+
+u/Aleolex avatar
+Aleolex
+•
+2mo ago
+I will use deadeye on a critical sniper build and I won't apologize for it.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+•
+Edited 2mo ago
+Agree with basically everything here. One thing you may be interested in if you play with mods is one called “Snipecaster” (or something like that). It turns the bolt caster into a sniper rifle. It’s basically the only mod I use that actually affects balance rather than just a QOL change.
+
+The bolt caster on its own sucks. The sniper rifle sucks. But! A snipecaster is actually pretty interesting. It’s kind of like a baby darklance. The single ammo is still a little bit limiting, but the single action to fire is obviously leagues better than the standard sniper rifle. It lets you lean into the DFA + pistol skill build (and basically skip kill zone and serial) that you already want to use with darklance later anyway.
+
+Prior to DFA, you can walk and fire, but next turn you have to choose between reload and walk or reload and fire. And you ofc can’t equip any mods to it. Post DFA you get some extra flexibility with reloading and walking - but you still don’t get to chain the way darklance does, bc reload is still an action and it only has 1 ammo.
+
+The extra +aim that the bolt caster confers also helps fix all of the aim penalty issues that the sharpshooter has to deal with that you laid out.
+
+It’s pretty interesting - I recommend giving it a try if you’re as frustrated by the sniper rifle and the sharpshooter’s terrible aim. It makes sharpshooter more viable and makes the bolt caster more viable.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+oh the bolt caster on a sniper is interesting! I'll check that out!
+
+biketheplanet
+•
+2mo ago
+I appreciate all four the guides so far. I really love this type of insight and never tire of reading stuff like this. This is definitely the most controversial of the four guides so far. They are my last favorite class of the main four. Yes, they do get strong at the end, but early they are a boat anchor. I favor the gunslinger builder over the sniper build (though not straight gunslinger tree). I use primary as big bad enemy destroyers using the pistol with blue screen rounds.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You know what's weird? I expected my specialist guide to be the most controversial. I assumed everyone knew this class was bad! I thought people would rush to defend field medic (and some people did, but not nearly as many and not nearly as angrily) but hey, we live and learn.

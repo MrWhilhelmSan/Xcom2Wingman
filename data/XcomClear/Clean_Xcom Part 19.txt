@@ -1,0 +1,578 @@
+Resistance orders are a huge source of power for you, or they do nothing. It honestly depends on which ones get offered to you. The way they work is that you are offered, to start, 2 by each faction, being able to use only one. Then you can upgrade the ring to hold an additional resistance order, and when you do hunt the chosen parts 1 and 2 you get an additional slot for the faction rival. So 8 in total. Now let’s go through them one by one and see which ones are worth those slots and which are not. Here is the ranking system and table:
+
+★★★★★ - I will have this equipped for the entire campaign and it will make my life infinitely easier.
+★★★★☆ - Very, very good orders I would struggle to remove.
+★★★☆☆ - I mean, sure, these are pretty good but I would like something better.
+★★☆☆☆ - If I have to, but honestly it’s pretty meh
+★☆☆☆☆ - Basically does nothing
+
+Here is the table for Reapers
+
+Resistance Order	Effect
+Ballistics Modeling (★★☆☆☆)	%15 faster research of weapons
+Between the Eyes (★★★☆☆)	Instantly kill any lost you hit with any weapon attack
+Guardian Angels (★★☆☆☆) (but 5 in my heart)	Covert ops cannot be ambushed
+Heavy Equipment (★★★★★)	50% faster excavation time
+Infiltrate (★★★★★)	Timers do not start until you lose concealment
+Lightning Strike (★★★☆☆)	+50% mobility for the first 3 turns in concealment
+Live Fire Training (★★★★★)	Any unit trained in the GTS becomes a sergeant 
+Munitions Experts (★★★☆☆)	All ammo proving ground projects become instant
+Popular Support I/II (★★★☆☆)	+10/15% extra supplies in supply drops
+Rapid Collection (★★★☆☆)	Collect supply drops instantly
+Recruiting Centers (★☆☆☆☆)	New recruits cost 15 supplies
+Resistance Network (★★★★☆)	Instantly contact new regions
+Resistance Rising I/II (★★★★☆)	+1/2 new resistance contacts
+Scavengers (★★★★☆)	All resource rewards from scanning rumors are doubled
+Volunteer Army (★★★★★)	There is a chance for a resistance fighter to join on any mission.
+Bomb Squad (★★★☆☆)	Experimental Grenade and Heavy weapon projects are now instant
+Decoys and Deceptions (★★★☆☆)	Chosen knowledge gained is reduced by 33%
+Double Agent (★★★★★)	There is a chance for an ADVENT Trooper, Stun Lancer, or Shieldbearer to join you on a mission
+Impact Modeling (★★☆☆☆)	Speed of armor research is increased by 15%
+Information War (★★☆☆☆)	Enemy hack defense is lowered by 20
+Inside Job I/II (★★★☆☆)	Intel gained from rewards is increased by 10/15%
+Inside Knowledge (★★★★★)	Weapon attachments are improved (+5 aim from scopes, +5 crit from laser sights, +5% for an extra action/instant kill for hair triggers/repeaters, +1 damage from stocks)
+Integrated Warfare (★★★★☆)	Effects of PCSs are increased*
+Modular Construction (★★★★★)	25% faster construction of facilities
+Private Channel (★★★★★)	+2 to the turn timer
+Quid Pro Quo (★★★★☆)	Black Market costs are reduced by 33%
+Sabotage (★★★☆☆)	One block of the Avatar progress is removed at the end of each month
+Tactical Analysis (★★★★★)	Enemies units lose one action if they are discovered on XCOM’s turn
+Under the Table I/II (★★★☆☆)	The Black Market gives 20/30% more supplies
+Vulture (★★★☆☆)	Enemies drop an additional piece of loot.
+Weak Points (★★★☆☆)	Any shred (except from the claymore, for some reason) from XCOM is increased by +1
+Art of War (★★★★☆)	Abilities Points gained via promotion are increased by 25%
+Bonds of War (★★☆☆☆)	Bonds grow 25% faster
+Deeper Learning I/II (★★★★☆)	Increase XP gain by 10/15%
+Feedback (★★★☆☆)	Deals 4 damage to an enemy unit when they use a psionic attack on one of your units, regardless of it succeeds or fails
+Greater Resolve (★★★☆☆)	Lightly wounded soldiers can be sent on missions
+Hidden Reserves I/II (★★★★☆)	+2/+3 power
+Machine Learning (★☆☆☆☆)	Research breakthroughs are twice as likely to occur
+Mental Fortitude (★★★☆☆)	All forms of battle madness (panic, obsession, berserk, shattered) lasts for only one turn.
+Noble Cause (★★★★★)	Will recovery is 20% faster
+Pursuit of Knowledge (★★★★☆)	Labs grant +20% more research speed
+Stay with Me (★★★☆☆)	Increases the chances of bleedout from 1% per point of will to 2%
+Suit Up (★★★☆☆)	All armor and vest projects are now instant
+Tithe (★★★☆☆)	Resource rewards from missions is increased by 15%
+Trial by Fire (★★★★☆)	Double the ability points gained in combat
+Vengeance (★☆☆☆☆)	Gives random stat buffs when a unit dies for 2 turns.
+*Mobility gets a +1 buff, every other one gets between 4-7 stat points.
+Now onto talking about them individually.
+
+Ballastics Modeling (★★☆☆☆) - 15% isn’t that big of a difference, but every bit helps. Unfortunately this is a tier 2 resistance order so it can’t ever spawn at the start of a run and you might even be doing mag weapons when you unlock this. I’ll equip it if I have space but otherwise, eh.
+
+Between the Eyes (★★★☆☆) - The Lost are not much of a threat, so this doesn’t do too much. It can help on the Lost + ADVENT missions to chain kill Lost before you handle ADVENT, but it isn’t that big a deal. It is funny though. Clicking Face-off when you have this super funny.
+
+Guardian Angels (★★☆☆☆) (but 5 in my heart) - Ambushes are not a big deal, they are easy as hell and almost free XP. But also they are the most annoying thing in the universe and therefore I will equip this everytime I get it! It does give you a little extra flexibility by letting you send rookies on more Covert Ops and also means you won’t accidentally send mimic beacons on covert ops, but it isn’t actually that helpful.
+
+Heavy Equipment (★★★★★) - 50%?! 50% it gives you 50%! That is so much extra engineering time, especially on Power Coils and the like. It is an obscene acceleration to your gameplan. Its supplies, alloys, elerium and facilities earlier than you should have them. That’s crazy!
+
+Infiltrate (★★★★★) - Hey so what if the game didn’t have turn timers? That’s make things easier wouldn’t it? Well, this basically does that. Not quite, on kill general missions, escort VIP missions the turn timers still exist, but for every other mission this gives you so much leeway. You can think of it as +2-4 on turn timers, which, you know, is pretty fucking good. 
+
+Lightning Strike (★★★☆☆) - It’s bad Infiltrate! It doesn’t let you set up the perfect opening on the first pod, but it does give you a bit of forward momentum to start with. This isn’t bad, but there is better.
+
+Live Fire Training (★★★★★) - This basically makes your campaign unlosable. The way you lose a run is by running out of high level soldiers, but this gives you enough power in your units to make comebacks from basically anywhere, assuming you don’t lose to the Avatar Project. Plus it makes the Low Profile jumpscare a lot less scary because you can just have a fuckton of Sergeants in your barracks. If you get this early you can cheat the XP curve as well. This is nuts.
+
+Munitions Experts (★★★☆☆) - You basically equip this once and then never again. You equip it, spam the experimental ammo button till you get the one(s) you want, then unequip this next month. Which is fine it saves you a bunch of time in the proving ground and lets you hard roll for something, but basically a one time use. 
+
+Popular Support I/II (★★★☆☆) - Supplies are good. This is more of them, so this is good. If you have better then equip it. That’s kind of all there is to it.
+
+Rapid Collection (★★★☆☆) - This saves you some scanning time, but it’s really just 3 days per month, which isn’t too much. It’s not nothing, but eh there is stronger.
+
+Recruiting Centers (★☆☆☆☆) - This saves you 25 supplies per rookie, and given you might buy 3 rookies total in a run. That’s 75 supplies. You spend a resistance order on 75 supplies…yea…no…no I’m not going to do that.
+
+Resistance Network (★★★★☆) - This saves you a lot of scanning time and can take away the pressure to contact a new region in time to destroy a facility before the Avatar project kills you. It saves like 40 days of scanning time over a run that’s super good.
+
+Resistance Rising I/II (★★★★☆) - Contacting new regions lets you win the game, so that’s pretty good. It’s more supplies and potentially more continent bonuses which is very good. Do be warned if you lock in the resistance contacts and use them you can’t unequip this order until you have another source of those resistance contacts. But that’s OK, you used them for a reason.
+
+Scavengers (★★★★☆) - This is a lot of stuff, but it is just stuff. Compared to Heavy Equipment which gives you more stuff and other goodies this is a little shy. It also doesn’t really give you as much as you would maybe think. Because the main source of supplies/alloys/whatever isn’t scanning its missions and excavating. But hey, more stuff is good.
+
+Volunteer Army (★★★★★) - It's a free mimic beacon! That screams in pain when it gets shot! Sure it has a grenade and can shoot (with the accuracy of a rookie, boo) but really it’s a thing you can trick the enemy into shooting that aren’t your units. Though if they do die they count as a death in your final screen, which is made to annoy me!
+
+Bomb Squad (★★★☆☆) - You use this the same way you use Munitions Experts. Equip it, spam powered weapons (or grenades, if you want those) until you get the ones the you want, then unequip it. That’s a pretty good buff, but it is basically a one time thing.
+
+Decoys and Deceptions (★★★☆☆) - The chosen invading you isn’t that big of a deal, but delaying that mission can buy you just enough time to go kill them forever. It also slows down them getting new abilities, which is fine. It isn’t that good but at least it works for the entire run.
+
+Double Agent (★★★★★) - It's another free mimic beacon! It can give you a basic trooper, officer or stun lancer. But honestly, it’s a target for the enemies to shoot at this isn’t you. And it can trigger with Volunteer Army as well isn’t that fun.
+
+Impact Modeling (★★☆☆☆) - There are 2 armor researches in the entire game. Just 2. Sure speeding those up is nice but only 2 researches! That’s all this gets you!
+
+Information War (★★☆☆☆) - I honestly don’t care about the enemies Hack stat but it means you’re more likely to get goodies when hacking objectives. That’s nice. But also…eh it’s kind of whatever.
+
+Inside Job I/II (★★★☆☆) - Intel is good, this is more of it. So it's good…yea…um…that’s all I have to say.
+
+Inside Knowledge (★★★★★) - Upgrading the tier of every single attachment you have is absolutely insane. Plus 20 aim with a superior scope! Hell yea! +4 damage if you miss! The things this lets you do! I auto equip this every time it shows up.
+
+Integrated Warfare (★★★★☆) - This gives like 4-5 stat points in aim/will/dodge PCSs and +1 mobility with mobility PCSs, and that’s all great. Extra aim is good and extra mobility is good. You won’t get as much out of this as Inside Job just because high quality PCSs are harder to get than high quality attachments, but this is still pretty good.
+
+Modular Construction (★★★★★) - Facilities faster is very good. Just like with heavy equipment its power earlier than the game expects you to. It’s not quite as ace, but it is still extremely strong.
+
+Private Channel (★★★★★) - This gives you so much breathing room. Not quite as much as infiltrate (except in the rare mission types where you have a timer and aren’t concealed) but it still gives you just a little more room to play cautious. I find turn timers are basically a non-issue with this turned on.
+
+Quid Pro Quo (★★★★☆) - This saves you a nice bit of intel throughout a run, but you probably won’t miss this if you don’t have it. Still, it's quite good.
+
+Sabotage (★★★☆☆) - This turns off the AVATAR project for you, but the AVATAR project is basically a non factor. It can help in some edge cases and it takes a mental load off you, but you’ll live without it. Probably anyway.
+
+Tactical Analysis (★★★★★) - This is insane. A lot of enemies will just spend the one action this gives them to move into cover and do nothing else. There are exceptions. Spectres actually get more dangerous when you have this because instead of shadowbinding you which is bad, Avatars, Gatekeepers, and Sectopods will still basically take their full turn. But that’s still a lot of enemies that are way less threatening. It reduces the odds of a complete failure state occurring where you are trying to kill a pod then reveal another pod then another then another and then die. Because those new pods are basically stunned for a round, giving you a chance to stabilize. This isn’t bulletproof but it's damn good. 
+
+Under the Table I/II (★★★☆☆) - This is a decent chunk of supplies, but it isn’t super impactful. Supplies aren’t that hard to get compared to intel and this requires selling stuff which isn’t usually a big deal but it is a cost compared to something like Popular Support. Still, this is fine.
+
+Vulture (★★★☆☆) - More loot is good. More PCSs, more attachments is all nice. It isn’t anything mind blowing but it does raise the odds (by rolling the dice more, to be clear each item chance isn’t changed individually) of getting superior items out in the field rather than having to buy them, and that’s nice.
+
+Weak Points (★★★☆☆) - More shred is good, especially later into a run, but early when the only armored enemies are turrets this isn’t doing much. Even Mutons and MECs aren’t that much easier to take down with this. But for things like late game Chosen, Andromodons, Gatekeepers, etc. This is a nice bit of de facto extra damage. It isn’t mindblowing but it’s solid. 
+
+Art of War (★★★★☆) - Ability points can really give you some extra strength but usually I don’t find myself lacking them too hard. But if you high roll this can be really powerful. And more is always better.
+
+Bonds of War (★★☆☆☆) - Bonds are neat but they aren’t everything and this is just a tiny difference compared to everything a run has going on in it. I think if you showed me two runs, one with this equipped and the other without I might not even notice the difference.
+
+Deeper Learning I/II (★★★★☆) - Yes I would like higher level ranked soldiers faster, thank you. There isn’t too much to say higher ranked soldiers are your greatest asset and this gives you more of them faster, yea that’s pretty good.
+
+Feedback (★★★☆☆) - This is funny, but it’s not that good. It can cause codexes to kill themselves psionic bombing you because each individual soldier psi-bombed will cause feedback damage but even then it’s not that big of a deal. It can help but psi attacks just aren’t that dangerous to begin with. Still, it is funny.
+
+Greater Resolve (★★★☆☆) - So how much fire do you want to play with? Because if you deploy an injured soldier they are one hit away from death most of the time. So you are betting that bringing this soldier will make you flawless the mission, or at least close to it. That’s a spicy proposition. Now if your entire roster is bleeding and this lets you deploy a full squad instead of 6 redshirts that’s quite nice but man is this risky. I mean I’ll usually take those odds but…it is spicy.
+
+Hidden Reserves I/II (★★★★☆) - This can save you some supplies and engineer time for not having to build a power relay as soon or having to upgrade it but you will still have to do those things eventually, it just helps you build the better things earlier. Now that is helpful but not that helpful. And also you can’t unequip this if that power is being used, just like you can’t remove an engineer from a power relay if you are using the power from that.
+
+Machine Learning (★☆☆☆☆) - If you read my research guide you’d know I don’t value breakthroughs much, and this makes them happen earlier when I have more important things going on. Nope, not for me.
+
+Mental Fortitude (★★★☆☆) - This is way better than it first appears. If the battle madness occurs on the enemy's turn, say because they got Mindspun by a Sectoid, then they will be back under your control at the start of your turn, which is very nice. Obviously it isn’t the biggest deal in the world but it can save your ass sometimes. Even then just knowing you’ll get them back under your command sooner is a nice bit of mental relief and lets you plan for it. This is pretty solid. 
+
+Noble Cause (★★★★★) - Fatigue is the only thing really holding me back from flawlessing this entire game and this makes it so much less of an issue. If you play your cards right with this you can go 5, 6 missions with the same units on them, which is obviously very good. Even without that, just increasing the percent times your higher ranked soldiers see missions is super strong.
+
+Pursuit of Knowledge (★★★★☆) - If you don’t build a lab this literally does nothing but I usually do so this is a lot of extra science, which is very nice. 
+
+Stay with Me (★★★☆☆) - Even with this there is no way to get a 100% chance to bleedout, so you are just more likely to get luckier when you fuck up. This might do nothing at all. Still, we’re all human. We all fuck up and get soldiers killed sometimes and rolling the dice to make that sting less is pretty good. Just don’t count on it.
+
+Suit Up (★★★☆☆) - Is this my last opportunity to shit on vests? That’s sad, I love doing that! As I’ve said a lot, I hate vests. I never use them, so that part of this does nothing. What this does do is make the spider/exo/serpent/etc. Suits instantly crafted. And that is quite nice. You can’t spam build all of them at once because you unlock them at different times, but if nothing stronger is occupying the slot then you can just have this to save on proving ground time. Which is pretty good.
+
+Tithe (★★★☆☆) - More stuff is good, and for supply raids this is a lot more stuff. More intel from council missions is also nice. Yea, it’s good. It's more stuff.
+
+Trial by Fire (★★★★☆) - This is basically the same thing as Art of War, which is to say pretty good but not essential. It is probably less AP overall, but it has the benefit of working no matter the ranks of your soldiers. So whatever.
+
+Vengeance (★☆☆☆☆) - So a unit has to die, so we’re not off to a great start, and then the buff I get is random? So it might do nothing? Yea…no this basically does nothing. It can be OK if you like mind control a unit then kill it because that triggers the buff but I strive for deathless runs so this literally does nothing for me. And even if you’re not. How many units are going to die in a run? How often is this going to pull you out of the fire? No…just no.
+
+Alight, and that’s all of them. I feel like I had less to say because some of their effects are very obviously good or bad, but yea. We have just one more player facing aspect to cover, Covert Ops. See you all then!
+
+EDIT: so I forgot to mention that continent bonuses are a subset of these, some of them can show up as continent bonuses. The list is:
+
+Munitions Experts
+
+Live Fire Training
+
+Volunteer Army
+
+Rapid Collection
+
+Resistance Network
+
+Bomb Squad
+
+Integrated Warfare
+
+Inside Knowledge
+
+Double Agent
+
+Tactical Analysis
+
+Suit Up
+
+Greater Resolve
+
+Mental Fortitude
+
+Pursuit of Knowledge
+
+It doesn't really change how I think of them, but you do get them for (kind of) free, which is neat.
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+104
+
+Downvote
+
+36
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/SwiftlyChill avatar
+SwiftlyChill
+•
+1mo ago
+These come from the same pool as the continent bonuses, right? How does that all work?
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+So continent bonuses are a subset of these. Actually I should add this to the full guide but the list of continent bonuses are:
+
+Munitions Experts Live Fire Training Volunteer Army Rapid Collection Resistance Network Bomb Squad Intergrated Warfare Inside Knowledge Double Agent Tactical Analysis Suit Up Greater Resolve Mental Fortitude Pursuit of Knowledge
+
+u/Reddit-Arrien avatar
+Reddit-Arrien
+•
+1mo ago
+•
+Edited 1mo ago
+I might be very unlucky, but I never seen double agent give an officer, only a Trooper or a Stun Lancer
+
+Also from my experience, the soldier from volunteer army usually has better aim (better than a rookie at least), but no grenade, armed with the strongest Assault Rifle you researched, not bought (ie if you complete plasma rifle research, he'll have it even if you didn't buy it and are still using Magnetic Rifles).
+
+Leading_Resource_944
+•
+1mo ago
+I once got an officier. It is just extremly rare. It think it is somewaht: officier:stunlancer:trooper
+
+1:3:6
+
+Just observation, no datamining.
+
+rynchenzo
+•
+1mo ago
+Just had it on my last run late in the game, volunteer army does indeed use your best available rifle
+
+u/iamthehob0 avatar
+iamthehob0
+•
+1mo ago
+•
+Edited 1mo ago
+It's one of my favorite orders so I have it on a lot, and I've seen the best result maybe... twice?
+In about 10 full runs. Obviously it isn't up 100% of the time for all those runs but it's definitely rare.
+
+u/nguyenm avatar
+nguyenm
+•
+1mo ago
+Using ally Advent units to pickup unconscious VIPs result in quite a hilarious visual bug during movement, and especially during Firebrand exfil. 
+
+I think once I used an Advent Trooper to pickup the Stasis Suit and I think the whole cutscene was just the suit moving on its own.
+
+LoveTheGiraffe
+•
+1mo ago
+Amazing job as always, I csn't put into words how much I appreciate your guide and how much it makes me want to start another run!
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I am a river to my people.
+
+u/CollegeWithMattie avatar
+CollegeWithMattie
+•
+1mo ago
+These are excellent, but I think you would be better served to merge your formatting into a single system. Currently you list all the items, the item’s details, and a star review and then afterwards list the item again, the star review again, and then your analysis. It ends up being hard to read and cumbersome. Just make it one list, commander!
+
+u/iamthehob0 avatar
+iamthehob0
+•
+1mo ago
+It made more sense for weapons and such that had stats to list in a table, but you are right that here it looks clunky.
+
+u/BlinkyMJF avatar
+BlinkyMJF
+•
+1mo ago
+Double Agent has neat interaction with the Dark Event that gives Stun Lancers the bending reed ability (move after hitting). It also applies to your Stun Lancer if you get one from double agent. Don't remember if it works with advent units getting bleed/poison etc. Playing with permanent dark events there's only a few events that you might want to let through in niche cases, this is one of them.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+•
+Edited 1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I know for sure that ADVENT units Dominated by Psi Operatives do get Stiletto and Viper if they are relevant on the enemy. The issue with Double Agent is that Stiletto and Viper are just a chance even by default on enemies, not guaranteed on all ADVENT units, pretty sure. Both are minor because don't get shot, and Double Agent is RNG on whether it'll give you a unit at all in the first place.
+
+genericJohnDeo
+•
+1mo ago
+You're sentence about specters on tactical analysis seems incomplete. I assume you were going to say they sometime use horror instead. I feel like the only time I've even seem them use that ability is with tactical analysis.
+
+Moistinatining
+•
+1mo ago
+It's definitely either horror or that they'll simply shoot at you, which isn't great because they have 80 aim on Commander+.
+
+ConcreteMonster
+•
+1mo ago
+How do you get new options for resistance orders? Is it just random? It seems like if you’re really gunning for a particular resistance order it’s super unlikely that you’ll get it early enough to make a difference. Is it really just luck of the draw?
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The first two hunt the chosen covert ops give you new resistance orders, but yea it's random
+
+u/ulughen avatar
+ulughen
+•
+1mo ago
+Sabotage is great because it allows you to skip facility raids and avoid fatigue hit, which is a very important resource.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yeah Sabotage is quite strong on both Commander and Legend. It might save you from having to burn time on the Reduce Avatar Progress Covert Ops as well as giving you more breathing room on attacking facilities. I had a Legend campaign with it active early and it's crazy how much it reduces the stress of Geoscape timing. You can borderline barely worry about Avatar Progress for months. Less useful as the campaign goes on though, as you can hit more facilities and story missions etc.
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+1mo ago
+Different people, different priorities. My take would be:
+
+Ballastics Modeling - 2-4 stars
+
+The earlier you get it, the better. A lot of your research goes into weapons. In the end it can shave off a full month of research, that's a lot.
+
+Between the Eyes (★★★☆☆) - 5 stars in LWoTC. In LWoTC the Lost are actually dangerous because headshots are disabled for them. They evolve for more hitpoints and more damage in later months, becoming mini beserkers. They can climb walls too, so no longer standing on top of a ladder preventing them following you.
+
+Guardian Angels (★★☆☆☆)
+
+More loot, more experience, but also sometimes inconvenient. I want to control what role my rookies become so I train them in the GTS anyway. Rookies are not allowed on covert ops by me.
+
+Lightning Strike 2 stars
+
+Moving faster into unscouted territory raises the risk of activating a pod inconviently. This ability is worth 1 extra turn on timed missions if you don't run into a pod. That's not that much. Scouts are usually fast anyway, especially Reapers. They don't need the extra speed. Private Channel and Infiltrate are much better.
+
+Live Fire Training 2 stars
+
+You can replace it by hiring more troops which are trained up to sergeant and not more. Anyway this is useful only if you want to conduct a mission with the sitrep Low Profile. How many of them do you plan to do? Zero, if it can be avoided.
+
+Munitions Experts 5 stars
+
+You don't want to have this all the time, but maybe one or two months after you researched the ammo in the proving ground. It spares you a month or more of proving ground time, which is excellent.
+
+Popular Support I/II (★★★☆☆)
+
+Good into the midgame. At some point you will be swimming in supplies and you don't need it anymore.
+
+Rapid Collection 5 stars.
+
+Saving time on the Geoscape is nuts. Always on. Not only does it save you time on the Geoscape it also saves you time on building facilities and in the proving ground because you have the money earlier. The acceleration you get in building equipment and facilities is at least the same as with Heavy Equipment and it saves time on the Geoscape to boot, so it can't be worth less than Heavy Equipment.
+
+Recruiting Centers 3 stars early, else who cares. 4 stars in LWoTC.
+
+In the beginning you might not get the squaddies you want for team B, so you might want to hire a couple of guys early. In LWoTC you'll hire at least 40 soldiers and this adds up. In WoTC I hire maybe 8 because I don't want to be stretched too thinly. It's also useful to screen for genius combat intelligence soldiers and above. In mid game and beyond you'll get most soldiers from missions or the Black Market.
+
+Scavengers 2 stars
+
+You don't want to scan for resources that often. Geospace time is valuable. You'll get most from missions, contacted regions and the Black Market.
+
+Volunteer Army 3 stars
+
+More dakka is always good, even if it's only basic equipment. Also one extra grenade. I don't use them as mimic beacons. I'm not a monster. It's a matter of honor that they survive. That's what we are fighting for.
+
+Bomb Squad (★★★☆☆) -
+
+It's not quite as useful as Munitions Expert because discovery of new grenades and heavy weapons is stretched more over time.
+
+Double Agent 3 stars
+
+Same as Volunteer. Since he is fighting on our side I treat him as one of us.
+
+Information War 5 stars
+
+Hohoho! Now I have a Sectopod! If I get this I might rename one of my hackers into John McClane. It's like Christmas.
+
+Inside Job I/II 2 stars
+
+A lot of my intel comes from skullmining and hacking lampposts. I'm usually not short on intel. If there is nothing better I'll equip it.
+
+Modular Construction 2 stars
+
+Early I don't have enough supplies to profit much from it, and when I have the supplies I have enough engineers and building slots that I can build multiple facilities simultaneously. No need for this.
+
+Private Channel 4 stars
+
+Excellent, but Infiltrate is much better, so there has to be a difference.
+
+Quid Pro Quo 5 stars
+
+I'm rich! Empty the Black Market. No more difficult decisions.
+
+Sabotage 4 stars
+
+Gains a lot of strategic freedom in what missions you want to do.
+
+Tactical Analysis (★★★★★) - This is insane.
+
+Well said.
+
+Under the Table I/II (★★★☆☆) - at best.
+
+Those 2 cards together are worth less than the one card of Quid Pro Quo.
+
+Vulture 4 stars
+
+Same reasons. If you play with mods that have their own equipment like the Jedi class it's even better because you need the loot to equip him.
+
+Deeper Learning I/II 2 stars
+
+Troops level fast enough. I think in July I have my first colonels anyway. Sometimes there is a covert ops that can give a full level of experience. 2 cards is a lot for not much gain.
+
+Greater Resolve 1 star
+
+If you ever have the need to field a injured soldier your barracks is too thin. Can be easily replaced by hiring more soldiers and building up a B team.
+
+Injured soldiers can get shaken easily and now they are a really long time in the bunk.
+
+Hidden Reserves I/II 2 stars
+
+Upgrading a facility doesn't use more power, so it doesn't do that much. You can build one more facility before having to build a power relay or upgrading it. Early it spares you 2 weeks construction time and 80 (100 on legend) supplies to get the next facility up, that's ok. Later it is next to unimportant.
+
+Machine Learning 2 stars
+
+Nice after you have researched plasma. Before it doesn't do much except if you get one of the golden ones: Future Combat, Spare Parts, Interchangeable Upgrades, Adaptive Personal Combat Sims, Improved Conventional/Magnetic/Beam Weapons. It would be much better if it scaled with the number of scientists like normal research.
+
+Suit Up (★★★☆☆)
+
+If you play on legend you'll start to like vests. It also speeds up equipping the squad with Exo-/War-Suits a lot.
+
+Everything else I see the same.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+So I'm not going to respond to all of these but a few are worth noting.
+
+The most obvious one being I've been playing on L/I for years and hate vests with the passion of 1000 white hot suns. Just give me the grenade, it is infinitely worth useful.
+
+Also upgrading facilities does take more power, depending on the facility. Upgraded Labs, Shadow Chamber, Ring, Ress. Comms, all take more power when upgraded. I cover this in tbe building guide from a few days ago.
+
+I also never hack units ever. Anything that a) has a failure rate b) can buff the enemy if I fail and c) is a turn ending action just isn't worth it. Just throw a mimic beacon.
+
+The rest is whatever.
+
+u/seto_kiaba avatar
+seto_kiaba
+•
+1mo ago
+"You won’t get as much out of this as Inside Job just because high quality PCSs are harder to get than high quality attachments, but this is still pretty good."
+
+I believe you mean Inside Knowledge. 
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+•
+Edited 1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I have literally never found Live Fire Training all that relevant past the early game. Even if you get a surprise death or two, evac out and lose the mission instead vs losing the whole team. IMO crazy hot take given the stance on medkits etc. Too many deaths = skill issue, this Resistance Order isn't going to fix that same way Recruiting Centers doesn't and similar to why Vengeance is bad, even if Live Fire Training is the best of the bunch due to having non-death effects. But you don't want crutch bonuses oriented around death as a condition, even on ironman. Outside of the early game it softens the blow of Low Profile or soldier deaths, but honestly I'll be blunt and say who cares as you shouldn't be seeing either that often. Low Profile is borderline pure RNG anyways, especially if it's on a Guerrilla Op you don't have to chose, and it doesn't do anything vs Surgical as the actual worst SITREP. Low Profile actually meaningfully negatively affects me maybe once a Legend campaign, yawn. It's a decent insurance policy as a continent bonus but I wouldn't often slot it in as an Order.
+
+Rapid Collection is at least ★★★★☆ IMO, and only not five because alloys and especially elerium are typically your real bottlenecks for upgrades. Still though, some things only cost supplies or mostly so, especially in the early to mid game as the most critical decisions before diminishing returns kicks in. This order vs not may allow you to get an important facility started sooner, or an equipment upgrade a mission sooner, all of which absolutely have an outsized effect on Legend where you are trying to catch up. This is one of the last orders I tend to switch out, basically only at the end of the game when more Supplies no longer really matter and you have a bunch of regions contacted. 3 days might not seem like a lot, but if you push the Avatar Project timer, facilities, etc, it all adds up, especially compounding the longer you have it active where it saves you entire scan times you otherwise couldn't do. Time-locked resources are effectively the most rare of all in this game.
+
+Resistance Network is ★★★★★ stars, especially on Legend. You're likely going to have to build radio relays somewhat more often on Legend to not just totally blow Intel on costs that are already inherently doubled (especially if you want to use the Black Market with any regularity, like always rare elerium). Your alternative is spending research time on data pads etc which is a valuable time gated resource til towards the late game, around to post Plasma weapons and such. Saving the region contact time cost is HUGE, almost can't be overstated, especially because it almost guarantees you the ability to rush unlocking an alien facility even if the final Avatar failure timer is active. You can plan ahead to mitigate this, so it's not NEEDED, but again it's a night and day difference with the game being much easier with it up. It also effectively boosts your Supply income any time prior to the late game. And still good into the late game to get Continent Bonuses and finish up the last Shadow Chamber projects and missions.
+
+Volunteer Army units can pick up knocked out VIPs, which is a cool little niche. They're usually the weakest member of your whole team but hey it frees up a real XCOM soldier for doing more important stuff and helping out! And for practical purposes it doesn't matter if they die. I think the fact that this bonus is not every mission is what weakens Volunteer Army and Double Agent because you can't count on it strategically, but more action economy, even just one extra grenade, is pretty good. Double Agent is the weaker of the two as you might get an ADVENT soldier that is kind of whatever in terms of tactical utility. It's funny and cathartic to run with Lancers though and use their stun baton! These are never bad, but both are probably ★★★★☆ for me as I often go long times with other orders as a priority to pump out fighting power upgrades vs random action economy. This extra soldier is less powerful than Squad Size upgrades since they are barebones on class skills and equipment.
+
+Inside Knowledge doesn't actually get you 4 on stocks. It's a display / coding bug. The other bonuses work as far as I know, maybe something to do with percentages vs the integer on stocks idk.
+
+I think Modular Construction is overrated. Excavation gives you slots for whatever you want plus supplies and/or alloys and elerium, making Heavy Equipment much better of the two. A faster facility is handy but rarely your bottleneck (since power or supplies sometimes limit you temporarily), and having the empty slots usually is instead for a while IMO. I think the earlier you use this the better, but once you're into (and definitely when past) the second row, the individual facilities and their timing matter less. Skirmisher Resistance Orders are pretty competitive IMO, so this is tough for me to pick unless the rest I have are whatever or I'm aiming for something specific like the Shadow Chamber for Avatar Progress reduction or whatever.
+
+Tactical Analysis in insane for Legend, borderline a ★★★★★★ pickup. Sometimes the pod will walk into you on their turn and it's no bonus, but getting effectively a half stun / frost bomb lite effect for FREE every time you activate a pod is major. IIRC it totally negates stuff like exposing a turret where they can't act for a turn, and killing the action economy of many enemies is amazing if they ever live. Almost a non-consumable Mimic Beacon on crack.
+
+Art of War is better than it seems because it offers more flexibility for your soldiers, and each time they level up rather than merely mostly for the higher Combat Intelligence ones etc. It's especially good on faction heroes to get more skills than you otherwise might be able to afford which is cool since they fit a specific role anyways. I think I actually prefer this one over the xp boosting Deep Learning, which is quite nice for ranking but tactical flexibility and the random skills from the Training Center can in fact change the utility of individual soldiers, whereas you'll eventually get the baseline Colonels you want even if it's slower. It was a nicer bonus than first glance, but ★★★★☆ is probably fair.
+
+I feel like I should like Greater Resolve more than I actually do, but timing Lightly Wounded with other soldiers' Tiredness doesn't often line up well. It might make the difference between taking a given soldier out on a mission they otherwise couldn't go on, but like, don't get injured in the first place (or have an Infirmary if you do), and a couple days of waiting difference is often minor to the point it doesn't make much a difference since Lightly Wounded can be a small time range. Also, if a soldier is injured AND Tired, the detrimental effects of Tiredness still apply so it's not a workaround for that despite what the summary display might suggest.
+
+u/InternetHolon avatar
+InternetHolon
+•
+1mo ago
+"It's a free mimic beacon! That screams in pain when it gets shot!"
+
+That's cold 😭😭😭
+
+dwhite10701
+•
+1mo ago
+Do you skip volunteer army and double agent when you're going for a run with no deaths?
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I mean you can keep them alive and it is extra action economy. As long as they aren't dead by the end of the mission it doesn't count against you. It's really similar to the Haven retaliation missions when you have extra NPCs on your side, except you can actually control these NPCs!
+
+rynchenzo
+•
+1mo ago
+Is there anything that can be done to influence the orders that you are offered, aside from doing the covert actions that offer them?
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Nope
+
+rynchenzo
+•
+1mo ago
+Sad face emoji
+
+u/Bubbel13 avatar
+Bubbel13
+•
+1mo ago
+Codex killing itself with feedback using a psibomb on my squad? Yep, just happened in my last mission. When I wanted to skulljack that Codex to progress the main story. Oh well, better luck next time ^^
+
+u/eikin34 avatar
+eikin34
+•
+1mo ago
+You are actually understating Tactical Analysis, it is too good and basically makes the game worthless to play. You will generally win at xcom campaigns unless it breaks your spirit by killing the troops you love, but the individual missions are still fun to play. Tactical Analysis removes that fun. Even mimic beacons can be saved as a sort of last resort so you can still have fun if you use them.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Pods can still be alerted and wander in on the enemy turn and get their normal actions so you have to fight normally. However, on any pod you activate it is a significant damage reduction. Only a few like Sectopods and Codices do much of anything at all. Near infinite almost Mimic Beacon is broken though.
+
+u/eikin34 avatar
+eikin34
+•
+1mo ago
+I am against using mimic beacons as well. But if you take one, you can still beat a mission and be like, "I am cool, I beat the mission without using mimic beacons". With TA pretty much every mission you play will be weak and not worth your human time.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I've never gotten Tactical Analysis early to see if it's a huge difference. Typically I've slotted it in as insurance when I've already got Darklance etc and am basically just killshotting a bunch of enemies before they even get a turn.
+
+[deleted]
+•
+1mo ago

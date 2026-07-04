@@ -1,0 +1,623 @@
+This is probably the area on the strategic layer where people fuck up the most, so I thought it’d be the first in depth guide for this layer of play. I’m going to start with just a list of things to research in order. If you want to turn your brain off and just do that order, then you can, it’ll probably work (though obviously do any instant autopsy that pops up). But then I’ll go over every research in depth and the logic behind where this list comes from. So this is my standard order:
+
+Alien Biotech
+
+Resistance Communications
+
+Modular Weapons
+
+Officer Autopsy
+
+Magnetic Weapons
+
+(Experimental Weapons)
+
+Faceless Autopsy
+
+Gauss Weapons
+
+Resistance Radio
+
+Hybrid Materials
+
+Plated Armor
+
+MEC Autopsy
+
+Muton Autopsy
+
+Alien Encryption
+
+Elerium
+
+Plasma Rifle
+
+Beam Cannon
+
+Storm Gun
+
+Powered Armor
+
+Archon Autopsy
+
+Plasma Lance
+
+Sectopod Autopsy
+
+Whatever else I don’t care after this
+
+I didn’t include the shadow chamber stuff or the chosen weapons because when you do those is really odd (do the Chosen Weapons ASAP, do the shadow chamber ones if you are worried about the AVATAR project or want to know where to expand to but honestly you can leave them for a while) and doesn’t fit with everything else. Also the later you get into the list the less the exact placement matters. Doing the storm gun before the beam cannon is perfectly reasonable for example. And one final caveat this is assuming you don’t care about psionics like I usually don’t. I think that’s typically better for you, but if you want to sneak them in you can do so after the Muton Autopsy, I just usually don’t.
+
+But in the end that’s the order. If you want to turn your brain off and just do that, have fun and hope it helps. For everyone else, let’s go through every research project and rank them. With my normal 5 star rating system, though in this case here’s what each rating means.
+
+★★★★★ - As soon as I can. I will drop everything to do these. 
+★★★★☆ - Stuff that is definitely on the to do list but there is some reason to wait.
+★★★☆☆ - I’ll get to them when I get to them, otherwise they can wait.
+★★☆☆☆ - I mean, if I got time, sure.
+★☆☆☆☆ - I will not click on this unless it is instant (there’s a hint for you).
+
+Here is a table with every research project in this game and how I rate them as well as their costs, prerequisites and unlocks (items, not other research, that’s covered by the prerequisites). The ones in bold are necessary for story progression.
+
+Research Project	Cost	Prerequisites	Unlocks
+Alien Biotech (★★★★★) 	None	-	-
+Modular Weapons (★★★★★) 	None	-	Equipping Weapon Mods
+Hybrid Materials (★★★☆☆)	4 ADVENT Trooper Corpses	-	Nanoscale Vests
+Resistance Communications (★★★★★) 	None	Must complete first G. Op	Contacting other regions
+ADVENT Officer Autopsy (★★★★☆) 	1 Officer Corpse	Alien Biotech	Proving Ground, PCSs
+Magnetic Weapons (★★★★★)	None	Modular Weapons	Magnetic Rifle, Magnetic Pistol, Magnetic Bullpup, Shard Gun, Beam Autopistol
+Gauss Weapons (★★★★★)	None	Magnetic Weapons	Gauss Rifle, Magnetic Cannon, Temnotic Rifle
+Plated Armor (★★★★☆) 	15 Alien Alloys	Hybrid Materials	Predator Armor, EXO Suit, Spider Suit, Tempest Gauntlets
+Resistance Radio (★★★★☆) 	None	Resistance Communications	Radio Relays and Continent Bonuses
+Psionics (★★☆☆☆)	10 Elerium Crystals	Sectoid Autopsy	Psi Lab
+Alien Encryption (★★★☆☆)	None	Completed the Blacksite and/or Skulljacked an Officer	Shadow Chamber
+Elerium (★★★★☆)	40 Elerium Crystals	MEC Breakdown	Elerium Conduit
+Powered Armor **(**★★★☆☆)	30 Alloys, 10 Crystals	Elerium	Warden Armor, WAR Suit, Wraith Suit, Viper Armor, RAGE Armor
+Plasma Rifle (★★★★☆)	15 Alloys,15 Crystals	Elerium	Plasma Rifle, Beam Pistol, Beam Bullpup, Beam Autopistol
+Storm Gun (★★★★☆)	20 Alloys	Plasma Rifle	Storm Gun
+Beam Cannon (★★★★☆)	10 Alloys, 10 Crystals	Plasma Rifle	Beam Cannon
+Plasma Lance (★★★★☆)	10 Alloys, 10 Crystals	Plasma Rifle, Archon Autopsy	Plasma Lance, Shadow Lance
+Experimental Weapons (★★★★☆)	None	Have integrated DLC	Hunter Axes, Frost Bomb, Shadowkeeper, Bolt Caster
+Assassin Weapons (★★★★★)	None	Killed the Assassin permanently	Katana, Arashi
+Hunter Weapons (★★★★★)	None	Killed the Hunter permanently	Darklance, Darkclaw
+Warlock Weapons (★★★★★)	None	Killed the Warlock permanently	Disruptor Rifle
+ADVENT Datapad Decryption (★★★☆☆)	1 Datapad	-	About 50-70 Intel
+Alien Data Cache Decryption (★★★☆☆)	1 Data Cache	-	About 100-120 Intel
+Facility Lead (★★★☆☆)	50 Intel, 1 Facility Lead		Access to a Facility in a region you do not control
+ADVENT Trooper Autopsy (★☆☆☆☆)	1 Trooper Corpse	Alien Biotech	Battle Scanners
+Sectoid Autopsy (★☆☆☆☆)	1 Sectoid Corpse	Alien Biotech	Mindshields, Advanced Psi Amp
+Stun Lancers Autopsy (★☆☆☆☆)	1 Stun Lancer Corpse	Alien Biotech	Ionic Blades, Ionic Ripjack, Ionic Axes
+ADVENT Priest Autopsy (★☆☆☆☆)	1 Priest Corpse	Alien Biotech	Sustaining Sphere
+ADVENT Turret Breakdown (★☆☆☆☆)	1 Turret Wreck	Alien Biotech	Defense Matrix
+Faceless Autopsy (★★★★☆)	1 Faceless Corpse	Alien Biotech	Mimic Beacon
+Viper Autopsy (★☆☆☆☆)	1 Viper Corpse	Alien Biotech	Nanoscale Medkits
+ADVENT Purifier Autopsy (★☆☆☆☆)	1 Purifier Corpse	Alien Biotech	+1 HP on vests
+ADVENT MEC Breakdown (★★★★★)	1 MEC Wreck	Alien Biotech	Bluescreen Protocol, T2 Gremlin
+Muton Autopsy (★★★★☆)	1 Muton Corpse	Alien Biotech	Plasma Grenades
+Berserker Autopsy (★☆☆☆☆)	1 Berserker Corpse	Alien Biotech	Overdrive Serum
+Spectre Autopsy (★☆☆☆☆)	1 Spectre Autopsy	Alien Biotech	Refracting Field
+ADVENT Shieldbearer Autopsy (★☆☆☆☆)	1 ADVENT Shieldbearer Corpse	Alien Biotech	Experimental Vests
+Archon Autopsy (★★★☆☆)	1 Archon Corpse	Alien Biotech	Beam Sword, Beam Ripjack, Beam Axes
+Chryssalid Autopsy (★☆☆☆☆)	1 Chryssalid corpse	Alien Biotech	Hellweave
+Andromedon Autopsy (★★☆☆☆)	1 Andromedon Corpse	Alien Biotech	Proximity Mine
+Sectopod Breakdown (★★★☆☆)	1 Sectopod Wreck	Alien Biotech	T3 Gremlin
+Gatekeeper Autopsy (★★☆☆☆)	1 Gatekeeper Corpse	Alien Biotech	Alien Psi-Amp
+Viper King Autopsy (★★★★☆)	1 Viper King Corpse (collected always when the Viper King dies)	Alien Biotech	Viper Suit
+Berserker King Autopsy (★★★★☆)	1 Berserker Queen Corpse (collected always when the Berserker Queen dies)	Alien Biotech	RAGE Suit
+Archon King Autopsy (★★★★☆)	1 Archon King Corpse (collected always when the Archon King dies)	Alien Biotech	Icarus Armor
+Good lord that was annoying to type out. And I wish I could tell you how long everything could take, but alas my abilities are limited in this regard. I might go back and update this with that information, but it would take a lot of very tedious work I haven’t done yet. 
+
+OK now for the fun part, I am going to go through each research project one by one and not just explain the rating but also when you should do it. I’ll separate things into early, mid, late, and endgame. I can’t give you exact dates because that’s not how this game works but you’ll see my logic. Well, nothing more than to get to it.
+
+Alien Biotech (★★★★★) - Early - This is usually the first research I do. It unlocks autopsies and is necessary to beat the game and you have to do it eventually so might as well get it out of the way. You could do modular weapons first, but unless Gatecrasher gave you a good weapon mod there isn’t anything you get out of that out of the gate. 
+
+Modular Weapons (★★★★★) - Early - Absolutely necessary not only to get weapon mods which are a huge source of power but also they are on the way to mag weapons, which are essential. 
+
+Hybrid Materials (★★★☆☆) - Early/Mid - This unlocks vests, which I hate with the fiery passion of 1000 white hot suns (that’s a joke) but you do need to do this for predator armor. It waits until mag weapons are done and maybe even a little longer but you will do it eventually, and on the quicker end.
+
+Resistance Communications (★★★★★) - Early - If you want to contact a 2nd region by the time the 2nd G. Op spawns, you must do this as soon as possible. Otherwise you will be too slow and miss out on the choice between G. Op missions, and that can be deadly. You can be forced into an early kill the general mission (aka hell) and be in a really bad spot. You can miss out on countering an extremely oppressive dark event, you can miss out on getting another scientist or engineer you need as soon as possible. And of course it’s necessary to beat the game, get more supplies from contacting regions, etc.
+
+ADVENT Officer Autopsy (★★★★☆) - Early/Mid - When you do this depends on when you build the Proving Ground. You typically either build it 3rd or 5th (power always has to be 4th), and if you want to build it 3rd you have to do this one to unlock that facility, so it goes higher in the priority list. I usually build it 5th and therefore delay this for a bit, but it's up to you.
+
+Magnetic Weapons (★★★★★) - Early - You need mag weapons. You need them yesterday. They give you enough damage to beat the game. If you do exquisite timing runs on legend you literally don’t have time for gauss weapons and above you rock mag rifles and shard guns into the late game. This is probably the single biggest power spike you get. The only thing slowing you down is this takes so long to finish. While technically if you start researching them instantly you will always finish them sooner, it comes at the cost of not researching other stuff in the meantime. Because research scales by percent if something would cost 2 days and has 20% shaved off it now costs 38 hours. If something costs 32 days it now costs 26 days. That is a huge difference. My general rule of thumb is once mag weapons take 32 days to research on legend, click it. Before that, do other stuff. That will vary based on when you get offered scientists and if you build a lab and all that, but that is the general rule I follow. And if you are scientist starved I wouldn’t do this late regardless. By April 26th you really want to have this done.
+
+Gauss Weapons (★★★★★) - Early - Sometimes I sneak in the faceless autopsy between this and mag weapons if the 2nd retaliation mission finishes around that time (more about that later) but otherwise I just click this immediately after magnetic weapons. These weapons are very strong and I want them.
+
+Plated Armor (★★★★☆) - Mid - There are so many priorities to get through and predator armor is expensive. If you can’t afford to build them, then doing this research gets you nothing. And with weapons and mimic beacons and bluescreen rounds to get this can wait for a bit. You do really, really, really need predator armor (and exo/spider suits) but it has to wait just a hair.
+
+Resistance Radio (★★★★☆) - Early - You literally need to do this to beat the game and it doesn’t take super long so you might be able to sneak it in before mag weapons. Maybe not, but maybe yes! Regardless this lets you build radio relays which gives you continent bonuses (range from middling from amazing) and lets you not spend 18 trillion intel contacting new regions. You will do this pretty quick into a run, generally.
+
+Psionics (★★☆☆☆) - Mid/Late - So if you want to use Psi ops you have to do this, but they are so expensive and it takes time off of doing more important things. You might be able to sneak it in right after you research elerium or there about, but eh. It’s a step on the ladder to a thing that isn’t really worth it so…eh….
+
+Alien Encryption (★★★☆☆) - Mid - I presume you are reading this guide because you want to beat this game at L/I and so doing this is literally mandatory. You don’t need to rush it, but the Shadow Chamber is a good building to have by giving you a heads up on what you are about to fight so it’s still worthwhile on its merits regardless. Also winning the video game, that’s good.
+
+Elerium (★★★★☆) - Mid - The research itself does very little but it unlocks plasma weapons and obviously that is very good, so you want to do this as soon as you can afford it. The elerium crystals can be a bit pricey so you might delay it for that or just because you want mimic beacons before you bother with this or whatever else, but this is certainly on the to do list. 
+
+Powered Armor (★★★☆☆) - Late - Powered Armor, both as a research and the actual Warden Armor, is expensive as shit so you will wait on this until you can afford to build the things. Still, you have to build at least one WAR suit if you want blaster launchers, and you definitely want blaster launchers. So you’ll do this eventually. 
+
+Plasma Rifle (★★★★☆) - Mid/Late - This unlocks a lot of extra damage for a good few units as well as being necessary for the other beam weapons. So obviously, you are going to do this. The thing is, you can beat the game on mag weapons alone. Like, I wouldn’t recommend it, but it can be done. So you don’t absolutely need this, and it can be such that you really need to “not lose the game to the AVATAR project” things when this pops, at least in my experience. So obviously you delay it for that. But this is obviously of very high value.
+
+Beam Cannon/Storm Gun/Plasma Lance (★★★★☆) - Late - To avoid having to repeat myself 10 trillion times, you do these when you have time, but they aren’t essential. The first one I’d recommend is the Beam Cannon because the other ones can be replaced with a Chosen Weapon, but otherwise yea you do these. Shame Plasma Lance requires another research before it. Sharpshooters really can’t have nice things can they?
+
+Assassin/Warlock/Hunter Weapons (★★★★★) - Late - These are the best weapons in the game and you went through the whole rigmarole of killing the Chosen so you probably should use their weapons. It makes the sharpshooter class actually good and makes rangers even stronger. What more do you want? Free crits on the AVATARs are good, too.
+
+ADVENT Datapad Decryption/Alien Data Cache Decryption (★★★☆☆) - Mid/Late/Whenever you need them really - Sometimes you need a little more intel to reach the next region to not lose, and obviously “don’t lose” is your highest priority. But sometimes you don’t need more intel and you should let these sit in your inventory forever. It all depends on exactly how things are going, so sometimes you need these and sometimes you don’t.
+
+Facility Lead (★★★☆☆) - Mid/Late/Whenever - This is basically the same as the datapads, you do these if you need to reach a facility to not lose, but if you don’t, then don’t bother. It’s really that simple. Contacting a new region to do a facility is better, obviously, but hey sometimes the math doesn’t work out and you need this to not lose instead.
+
+Experimental Weapons (★★★★☆) - Early - You do this basically whenever you build the proving ground. The frost bomb is extremely powerful (and the others ones are OK too, but the frost bomb is the money) so it should basically always be the first thing you do with the Proving Ground, so just time this for when you finish the proving ground, give or take. And if you don’t have integrated DLC turned on this will never show up so then you don’t have to worry about it and can ignore this.
+
+OK, onto the autopies, most of these will be short because this is already long enough and a lot of my advice is “don’t bother.” Also when I say “Instant” it means wait until its instant. I separated out the Officer Autopsy as well because it won’t ever be instant and is part of story progression so it’s in the other section. OK enough preamble here we go:
+
+Trooper Autopsy (★☆☆☆☆) - Instant - Battle Scanners are OK but you have absolutely no reason to rush them, even if your first Chosen is the assassin utility item slots are at too high a premium to justify them. Just wait until it’s instant (take a shot everytime I say that in this section).
+
+Sectoid Autopsy (★★☆☆☆) - Instant - I don’t really like mindshields but even if you do it isn’t worth going off script for. Wait until they are instant.
+
+Stun Lancer (★☆☆☆☆) - Instant - T2 melee weapons are nice and all but they aren’t that necessary and you’ll get them instant about when you can afford to build these anyway so just wait. You could maybe justify doing this a little earlier but I don’t find it necessary.
+
+Priest Autopsy (★☆☆☆☆) - Instant - I don’t build Sustaining Spheres so I don’t bother with this, next.
+
+Turret Breakdown (★☆☆☆☆) - Instant - I don’t value the defense matrix much, and even if you do you can just wait for this to be instant.
+
+Faceless Autopsy (★★★★☆) - Early (we broke the streak hooray) - Mimic beacons are OP as fuck so this is an autopsy actually worth doing. You can’t build mimic beacons until you kill 4 faceless (one for the autopsy, 3 for the item) so you probably have to wait until the 2nd retal mission and there isn’t a point to do these before that, but after that (or just around then, if you want to have it ready to go) you do this research ASAP.
+
+Purifier Autopsy (★☆☆☆☆) - Instant - I don’t build vests so this doesn’t do anything, next.
+
+Viper Autopsy (★☆☆☆☆) - Instant - I don’t build medkits, and even if I did this gives you such a small buff you have to do even more work for that this isn’t worth anything, next.
+
+ADVENT MEC Breakdown (★★★★★) - Early- This is necessary to do the Elerium research, which is necessary for T3 stuff. And it unlocks the godly bluescreen protocol. You do this pretty quick, probably as quick as you can.
+
+Muton Autopsy (★★★★☆) - Early/Mid - Plasma grenades are very good, so this is very good. It isn’t that good, you don’t need to rush it down but you should do it pretty quick.
+
+Berserker Autopsy (★☆☆☆☆) - Instant - I mean overdrive serum is OK but I basically never build it and even if you wanted to use it this isn’t worth wasting time on, next.
+
+Spectre Autopsy (★☆☆☆☆) - Instant - I don’t use Refraction Fields, so don’t bother with this, next.
+
+ADVENT Shieldbearer Autopsy (★☆☆☆☆) - Instant - I don’t use vests, so this does nothing, next.
+
+Archon Autopsy (★★★☆☆) - Late - This gives you T3 melee weapons which is pretty good, but not worth rushing. It is also necessary for the Plasma/Shadow lance, so you’ll get around to this eventually.
+
+Chryssalid Autopsy (★☆☆☆☆) - Instant - I still don’t build vests, so this doesn’t do anything, next.
+
+Andromedon Autopsy (★★☆☆☆) - Late - Proximity Mines are funny but you can live without them, if you want them to do this before this is instant, if you don’t then wait. It’s that simple.
+
+Sectopod Breakdown (★★☆☆☆) - End - T3 gremlins are pretty good, they upgrade a lot of abilities, so this is worth doing. Especially given how late Sectopods show up you probably don’t want to wait even later for them to be instant. 
+
+Gatekeeper Autopsy (★★☆☆☆) - End - If you are using Psi-ops then you do this, if you aren’t then ignore this. It’s honestly that simple.
+
+Viper King/Berserker Queen/Archon King Autopsy (★★★★☆) - Mid/Late (kind of, whenever you get it) - All these armors are very good, and unless you haven’t done the very important ones (basically anything until after Predator Armor) you can basically drop what you are doing to do this, they don’t take long anyway.
+
+Breakthroughs
+Breakthroughs have a random chance of occurring every time you complete a research and must be done immediately (excluding instant autopsies)  or cannot be repeated (technically they will get recycled eventually but it takes so long you can consider them gone forever). 
+
+As for advice on when to do them, don’t bother, next.
+.
+.
+.
+OK I’m joking, mostly. Breakthroughs just aren’t usually worth it. Research time is so valuable that you don’t have time for these. But that isn’t a universal rule, so let’s go through each of them and if they are worth it. I will say if you get them as covert ops the math changes quite substantially. They still slow you down because you have to send a scientist but that’s a much easier pill to swallow. But this is the Research Guide not the Covert Op guide (coming soon, probably) so I won’t focus on that.
+
+Breakthrough	Effect
+Shotgun/Cannon/Sniper Rifle/Vektor Rifle/Bullpup extra slot (★★☆☆☆)	Gives you an extra attachment slot on the various weapons
+Shotgun/Cannon/Sniper Rifle/Vektor Rifle/Bullpup/Pistol/Sword extra damage (★★☆☆☆)	+1 damage on the given weapon
+Conventional/Magnetic/Plasma extra damage (★★☆☆☆)	+1 damage on that tier of item (includes gremlins combat protocol)
+Instant Excavation (★★★☆☆)	The next time you start an excavation, it is completed instantly
+Building Breakthrough (★☆☆☆☆)	Makes whatever building 50% cheaper
+Spare Parts (★☆☆☆☆)	Decrease the price of proving ground items by 20%
+GTS improvement (★☆☆☆☆)	Decrease the price of GTS improvements by 20%
+Attachment reuse (★☆☆☆☆)	Allows you to reuse attachments
+PCS reuse (★☆☆☆☆)	Allows you to reuse PCSs
+Shotgun/Cannon/Sniper Rifle/Vektor Rifle/Bullpup extra slot (★★☆☆☆) - Some of these are better than others. Cannons, Vektor Rifles, and Bullpups don’t get a shiny chosen weapon to replace themselves with so the extra slot is a little more valuable. That said, research is just too precious to waste on this kind of thing. If you get one the “good” ones late into a run then sure, when you are just fucking around trying to finish the game grabbing extra attachments slots is nice, and you could even argue after the “oh god let me finish predator armor so not everything is a one shot” stage you can fit these in but…eh…you got better things to do.
+
+Shotgun/Cannon/Sniper Rifle/Vektor Rifle/Bullpup/Pistol/Sword extra damage (★★☆☆☆) - +1 damage is nice but again you got shit to do. On pistols this can change the math on stuff and obviously getting +6 damage on banish is hilarious but to give up important research time for this is a hard sell. Sidenote: the Skirmisher’s ripjack can’t get one of these, isn’t that weird? 
+
+Conventional/Magnetic/Plasma extra damage (★★★☆☆) - The conventional one is useless, but the mag/plasma ones are nice, much better than the weapon ones because it’s +1 damage to your whole army. It makes mag pistols better than plasma pistols which is funny, a little sad, but funny! If you get this in the right slot it might be worth it, but only maybe.
+
+Instant Excavation (★★★☆☆) - AKA the only good one! Usually I prefer to trade engineering time for research time, hence I usually build a lab, but this saves so much engineering time that this is quite nice. If it pops too early, before you have Mag weapons, you should probably skip this but if it happens after you can skip 45-90 days of excavation time, and that is lovely. 
+
+Building Breakthrough (★☆☆☆☆) - You have too many good things to do, skip it.
+
+Spare Parts (★☆☆☆☆) - Again, you have too much to do, next.
+
+GTS improvement (★☆☆☆☆) - And for the 3rd time, you got too much shit to do, next.
+
+Attachment/PCS reuse (★☆☆☆☆) - Unlike the last three, these are actually worthless not just not worth it. If you didn’t want that attachment on that gun, why did you put it there? Why did you put a PCS on someone you didn’t want it on? This does almost nothing and doing this is a very bad idea.
+
+Inspirations
+So the way inspirations work is they shave 50% off the research time. I’m not going to sit here and go over how impactful they are for every single research because that would bore both of us to death but in general these should mostly be ignored. If gauss weapons get inspired and you haven’t done faceless autopsy then maybe switch up the order, you can do mag weapons earlier if they get inspired, but in general going off the beaten path is a bad idea. Don’t get baited, stay the course.
+
+Summary
+OK this took 16 trillion years to write but I hope it was helpful. I don’t have anything more to say, goodbye.
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+154
+
+Downvote
+
+39
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+SelfReporter
+•
+1mo ago
+Thanks for all your guides! I’ve been using them religiously and I’m finally getting through a commander Ironman run
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Nice work! Glad I can be of service
+
+dwhite10701
+•
+1mo ago
+I'm guessing you don't build the Defense Matrix so you don't bother with the Turret breakdown?
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh did I miss that one? Yea I don't build that building. Though I was going off of a list of every enemy so I must've just skipped over it. I'll go add it
+
+IAmWayTooHighGuy
+•
+1mo ago
+All these guides are freaking amazing. Thank you very much for taking the time and putting in the effort on these!
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You're welcome. The last few of these have been a huge pain in the ass to make so the next part might come a little more slowly but I am still working on it. I hope it's helpful
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+•
+Edited 1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I personally would drop the Plasma Lance a little lower, three stars maybe even two. One reason is, the way I use them (as bluescreen slingers), the damage between plasma and magnetic sniper rifles doesn't translate to that much of a practical difference in killcount. Yes, more often it avoids situations where an enemy survives with one health, but I've not noticed it be that dramatic, whereas the Plasma Cannon is huge and the Storm Gun can be appreciable from time to time. The basic Plasma Assault Rifle is the most dramatic, helping the lethality of Specialists and Psi Operatives a lot. (As a side note, while this also unlocks a Reaper Vektor unlock, I feel similarly even though I weigh it higher. Usually by this point in the game I'm angling for Banish with a Superior Repeater, so the specific damage is at best a consolation prize for failing to kill, and their damage in other situations directly from their rifle isn't a big deal past magnetic.) The second, more important reason is that it's realistic to have or almost have Darklance by this point. Darklance (and to some extent Darkclaw too) is a true tier of damage and utility above plasma, such that I think you could skip plasma snipers entirely and just lean on Darklance. I'm not sure taking two Sharpshooters is all that tactically sound at any stage of the game, but the sheer efficiency of these Chosen weapons makes me think you're always better off with some other class past one Sharpshooter, as it's really diminishing returns for basically only better Killzone or a different ammo or something. Killzone is kind of meh honestly and just put the ammo on something else, or hell run a SPARK for Shredder or something. I feel like a similar argument could be made for Arashi > Storm Gun, but the differences are less dramatic and there are more situations where you have a second Ranger active on your mission team or even a Covert Ops Ambush or something. Storm Guns definitely help the consistency of killing from full health rather than needing armor shredding or chip damage first.
+
+Sectoids are something I tend not to prioritize in terms of research, but there have been situations I appreciated having some Mindshields around, even though past a certain point in the game I almost never run them anymore. They're kind of like the flashbang where they are situationally useful, particularly vs the Warlock or if you're worried about phobia panic or Tiredness issues, etc. But it's probably never ideal, just a defensive crutch of sorts, mitigated by things like having Predator Armor for Rangers but not yet Light armor to reduce them down to just one ammo slot. I'd probably rate these as two stars, niche but one I actually use compared to just basically never using vests by contrast.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Plasma lance unlocks T3 vektor rifles so that research is still worth doing. +6 banish damage is no joke
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Another thing I remembered is that it's an upgrade for one unit, at best typically two. Now again, Reapers are one of the strongest classes and there's no doubt there but there's just other context that tends to come up. The plasma reaper rifle is relatively cheap for that point in the game and Legend so it's probably ★★★☆☆ for that alone as a why not, but I really dislike the fact it's a double research cost. You're going to want the basic plasma assault rifles into plasma cannons and there's no doubt about that, but the Archon Autopsy is kind of meh. A lot of it again has to do with stuff like Katana, which doesn't have the throw of Fusion Axe nor the crit, but I feel like in general the extra baseline damage plus the armor piercing and accuracy are a really good niche (not to mention Fusion Axe damage isn't superior to Fusion Blade despite all other tiers having an edge that helps). The Katana and the Darklance mostly supersede the need for Fusion Blades and a Plasma Sniper Rifle, and more bespoke things like the Fusion Ripjack are almost a non-factor.
+
+===
+
+Skirmishers, especially by then, become more my Combat Presence mule first and foremost, and tier 3 weapon damage on them is good but not really why I'm bothering with them unless they happen to roll the RNG Saturation Fire. I use the Plasma Bullpup a lot but not the Ripjack much anymore other than again Squaddie Justice. A plasma lance on a Reaper is always going to be an improvement but all this stuff is locked behind two techs I don't really care that much for. I'm still probably not going to wait until Instant Archon research, but the priority is low, right around three stars for me.
+
+u/Dry_Area_1278 avatar
+Dry_Area_1278
+•
+1mo ago
+I just wanted to chime in that the early lab recommendation from your strategy layer guide is such an mvp move and has made a huge difference in my games
+
+I would never have thought of doing that otherwise and it gives you such a big push ahead of the curve
+
+u/vndt_ avatar
+vndt_
+•
+1mo ago
+•
+Edited 1mo ago
+Needs information on the number of corpses needed for instant research.
+
+Needs information/rating/opinion on Black Market research boosts.
+
+These research projects grant access to the respective proving ground projects, not the items themselves:
+
+Viper Autopsy
+
+Muton Autopsy
+
+Experimental Weapons
+
+Alien Rulers Autopsy (Viper King, Berserker Queen, Archon King)
+
+Muton Autopsy also gives access to Advanced Grenade Launchers.
+
+Magnetic Weapons gives access to Enhanced Shadowkeeper and Magnetic Bolt Caster.
+
+Plasma Rifle gives access to Powered Shadowkeeper and Plasma Bolt Caster.
+
+Gauss Weapons gives access to Helix Rail-Cannon.
+
+Beam Weapons gives access to Elerium Phase-Cannon.
+
+Plated Armor gives access to Reinforced Frame.
+
+Powered Armor gives access to Celestial Gauntlets and Anodized Chassis.
+
+Fusion Blade/Ripjack/Axe, not Beam Sword/Ripjack/Axe.
+
+Serpent Suit, not Viper Armor.
+
+Opinions:
+
+Mag+1 breakthrough is 4/5 for me. Pistol/Axe/Bullpup/Gauntlet/Reaper Rifle/(and Autopistol but who cares) are immediately upgraded to T3 without having to buy the weapon upgrades. Plasma Weapons are hard to get because each class has to have its own research. Mag+1 makes the midgame so much easier at the cost of a slightly harder early-of-late game, when action economy matters more than raw weapon damage.
+
+PCS reuse is 2/5. Sometimes you get only 1 Aim PCS and 1 Speed PCS, and being able to pass them around can help the B-team who might not be the original users of the nice PCS's. Even consistent flawless missions tire out the best soldiers.
+
+u/Glittering-Leader658 avatar
+Glittering-Leader658
+•
+1mo ago
+Im sorry, did you say you dont build medkits?? Why? What are you running that you don’t use medkits?
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+If you want a full version of my argument, it is part 7.5 in my index (yes I wrote an entire essay about just why I hate medkits) but the short version is that proactive items are much, much, much stronger than reactive ones.
+
+Grenades, flashbangs, the frost bomb, and mimic beacons are all better things to run.
+
+u/Daniel_Kummel avatar
+Daniel_Kummel
+•
+1mo ago
+I dont see your index in your profile 
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's at the bottom of the post
+
+u/Thecoldflame avatar
+Thecoldflame
+•
+1mo ago
+Dead/CCed enemies don't do damage
+
+u/Altamistral avatar
+Altamistral
+•
+1mo ago
+•
+Edited 1mo ago
+Resistance Communication that early is not really ideal. You want to push that back quite a bit for as long as possible, ideally only make it just in time to contact Facility regions to push back the Avatar project.
+
+Turret Breakdown is pretty good for the Defense Matrix, which trivialize all Avenger Assault missions, which can be campaign-ending missions on Ironman, so you want to be extra sure to have the upper hand.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You need ress. Comms asap in order to get a choice of which G. Op to take. And being forced into a bad G. Op mission type and/or being forced to not counter a specific crippling dark event can be devastating.
+
+I also don't like the defense matrix much. You get to deploy extra units on defense missions already, so things already tilt pretty heavily in your favor. The only bad thing about them is they fatigue your entire army, but a defense matrix isn't helping there.
+
+u/Altamistral avatar
+Altamistral
+•
+1mo ago
+•
+Edited 1mo ago
+You need ress. Comms asap in order to get a choice of which G. Op to take. And being forced into a bad G. Op mission type and/or being forced to not counter a specific crippling dark event can be devastating.
+
+It's a matter of playstyle. I much rather prefer to have the option to evac from the (first) Retaliation mission without consequences than have an extra choice on the (first) G. Ops. Plus I can use the Intel I would have spent on the region to instead buy an extra Scientist/Engineer or, if I get lucky, halve the research on Magnetic Weapons.
+
+Sometimes I don't research Res. Comms. until after the *second* Retaliation mission.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+on Legend you can never ever get the first retal mission in any region other than you're first one. It literally cannot happen. Unless you have like a scientist as your first rumor and also get ress comms inspired but even then I don't think you have enough time. And you can avoid that anyway just don't finish making contact until right after the first retal is over.
+
+u/Altamistral avatar
+Altamistral
+•
+1mo ago
+but a defense matrix isn't helping there
+
+It is helping. Fatigue is accrued every turn and a Defence Matrix will make things much faster.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Fatigue actually isn't based on turn count but by number of enemies you see and is capped per mission, which on base defense missions you are going to hit basically no matter what.
+
+u/Mad_Malvolio16 avatar
+Mad_Malvolio16
+•
+1mo ago
+What I've found really helpful is to go modular weapons for any mods I've picked up in the first two missions, then start alien biotech, but pause and switch to resistance comms as soon as it becomes available. Then as soon as comms is researched, finish biotech and go officer autopsy for proving ground
+
+I agree that getting more options for the first few missions is critical to swing the early game, and the extra income is nice too
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It really depends on the mods. A basic stock is pretty nice. But a 5% repeater, or hair trigger? Like, what is that actually doing for you? Especially above and beyond the TLP weapons if you have them. A 5% scope is something but idk how impactful it really is if it's not taking you to 100% which it probably won't in the early ranks. I'd definitely go modular if I got a stock, but just an elerium core or +1 extended mag isn't much. Plus it is possible, perhaps not even that rare, to have modular weapons -> magnetic weapons inspired, which is tempting but a very painful opportunity cost on Legend.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+•
+Edited 1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Rather uniquely, it is possible to not actually get Turret Breakdown for a LONG time due to RNG. I just had a Legend run where every single turret I saw for nearly a full in-game year (aka past plasma upgrades, past a chosen avenger defense, and past even the story mission avenger defense) was on facilities and guerilla ops that didn't give corpses. I think the Defense Matrix is decent on Legend, especially since it helps vs Sabotage (though to what extent I don't know for how much it should be valued), but it's typically going to be among the last three unique facilities I build as good but most other things take priority, even the Shadow Chamber that can be put off indefinitely but can help with the AVATAR Project and just adjusting equipment loadouts for enemies from the preview.
+
+On the other note, I used to undervalue early Resistance Comms, but expanding early for more Supplies and choice of mission rewards (and occasionally which Dark Event to counter) is good. I've done both "isolationist" styles in terms of limited Chosen and territory exposure as well as pushing early expansion, and the latter is way easier, at least in the long run IMO.
+
+u/Altamistral avatar
+Altamistral
+•
+1mo ago
+Yeah, I agree it's not an urgent building to get built. I try to have it online before the first Avenger Assault but that doesn't always happen. I do generally have it before the Shadow Chamber, thou.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The way I play, I find the timing works out to be able to have a facility slot for it a bit before the Chosen Avenger Assault on Legend (I don't see it below Legend), though I might do my Covert Ops a little different and try to pick up a few things vs just always Chosen Hunts ASAP. I typically put off the normal story Avenger Defense til later with all plasma etc more or less. I found the Matrix to matter more for the latter than the former. I also definitely didn't love all the Sabotage that happened the entire campaign but I don't know how much of a difference the Matrix really makes. 50%? More? Less?
+
+u/comfortingmyself avatar
+comfortingmyself
+•
+1mo ago
+The more I play this game the less I find myself going for breakthroughs. Like I used to always go for Extra Damage {Shotgun/Cannon/Sniper Rifle/Vektor Rifle/Bullpup/Pistol/Sword}, but nowadays I struggle to justify spending 10 days for 1 or 2 soldiers on my squad to do +1 damage with a weapon type that they don't even use all the time.
+
+Having said that, Improved Magnetic Weapons is 5 stars, the best breakthrough in the game. Getting it shortly after researching Mag Weapons is run-defining. My experience is that a campaign with this breakthrough is notably easier than one without.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+•
+Edited 1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+10 days is what really hurts it. I think keeping an eye out for them in Covert Ops is a consideration, but it's really trading one time resource for another when Chosen Hunts take so long and you can have some setbacks if you put off those for too long. There's a few though that I think can be situationally worth it, to list a couple:
+
+Improved Magnetic or Plasma Weapons: It covers a more extensive list of items than you might think (plus plasma buffs Chosen weapons!), and I think an effective +1 squad wide damage upgrade for most of your time in the campaign is a fair trade for the time spent.
+
+Improved Swords: Only Legend I feel like I really need every edge (heh) I can get to mitigate RNG and help in the early game. Blademaster is consistent and is two more damage. The Hunter's Axe on your main sword-swinging Ranger is another one. If you can eek out that extra point from the Arc Blade or this Breakthrough early, it's pretty nice since swords have high accuracy with Blademaster. In the mid to late game I find myself leaning more on shotgun crits, especially if I can get Talon Rounds, but the sword is a nice option for high damage, finishing enemies, not needing ammo, and importantly mobility to move up the Ranger into a good spot, especially with Implacable. If I didn't get it early I'd probably wait to only really consider this for the Katana + Reaper combo to keep up the chain killing, but I've also found myself a little preferring Rapid Fire over Reaper on Rangers for Legend, as nearly forcing crits is pretty good and usually Rangers are best for killing priority targets rather than pinballing around with Reaper.
+
+Modular Cannons: I feel like cannons are the weapon most competitive for a third slot being useful, also impacted by there not being a Chosen cannon that has inherent mods. I think you basically always want an aim scope for cannons to help Shredder, and I don't think there is any real point to a laser sight for some weird and non conducive crit fishing play. So normally that leaves you just one other slot. A lot of mods can be competitive here. I probably wouldn't put a repeater on them but I tend to highly prioritize stocks on cannons, sometimes above a scope even depending on the quality. From there I feel like you can get really good use out of extended mags or autoloaders to help with other Grenadier abilities, but you could make an argument for a superior hair trigger as well as risk but good damage reward. I think most other weapons you can get by with two priority most useful mods if you had to, but I do think Grenadiers are interesting where they both want scopes for high aim to land Shredder and maybe Chain Shot, but also stocks to mitigate aim for when you're mostly shooting for Holo Targeting first and foremost. The baseline 3 ammo starts to hurt if you ever use any of their cannon abilities and don't have an extended mag or autoloader.
+
+Instant Excavation: I just tended to never see this but it's a significant time savings that also gives you a boost of supplies, alloys, and/or elerium. I wouldn't say you should plan your strategy around this but time is often your most precious resource and part of why Legend is harder, so this helps.
+
+Interchangeable Weapon Mods: This one I think is actually pretty good. Especially when you get to the Superior rank you might not be swimming in high quality mods you actually want to use. While you can just replace lower level mods as you go, it's not uncommon for me to have one "super" version of a modified weapon for my highest ranks, and then like a "hand me down" version that's still pretty good for my B team members I take when A is tired or the mission appears easier from pod size or composition. The commonness of really crappy first rank weapon mods means it's usually trivial to mix and match your weapons how you like, even crossing classes for precious high quality scopes and the like. If I think I have time for this I basically always get it.
+
+Interchangeable PCS: I do feel this one matters less, but at the same time both PCS items and actually good ones are rarer. Typically what I'm using this for is giving Superior Speed PCS items to my best Rangers and Templars and such, and making their previous ones hand-me-downs. +1 is just good on anybody really, unless they really want Aim instead, and even then a second rate Aim boosting PCS is still pretty good when your options are limited. I'd almost never care about destroying the lowest rank of PCS but when these items are rarer and decently pricey from the Legend Black Market then I think there is a thought for again giving your previously good ones to your B team to give them an edge. It also helps in the late game to optimize your teams for Leviathan and such, not needed per se but if you're just spinning wheels and your research is dwindling etc it's hardly a big deal to wait an extra bit for this. I actually usually wish I get it sooner vs super late game like via Lab or super optional Covert Op, but this is something I tend to like eventually even if it's not mission critical.
+
+u/Heeli05 avatar
+Heeli05
+•
+1mo ago
+I always thought those weapon damage breakthroughs were worth it. Feels kind of hard to pass those...
+
+voudo
+•
+19d ago
+like OP wrote, the squad ones are best as it affects the entire lineup and I was lucky to get it on month 2 towards the end dunno how lol
+
+u/Torjborn97 avatar
+Torjborn97
+•
+1mo ago
+•
+Edited 1mo ago
+I’m surprised trooper autopsy is a low priority. I get rushing resistance comms to counter bad dark events but the dread of fighting the assassin has always made the scan item a priority for me. Especially the first retaliation where she can just run up and wound a soldier, taking them out of the fight for a while.
+
+Even if she’s not my first chosen, the threat of her popping up when unlocking new areas deters me from expanding beyond 3 areas until I can get better weapons.
+
+Looking forward to a future guide on dealing with the chosen!
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Just get Scanning Protocol, at least on one Specialist if you value medic builds highly. You don't even need the scanning protocol or battle scanner really, but they do make that fight easier when especially early you're going to have more trouble with "unavoidable" damage from her can't miss blade swing + daze. I've taken Battle Scanners occasionally and literally almost never got value out of them above and beyond most other items (even a basic grenade), unless you just aren't running Specialists ever (and you can get a sense of when the Assassin will next show up to not have to do it every mission). It's really only fights with her and the one Codex Coordinates mission with buried chryssalids where it makes a difference, and even then both have alternatives.
+
+u/Agninir avatar
+Agninir
+•
+1mo ago
+Inspiration caps out at reducing research time by 3 days, so it's not even that good if it pops up on magnetic weapons. Still worth considering sometimes of course.
+
+voudo
+•
+19d ago
+u/hielispace is your game heavily moved or just a few basic ones. I am running a better everything with some wep mods and stuff and the lineup on some tech got to change but overall, I gen do exactly what you wrote though my first play thru (no Ironman lol) I have gone psy and spark.
+
+Mods makes it easier/harder/weird but would love to know your line up
+
+u/hielispace avatar
+hielispace
+OP
+•
+19d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+No I run vanilla save some QoL mods. Though I gave done more modded stuff, so I have some thoughts.
+
+First off I much, much prefer Psi Ops as a regular soldier class, then I monkey with the skill tree to give me Stasis at Luet instead of Squaddie. I then add Pathfinders to sort of counter balance that.
+
+Grim Horizon lite is good because it makes the "oops you lose" dark events less so. Lebs late game enemies make the late game a bit more of a challenge, which is fun. Bio units are good for a bit of spice but their aren't my favorite.
+
+I don't actually run any spark mods. Though I do sometimes use critical skimishing just to sort of patch that class.
+
+But that's sort of it. I don't go in for the really crazy atuff.
+
+antiguy1
+•
+1mo ago
+Research time is so valuable that you don’t have time for these (breakthroughs).
+
+???
+
+Research time is absolutely not valuable. Time pressure comes from the AVATAR project and the Chosen leveling through knowledge. Below Legendary difficulty, you should do the Breakthrough unless you're about to do a major research (typically a weapon/armor upgrade AND you have the resources to buy it) or if it's a really mediocre one (mainly the ones reducing facility Supply cost). They only take 5 days. The Conventional/Mag/Beam Breakthroughs are the strongest as they even boost Templar Gauntlets, Ripjacks and even Gremlins (Combat Protocol/Cap Discharge) and Psionics (Soulfire/Rift/Lance/Schism).
+
+Even in Legendary, the weapon Breakthroughs should never be skipped. Legendary time and resource costs to upgrade your gear are massive. Even a flawless Supply Run mission likely won't give you enough material to upgrade more than 2 weapons to Magnetic. Unless you're about to lose the game, the 10 days in the lab for Legendary Breakthroughs are worth it.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Research time is probably the most valuable resource you have. The endgame tools are strong enough that you can win the final with just rookies. Blaster launchers and mimic beacons are just that good. And the Chosen and Avatar do not put basically any pressure on you. Getting invaded by the Chosen is annoying but is solved by killing them forever and the mission itself isn't that hard. And the avatar project can be stalled forever with covert ops. The thing that will kill your run is being behind the tech curve. Trying to fight enemies that are too strong for your level of gear so you take losses, so you take more losses, so you run out of units and die. Getting the more powerful items faster is your goal, it is how you win.
+
++1 damage on 1/4-1/6th of your units isn't worth that much. This is a game about break points, doing 7 damage to an enemy with 8 HP is the same as doing 0 of it gets back to their turn. The question isn't how much damage you deal it is how many actions does it take to kill a unit. Damage is a means to an end. So how often does +1 damage change a breakpoint? It's not never, 4 damage on an assault rifle is pretty sweet early for example, but it also isn't always. And would that time be better spent just getting mag weapons...yea probably. If you are later into a run you can consider it but I've done runs where I skipped every single breakthrough I was offered and never noticed a thing.
+
+The +1 damage to a whole tier is very much worth considering, I say so, but it depends on when you get them. Delying research by 10 days is a tough pill to swallow. But it absolutely can be worth it. Especially the beam weapon one because the things you absolutely need to research have already been dealt with.
+
+antiguy1
+•
+1mo ago
+Research time is probably the most valuable resource you have.
+
+I'd argue time spent scanning/contacting new regions and Alloy/Eler/Intel are more important but opinions can differ.
+
+So how often does +1 damage change a breakpoint?
+
+Quite often, actually. Especially in early Legendary where getting low rolls on damage means extra shots to kill. With Rifles, Basic Troopers are a guaranteed 1 shot, Lancers a guaranteed 2 and Conventional Shotguns now hit 10 damage, enough to one tap a Sectoid with a crit and gives sword attacks a chance to kill them on one swing.

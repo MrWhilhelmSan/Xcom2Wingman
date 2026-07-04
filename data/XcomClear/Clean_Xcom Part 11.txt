@@ -1,0 +1,595 @@
+Templars are a pretty big skill check. They are extremely powerful, but if you misuse them they will end up doing more harm than good. The fact that they are primarily a melee class, even more than rangers, has its risks. But the upside is worth it if you get a grip of them. As for how, well…
+
+Here is how the rankings for abilities (and other stuff) is going to work. 
+
+★★★★★ - The Best of the best. Abilities and things that you build around, or weapon mods that are best in slot. Things of that nature. The difference between having stuff in this tier and not is so massive I’d consider it nerfing yourself not to grab them. You really, really, really want stuff with 5 stars.
+★★★★☆ - Really strong abilities. Abilities I am always happy to have and would trade a lot of other abilities for, but they aren’t quite as “must have” as the 5 star ones.
+★★★☆☆ - Abilities that are pretty good. Stuff that I would buy with AP quite happily but might pass up if the other ability is better.
+★★☆☆☆ - These are underwhelming. These abilities just don’t really do enough to justify having them. They might have very niche use or be passives that just kind of do very little. Stuff I just don’t care about. They aren’t horrible or useless, but you probably wouldn’t miss not having them.
+★☆☆☆☆ - Trash abilities that are just worth nothing.
+☆☆☆☆☆ - Given to abilities that are actively harmful. There is only one of these in the entire game.
+
+Stats:
+
+To begin, they have the following aim and HP at the following ranks:
+
+Rank	Aim (★★★★☆)	HP (★★★☆☆)
+Squaddie	68	5
+Corporal	71	6
+Sergeant	74	7
+Lieutenant	76	8
+Captain	78	8
+Major	79	9
+Colonel	80	10
+They have exactly the same aim and HP growths as rangers, but honestly? This character's aim is just not that important. They run around clicking Rend what do they need aim for? Why Firaxis gave them better aim than grenadiers I don’t know, but here we are.
+
+Weapons:
+Templars wield their gauntlets and an autopistol.
+
+Gauntlets (★★★★☆) - Gauntlets are an extremely powerful weapon for one major reason: they always have a 100% to hit. There are only circumstances where a Templars melee attack can miss are if you try to melee a muton and they counter you or if the enemy has Lightning Reflexes and you have Bladestorm. That’s it, that is literally it. Not missing is pretty sweet. I’m docking them a star because they are melee only and that’s a hit to their flexibility, but not missing is more than you could ever want. They also start at 4 damage minimum which is great, but they don’t scale that high even with tier 3 gauntlets, but it isn’t that big a deal. 
+
+Autopistol (★☆☆☆☆) - Autopistols are the exact same as normal pistols except you have to buy their upgrades separately. I should be giving these two stars like pistols, they are literally the same, but because this class has a short range weapon and another attack they can do from distance if they don’t want to do that one this gets clicked when you overwatch your entire squad and literally never another time. I literally never even upgrade these to magnetic or plasma, I just leave them at their base level to save on supplies and alloys. 
+
+Abilities:
+As always, here is a table of every ability the templar gets. 
+
+Rank	Psiblade	Dynamo	Sage
+Squaddie	Rend (★★★★★)	Volt (★★★☆☆)	Focus (★★★★★)
+Corporal	Parry (★★★★★)	Aftershock (★★★☆☆)	Amplify (★★☆☆☆)
+Sergeant	Overcharge (★★☆☆☆)	Pillar (★☆☆☆☆)	Stun Strike (★☆☆☆☆)
+Lieutenant	Deflect (★★★☆☆)		Channel (★★★★☆)
+Captain	Reflect (★★★★☆)	Invert (★★★★★)	Deep Focus (★★★★★)
+Major	Arc Wave (★★★★☆)	Exchange (★★☆☆☆)	
+Colonel	Ionic Storm (★★★★★)	Void Conduit (★★☆☆☆)	Ghost (★★★★☆)
+GTS	Deep Focus (★★★★☆)		
+Focus (★★★★★) - Focus is a passive ability that allows the Templar to build up a resource called Focus. They gain one Focus for every enemy they kill with Rend specifically, and they can stack up to 2 at a base level, 3 at most with the Deep Focus perk. Each stack of focus grants an additional point of damage on melee attacks, one point of mobility, and 10 dodge (3 focus is only 25 dodge).
+
+I’m breaking my usual format a little here to rank Focus first because it’s impossible to talk about this class without talking about Focus. Focus is a very strong mechanic. It is extra damage and mobility. The only downside is that you need to kill enemies with Rend specifically to get it (at least to start). That actually incentivises you to make bad plays by rushing in to get a kill when you shouldn’t be. Just avoid the game tricking you, and you’ll do just fine!
+
+Rend (★★★★★) - Rend is your basic attack. It is a melee attack that (as mentioned above) cannot miss except under very specific circumstances (mutons can still counter it, that’s it). It does 4-5 damage at base with a 10% crit chance (which never goes up, because it’s a melee only weapon) and it does more damage the more focus you have, but more on that in the Focus section above. 
+
+In addition, after you Rend you will have a move only action. Think of it like Implaccable that doesn’t only trigger on a kill.
+
+So this is bonkers. A cannot miss button that deletes a basic trooper? Sign me up! The only downside is that it is melee only. So if you run in to melee an enemy, you might be about to trigger 16 trillion enemies and get your whole team murdered. That’s the real skill check with this class; you have to know when it is safe to melee and when it’s not. And you don’t have the extra bit of flex a shotgun or other similarly ranged weapons have, you must melee with this thing. The way to handle this is simple: bring a scout. I recommend bringing a scout anyway but this class needs one all the time or you will blunder in like an idiot. I also recommend clicking Rend as some of the first actions you take on a turn so you can adapt if suddenly you trigger another pod. Though you do want to be scoring kills specifically with Rend to build Focus. Just make sure to be able to handle this screwing you. At the same time, I mean it can’t miss what more do you want?
+
+Volt (★★★☆☆) - Volt is an active ability that costs 1 Focus and ends your turn. It deals 2-5 damage at base to one target within line of sight. It deals double damage to psionic enemies and will chain to other targets within 2 tiles up to a number of times equal to the Focus you had before you used this, hitting them as well, and piercing armor.
+
+It’s bad Combat Protocol! That 2-5 range is just begging for heartbreak. You are going to click this needing 3 damage, getting 2, and then cry. The bouncing and doing extra to psionic enemies just doesn’t come up as much as the squadsight armor piercing move that specialists have. Still, you will click this plenty. Mainly when running up and Rending will trigger another pod. It is damage that has no roll to hit, that’s not bad!
+
+Parry (★★★★★) - Parry is an active ability that can only be used after you Rend. It consumes the move only action you get and ends your turn. The next source of damage, and it does not matter what it is at all, is negated against the Templar. Literally everything is blocked. 
+
+So this is Untouchable, but better, at Corporal….what?! This is absolutely bonkers and makes Templars the only true Tank class in this game. This is effectively a stun tool the game hands you for just using this class, and that is damn good. But there are some things to consider. One, if more than one enemy is active, this will only block the first attack, and then your templar is as easy to kill as anyone else, so do be careful with that. In addition, it does nothing to fuck with the alien’s AI, this means knowing how the enemy acts is imperative to getting the most out of this. 
+
+Ironically, this means you want to click Parry when you aren’t in cover. Enemies (on legend) always prefer the highest percent shot they can take and don’t know if you have Parry or not, so will waste their shot on your templar. It also means you can’t count on Parry to absorb a Stun Lancer attack or for a Priest to shoot you instead of using Stasis, etc. Even with all of those cavates, this ability is nutty. Always take it. It’s so good. 
+
+Aftershock (★★★☆☆) - Aftershock is a passive ability that buffs Volt to make any target hit by this has a +15 aim against them.
+
+So this is across from Parry and therefore I just cannot recommend you take it here, but you should consider doubling back for this. Against Gatekeepers or other high defense enemies that +15 aim buff is quite nice. Holo targeting is so good and this is very similar, but it is a lot weaker. Your attack takes a resource, it doesn’t do a lot of damage, and just isn’t what you want to click with your templar a lot of the time. Still, this is pretty good. 
+
+Amplify (★★☆☆☆) - Amplify is an active ability that costs 1 focus and 1 action. The next attack(s) deal an additional 33% damage. The amount of focus you have before you click this is how many attacks it lasts for. So if you only have one focus and use this it buffs one attack, if you have two it buffs two attacks, etc.
+
+This is…OK I guess? It’s more damage and if you click this and then Rend you will do more damage than if you just clicked rend but at the cost of an action and a focus…I don’t know…I feel like I could be doing something else with it. I don’t miss it when I don’t have it let me put it that way. And even when I do have it I sometimes go eh? Rather do something else.
+
+Overcharge (★★☆☆☆) - Overcharge is a passive ability that gives 33% chance to generate Focus when you click Rend even if you don’t kill. The game’s tooltip says it only works on non-lethal Rend attacks, but I swear I've seen this trigger when I've gotten a KO, and this game's tooltips are unreliable, so I think it actually can trigger even if you kill, giving you two Focus at once. 
+
+It’s the best perk at this rank, but it still isn’t great. It’s just fundamentally random in a class that does not need randomness because their main attack cannot miss. I pick it up at this level because what else am I going to do but if you have a really good XCOM perk pick that instead.
+
+Pillar (★☆☆☆☆) - Pillar is an active ability that costs one action, does not end your turn and costs 1 Focus. It creates a block of full cover at the location selected for a number of turns equal to the amount of Focus you have when you use this.
+
+I think the idea is to click Pillar, then Click Rend and be in full cover after Rending but that’s actually bad, you want to be as exposed as possible so the enemies target you and you absorb the hit with Parry. You can block ladders with this…I guess, but also who really cares? I almost gave this 2 stars but I think that’s overselling this. I don’t use this and wouldn’t even if it were free.
+
+Stun Strike (★☆☆☆☆) - Stun Strike is an active ability that costs one action, does end your turn, and costs 1 Focus and has a 2 turn cooldown. It has by default an 80% chance to knock an enemy backward 1 tile. That chance increases by 5 per Focus you have before using this.
+
+Hey look its Demolition from grenadiers again, but worse! Now you have to judge if an attack will send them in the right direction, it is still a gamble, and you can’t even blow up cars with it! Hooray!! Also this ability is buggy as shit. There are times where the game has told me it landed and then nothing happened (on the TLP missions specifically, if that matters). Don’t take this. I don’t even know why this perk is here this class doesn’t give a fuck about cover they stab stuff! You can maybe knock someone off a roof but you should also be able to find literally any other better play than that. No, just no.
+
+Deflect (★★★☆☆) - Deflect is a passive ability that gives a chance to deflect an upcoming basic attack, so a shot not a melee attack or flamethrower or micro missiles just a normal shot, and negate its damage. The chance is 30% with 1 focus, 40% with 2 focus, and 50% with 3 focus.
+
+A 50/50 chance to just say “no” to damage is quite good, but not without its caveats. One, that’s only a 50/50, and sometimes you lose the coin flip. In addition it triggers after Parry is used up. So it only does something if your Templar is shot at twice. Now that’s not exactly impossible. Templars are often in the middle of nowhere begging the aliens to hit them, but it is worth noting. I would recommend picking this up and then hoping it never comes up. Don’t plan on this bailing you out, don’t build strategies around it, but just be pleasantly surprised when you don’t take an injury when you should’ve. If you roll Sustain from your XCOM perks this is a bit better because that 50/50 rather than being a coin flip between getting bailed out and maybe dying becomes a coin flip between getting bailed out and getting very injured, and that’s more appealing.
+
+Channel (★★★★☆) - Channel is a passive ability that gives every enemy a 20% chance (and psionic enemies a 50% chance) to drop psionic loot. If the Templar stands on that loot, they gain 1 stack of focus. The psionic loot expires after 3 turns, just like normal loot
+
+Behold! The best ability I never take. This is a great way to generate a ton of focus very quickly. 25% doesn’t seem that high but given how many enemies you kill in a mission you’re likely to get 4, 5, 6 bits of loot with this. The only problem is that those bits of loot are annoying as fuck! They clutter the map and the camera pans over to them every time one of them expires even if I’m 6000 miles away and please just get out of my way. I never take this, but you should. It’s good, it’s really good, it's a lot of focus very quickly but after 3700 hours my patience has been worn too thin for this bullshit. Same reason I never take Ever Vigiliant, though this perk is much better than that one. 
+
+Reflect (★★★★☆) - To take Reflect you must take Deflect first. Reflect is a passive ability that, if you have 2 or more focus, gives you a 40% (50% at 3 focus) chance to negate an attack and deal 4 psionic damage to the person who shot you. This triggers after Parry but before Deflect. The game implies this only works if Deflect also triggers, that is not so. Yet more lying from the tooltips in this game. 
+
+So the way the game words this it sounds like 50% of shots deflected by Deflect are shot back, but that is not so. They are completely independent die rolls. What happens is first the game checks to see if Reflect is procced, then it checks to see if Deflect procs, then it hits you if both of those fail. So at 3 focus you have a 75% chance to negate any normal attack against you.
+
+75% chance to just not get hit is pretty good. And the enemy has to hit you in the first place for either of those to trigger so you can have a 80-90% chance to just not take damage. But 80-90% isn’t 100, and I don’t like relying on a 10% chance I don’t get murdered. Again if you have Sustain the 10% isn’t “get murdered” its “get horrifically injured” and that’s better, but hopefully this never comes up. 
+
+Invert (★★★★★) - Invert is an active ability that costs 1 action, 1 Focus, and doesn’t end your turn (lot of those in this class huh) with a 2 turn cooldown. It switches places between your Templar and an enemy in LoS.
+
+Holy shit this is broken. You know how the Chosen are always annoyingly just a little too far away to fight easily, where now they are right next to everyone in your squad! A spectre has run away to some random corner of the map? Well now they are out in the open with their pants down! Avatar teleports too far away? Teleport then right back! Positioning is a huge part of this game and this forces the enemy into a bad position for 1 action. Then you can just wreck face. It solves so many situations so easily. The only problem is if you Invert into a bad pod activation, but my advice about using this class with reapers fixes that (as reapers often do prevent fuck ups).
+
+Deep Focus (★★★★★) - Deep Focus is a passive ability that increases your maximum Focus to 3.
+
+What do you want me to say? Obviously this is good, it's more Focus! More damage, more mobility, more everything. Take this it’s dead obvious that this is good. Next!
+
+Arc Wave (★★★★☆) - Arc Wave is a passive ability that deals double your Focus level (deals 1 damage at 0 Focus) in an arc behind the Templar’s Rend. It will damage cover and the environment but not your units. It also doesn’t do damage to the target of your Rend.
+
+It’s more damage for clicking the thing you were going to do anyway and if you get Reaper this is absurd because you can bounce a lot of damage around for free. 6 free damage at a different enemy just for clicking Rend and full focus is pretty sweet. 
+
+Exchange (★★☆☆☆) - Exchange is an active ability that costs 1 action, 1 Focus, and doesn’t end your turn (yet again) with a 2 turn cooldown. It switches places between your templar and an ally in LoS.
+
+Compared with Invert I find this hard to use. You could slash with a Ranger, swap, the Rend with a Templar I guess but you could probably do that anyway. And if you are bringing up someone with this it puts your templar too far away to rend stuff with their 1 action point left. You can skip this. You might find some niche situations where it’s helpful but there is enough stuff on the Templar’s skill tree I want to buy that I usually pass over this. 
+
+Ionic Storm (★★★★★) - Ionic Storm is an active ability that ends your turn and has a 4 turn cooldown. It consumes all of your Focus. It does 3-5 damage at base in a roughly 9 tile wide circle and does an additional point of damage for every upgrade to your gauntlets and for each stack of focus you have the damage is multiplied. So it does 9-15 with base gauntlets and max focus. Every unit you kill with this gives you a stack of Focus back.
+
+This is basically just another heavy weapon you get to carry around, but like a lot of Templars stuff it wants you to last hit enemies. That being said, it’s totally OK to just cash out with this and deal a fuck ton of damage to a bunch of targets to set up for a Reaper or Serial chain for another unit. It’s also a good way to cash out so to speak if your templar rolled Reaper and their Rends start doing too little damage to justify continuing. You don’t get to click Parry after doing this which is really its only downside, but if everyone is dead, who needs to tank shots?
+
+Void Conduit (★★☆☆☆) - Void Conduit is an active ability that costs 1 Focus and ends your turn. It targets an enemy humanoid (so ADVENT soldier, Codex, importantly AVATARs) and deals 4 damage to them, restores that much HP to your templar, and reduces the enemies actions by the amount of Focus you have before you use this. So if you have 1 Focus and use this, the enemy will only get 1 action on their turn. If you have 2 they are fully stunned for a turn (unless they are an Avatar), and if you have 3 it lasts between turns.
+
+It’s bad Stasis! That’s a little unfair, because you can shoot the person being restrained with this, but it’s a pretty apt comparison. It doesn’t work on every unit type, it takes your whole turn, and the other niche stuff it does is sort of whatever. The actual use case of this is to stop AVATARs from hopping around! AVATARs can’t teleport when they are restrained by this (which probably has some lore implications if this game would ever get a sequel…oh I made myself sad again) so you can just light them up. It might be worth picking up if you plan on bringing your Templar to Leviathan (which isn’t a bad decision by any means) but it’s sort of whatever otherwise.
+
+Ghost (★★★★☆) - Ghost is an active ability that costs 2 Focus and ends your turn and can only be used once per mission. It targets an enemy humanoid corpse on the battlefield (meaning if you haven’t made one of those yet, this won’t work) and creates a purple glowy templar with an amount of Focus equal to the Focus you had before you used this. That templar has all the abilities your normal templar does, but it also has the Reaper skill (I think they regret giving that to rangers and not this class, but whatever) but everytime they use Rend they lose 1 Focus. In addition they can’t ever gain Focus and go away forever if they run out. Importantly (for only me) if a Ghost fades away or dies that counts as a death on the final stat screen, which I’m pretty sure is only to annoy me!
+
+Ghost is fun! You get another Templar running around and 3 Rends isn’t that many; it's often enough! Also if you have Bladestorm the Ghost gets it too, so you can just run next to people and pseudo Rend them and not waste your Focus. It’s pretty good, in fact with Bladestorm its fucking amazing, but it isn’t the greatest ability ever. It’s just very good.
+
+Deep Focus (★★★★☆) - The GTS perk for templars lets them start missions with 1 Focus. That’s it, that’s all it does.
+
+Yes, in fact, I do want to start every mission with 1 Focus. Now I can use invert on the first Pod I see! It’s very straightforwardly good. I don't have much more to say.
+
+XCOM Abilities:
+Onto the XCOM abilities they might learn, I won’t explain what they do because that’s in each class guide but you’ll figure it out I’m sure. Here’s the table:
+
+Ability
+Bladestorm (★★★★★)
+Reaper  (★★★★★)
+Fortress (★★★★☆)
+Lightning Hands (★★★☆☆)
+Shadowstep (★★★☆☆)
+Quickdraw (★★☆☆☆)
+Face-off (★★☆☆☆)
+Sustain (★★★★☆)
+Bladestorm (★★★★★) - So you know how Rend can’t miss? Well that applies to Bladestorm attacks as well. Meaning if you have this perk, your Templar’s damage basically doubles. More than doubles if you include standing on top of reinforcement drop points and slashing at everything as they drop in. They should not have given this class Bladestorm it is fucking crazy!
+
+Reaper  (★★★★★) - Chain-kills are good and because Templar build Focus as they kill stuff that effectively replaces the damage loss from Reaper, at least until you hit max Focus. This is obviously very good to clean up a bunch of enemies at once but do be warned that (unless you have a mod that fixes this but I can’t take those into account for this guide) you cannot click Parry and Reaper in the same turn, so don’t end your turn excepting to be able to. 
+
+Fortress (★★★★☆) - On Psi-Ops I’m a little underwhelmed by this but on this class it lets you melee enemies who explode on death, and that’s great. It doesn’t seem like that big a deal but just that little bit of extra flex is often enough. It means your Templar can solve a purifier instead of someone else and that can free up your turn quite nicely. Plus it can help with pathing and make Templar immune to a lot of attacks you can't Deflect/Reflect. 
+
+Lightning Hands (★★★☆☆) - A free shot is a free shot and you can blue move, fire this, then Rend in the same turn and that’s nice. But then you have to actually upgrade the Templar’s pistol to get the most of this, and I don’t want to do that, so meh. If it shows up you should consider it but there is so much worth buying on Templars skill tree (Reflect, Deep Focus, and Invert are all at the same rank) that maybe skip it. But maybe not, but maybe yes. It’s up to you.
+
+Shadowstep (★★★☆☆) - In a similar boat Overwatch isn’t that common but ignoring it when it does come up is nice. Good for Chosen with Watchful, good for Heavy MECs, but otherwise, eh. It’s OK. 
+
+Quickdraw (★★☆☆☆) - I mean…it’s OK but how often is the target of your rend within 1 blue move? Not very I’d wager. It can be free damage, but also…I’d rather just click Rend and Parry.
+
+Face-off (★★☆☆☆) - This isn’t clicking Rend and then Parry, in fact it doesn’t let you do that! There are maybe some situations where this is better, but they are rare. Pass.
+
+Sustain (★★★★☆) - I brought it up a bit in the other section but Templars are the most likely to get shot at in the entire game, so being able to cheat death is very good. It can also make your Templars an emergency mimic beacon if everything goes to shit. Hopefully it won’t, but this is XCOM, so…
+
+Weapon Mods:
+Templars can’t equip weapon mods. 😞
+
+Utility Items:
+Templar’s can’t get Tactical Rigging but they come with one utility item slot. I think the candidates are grenades, mimic beacons, and mindshields. Interestingly this is the only class in the entire game that doesn’t want special ammo! We did it boys, we found a single class that doesn’t want BS rounds! Hooray!
+
+Frag/Plasma Grenade (★★★☆☆) - Sometimes, especially early into a run, you won’t be able to Rend safely and this does more damage and has more utility than Volt. So often you’ll just bring these because there isn’t anything better. Grenades are good, what more can I say. 
+
+Mimic Beacon (★★★★★) - Sometimes, there are too many enemies to click Rend and then Parry. Sometimes you have to just throw a meme beacon and buy yourself a turn. Templar’s utility item slot is sort of free because they don’t need ammo and mimic beacons are the best utility item in the game so why not give them to this class? It works.
+
+Mindshield (★★☆☆☆) - As I just said templars utility item slots are uncontested for the most part so if someone else is carrying the beacon (and you don’t have multiple yet) then this isn’t a bad call. But honestly I’d take the grenade most of the time. 
+
+PCSs:
+And lastly, let us go over PCSs. As always the higher quality ones are always preferred.
+
+PCS
+Aim (★☆☆☆☆)
+HP (★★☆☆☆)
+Dodge (★★☆☆☆)
+Will (★★☆☆☆)
+Mobility (★★★★★)
+Aim (★☆☆☆☆) - Won’t see me giving an aim PCS a bad rating elsewhere! Rend can’t miss what are you doing giving this class more of a thing they can’t use? Every other class wants one of these! Stop being silly!
+
+HP (★★☆☆☆) - Templars are the most likely unit to take damage so this is a little better on them. It can also push the math in Deflect/Reflects favor by making you not risk death if they don’t proc. I still usually just sell these but it’s better than on any other classes.
+
+Dodge (★★☆☆☆) - You can get silly dodge numbers on this class with these, and while that’s not great it is funny! I would still just sell these but you can do it if you really want.
+
+Will (★★☆☆☆) - Templars don’t really need more will. You get to bring them out more, but eh. 
+
+Mobility (★★★★★) - Yes, I do want more mobility on the (mostly) melee only class. Like, obviously this is the best one. You didn’t need me to say that you knew that already.
+
+Summary:
+
+This class is extremely powerful. Rend and Parry are so good that this is basically what you spend most of your time doing and they have extra utility on top of that. They really want those powerful XCOM perks like Bladestorm and Reaper to get to their highest highs, but even without those this class is quite strong. Just be careful not to click Rend and then activate 19 billion enemies all at once. But if you don’t do that then you’re golden!
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+127
+
+Downvote
+
+50
+Go to comments
+
+
+1
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/Wonderful_Discount59 avatar
+Wonderful_Discount59
+•
+2mo ago
+I'd rate mind shields higher.
+
+Templars are one of the classes that you really, really don't want to get mind-controlled.
+
+inconspicuous_bear
+•
+2mo ago
+Especially if they have bladestorm since they can fuck up your units just for starting their turn next to the newly mind controlled templar.
+
+alexis_ramest
+•
+2mo ago
+It was a ranger in my case, but this is literally how I lost my first iron man run that went all the way to the last mission. Mind control, start of my turn, ranger kills Avatar, ragequit
+
+u/McGrevin avatar
+McGrevin
+•
+2mo ago
+Not only do you not want them mind controlled, but because of the way you use them they're far more likely to be the target of mind control as well. If there's a pod with a priest and something else, the templar can basically parry them both by using party and having a mindshield
+
+Royal_Ladder5434
+•
+2mo ago
+This!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Good lord, 10 parts already. And we aren't even done with all the classes yet! This might actually end up as long as Dune when I'm done, which is pretty funny.
+
+MirrorFR
+•
+2mo ago
+Keep it up! I love these guides, especially now that I've bought WOTC
+
+IWantAGamingChair
+•
+2mo ago
+Honestly, I’ve been looking forward to these. It has got me itching to run it again. How many parts you think you’ll write up? Lol
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I think it'll end up being 20-25. After classes there is research, base building, weapon guide, just a big list of how much everything costs which is probably useful to have in this, general enemies (that might have to be two guides, depending on how long that goes), the chosen, rulers, covert ops, and probably something I'm forgetting.
+
+So...we have a bit to go!
+
+u/XCOM_Finx avatar
+XCOM_Finx
+•
+2mo ago
+i'd swap Aftershock and Amplify ranking. I find Amplify to be Templar's most sleep on ability. If you know basic math it quickly become a action economy perk in disguise. Assuming you are within range to Rend, you can Amplify first to help someone else damage which will often result in one fewer shoot required to kill meaning less attack needed to alpha strike. Also very handy for fighting Chosen early on when your damage output isn't the best. A Ranger getting a crit on Amplify will make Rapid Fire redundant. Its why (along with Parry) Rangers and Templar are by far the best class to bring in a Chosen Stronghold. This ability is why I also pick Channel further down the line to maintain high focus while Amplifying left and right. Aftershock I used once and wasn't impress at all...
+
+Templar was the class I used to dislike alot, but I eventually gave them a fair chance and they became my favorite faction class. Many recommend to start with Reaper to secure scouting from the start, but I much prefer Templar because from my experience when you get good enough the main issue on campaign start isn't scouting, but raw firepower. Starting with a Templar solve that just by clicking an option before starting a campaign... I mean you still have to play very well but as you rightly said "Templars are a pretty big skill check." which is a tradeoff i'm taking any time. Plus, I have a soft spot for their resistance order. You give me Pursuit of Knowledge, Deeper Learning and Trial by Fire and i'm happy.
+
+edit : I forgot a neat trick with Parry that I think people should know. If you Rend then Parry, get Teamwork or Combat Presence, Rend/Parry again those Parry charge actually stack so that allow you to take more than one hit without taking damage.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Templars are really weird where they are strong early, lag a little in the mid-game (though I agree about your Amplify assessment and utility) and then pick up late game when they have better gauntlets, 3 Focus, and more utility skills like Invert. It's a really weird like inverse bell curve of power where Rend and Parry are stupid but then they're more of a late game investment unless you relegate them to Covert Ops.
+
+The funny thing is that Parry doesn't sound that different from something like Aid Protocol, helping them when they are predictably out of cover or in bad cover. But the way the AI works with flanked/exposed shots, it becomes almost like a mini-Mimic Beacon on demand that you can use near every turn. You can't guarantee an AI will take a shot on a Parry, but you can kind of bait enemies, or more often leave two enemies with an okay safety net if you can "force" one to use a different ability. I believe Parry also works like Untouchable and ignores even explosions and stuff, which makes it even stronger than it seems as a ballistic shield.
+
+u/XCOM_Finx avatar
+XCOM_Finx
+•
+2mo ago
+Yeah idk why 2 tier gauntlet are so shit, with only a +1 to damage, it leads to Templar struggling in the midgame damage wise, but I guess its not the end of the world. By then you should have other class like Rangers who can pick up the slack. Unless you roll Bladestorm early enough then it heavily compensate with the amount of extra attack you get.
+
+u/Jumpy_Walk8542 avatar
+Jumpy_Walk8542
+•
+2mo ago
+Many thanks for all of these. I thought a melee only class must surely be worse than the Sharpshooter, but it sounfs like they are pretty good!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+They can't miss! What more do you want out of a class than not being able to miss! Also parry, parry's crazy
+
+baddoge9000
+•
+2mo ago
+Dont do this to me bro. I dont have the time to jump into xcom again 😩
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Come on...you know you want to start a new campaign... it'll be fun...join us...join us!!!
+
+u/not_vichyssoise avatar
+not_vichyssoise
+•
+2mo ago
+Well, you got me. Haven't played X-com in a few years. Just reinstalled it a few days ago.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Victory!
+
+Aetyhs_Affilion
+•
+2mo ago
+You got me too, i just play and lose another campaign :)
+
+baddoge9000
+•
+2mo ago
+Must resist urge to install.... 20mods, must resists urge to say it.... "thats xcom baby"
+
+Quantum_Aurora
+•
+2mo ago
+Me putting vests on all my templars and rangers and reading how much you hate vests: 🫥
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Hey look don't let my hatred for an item in a video game stop you. I'm just some asshole on the Internet.
+
+But also...yea...I mean... vests do kind of suck...
+
+u/Johaggis avatar
+Johaggis
+•
+2mo ago
+To be fair, if you don't roll fortress, Hazmat Vests can solve the aforementioned pathing thing for templars. And the opportunity cost isn't super high, as you mentioned. Having an item with a small benefit without taking an action is nice
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea but then you have the different opportunity cost of having to burn cores and proving ground time trying to roll for a Hazmat Vest. When you could just give them a grenade or mimic beacon without any of that.
+
+mitiamedved
+•
+2mo ago
+Agree with most except Mindshields - they are a must, always, no matter what on Templars. You do NOT want your Templar to get mind controlled. I’ve had it happen maybe once or twice in 100 campaigns I played, and I’ve not taken off a mindsheild off Templars since.
+
+TruShot5
+•
+2mo ago
+Yea agreed. Other classes tend to do dumb things, and might work out. A Templar with guarantee slap you with a rend, and ruin your day.
+
+u/SlavaUkrayini4932 avatar
+SlavaUkrayini4932
+•
+2mo ago
+I like your writing. It's entertaining and pretty informative.
+
+Are you going to have a part for discussing bonds? They are mostly random but you can still force some of them to happen with a covert action or with enough time. I think they are worth discussing, at least for faction classes since their numbers are limited.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+First, thank you!
+
+Second, I'll talk about bond when I cover the training center and AP and all that. Roll them all into one. Assuming it doesn't go over Reddits character cap.
+
+generalguan4
+•
+2mo ago
+What does TLP stand for? Also what is the one ability that’s 0 stars
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+TLP is tactical legacy pact. It was the last DLC for this game.
+
+The one ability with 0 stars is Covering Fire, covered in my specialist guide
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I very seldom occasionally use autopistols to one tap or finish off Lost. Similar to a Sharpshooter their pistol is not ammo dependent so it can be useful in a pinch. But the Lost are hardly much of a challenge most of the time and their health outscales the pistol quick unless they are softened up. The autopistol is probably the least used weapon in the game, especially not really synergizing with the rest of the class. While Lightning Hands, Quickdraw, etc are common and somewhat tempting pickups I find I just never have the AP, as Templars are one of the classes I tend to go deep into buying abilities for, as utility somewhat between a Psi Operative and a Ranger, both of which are useful.
+
+===
+
+I actually find myself using Volt incredibly rarely, to the point I've basically never gotten value out of Aftershock and to the point I stopped dumping points into that despite ostensibly sounding good. It comes up both as often and less often than using Soulfire on a Psi Operative I'd say, as a cannot miss melee attack with Implacable/Parry is pretty good. The rare times I can't attack I either move them closer or consider dropping a Mimic Beacon or something.
+
+===
+
+Amplify is pretty good against Chosen. I rarely use it against other targets but that extra oompfh is like a mini Rupture usually long before Rupture is available. There are various reasons you might not want to melee a Chosen and this is good then to help the team. I basically never use it below Legend though. You can also chain an Amplify into an Invert which is cool.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea Amplify against the Chosen can be OK. It's decent against like Gatekeepers as well.
+
+I find I get a lot of use out of Volt + Aftershock on Templars that don't roll Fortress when taking down Sectopods/Gatekeepers/Purifiers. Gives them something useful to do against those enemies. It is much worse than it sounds on Paper and Templars are so AP hungry I sometimes skip it entirely, same with Amplify.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I find the +damage and +mobility from keeping Focus high pretty good. It's not unusual for me to get to 3 Focus and stay there for basically the entire mission. Almost all of my utility skills with them are for dealing with the Chosen (Invert especially) or the very niche option of Avatar combat. 3 Focus Rend + Parry, especially with upgraded gauntlets, is pretty good. A Ranger can sometimes be preoccupied with other things or priority targets (especially if leaning into the Katana), so having another organic delete option is nice. Arc Wave is kind of silly but the chip damage might be the difference between a Death from Above Sharpshooter kill or not so eh. It's probably more expensive than it's worth but you can play a Templar pretty "dumb" with Rend 'hammer' focus and get good utility out of it, just carrying a Mimic Beacon as a get out of jail free card sometimes.
+
+antiguy1
+•
+2mo ago
+Templar lives and dies on whether they roll Bladestorm. Without it, they're still good but with it, they solo maps. 100% accurate reaction Bladestorm guarantees anything less tanky than an Andromedon dies in essentially one Rend while their multitude of defensive skills makes them near untouchable.
+
+This is also a good place to ask why you're undervaluing Mindshields. Psionics are one of the few attacks their skills don't protect them from and losing a Bladestorming Templar to a Mind Control can be a squad wipe. The Chosen also have the potential to daze them without a Mindshield and a Templar that dives into an enemy might not have an ally nearby to revive them.
+
+Moistinatining
+•
+2mo ago
+Chiming in to say that it's clear from how OP writes that they value alpha striking/clearing enemy units >>> defensive items. In this framework, mindshields aren't bad per se, but are not worth the opportunity cost when compared to a mimic beacon (which even psionic enemies will prefer to shoot at if placed in the field with no cover) or a grenade (which has the potential to remove a psionic enemy from the board).
+
+Similarly, I also think the language of these guides is really about putting a soldier's abilities in context with playstyle, not just in isolation. In theory, you're right that mindshields shore up a templar's primary weakness. But also, simply killing the templar's weakest matchup with other soldiers or, at the very least, waiting to move your Templar until after you minimize the risks of/clear the board of psionics, is an equally viable strategy that OP practices/values highly (especially given their medikit write-up).
+
+Also, the game gives you a lot of information about what enemies you'll be facing, with you being able to tell exactly what enemies will show up on a given mission. Plus, like OP has mentioned before, you can roughly guess when you'll encounter a chosen on a random council mission/guerrilla op, so you can even plan around the warlock if need be. With that in mind, mindshields simply aren't always useful in the same way that mimic beacons or grenades are.
+
+antiguy1
+•
+2mo ago
+Similarly, I also think the language of these guides is really about putting a soldier's abilities in context with playstyle, not just in isolation.
+
+Ok, let's talk about this with context. First, the power of a Mindshield isn't because it blocks mental attacks. It's because enemies cannot tell if a solder is wearing a Mindshield meaning they'll waste their turn and cooldowns for nothing. There are very few ways to make a Chosen waste their turn and Mindshields are one of them. It's not just the Warlock either. Harbor Wave, Parting Silk, Tranq Shot, Concussion Grenade; Mindshield allows you to use offensive actions on the Chosen instead of wasting moves reviving solders. Also the Berserker Queen is a bitch and Mindshields help when she uses Quake/Faithbreaker.
+
+Second.. what else are you going to give a Templar? They're not the best user of throwables as they almost always want to use Rend as their turn ending move, vests suck, they don't have great Hack stats for a Skullmine and the only ammo they would want is Bluescreen (not only because they're broken but because their actual worst matchup is a Sectopod. Lightning Field and Wrath Cannon bypass Parry, they can elect to shoot the same target twice and a killing Rend blow will cause them to get caught in the death explosion).
+
+Yes, if you have the Shadow Chamber and you know there's no psionic enemies, and you encountered the Chosen the last map (even though that's not a 100% guarantee if multiple Chosen are alive) and it's not a map type with reinforcements, then yes use something else. But for the majority of encounters, Mindshields are best-in-slot.
+
+Moistinatining
+•
+2mo ago
+I meant in context with the rest of your team's loadout, but I get your point and I'd definitely try to build my Templar with a mindshield during chosen encounters/against alien rulers. But more often than not, Templar's utility slot is where I'd be putting a mimic beacon if I'm not fielding a specialist, and that's ultimately a hard choice in the mid game, especially if you don't have the second squad size upgrade or the Templar GTS upgrade yet. By the late game, I still wouldn't be fielding mindshields as I'd likely already have a psi-op with solace at the point.
+
+As to your other utility options, while Templar's core loop is built around rend + parry, I wouldn't choose to rend in a situation that would leave 2+ enemies on the board; using a blue move to reposition and throwing a mimic beacon would be the safer play here. I think this situation comes up fairly often throughout both the mid/late game with Templars since they can't reliably one-shot enemies at full HP once advanced troopers come into play. Also, unlike OP, I do find uses for their autopistol as I like fielding Templars on lost missions due to their high aim and unlimited ammo, so I'm likely to give them venom or dragon rounds whenever the lost appear (this is admittedly niche but is just a nice option that I'd like to point out that I don't think people talk about).
+
+Fielding a mindshield definitely makes the Templar tankier and allows you to play more aggressively as a result. I can definitely see its utility, but ultimately, I have to consider all of the utility items I'm bringing with me for a mission and with that in mind, I still don't think mindshields boost a templar's performance significantly enough to warrant it replacing a mimic beacon for me.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The solution to mind control/daze is to kill the unit doing it. If, for example, a sectoid mind controls one of your units you have 3 other units to solve that problem that should be enough. The chosen are bit more of a problem but even then it isn't that hard to handle, Revival Protocol exists for a reason.
+
+I would also recommend not just throwing a Templar into a pod and seeing what happens. You have 4-6 units on the board, act like it. You don't actually want your Templar that far away from the rest of your squad or they will pull another pod that you can't handle and then you're rolling some dice with deflect/reflect and that's not a situation you really want to be in.
+
+antiguy1
+•
+2mo ago
+Well yes not Sectoids. At the stage of the game where you'd actually have a mid-level Templar you'd be more concerned with Priests, the Warlock and Avatars, all of which are healthy enough that killing them one turn is not a guarantee on Commander and up. 
+
+Also Revival Protocol doesn't clear Mind Control.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+For Priests they don't really have that much HP, it isn't hard to alpha them down and even if they Sustain that breaks the mind control.
+
+The Warlock is a bit trickier. But if you get them under half HP he goes into his bubble and will break the mind control himself before your templar can kill you and you always have two turns to get him to that point. And worst case scenario you can throw a frost bomb at the Warlock or a Flashbang at the Templar to neutralize the threat (Templars cannot Rend whole disoriented).
+
+For Avatars, bursting them down to 0 as fast as possible is absolutely critical regardless of what they do on their turn. Either it's after skulljacking a codex in which case they have half HP or it's waterworld time and killing an Avatar prevents a round of reinforcements from spawning, so you gotta get on shit asap anyway. And even if you fail you probably didn't fail so hard that you can't clean it up on the following turn.
+
+antiguy1
+•
+2mo ago
+Priests they don't really have that much HP
+
+The have the most HP of any of the common ADVENT troops, plus innate Dodge and Defense and that's before considering cover bonuses. At Mag-tier weapons, that's potentially 3 shots to kill if you get unlucky with damage rolls. Or you could just equip a Mindshield to completely invalidate the risk and focus on more actively threatening units like Lancers and MECs.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea but you got two turns to kill them. Turn 1 you focus fire the other dangerous units. Turn 2 you're down a unit to MC or stasis but then you can focus fire just them and kill them. They might survive at 1 HP but then they do which psi move they didn't do last round and then they die.
+
+u/nut55555 avatar
+nut55555
+•
+2mo ago
+I use exchange for avenger defense mission move your turret to location they can shot distruptor is pretty fun.
+
+u/ConstantPop4122 avatar
+ConstantPop4122
+•
+2mo ago
+Just started using my template today....
+
+First time out, one-tapped a gatekeeper with ionic storm.....
+
+I'm a convert.
+
+u/Hikary21 avatar
+Hikary21
+•
+2mo ago
+What modlist are you playing?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Currently nothing but QoL, UI, and bugfix stuff.
+
+Though I do often play with making psi ops normal units (and fuck around with their skill tree to be less broken) and some modded enemies like Rift keepers and Pathfinders.
+
+u/buenosvapores avatar
+buenosvapores
+•
+2mo ago
+Does Parry stop you from being able to run away though? I wondered if it could have a downside that you don’t get to reposition into safety from multiple hits
+
+u/TheFatBassterd avatar
+TheFatBassterd
+•
+2mo ago
+Overcharge definitely has a chance to give you an extra focus on a kill, it's happened to me a few times. Really confused me the first time until I figured it out.
+
+And for bladestorming reinforcement points, it's probably good to mention that if heavy mecs are dropped that they will just go into overwatch rather then active your bladestorm on them. I had this happen to me over and over and over again on a mission. I snowballed and started just camping the reinforcement points with my Ranger and Templar both bladestorming as everyone else took overwatch, then finished them off with a couple of my lower ranked soldiers to help promote them. But those Heavy Mecs were annoying AF because they would just sit there and not trigger any attacks towards it.
+
+dwhite10701
+•
+2mo ago
+Good write-up as always.
+
+For some reason I hate to bring multiple hero class soldiers on a mission together. You're right about bringing a reaper along to scout when using a templar, but I always feel like I'm cheating one of my ordinary soldiers out of a chance to gain AP.
+
+I like the flexibility that Exchange offers. It's kinda like a weaker Icarus jump that's available to every soldier on your squad.
+
+u/BusinessCat88 avatar
+BusinessCat88
+•
+2mo ago
+I just found out arc wave is considered "melee" and counts towards reaper kills. It also doesn't seem to decrease in strength with reaper kills. Holy smokes, I was not prepared! If you plan out your move you can do some ridiculously heinous stuff with the templar

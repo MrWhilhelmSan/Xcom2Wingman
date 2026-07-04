@@ -1,0 +1,1177 @@
+And now, we cover my eternal nemesis (that’s a joke), medkits (the game spells it medikits, but I won’t). Here’s the table of their effects and my controversial rating. 
+
+Item	Uses	Effect
+Medikit  (★★☆☆☆)	1	Heals 4 HP. Removes burning, acid, poison, and bleeding. Also stabilizes bleeding out units. Grants immunity to poison on the carrier.
+Nanomedikit (★★☆☆☆)	1	Heals 6 HP, otherwise the same as normal medkits
+Medkit/Nanomedkit  (★★☆☆☆) - OK for newer players or people who don’t want to read a fucking essay and just wants to know why I don’t like this item, here is the short version: 
+
+Medkits are only useful when a unit takes damage twice. If they take damage, get healed, then don't take damage again, that medkit had no effect because of how wound timers work in this game. Because of the structure of missions in this game, that happens a lot less than you probably think it does. And it competes with stronger items that prevent damage in the first place. An ounce of prevention is worth a pound of cure. This is a game about alpha striking and denying enemy actions, as I said in my tactics guide, and medkits don’t do any of that. My advice is to replace the medkit in your utility item slot with a flashbang, frost bomb, and especially a mimic beacon and use those items proactively rather than waiting to take damage. There are some corner cases where medkits are useful, but you can just grab medical protocol on your specialist for those and not waste your utility item slot.
+
+If that’s all you want, cool, see you in a few days for the Proving Ground guide, have a good one. For people who really want the details on this, who want every possible angle explored, well, buckle up:
+
+Let’s start with what it means to be a good item in XCOM 2. For an item to be good, to be worth using, it has to increase your chances of getting through a mission with fewer deaths and/or wounds. Increase your chances of flawlessing or preventing a death on a mission. Short of the skulljack, nothing is needed to beat the game, just make it easier. 
+
+This is best done by denying the enemy actions. Dead or stunned enemies cannot hurt you, and so your odds of flawlessing a mission go up. Medkits do not do this, but that isn’t necessarily a bad thing. Medkits are a recovery tool for when the “alpha strike or stun or die” loop breaks. And if that break happens often enough, then this is a good item. But the exact way medkits help you recover means that they are doing a lot less than you would first think, and because they aren’t a part of that loop, that is a really tough sell.
+
+I’m going to approach this from three different angles, from a medkit’s opportunity cost, from how often they are actually useful, and from when in a campaign they might prove worth it. I’ll first start with the most important one, opportunity cost, but first, a brief word about what medkits actually do.
+
+Medkits only function if a unit takes damage two times on two different turns in the same mission. In XCOM 2, the wound timer is determined by the lowest HP you reach during a mission. If you have 10 HP, get hit for 6, heal 4, then don’t damage again, the game will give you a wound time as if you took 6. So a heal is only effective if you take damage on the same unit twice. If you have 10 HP, get hit for 6, heal 4, then take another 3. That heal shaved significant time off the wound timer and could’ve saved that soldier's life. So the question is, should we build an item for that use case?
+
+The answer is no for one simple reason: the opportunity cost is too high. There are other items that would prevent the damage the medkit had to heal, either by killing the enemy outright before they get to hit you or by stunning them into not attacking you. Dead enemies don’t deal damage that needs to be healed. This isn’t free; it costs you supplies and an extremely valuable item slot. And if you take damage, heal, and then don’t get hit again, that medkit was blank, you spent a utility item and an action doing nothing. There are no penalties for fighting injured in XCOM 2 your unit is just as effective at 1 HP as they are at 99. So unless you get concrete value out of a medkit on a mission itself, then you don't need to bring one. Even in the cases where you’d think a medkit is the only solution: poison or bleedout or similar, another item would have likely gotten you out of that situation before you were ever in it. Flashbangs disable a Viper’s poison spit. A grenade might have given you enough extension to kill the Chosen before they could’ve caused someone to bleed out. Fundamentally in this game it’s just better to be proactive than reactive. 
+
+In addition, mimic beacons completely overtake medkits. Medkits heal damage, mimic beacons prevent you from taking it entirely. This is exactly what I talked about in the beginning, mimic beacons fall right into the “alpha strike or stun or die” loop. They don't need you to have already failed at the game's core loop to be useful. In fact they are so good in that loop that last guide I gave them 10 stars as a bit, they are just that strong. And that strength eats away 99% of medkits' utility.  It takes a little more forethought to use a mimic beacon, as in you have to act on the turn you might take damage instead of after it, but that is more than manageable. Now it’s true you get medkits earlier than mimic beacons, but as I said earlier the opportunity cost of them, having to trade out a grenade, is so high that they still aren’t worth it. Even if every prevention tool in the world fails and you take damage, those prevention tools almost certainly reduced the damage you took more than a medkit could ever heal. Even if you just trade one for one the prevention tool still wins because you avoided damage rather than taking it. 
+
+Now, for the sake of argument, let’s say that the trades above sound worth it to you. That despite what I said above you still think you want the safety net of being able to heal from damage. OK then, go buy Medical Protocol. You can have a heal that isn’t eating a utility slot. If you don’t want to give up Combat Protocol (and I certainly don’t) you can build the training center and buy both. Or if you are really that scared of damage just take medical protocol first. It isn’t what I recommend but hey it’s not the worst thing in the world. And then you get your item slot back! An ability slot is a lot less valuable than a utility item slot in most cases and especially on specialists where there aren't many places you want to buy the other option on the tree. And if you don’t bring a specialist on a mission you are going to overflow with offensive and stun tools like grenades and Parry and the like and that might work out even better than having Medical Protocol. Plus after a certain point you can have enough soldiers in rotation to always have one on hand anyway, so that’s a very narrow concern. Medical Protocol even handles the rare “whoops the Assassin crit me with 0 counterplay” situation we all find ourselves in sometimes just as well as medkits do infinitely less opportunity cost. And finally you might think you need more heals than Medical Protocol alone provides, but go read my discussion on field medic for why you, in fact, do not. 
+
+So even medkit’s actual use cases, needing a heal, has something competing against it. Medkits are beset on all sides here. There are better items or abilities that replace them entirely. And the worst part is, I’m not done critiquing them yet. It gets worse from here!
+
+Let’s move onto how often the situations where medkits actually help even come up. What are the actual use cases of this item and how often do those use cases occur? Even if the opportunity cost is high if these are helpful enough they might still be worth it.
+
+Medkits shine in what I'll call "the middle state". Medkits are supposed to occupy the space between a flawless mission and catastrophic failure. They do nothing when everything goes perfectly (or even near perfectly, one injury on every one of your soldiers still has medkits doing nothing, as mentioned above), and they do nothing when everything goes catastrophically wrong and enemies are taking 5 billion actions and killing your entire squad in one turn. They only matter in that narrow middle band where things aren’t going great but aren’t deadly just yet. So the real question is how often you land there.
+
+The most obvious way to end up in the middle state is status effects. Medkits cure burning, poison, acid and bleeding and you’d think that’d be very useful but the amount you actually deal with those conditions are rare. Purifiers burn you, Vipers and Chrysalids poison you, Andromedons apply acid, and the Hunter is basically the only source of the bleed condition outside of dark events. And that’s it, that’s the whole list. While you'll fight all of these enemies plenty, you will also probably fight them without a single status effect landing most of the time. It happens, you do get poisoned or burned and how often is variable, but it is rarer than you’d maybe expect. 
+
+Bleedouts are harder to quantify but again I’d bet that they aren’t as common as they feel. Chosen encounters are the most common source of bleedouts, but usually happen late enough in a mission that it ends before the bleedout matters, and if it doesn't, you're probably already losing regardless. The other bleedouts, the ones where a fatal shot gets luckily converted, require a very specific chain of dice rolls to even occur. Building around that is building around luck. 
+
+As for taking damage on the same unit on two separate turns, this actually gets less common the worse you are at the game. Newer players are more likely to have mistakes compound catastrophically, skipping the middle state entirely. Ironically, medkits extract the most value in the hands of skilled players, whose mistakes tend to be recoverable rather than fatal. Better players get more out of medkits, which is very funny, but also not good for medkits. Better players also get more out of flashbangs and grenades and that shrinks the amount of time spent in that middle state even more. The middle state collapses from both sides. It's rare both for very good and very new players and even ones who are decently proficient occupy it less than you’d think. The snowball effect in XCOM 2 is just too strong. Most of the time you’re on top of the world or stuck in a sewer drain with very little in between. 
+
+And finally, whatever number you land on for how often these situations arise, subtract out the times they arose because you brought a medkit instead of a grenade, flashbang, or mimic beacon. Subtract out the times another item would’ve bailed you out before you took damage at all. That number isn't zero. My last argument hasn't gone anywhere. This item holds an opportunity cost to it. Again from every angle the situations where medkits are what you want to use just get narrower and narrower the more we look at them. Now maybe you think these situations happen more than I do. I can't really fault you for that, the hard data on this is literally impossible to get. But even then unless a) that is happening constantly and b) another item wouldn't reduce their frequency past where medkits can recover you from, then my argument still holds in the end. 
+
+Now for the final angle to look at medkits from, the pace of a campaign. When in a campaign would you expect to get value out of a medkit? Where do the situations like getting a bleedout or poisoned or having a repeat injury actually occur during a campaign? Let’s break this into parts, early, mid, and late game. In the extremely early game, those situations happen basically never. You either flawless the mission, you are forced to leave a trooper alive and someone takes some chip damage, or a Sectoid crits you from behind full cover and you’re dead. And this is regardless of skill level it’s just how these missions go. So medkits, weirdly, don’t help in the hardest part of the game. The early Chosen encounters can cause bleedouts, but in those situations you are either just about to win the mission anyway, in which case you don’t need to stabilize them, or you’re racing down an unrecoverable hill of death and destruction and need to GTFO anyway. The situations where a medkit is useful in early Chosen encounters are very thin. Not technically non-existent, but rare.
+
+In the earlish-middle game they are at their best. You are fighting vipers who poison you, you might eat a hit and still have a few pods to fight so it has the potential to do something, etc. This is their best time to shine. If you bring a medkit, it will probably find something to do in this pocket. And yet…it's still probably not the best use for the job. Flashbangs can prevent a lot of the special abilities that cause medkits to be useful here. Grenades might give you just that little extra push to kill a Viper for example before they poison you. If you have the frost bomb by this point (and you can, depending on your settings) then that completely shuts down the enemies. Even at their best, they are still outcompeted. 
+
+And finally, once you get past a certain point you have mimic beacons and the frost bomb and all mag weapons and then medkits are just completely supplanted. Your utility slots start to hold stronger and stronger items and you just can’t afford to bring something so low impact. And if you try to make room for them, say you want to bring both mimic beacons and medkits on a specialist, you are giving up experimental ammo or the bluescreen rounds or some more useful item to do so. It is just so hard to justify at this stage.
+
+So in terms of the pace of the game; bad in the early game, maybe kind of OK in the early-mid game, and then bad again after that. That is a rather narrow window for this item to have any reason to be built with any reasonable purpose, and even then it’s still probably outcompeted. So…why are you building it again? 
+
+To be clear, this item isn’t a vest, it isn’t smoke grenades. If you bring one there is a chance it’ll be useful. But if you want to maximize your chances of winning an L/I run, you shouldn’t play to corner cases, you should make the play that is correct the most often, and medkits just ain’t it. They are not worth your utility item slot.
+
+OK, that’s it. I’m done talking about this. If you still disagree, go ahead and drop a comment. I will happily continue this discussion. Lord knows I don’t care about being brief, but I think I've been as thorough as possible. 
+
+Tl;dr: Medkits have too high an opportunity cost in a game like this one. This is a game about alpha striking and denying enemy actions, not healing after the fact. Other items prevent more damage than medkits heal either by killing or disabling enemies. In my (not very) humble opinion, this item is bad and you shouldn’t build one. 
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+196
+
+Downvote
+
+108
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+SublightD
+•
+2mo ago
+This falls under the “some people are playing an entirely different game than I am.”
+
+There’s a “git gud” aspect at play here. Like some missions all 3 pods are literally camping the objective so you can’t alpha strike 12 opponents. The good players can probably figure this out. Others, like myself, cannot. Having a medkit does literally save lives. I can’t tell you how many times I’ve engaged a pod just to have another pod path in.
+
+Now the pro crowd will tell you “git gud” and scout better so that won’t happen. But honestly, XCom gonna XCom for most of us.
+
+At a certain skill level this post is 100% accurate. I’m a “Linus needs his blanket” player.
+
+u/VFiddly avatar
+VFiddly
+•
+2mo ago
+Honestly even if strategically I don't need them, I do still just want them for the reassurance, especially on the longer missions. I'm not invading a Chosen stronghold with no medkits
+
+u/iamthehob0 avatar
+iamthehob0
+•
+2mo ago
+Chosen stronghold we bring some medkits along. But we've also got double utility item slots and maybe that "heal everybody once" skill on a specialist. You can, and should, spare a bit of your space to make sure you go in that teleporter fresh.
+
+u/jltsiren avatar
+jltsiren
+•
+2mo ago
+It's also about how you play the game.
+
+I used to play on Ironman in the past. Flawless missions were common, because the gap between a flawless mission and a catastrophic failure was narrow. But I eventually stopped, because it didn't feel fun anymore. I was spending too much time trying to avoid mistakes, which felt too much like work.
+
+When I play Xcom these days, my playstyle is more about making good enough decisions by default without overthinking. Mistakes will happen, but I can recover from them. Medikits are good, because they let me recover from mistakes. Mindshields are good, because they make many mistakes much less dangerous. Experimental ammo is bad, because each soldier usually ends up carrying the wrong kind of ammo for the situation they find themself in, if I'm not careful. Grenades and most other consumables are bad for the same reason.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Experimental ammo is never bad unless you'd otherwise carry a different item in that slot. I still don't highly rate venom or dragon rounds for instance, as bluescreens are easier to acquire and matter for a larger swath of enemies, including more challenging ones, but if via the Shadow Chamber or SITREP you know you're going into a more organic heavy mission you can plan stuff like ammo a little better. I feel like each class favors a particular ammo or two (outside of bluescreen often being strong), you just can't always choose the best targets, but they still do extra damage when relevant at all and that's not nothing when an enemy barely survives. I feel like dragon rounds in particular are like a riskier stock, but they don't require you to take a stock, and fire has its niche. I feel like poison is just too rarely relevant, you'd be better off with a poison grenade or mimic beacon, if you're somehow THAT behind the power curve. I find that for certain characters like Skirmishers the one default item they carry doesn't matter THAT much, so an ammo type with double shot is not bad if you use them at all. Templars don't shoot really and Reapers aren't guaranteed to have a slot but if they do ammo is pretty nice. I honestly expected to like AP more but I feel like it generally underperforms compared to just more bluescreen. By the time I can get the utility of AP I probably also have Darkclaw to mostly solve those needs, or just push through it all with bluescreen anyways. Few robotics can really withstand Fanfired Bluescreen for instance. Also as a sidenote at least the basic grenades into plasma grenades are useful all game long. The experimental ones are usually too situational to be worth the investment, but plasmas destroying cover as an aim bonus for your squad is great, as well as the guaranteed damage they do if hitting direct. A case could be made for grenadiers carrying regular grenades the whole game, possibly also optionally including a heavy weapon at times.
+
+u/Suspicious_Store_800 avatar
+Suspicious_Store_800
+•
+2mo ago
+Agreed.
+
+If you're at the point where you never need a medkit, you don't need a guide.
+
+u/Far-Government-1985 avatar
+Far-Government-1985
+•
+2mo ago
+I'm not sure it's "git gud" when this whole guide is about HELPING you get good. This isn't a big long "lmao medkits bad", it's "medkits best value lies in relatively uncommon situations and most of the time there are more efficient options, here are some examples why".
+
+If you find yourself in those positions, GREAT, bring medkits. But if you want to think more and put the effort in, then this guide gives you the language to say "okay, I didn't bring one, but if my medkits was actually a mimic beacon, how would last turn have changed?", until eventually you don't need them nearly as often, and you'll still find moments where you go "giving my ranger an extra turn alive thanks to a medkit really was the best option".
+
+Hell, I've played enough ttrpgs to know action economy is king and "the best CC/healing is killing the enemy", and I'm still bringing the odd medkit when I think it's appropriate.
+
+SublightD
+•
+2mo ago
+For sure. This wasn’t bad advice. It’s just that for me, I’ve been hit in full cover, healed, then got hit again under full cover. If I hadn’t healed, the soldier would be dead. I’m sure the thinking is to position better, throw out a mimic to reposition, whatever. Or asking why the enemy wasn’t killed on my turn.
+
+However, I’m in a place where not having a medkit doesn’t feel safe or good.
+
+RustyWinchester
+•
+2mo ago
+So that issue as I understand it is caused by the way the AI handles line of play. Despite not being able to detect your guys directly, the AI knows where you are in relation to the objective. If you stealth too long and too far, enemies will start to path into from behind if you snuck past them, or put themselves between you and the objective.
+
+I've found in most cases you're better off ambushing the first pod you see even if the timer doesn't start until you are revealed, since failing to do so only increases the likelihood of you having to fight multiple pods at once.
+
+u/seto_kiaba avatar
+seto_kiaba
+•
+2mo ago
+ Like some missions all 3 pods are literally camping the objective so you can’t alpha strike 12 opponents. The good players can probably figure this out. Others, like myself, cannot. Having a medkit does literally save lives.
+
+But in the situation you are describing, a mimic beacon is way more useful than a medkit because it will functionally absorb more hits than a medkit can heal.
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+2mo ago
+A mimic beacon is a lot easier to hit for the enemy than one of your soldiers. You throw a mimic beacon for the purpose of being hit. Hits on soldiers and hits on mimic can't be compared 1 versus 1.
+
+u/AbolitionForever avatar
+AbolitionForever
+•
+2mo ago
+I don't think it's really "git gud" to point this out. This is extremely common in many games I've played - where healing options are a tradeoff with other options, healing is frequently worse than it seems because to be useful it requires you to take the damage, then spend resources healing it. You are usually better off finishing the fight than you are healing damage, not to mention the opportunity cost of potentially having taken something that would help you finish the fight!
+
+I'm just thinking of several games with this dynamic, where healing is kind of a noob trap. Learning the principle here is generally useful.
+
+u/snapekillseddard avatar
+snapekillseddard
+•
+2mo ago
+Skilled players: scout better lmao
+
+Mid players: nooo medkits save lives
+
+Unskilled players: just save scum lmao
+
+u/Chii avatar
+Chii
+•
+2mo ago
+and all three are valid ways to play. If you're having fun, it's valid.
+
+ItzEazee
+•
+2mo ago
+•
+Edited 2mo ago
+Elitism would be to say that "if you aren't trying your hardest to win, you are inferior" or "if you don't know the best strategies, that's a personal failing on your part." Simply saying that "if you want to increase your odds of victory, this is your best way to do so" is not. It's not elitist to say that "this is worse and you would have a better chance of success doing something else" and I despise this toxic mindset that pops up anytime people try to discuss strategy, because apparently the simple act of suggesting some strategies are better and explaining why that's the case is immoral.
+
+guachi01
+•
+2mo ago
+There’s a “git gud” aspect at play here.
+
+And the "git gud" people use an obviously broken mimic beacon. Maybe they should "git gud" and play without one.
+
+u/Far-Government-1985 avatar
+Far-Government-1985
+•
+2mo ago
+But then they wouldn't be "playing the game", they would be "playing a challenge run".
+
+Intentionally not using the tools the game provides to overcome the difficulty curve is basically the definition of a challenge run (that isn't external "play game blindfolded" or something)
+
+u/N7_Rabbit avatar
+N7_Rabbit
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Very good point.
+
+ItzEazee
+•
+2mo ago
+•
+Edited 2mo ago
+OP is just sharing information on what the easiest things to do to beat the game are. Going "well OP isn't very good at the game because he uses mimic beacons as a crutch" as a way to degrade them and make them seem less credible is EXTREMELY elitist of you, when OP never so much as suggested that you HAVE TO "git gud", or are in any way lesser for not caring about what's optimal.
+
+Berek07
+•
+2mo ago
+I constantly play without Mimic Beacon. It is great to have around, but sometimes there is only one faceless on the retalition mission, of i just lose the mission. Then it takes ages to get enough Faceless for another Mimic Beacon.
+
+captainrussia21
+•
+2mo ago
+80% of players according to Steam achievements are “new players” - that is only 20% roughly have completed the game, meaning 80% have not.
+
+So if an item is recommended and works wonders for 80% of the playerbase - thats 5 stars in my book.
+
+PS. I love Medkits
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Does a medkit save your life in that situation? Enough enemies take actions against you and you die, no medkit fixes death. Medkits are actually for a "oh I just slightly over extended and now took a bit of chip damage" not to recover from catastrophic failure.
+
+In those situations another utility item, mimic beacons in particular, probably would save more HP than medkits would heal. Like if you are fighting 12 enemies taking 2-4 of their attacks off the board is just what the doctor ordered. You might still get hit here or there sure but if the mission ends soon you won't need to heal from that.
+
+Mark-C-S
+•
+2mo ago
+Mimic beacons take much longer to get multiple of (unless you're lucky and get a Savage mission full of Faceless corpses early on). And even then a Specialist can't carry 4 of them at once (plus another item, that can even be a MB).
+
+Are they as good as the most broken item in the game, sure no. But they have their place for fixing unforeseen cock ups. Maybe you don't make any mistakes, but I definitely still get surprised by things I couldn't have predicted that spiral into damaged soldiers with a whole mission to go. That's XCOM 😂
+
+u/xAsdruvalx avatar
+xAsdruvalx
+•
+2mo ago
+Medkits are an o shit button that possibly reduces risk of death on a unit. Sure a mikic beacon is always gona be better, but you dont always have access to mimic beacons, or the skill to get there and use them efecitvely.
+
+I get the point you are trying to make, i also rarely use medkits, but they are a failsafe that helps increase the chances of soldiers surviving. They also give a sense of safety net and confidence for newer less experienced players.
+
+Medkits arent a bad item, they are an extremely niche/beginner utility item. As the other guy said, this is a "git gud" situation, and honestly its borderline elitist how you are condemning it so harshly. You need to understand not everybody has a thousand hours at the game.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I feel like that's what medical protocol is for. Like I say in the post if you want a heal you can have one that isn't eating a utility item slot. And you get it like 1-3 missions after you can build medkits anyway.
+
+I think it's an important part of getting better at this game to dump them. Like this is a guide, I'm trying to tell you how to win more that's the point here. If someone wants to do something else go for it I'm not their boss, but I got better at this game when I stopped bringing them and that was well before my 1000 hour mark. (I couldn't actually tell you when? A year after WotC released maybe? Somewhere around there it was a while ago).
+
+u/xAsdruvalx avatar
+xAsdruvalx
+•
+2mo ago
+Yeah, and i mostly agree with what you say, but you dont get good by never using them. You get good by using them, then slowly moving away from them as you get used to the game. Thus why i say they are a beginer utility item.
+
+Use them when learning the ropes, they (sometimes) help you save soldiers without save scumming, feels more honest, feels good because you chose them and it paid off, and even if you dont use them, it was as i mentioned, a safety net.
+
+Then you get more used to how to do stuff, alpha striking, etc, and find out yourself "hey, i use a medkit once every other mission, id rather run 2 of them instead of 4 and use other stuff for CC or dmg or cover destroying", then you go to "hey, i use them once every blue moon, maybe the specialist and one backup is enough" and finally you go to "hey i dont need them, i can just play better and get a better oportunity cost from other utulity items".
+
+Its a progressive thing. They are like training wheels for your bike, but instead of falling over without them you run the risk of just dying, so it takes a bit more courage to take them off. They really do make you feel safe, even if in reality they arent doing half of what you think they are doing.
+
+u/Darkone259 avatar
+Darkone259
+•
+2mo ago
+Med kits are truly a life saver, and they are for sure worth it, healing the damage your soldiers takes or taking away status effects is so essential, on modded playthroughs with different classes, they are even more
+
+u/viper5delta avatar
+viper5delta
+•
+2mo ago
+Counterpoint, it's my emotional support utility and I like it for RP reasons :p
+
+u/Altamistral avatar
+Altamistral
+•
+2mo ago
+•
+Edited 2mo ago
+Bringing one medkit on the Specialist is a good choice. Specialist gets bonus charges, can use it at range and can use it to revive unconscious units. It can definitely save a few lifes and it isn't nearly as bad as OP makes it to be.
+
+While it's true that it only saves a life when you get hit twice, approaching an engagement with an injured Ranger is very different than approaching an engagement with an healed Ranger. You can do more and take more risks, which is often necessary to do better.
+
+On the other hand, bringing more than one medikit or equipping it on anything other than a Specialist is not a good choice.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Well I can't argue with that! You should feel empowered to play the game in a way that's fun for you. But this guide series is about trying to push your L/I win rate as high as it can go, not what is the most fun.
+
+u/Gorgo_yak avatar
+Gorgo_yak
+•
+2mo ago
+Most of my missions, I go one specialist with Medical Protocol, a single med kit, and the perk that gives them 2 bonus uses of the medkit. No, they don't always come in handy, but if there is one thing this game has taught me, it's that you need to have that little bit of cure when emergencies happen. And what else am I gonna put in that slot otherwise? Tracer rounds? On a specialist?
+
+u/not_vichyssoise avatar
+not_vichyssoise
+•
+2mo ago
+I kinda feel the same way. I don't want to waste time carrying around a single medkit. If I'm going to carry around a medkit, then I want 3 medkits.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea I'd gladly have tracer rounds over a medkit. Higher percents shots are good. My go to set up on specialists is BS rounds and a mimic beacon usually, once I unlock both of those. But I'll happily give them any other kind of special ammo. Shooting with your gun is good and you're going to do it a lot.
+
+u/Gorgo_yak avatar
+Gorgo_yak
+•
+2mo ago
+On my specialist? Not really. I tend to have enough damage in my team's as it is, with Rangers, Skirmishes, Templars, an emergency Banish reaper and a Psi Ops for Stasis to delay the dangerous enemies or Domination to remove them in a single action
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I click shoot with my specialists so much. They have amazing aim and the medium range table so getting to 100% to hit just isn't that hard. Plus they can roll a lot of fun stuff from the training center. They might not but they might and that's great!
+
+Psi ops do completely remove a specialists reason for being, but you get those so late that isn't really a knock against the class.
+
+u/thaddeusmike avatar
+thaddeusmike
+•
+2mo ago
+Usually I prioritize putting ammo on other classes that are more likely to be shooting. Eventually I'll put ammo on my specialist but it's not early. Specialists do shoot a fair amount but they also hack and combat protocol for their offense.
+
+u/comfortingmyself avatar
+comfortingmyself
+•
+2mo ago
+Medikits are niche. They're good for Chrysalids, they're good for the Assassin (generally unique among the Chosen in that the Assassin will wound you early into a mission), they're good for an unusually long mission where one wound might fundamentally change how you use a soldier.
+
+Niche items are fine! They're not very good but I can respect their place in the game. Two stars is an appropriate rating.
+
+u/LostInChrome avatar
+LostInChrome
+•
+2mo ago
+I consider medikits to be basically a sidegrade flashbang. It basically lets you trade a high-value enemy action right now for a low-value player action later + a strategic penalty.
+
+For instance, you have 5 units and you are facing 3 Mutons. At the current stage of the game, it takes you two unit activation to kill a Muton. That means that you have basically three options:
+- Play hyper-aggressively by standing in the open and hope you fish a crit
+- Kill two mutons and flashbang the last muton. Kill the last muton next turn.
+- Kill two mutons and use aid protocol with your last activation. Kill the last muton next turn. If the muton grenades or connects a shot, then use your medkit to heal back up.
+
+I'd argue that the third option is often correct.
+
+(though the actual best answer is mimic beacons but those are broken)
+
+u/ThatDollfin avatar
+ThatDollfin
+•
+2mo ago
+This is a very specific case where flash plus smoke would be ideal, but as OP mentioned this wouldn't be a pod that you'd see. With that said, I think it would still be better to heavy cover + flash the enemies to at least try to avoid having to put one of your soldiers in the infirmary and waiting however many weeks.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Small note, you can't fight 3 mutons at that stage of play, Mutons are pack leaders until FL 10 when they can show up as followers. So you only ever fight one muton at a time until you usually have squad size 6.
+
+And yea I think a flashbang is the superior choice to a medkit there. A mimic beacon or frost bomb would be better, but flashbangs work in a pinch.
+
+Kevslounge
+•
+2mo ago
+Guess we play differently, but I always carry several medikits on missions, and I almost never use them to recover lost HP. Main benefit is that they grant immunity to poison. Second benefit is dealing with burning... fire is persistent damage, but it's also crippling, especially in LWotC... so using a medikit to cure it gives you back 3 turns worth of actions as well as saving lives. Finally, it's the only way to stabilise a soldier who is bleeding out... either you use a medikit, you save scum, or you just let soldiers die. Can't see why you'd consider the other 2 options superior.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+well LwotC changes the math a lot because they rebalance a lot about the game, this is for the base game only. And in that context, immunity to poison isn't that big a deal. Literally only 2 enemies ever inflict it on you, and fire can be stopped by just hunkering down. Plus medical protocol exists for fixing bleedouts, that or evacing out in a lot of cases.
+
+Kevslounge
+•
+2mo ago
+Fair enough... If you did play LWotC, you wouldn't be so disparaging about medikits, I bet! They're indispensible in that context.
+
+u/ShadowKnightTSP avatar
+ShadowKnightTSP
+•
+2mo ago
+Are they, I’ve got around a thousand hours in Lwotc and was never a Medkit user. They just aren’t good
+
+Kevslounge
+•
+2mo ago
+Save scummer, are we? Or do you just let your guys die when they bleed out?
+
+u/ShadowKnightTSP avatar
+ShadowKnightTSP
+•
+2mo ago
+No I play on Ironman, I just rarely get bleed outs
+And if I do I end the mission or escape before they die
+
+Agent_Smith_88
+•
+2mo ago
+Really enjoying reading through a bunch of the stuff you wrote. The only point I will make about medkits that you seemed to miss in your post is they only take 1 action whereas other items will take 2. If you’re constantly repositioning then this doesn’t matter because move+action is the same cost, but it is a consideration.
+
+Personally with vanilla xcom 2 I liked giving a specialist a medkit and +2 uses so I can heal a unit that I might need to put into a sticky situation (like a ranger overextending). However with WOTC adding the buddy system it’s less necessary because their buddy can give them an extra action instead so they can move again or finish an enemy.
+
+u/TheGreatOneSea avatar
+TheGreatOneSea
+•
+2mo ago
+I do agree that it eventually becomes a crutch in the mid-game, but the value of giving a med-kit to a rookie early on feels undervalued here: you need to train your people up (which means sending them on missions,) but they don't have reliable Alpha Strike potential, and one grenade on somebody probably not forward enough to use it probably won't make that much of a difference. It also takes a pretty long time to get enough Mimic Beacons to create an opportunity cost.
+
+The Dark Events can also increase the utility of medpacks: Viper/Stiletto Rounds and Counterattack, mainly.
+
+u/salvation122 avatar
+salvation122
+•
+2mo ago
+Medkits aren't especially good early on because if someone is getting hit they're probably either dying outright or panicking and running somewhere stupid where death is inevitable (or somewhere your medic can't get to them safely.)
+
+I use medkits, but I don't bother until I have armor.
+
+u/TheGreatOneSea avatar
+TheGreatOneSea
+•
+2mo ago
+Depends on the difficulty of course (on Veteran, they'll usually survive one shot, and above that is something like a 33% chance of instant death,) but yes, Medkits are kinda flaky just for the health.
+
+Even so, immunity to poison can really help someone with low HP to not become worthless, and removing things like 'burning' and 'acid' is useful enough to contest the grenade.
+
+u/Braidaney avatar
+Braidaney
+•
+2mo ago
+I thought this was going to be a dumb take until I read the first paragraph… you’ve got a point
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It was all worth it just to know I've convinced one person
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Random side tanget, but it blew my fucking mind when I find out that in game they are spelled medikit. I literally never noticed that! Did anyone else do that? Or was I just an idiot for missing the extra i?
+
+u/SlavaUkrayini4932 avatar
+SlavaUkrayini4932
+•
+2mo ago
+Your post actually RAISED my opinion of medikits. For a long while I thought that damage done to medkitted health would result in extra wound times that could stack! Glad to hear they're not that bad.
+
+Practical_Patient824
+•
+2mo ago
+They’re a bit better on missions against chrysalids, they’re high melee damage mixed with their venom can wreak a soldier bad enough to almost guarantee their death.
+
+I usually keep a support further back to act as a bodyguard for my sniper, with the drone, either granting defensive bonuses to my most aggressive unit, usually a ranger or spark depending on the mission, the drone lets you keep your units up, especially on missions where either rulers or chosen show up, in either case the presence of such enemies almost guarantees damage on 2 or more units depending on who arrived, the Warlocks zombie bombs, Assassins psywave, and te Archon King missile attack will deal damage, and if your unit was hurt, they could die, and even if you have the resistance order to make bleed out more likely, you still need to use med kits to stabilize.
+
+Med kits are important, but I do agree that they are a bit overrated, Mimic beacons can nullify an enemy turn, smokes and flashbangs together disables the strongest attacks and reduce accuracy significantly, giving a grenadier the frost bomb can freeze entire pods with the boosted AoE, and I’ve lately been experimenting with the wraith and spider suits, to get some crazy flanks and mobility, especially the spider suits, just yoink away from a situation and get high ground is incredibly satisfying
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Chryslaids can be dealt with scanning protocol or battle scanners to pop them up before they get to swing at you. And yes their poison is threatening with the exception of the chosen stronghold missions they never appear on missions you can't just evac out of and save yourself the trouble. Plus you can just buy medicial protocol from the Training Center and solve it that way. Or sparks, sparks work too. Lots of ways around this problem.
+
+I also don't believe in a sort of "keep the support in the back" kind of playstyle. This game is about offence, killing the enemy so hard so fast they just never get a chance to hit you. I simply play aggressive with all my units at all times. Except sharpshooters because they can't, but that's a limitation of that class not a good thing.
+
+The Rulers are a problem, but usually they don't do so much damage the one heal from medical protocol isn't enough to survive them. Plus depending on your settings you can just stall to fight them until you can click Banish and solve the problem instantly.
+
+Neonpuffpepper
+•
+2mo ago
+What about for long war of the chosen? Would love essays on that too
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Unfortunately I have 3700 hours in Xcom 2 not Lwotc, I'd be a lot less well educated on the subject.
+
+u/Weltallgaia avatar
+Weltallgaia
+•
+2mo ago
+Pat 7.5...... you should put a link to the other posts or something if you are gonna hide your post history.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh fuck I forgot to link to the index. One second.
+
+u/Weltallgaia avatar
+Weltallgaia
+•
+2mo ago
+Thanks. Been thinking about reinstalling and these posts should be helpful
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You are very welcome
+
+
+1 more reply
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+2mo ago
+•
+Edited 2mo ago
+Mimic beacons have a opportunity cost too: they are an expensive one use exhaustible item. Especially in the early and mid game you aren't swimming in money and in corpses. Throwing a mimic beacon and replacing it can mean you can't build the next facility for a couple of weeks.
+
+While equipping a medikit is cheap. You build it once and have almost infinite uses. That makes it very inexpensive on the strategic layer.
+
+I do equip medikits (on my specialist who also gets field medic). They are not only useful for healing but also useful for avoiding damage through poison and for reviving (curing) impaired soldiers. When I count how much I use medikits and how often I throw a mimic beacon I come to result that I use medikits a lot more. The use I get from a single medikit is vastly superior from the use I get from a single mimic beacon.
+
+A good replacement for a mimic beacon is a haywired MEC. They are completely free because they are provided by the enemy. That's the main reason why I don't have to rely on mimic beacons. I have them too but they don't cost me an equipment slot. Well except for the skulljack but the skulljack has additional value beyond the hack for haywiring bonus and it is also a reusable item with infinite uses.
+
+Later you can use dominated enemies instead of mimic beacons too. They also don't use an equipment slot. Even a lowly dominated advent trooper is better than a mimic beacon because he lasts for more than one turn, can shoot back and can use cover. A dominated priest lets me generate even more mimic beacons using **his** dominate ability. As soon as you have haywire and a skulljack with skullmining (which is pretty early in the campaign, maybe even before mimic beacons are available) the need for mimic beacons lessens considerably and when you have dominate, schism and void rift it lessens even more. While the medikit still provides value.
+
+Medikits not only heal, they also provide for more opportunities for aggressive maneuvers because when you are fully healed you can be a lot more aggressive than when you are hanging on your last hitpoint. There is a big difference when you can afford to be hit and not be killed versus every next hit kills you. Having a medikit with you helps to create more dynamic gameplay. This is more fun.
+
+Medikits are good. I get that a playstyle is possible where you can forgo on medikits. But the same is possible with mimic beacons.
+
+The most important thing however is, do what you think is best for you and have fun!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Mimic beacons do not exhaust. They are once per mission but if you build one it's yours forever
+
+raznov1
+•
+2mo ago
+Imo why medkits are so good is because they cancel out poison, which is guaranteed damage, movement pen and aim pen. Plus, the argument of other items preventing more doesnt really hold, statistically. Alpha striking and not getting hit yourself is indeed the aim, but you know for certain that it doesnt have a 100% success rate.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+What do you mean statistically?
+
+raznov1
+•
+2mo ago
+medkits are guaranteed success, alpha striking, 'nades, damage buff ammo, all aren't.
+
+for the same reason why combat protocol is so good, so are medkits. guaranteed damage and guaranteed healing are good.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Medkits aren't guaranteed success. They only have an effect if a unit would take damage twice. Either by getting shot twice or being poisoned or whatever. Those situations just aren't that common. Usually you take a bit of chip damage and that's your only injury (or injuries, if every unit on your sqaud only gets hit once medkits have no effect), someone gets meleed by a Muton before you have Predator armor and dies on the spot, or you flawless the mission. The situations where medkits are actually helpful aren't that common.
+
+u/iwanttobespooned avatar
+iwanttobespooned
+•
+2mo ago
+He's explaining that medikits have more utility than keeping soldiers out of the medibay for longer: specifically how fixing poison restores debuffed movement and aim, two stats which tie potential medikit usage into the combat. You only need to be damaged once, not twice, for that effect of the medikit to come into play.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Medkits fixing poison is a real use case, but would you have gotten poisoned at all if you brought a better item? Flashbanging that viper would've turned off their poison spit, for example. And besides that, medical protocol exists and doesn't eat a utility item slot.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea you're going to get hit, that's going to happen, absolutely. But that isn't the question, the question is if another item would prevent more damage than a medkit would heal. No strategy has a 100% success rate in this game, but that doesn't actually work in favor of medkits because they are competing against strategies with better success rates, better chances of missions going your way. After all preventing 3 damage is better than healing 3 damage.
+
+I lay it out pretty extensively. If you use a grenade to kill an enemy that otherwise would've shot you, that means the grenade was better than a medkit. If a mimic beacon soaks even just one hit, that was better than bringing a medkit. Because for medkits to be useful you don't need to get hit, you need to get hit twice *and* another item would not have prevented that hit. Does that happen? Sure, rarely but yes. Is it worth building for that edge case? No, I do not believe so.
+
+raznov1
+•
+2mo ago
+>If you use a grenade to kill an enemy that otherwise would've shot you, that means the grenade was better than a medkit
+
+but if it didn't kill, it is worse. and vice versa, that medkit that saves your pawn results in even more damage down the line than that grenade right then and there.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Even if a grenade doesn't result in a kill it might still be better. You have to get hit twice for a medkit to be useful after all not just once. There are going to be some situations where a medkit is the best item for the job, but those are rare, and you shouldn't play to the edge cases. To win the most often you make the play, bring the item, that is best the most often.
+
+raznov1
+•
+2mo ago
+And you have to hit twice with a non-killing weapon. That doesnt actually mean much.
+
+Game balance wise, there is very little difference between negative damage or positive damage.
+
+slumper36
+•
+2mo ago
+Great write up OP. I admittedly always bring a medikit(I though it was medkit too 😅) to every mission because it feels like the safer item and also because I’m still pretty new to the game, but I’m going to try being more proactive than reactive in my gameplay. Cheers!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's frucked up that it's called medikits. I've been online talking about this game for years and *no one calls them that!* I've been got!
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+So the thing is for me, and it echoes something I learned back in Enemy Unknown as I climbed the difficulty settings, is that if your focus is (understandably) primarily damage dealing and alpha striking: Why take a Specialist at all? To me they are fundamentally a support class that can merely kind of deal damage, sometimes. Their unique / bonus driven utility is hacking and heals, notably being able to do both from a distance. ALL other classes can heal (with a medkit)/undaze/hack from adjacent relevant tiles. I personally feel like if you're running down timers so close to the wire that you NEED the distance hacking, you'd be better served by taking another Ranger that can do more damage, Run and Gun into position, potentially Grapple closer etc with their tendency to value and utilize Mobility bonuses. While Specialists can get Combat Protocol early, until you upgrade your GREMLIN the damage is laughably small, akin to early Sharpshooters with their peashooter pistol. While Protocol isn't reliant on Aim it's kind of like a worse grenade, as it doesn't break cover even though it does guaranteed damage. Because the Specialist is on the mission, I use Combat Protocol because I need the help / the Specialist isn't in range for a shot. I basically never use Combat Protocol in place of a Grenadier's grenade were it available. Grenadiers also can hit more targets with the same action cost, made even cheaper later in the game with Salvo.
+
+===
+
+Honestly if anything this and similar anti-medkit / unique class bonus conversations makes me come to the conclusion that Specialists should be relegated to Covert Ops duty until they are actually useful come Disruptor Rifle, Guardian, etc. If and when I use Specialists the biggest utility I get is making them "default" choices for bond pairing. Thus, shaving off days on Covert Ops reduces the amount of 'actually' useful soldiers tied up on missions (which is an appreciable amount of time on Legend), and perhaps you can get some stat bonuses to make them more useful, AND you can leverage their slightly different action economy to give Teamwork to an actually useful damage dealer like a Ranger, with the side of still being able to take a Specialist shot or perform an action like Aid Protocol etc if you need the little boost. Aim is something you can correct for with Sharpshooters more easily, but I'm honestly skeptical of the utility of Specialists for alpha striking even with the Bolt Caster until at least Bluescreen rounds, by which point you're basically past some of the hardest parts of the game anyways.
+
+u/Stryk3r123 avatar
+Stryk3r123
+•
+2mo ago
+> Why take a Specialist at all?
+
+To hack objectives at range. That's basically it. And even then, the free SPARK from Lost Tower will solve all your hacking needs for the rest of the game while also letting you kill things. I personally drop specialists entirely once I get my SPARK.
+
+Other niche uses include dealing with chryssalids (the SPARK can tank hits, can self-heal, and is immune to poison) and to clear unconscious (more useful on beta strike since killing a lancer/berserker is significantly more suspect, but it still doesn't come up particualrly often).
+
+u/HarvHR avatar
+HarvHR
+•
+2mo ago
+•
+Edited 2mo ago
+Fundementally I'm going to be a lot more upset if I don't have a medikit available to stabilise a soldier or if they die from damage that could have been prevented from a heal.
+
+It's all well and good having all this theorycrafting and somewhat elitist opinion that you will never make a single misplay in your campaign, but at the end of the day I'd rather have medikit that ends up unused as a precaution that allows me to keep a soldier in a fight or prevent a soldier bleeding out rather than be regretful that I lost someone in my roster because I went fully banzai mode with my soldier's equipment. Losing soldiers like that will make me feel unsatisfied with a mission but losing out on a bit of potential damage won't.
+
+As it stands if a soldier gets whacked in the face (which, considering how the AI will take low chance shots a player would pass on and considering how aim rolls work in unmodded X2 resulting in potentially guaranteed crits if they do hit that 5% shot at your soldier in full cover), I'm probably not going to use that soldier at 50%~ health as aggressively in combat for the remainder of the mission as I don't want to risk them getting hit by random low-chance hit or random alien ability and then come back to base as a corpse. A medikit can preserve momentum by keeping your higher damage units fighting to the best of their abilities.
+
+Saxonrau
+•
+2mo ago
+> somewhat elitist opinion that you will never make a single misplay in your campaign
+
+I don't believe they said 'you will never make a misplay'? You simply do not need the medkits and it isn't 'elitist' to say 'your odds of winning are better if you take a proactive item instead of a very niche reactive item'.
+
+The idea is that, even if you misplay, having another item will do mroe to help you than spending an action and an item to recover that damage. Especially if the soldier doesn't get hit again - you have spent those resources on, genuinely, nothing. Medical protocol will give you a medkit at range without the utility slot, so in the worst case you can just do that and you'll probably even find it better.
+
+Fact is, you will have better odds of winning with active items that do things, the game is too fast paced and the healing too unlikely to matter to bother with medkits. Like the OP here, I noticed my winrate/flawless-rate go up when I stopped taking them.
+
+I can understand the being frustrated by dying in a way that a medkit could have prevented. But I found a lot more often I was thinking 'I wish this medkit was a grenade' than the other way around
+
+ItzEazee
+•
+2mo ago
+It seems like people didn't even read your post, they just read the title and first paragraph and went to the comments to disagree with you. You made very convincing counter-arguments to most of the points people brought up, such as them actually being worse for beginners than you would normally think. But that would require them to get over the equivalency in their head of "someone saying my strategy is bad = toxic elitism" that makes zero sense when you stop and think about it.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Did you expect something different?
+
+Look, I knew what I was signing up for when I posted this. Of course they weren't going to read it! People don't read arguments on Reddit! Why would they?
+
+I made this to get this out of my head! I've had this argument so much that I want a place to point to and say "here is the full thing" so I don't have to do it again! Also it's fun! I had waaay more fun writing this than is normal.
+
+u/N7_Rabbit avatar
+N7_Rabbit
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Thos one was partially humoristic. You covered medkits in normal guide to items so this overly completed guide was rather answer to posts in items guide about how medkits are useful. And here I got totaly with you - they are not. They WOULD be if their effect stayed after mission, but as they work they are just taking space that can be used for ANYTHING that in fact INCREASE your chance of succeeding.
+
+u/jacenat avatar
+jacenat
+•
+2mo ago
+Medkits were fine in XCOM:EU ONLY because of Thinmen. It gave you an out of the aim penalty on the 100% hit chance poison spit that ruined your day, even if you were diligent on cover.
+
+Starting with EW, you got more tools to counter that and their prevalence was reduced. In XCOM 2, vipers are:
+
+Much less common
+
+Have normal "aim" on their spit
+
+Are more focused around moving your troops, where the medkit doesn't do anything anymore
+
+This post is obviously correct.
+
+That being said, Medikits can be valuable in Beta-Strike. It's not clear cut there either, though.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea Thin Men were monsters! What a crazy enemy to make as your 2nd guy you fight.
+
+I haven't played a ton of Beta Strike, but medkits seem good in it. I mean, you are just kind of going to take damage in that game mode. First time I picked up field medic in like 5 years. Though I never did beat that run, life got in the way.
+
+XComACU
+•
+2mo ago
+This is a very thorough and well-made post, and I disagree with it 100%. 😂
+Kidding, Kidding! I don't entirely disagree, because I am sure that certain playstyles/skill-levels will find this very useful; however, I don't think your assessment is valid for the average player - even those at higher skill levels.
+
+I also exclusively play I/L on Ironman, and yet I often still run into those "middle ground" situations you mention. Partly because the few non-cosmetic mods I run might make it slightly easier to get hit (giving aliens back their range bonus, EW aiming angles), but also partly because I can't always guarantee that I'll just alpha strike everything down in a single turn.
+
+Still, point is, flawless missions are far from a guarantee for me, but so are squad wipes. Middle Ground stuff.
+It's not uncommon for me to leave a mission with a wounded soldier or two, and an extra 4 health points can be the difference between a soldier coming back wounded or coming back in a body bag.
+
+That's the trick - Medikits aren't there to help with wound timers, or just to deal with conditions. They're there to erase an unlucky hit that would put your soldiers behind in the next fight, and to minimize the chance that next unlucky hit is fatal.
+
+Let's compare it to some of the other utilities you mentioned preferring.
+
+Yes, Flashbangs are great at reducing the chance of being hit (even if they ironically increase the odds an enemy will Crit on hit), but they're dependent on the positioning of enemies and the terrain, and some enemies can become bigger threats when forced to shoot (even at a disadvantage). On top of this, the flashbang is also turn ending, so you need to use it carefully because in a 4-man squad, using it just sacrificed 25% of your turn's damage potential. All of this is to say, sometimes the enemy won't put themselves into a position where the flashbang is useful.
+
+Yes, Frost Bombs are fantastic at controlling dangerous enemies, or if something big has managed to survive when it shouldn't have, but it has a small radius, it's turn ending, and you only get one. It's not something you can use liberally. When you use it, it has to be on something you really don't want taking actions next turn. Also, speaking of "you only get one," it's not impossible for players to lose their frost bomb during the course of a campaign. Don't get me wrong, you do everything you can to prevent losing it, but sometimes you just get unlucky. Someone dies or is captured, you can't retrieve the body, and now you don't have the frost bomb anymore. It happens.
+
+Yes, Mimic Beacons are godly. One Turn get out of jail free card? That's *chef's kiss* perfection. I agree that getting one for your squad is a top priority in any campaign, and I'm not against carrying multiple sometimes. Thing is, they're kind of expensive. It requires at least two Retaliations to even get the first one, and if you're unlucky enough to lose one (which can happen), you need to complete more Retaliations to get the replacement. Essentially, you may not always be able to field one. Plus, (and this might sound like sacrilege) a single 12HP damage soak does start to fall off as the game progresses. Still insanely useful, and I'll generally always have one, but it doesn't negate the need for other safety nets. Anyway...
+
+All of these tools are useful, but they have their own weaknesses, and it doesn't mean you shouldn't carry a Medikit, too.
+
+Lets delve into the Medikit, and start with two things that you seem to have forgotten in your analysis.
+
+1.) The Medikit only requires a single action to use and is not turn ending.
+2.) The Specialist's Gremlin improves the Medikit's healing (Gremlin Mk.2 gives +1 Hp, Mk.3 gives +2 Hp).
+
+This means a soldier with a Medikit can heal and shoot, and in the hands of a Specialist with a Gremlin Mk.3, the Medikit can heal up to 6Hp, and the NanoMedikit can heal up to 8HP in a single action - more hit points than any armor in the game provides.
+
+Being honest, while a Medikit can be useful for a normal soldier, the Battle Medic Specialist was built to release its full potential.
+
+With Medical Protocol, you don't need to rely on favorable enemy positioning like a Flashbang, because all you need is line of sight. All that matters is your positioning.
+With Field Medic, you can still heal and shoot, but you can also heal two injured soldiers in the same turn (say a Mec managed to micro missile them off high ground), or stabilize one and heal another, or dump two charges into a single heavily injured soldier in a vulnerable position. If a frontliner is going to be a target but hasn't lost enough HP for two heals, throw a heal and an Aid Protocol. That's nice flexibility.
+
+Hell, if shit really hits the fan and an encounter goes south, a Field Medic Specialist with a Nanomedikit/Gremlin Mk.3 and a max-level bond can heal four times in single turn, over 32 HP. A team coming out of a fight half-dead can take a turn to reload/regroup and start the next fight fully revitalized, all without even having to touch the Specialist's colonel-level Restoration ability.
+
+Will this happen often? No, not if you're playing right.
+Is it the best way to handle the situation? Absolutely not. Do not burn two Teamwork charges and four Nanomedikits for that!
+But is it cool to say they can heal 32 HP in a single turn without touching Restoration? You're goddamn right. 🤣
+
+Jokes aside, Medikits are also not too expensive at just $60 (only $10 more than flash), so if you lose one, it's not hard or impossible to replace like the mimic beacon or frost bomb respectively. You can also buy a few before researching Battlefield Medicine to circumvent the Nanomedikit's cost, as they'll all upgrade for free.
+
+You spoke of opportunity costs with taking a Medikit, but what's the cost of not taking it?
+Mid-Mission? It's soldiers and damage output. In a four man squad, each soldier is roughly 25% of the team's actions and damage potential, and each one incapacitated or dead makes the team roughly 25% weaker for the next fight.
+
+Yes, maybe a flashbang, another grenade, or a careful alpha-strike could prevent a soldier from getting poisoned, but early game? If a soldier is poisoned without a Medikit nearby? There's a decent chance they die. You could evac them, but in that mission the result is the same - one less soldier for the next fight.
+
+Same with a bleed out. If you can't complete the mission in time, that soldier is either dead or carried up on an early evac by another soldier. It's one less soldier for the next fight regardless, but if you have one carry the bleeding soldier for an early evac, that's two less soldiers for the next fight.
+
+Campaign-wise? It's lives. You're right in saying that Medikits primarily help when a soldier is damaged twice. You're also right in saying there are a lot of tools and mechanics that reward aggressive play and help prevent soldiers from being damaged twice.
+But, it still happens.
+
+Whether you make a mistake, or a quirk of the engine caused a few too many pods to path in, or you just get unlucky, eventually your soldiers will be hit, and probably more than once. Yeah, your soldier might tank a hit, but definitely not the second one.
+
+What would have been a wound becomes a death, and death is one of the most important things to avoid.
+Yes, enough wounded soldiers will tank an L/I campaign as assuredly as enough dead soldiers, but it takes far fewer dead soldiers to reach that same point.
+
+I feel like I'm starting to ramble, but I'm just trying to say that if the opportunity cost of taking a medikit is that something potentially lives longer to deal more damage, the cost of taking something other than a medikit is that your troops potentially die more.
+
+You mentioned how most fights tend to go Flawlessly or Catastrophically; however, I find that what a Medikit excels at is preventing a "middle-state" encounter from turning catastrophic. Yes, players should aim for flawless missions (and maybe it's because I'm not a good player... actually, that's likely 😂), but I'm willing to bet most players are like myself and occupy that middle ground rather often.
+
+Yeah, it's technically playing for edge cases, but they are devastating edge cases.
+
+It's like car insurance. You generally don't need it, and if you're a skilled/lucky enough driver, it'll never be used. Heck, you might think that all the money is being wasted, and would better be spent on flashbangs LED headlights. But at the end of the day, none of that stops some drunk asshole from t-boning you in an intersection, and then you need that insurance.
+
+TLDR: Good post, but I like Medikits. Imma stick with them. 😅
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I appreciate you actually engaging with my argument, as most people disagreeing here didn't. There's a lot you said and I can't respond to all of it in detail but I'll go over the major points. At least what I feel they are.
+
+>I also exclusively play I/L on Ironman, and yet I often still run into those "middle ground" situations you mention.
+
+Do you actually have data on this? Because I am genuinely curious. I thought about scrubbing through Christopher Odd's first L/I WotC playthrough for how often a medkit would've been helpful. But that seemed like too much work. I can say that for my last L/I deathless grimhorizon a bunch of other restrictions that aren't worth repeating I took damage more than once per solder 3 times. Literally only 3 times. Once was in the Lost Towers Mission, once was where I got lid poisoned, and once where I moved the wrong guy 1 pixel in the wrong direction in a sewer mission and the enemy had viper rounds. That was it. And my flawless rate wasn't actually that good it was 60% which for me is super low but it just doesn't happen that much. This was on an unmodded playthrough except I had pathfinders, elite aliens, and LeBs late game enemies, btw, if that matters. I've done playthroughs where I've literally gotten 0 value out of healing the whole campaign, which is funny. People died from crits but a heal wouldn't have saved them. Though that probably isn't common, I would think. Maybe it is idk most people don't have a spreadsheet on their computer tracking this stuff.
+
+>Even if they ironically increase the odds an enemy will Crit on hit
+
+This technically isn't true, I mean it is sort of. But the way crits work in this game is that they sort of eat up available to hit chance so that attack would've been a crit regardless of if you flashbanged or not, its just that more of the attacks that do land will be crits because the attacks that are now made to miss aren't the ones with crit in them. If that makes sense.
+
+>On top of this, the flashbang is also turn ending, so you need to use it carefully because in a 4-man squad
+
+I didn't say this in this post, because I thought it would distract from my argument, but I never use flashbangs either. I just use grenades, the frost bomb, mimic beacons, and special ammo. Those are the only utility items I ever build (except the skulljack for story reasons, obviously). It's precisely for this reason. It's better to be dealing damage, which grenades do. I'm not sure how true that is to a newer player, I can get a lot more out of a grenade than they can, but it is worth mentioning.
+
+>It's not something you can use liberally.
+
+I absolutely disagree. There is no future, there is only right now. If I am likely to take damage this turn, the frost bomb is flying, end of the discussion. I don't care if its a trooper, an officer, andromodon, whatever. Unless I think a Ruler is on the mission I will use it the first time I need it. Missions are not that long, and if I flawless this pod I'm more likely to flawless the next one. Too good to use syndrome in this game is how you lose. Just fucking use the thing!
+
+>Also, speaking of "you only get one," it's not impossible for players to lose their frost bomb during the course of a campaign. 
+
+I mean you gotta really fuck up for that to happen. If you get fully squad wiped then yea but otherwise you can just evac the body out. It's true you can lose it, but I've watched a lot of X2 content online and most players at most skill levels don't. It can happen, but that's not really meaningful in my eyes. And if you do, OK now maybe build a medkit but even then I'd just replace it with a flashbang or meme beacon
+
+>It requires at least two Retaliations to even get the first one, and if you're unlucky enough to lose one (which can happen), you need to complete more Retaliations to get the replacement. Essentially, you may not always be able to field one.
+
+That's true, but ironically the time in a campaign you can't have a mimic beacon is when medkits are at their worst! Medkits in the very early game don't do anything because there aren't enough pods for you to take damage that many times. And if you lose one later you can just bring a unit with medical protocol for a heal. And losing them is rare anyways. Utility slots are more valuable than ability slots after all.
+
+> In a four man squad, each soldier is roughly 25% of the team's actions and damage potential, and each one incapacitated or dead makes the team roughly 25% weaker for the next fight.
+
+That's assuming a medkit saved someone's life. It probably won't, especially when you just have 4 units. If a sectoid crits you and kills you (by far the most common form of death early in a run I feel) then a medkit is just going to sit there being sad. Medkits actually get better once you have 5 and more people in terms of pace of a campaign. And would you have needed to heal that hit if you brought a grenade over a medkit? I don't know (and neither do you the data is unobtainable as sad as that makes me), but that's certainly not going to be true all of the time.
+
+>With Medical Protocol, you don't need to rely on favorable enemy positioning like a Flashbang, because all you need is line of sight. All that matters is your positioning.
+
+So I have an entirely different post about why field medic itself sucks. And that's true even if you bring a medkit that perk does nothing. Here's the full argument, it's just in the field medic section of this post, I thought about reposting it here, but I think it would've been gilding the lily. https://www.reddit.com/r/Xcom/comments/1skgwgr/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+>Whether you make a mistake, or a quirk of the engine caused a few too many pods to path in, or you just get unlucky, eventually your soldiers will be hit, and probably more than once. Yeah, your soldier might tank a hit, but definitely not the second one.
+
+Sure, these situations do come up. But more than once per mission? More than the single heal provided by medical protocol and eventually restoration can protect you from? Would it happen less if a different item were in that slot? I think the answer to all of that is against medkits. The situations where this is the exact item you need are just so narrow, a lot narrower than you'd think.
+
+>I find that what a Medikit excels at is preventing a "middle-state" encounter from turning catastrophic.
+
+I don't think that's true. You could've had a different item in that slot, that's a point I keep making, and if that item let you kill one more enemy or stun them then you probably wouldn't have been in that middle state. I think people find themselves in that state because they basically opt into it. They plan for it, they plan to take damage and heal it back with a medkit. Maybe that's not exactly how they think about it but it's effectively what they are doing.
+
+>It's like car insurance. 
+
+Medkits aren't car insurance. Mimic beacons are. Mimic beacons are the "whoops I can't alpha strike this turn" button. Medkits don't actually solve the problem, they might prevent the problem from getting worse, but they don't repair your car, they don't help you pay for it, they just make you feel better about getting into an accident. And it makes accidents more likely!
+
+I think that's all the most important stuff addressed, but if you want me to elaborate on anything let me know. I enjoy talking about this game so I'm happy to continue the discussion.
+
+XComACU
+•
+2mo ago
+I appreciate you actually engaging with my argument, as most people disagreeing here didn't. There's a lot you said and I can't respond to all of it in detail but I'll go over the major points. At least what I feel they are.
+
+Hey, no problem. I like to ramble and had a rare bit of free time. 😂
+I'm sure everyone else would do the same if they had the time. 😉 Now, let's get into this.
+
+Do you actually have data on this? 
+
+Hmm, I don't normally track my gameplay statistics...
+Although, ironically, I did for my last campaign (work was busy and I needed a way to remember what I had done when I came back a week or two later). However, it got off to a rocky start, I figured I'd test a few unconventional strategies... and I actually lost that campaign...
+
+Not likely the best source of data, is all I'm saying. 😅
+
+Plus, I mostly tracked Win/Loss, Aliens, Promotions, Wounded, Casualties, and general "what happened, what's next" info so I'd be able to pick up where I left off better. Nothing on the Medikit in particular. About the best info I can say is that, on average (and bearing in mind it was a failed run), there was a 45% chance that a soldier or two would be wounded on any mission. Although, admittedly 60% of those wounds were the same two idiots cursed by the dice gods. Including the final few missions where I had kind of already thrown in the towel, about 44% of missions would have casualties (It was a really bad run! I'm normally better, I swear!). Of the listed casualties, 23% died due to bleeding out, 23% due to OHK, didn't write anything down for poison, and only 1 casualty/capture was due to Mind Control.
+
+Hmm, I didn't think about it at the time, but it looks like I didn't get a lot of specialists that run. The few missions where I recorded bringing Specialists with Medikits generally averaged 80% chance of no casualties, though wounding chance increased to 60%.
+
+I could claim this is an example of how Medikits convert Casualties to Wounds, or that 23% of my deaths being bleedout-related shows value, or that the lack of specialists is what cursed the run, but being 100% honest, there's weren't enough missions in that run (let alone with Specialists) to matter. Plus, again, I wasn't being too strict with the data collection, I was playing terribly with huge gaps, and even this math was fast, so... to get right back where we started, no I don't have data on this. 😅
+
+Using a Youtuber like ChristopherOdd might be an option, but after all these years, I'm not certain he'd count as an example of an average (even high-level) player. It's been a while since I've watched his XCOM vids, but I have to believe that he'd have mastered the game by now to a level where Medikits drop in value (similar to your situation, perhaps).
+
+This technically isn't true, I mean it is sort of. 
+
+WellYesButActuallyNo.jpg
+I get it. A 10% chance to hit with a 10% chance to crit is actually a 100% chance to crit, but a roll that Hit and Crit on a 10% would have still Hit and Crit regardless of the flashbang.
+
+I didn't say this in this post, because I thought it would distract from my argument, but I never use flashbangs either.
+
+Honestly, that's refreshing to hear. Flashbangs are well-loved by the XCOM community, and admittedly for good reasons, but I've personally never really vibed with them. It's nice when a flashbang can shut down a psionic enemy, but Mimic beacons/frost bombs do the job better, and I've never really encountered a situation where it was needed. Situations where it would be nice, sure, but never one where I couldn't just find a way to "use more gun" and accomplish the same thing. I've even regretted bringing it at times, since as you note, other options like a grenade (with cover destruction) can be far more useful.
+
+I don't think that's just high-level thinking, though. Grenades are just awesome.
+
+Just fucking use the thing!
+
+I REFUSE! I don't even know how to throw it!
+JK, but I do find that I personally hesitate more to use the Frost Bomb than other items. At least, I look for alternatives first. Don't get me wrong, I'll even freeze the first pod on a mission if I'm not too worried and think I can get some tasty results out of it, but in general I try to hold off until later parts of the mission out of concern I'll need it later. If I can find an alternative to using it, like alpha striking the target down or staying out of LoS, I'll usually use that first.
+
+If Mimic Beacons are my "Oh, Shit" button, Frost Bombs are my "Can't deal with this shit RN" button, so I usually save them when I can.
+
+Meanwhile, my Medikit is "That last fight was shit. Let's heal up before the next one" button, and I can use that a bit more freely.
+
+I mean you gotta really fuck up for that to happen.
+
+Listen, my last campaign was cursed. 🤣
+In all seriousness, I did actually lose it last run, but on the second-to-last mission when I was winding down anyway. Still, I'm pretty sure I've lost it in better runs too, and had some friends who lost it (since they asked how to get it back).
+
+I'll admit, I'd expect newbies to lose it more often since they'll tend to lose soldiers more frequently too, but I still feel safe in saying that Frost Bombs are not something that can always be guaranteed, while Medikits are generally always available.
+
+That's true, but ironically the time in a campaign you can't have a mimic beacon is when medkits are at their worst! Medkits in the very early game don't do anything because there aren't enough pods for you to take damage that many times. And if you lose one later you can just bring a unit with medical protocol for a heal. And losing them is rare anyways. Utility slots are more valuable than ability slots after all.
+
+I see where you're coming from. Early game, yeah - they're mostly there for the stabilize/poison, and even then, yeah, Medical Protocol is enough on its own. That is when utility slots are at their peak, and IMO the cost isn't too high ability-wise for a Specialist to go Medical and later double into combat protocol (or Vice Versa). In that instance, I'd probably snag an extra grenade too.
+
+Mid/Late game, when your soldiers start being able to tank a hit more consistently, I think that flips. At that point, being able to bring people back up to full health between fights has more value, since it could let a soldier survive a second, unexpected hit. It lets you maneuver more freely, knowing that they're less likely to die taking an aggressive position. Aggressive positioning also lets you potentially put out more damage.
+
+Soldiers also become more valuable as they level up, which naturally happens as the game progresses, so having extra insurance to prevent accidental deaths becomes more valuable. Utility slots also become a little more common when Medium armor opens up (which I am OK using with Specialists since they're more of a backline unit anyway for me).
+
+Last but not least, you mention how utility slots are more valuable than ability slots. With that logic, I think Medikits still remain valuable for a Specialist because (and I know you ranked this low) of Field Medic. At the cost of a single Utility Slot and Ability Slot, you get three utility items.
+
+Part of this is also that I genuinely dislike Scanning Protocol. To me, it's like a battle scanner, which (when you run Target Definition Reapers/Phantom Rangers) are generally not too useful outside of very specific, often chryssalid-themed missions. I'm not against having it, but it reduces the cost of taking Field Medic for me.
+
+Essentially, in my brain this boils it down to one extra Grenade/Ammo for one slot, or three Medikits for one slot. That's more value per utility slot. 1/2
+
+XComACU
+•
+2mo ago
+2/2
+
+That's assuming a medkit saved someone's life. It probably won't, especially when you just have 4 units. If a sectoid crits you and kills you (by far the most common form of death early in a run I feel) then a medkit is just going to sit there being sad. Medkits actually get better once you have 5 and more people in terms of pace of a campaign. And would you have needed to heal that hit if you brought a grenade over a medkit? I don't know (and neither do you the data is unobtainable as sad as that makes me), but that's certainly not going to be true all of the time.
+
+You know, I do actually have some data on the "the most common form of death early in a run" part. Admittedly, it was before WotC, but after the first year, Firaxis made a post copying the old "XCOM-2-stats" page, and Troopers were the most lethal unit in the game at causing 17% of deaths. Mutons were next at 9%, Officers also at 9%, Stun Lancers at 6%, and Vipers at 6%. While I found some early pictures indicating Sectoids/Psi-Zombies were among the Top 5 right after release, this appears to have fallen off over time.
+
+Makes sense, IMO - Troopers shoot more, and Sectoids tend to waste their first turn if you can give them something else to focus on.
+
+As for whether a Grenade would save more lives than a Medikit... I can't say.
+That... yeah, I don't have that data.
+
+With a Medikit, I feel I can make more aggressive actions with characters that could balance out the damage, but I don't know if there is even a way to track the true benefit. An extra 4-8 HP can mean a world of difference for me, but it isn't true all of the time, and 3 damage with cover destruction can also turn the tide of battle - it just depends on too many factors, including playstyle.
+
+One more thing I want to throw out, and I know this is an emotional response, but...
+I may regret not having an extra grenade to make a particular fight easier, but I will absolutely regret losing someone because I failed to bring the equipment needed to save them.
+
+So I have an entirely different post about why field medic itself sucks.
+
+I actually read it before my first post, since I wanted to make sure I had full context. Took a bit to track down, too, since I saw you mention it in your post, but I didn't realize it was in your Specialist breakdown (I thought you had a specific "Field Medic" post).
+
+That said, as you can obviously tell, I don't quite agree with your Field Medic (or Scanning Protocol) assessment. 😅
+When you say "And if you agree with me there and don't bring a medkit, this perk is literally blank, it does nothing," I'm the guy who doesn't agree and still brings Medikits, so it has value to me. 😁
+
+Sure, these situations do come up. But more than once per mission? [...]
+The situations where this is the exact item you need are just so narrow, a lot narrower than you'd think.
+
+Yeah, we really need a way to collect data on this.
+Hmm, obviously the goal is not to take damage in the first place, let alone twice, so most of the time the Medikit won't come into play; however, this is that "insurance" mindset I have.
+
+Most of the time it is a cost without any payoff, and the situations where it will be useful may be narrow (though, perhaps not as narrow as you think 😉); however, when those situations arise, the cost of not having the Medikit shoots up well past any single utility.
+
+After all, a soldier is worth more than a utility slot, even wasted over multiple missions.
+
+I don't think that's true. You could've had a different item in that slot, that's a point I keep making [...] Maybe that's not exactly how they think about it but it's effectively what they are doing.
+
+I feel like we'll end up going back and forth on this, since we don't really have a way to determine if a different item would have been more useful. In the end, it's situational.
+And based on playstyle.
+
+Speaking of, I don't see it as planning to take damage, but planning to mitigate any unexpected damage. Similar, but different IMO.
+
+I'm not saying I will take aggressive actions with the knowledge I can just heal up the negative effects, but that damage will happen, and preparing countermeasures helps mitigate its influence on future play. Again, similar, but different?
+
+Medkits aren't car insurance. Mimic beacons are. Mimic beacons are the "whoops I can't alpha strike this turn" button.
+
+Here me out: Mimic Beacons are seatbelts. Or maybe automatic braking systems?
+Regardless, they are for saving your life during the crash.
+
+Medikits, on the other hand, are insurance because they are for after the crash.
+Yeah, they're flexible enough to use in combat when needed, but overall a player is better off using their actions to deal damage or get kills.
+
+During a fight gone south, a Mimic Beacon will be far more useful. After a fight gone south, a Medikit will let you pick up the pieces and help get the car running again.
+
+Personally, I like having seatbelts and insurance.
+
+I think that's all the most important stuff addressed, but if you want me to elaborate on anything let me know. I enjoy talking about this game so I'm happy to continue the discussion.
+
+Not sure how much further we can go (this is probably coming down to a difference in opinion more than anything), but yeah, same here! This is super fun!
+2/2
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+>With a Medikit, I feel I can make more aggressive actions with characters that could balance out the damage, but I don't know if there is even a way to track the true benefit
+
+But that's psychological. Sure it can feel safer, but it was probably the right play in either case. You should simply play aggressively all the time, it's what this game is. Fear is the mind killer. It causes you to make worse plays, to bring bad items. The point of my post in a large sense is to shock people into at least thinking about bringing something else and not just defaulting to them out of fear.
+
+>During a fight gone south, a Mimic Beacon will be far more useful. After a fight gone south, a Medikit will let you pick up the pieces and help get the car running again.
+
+Medkits have no benefit unless another encounter on that mission goes badly. And if an encounter goes badly it's probably because you fought multiple pods at once, which means the next one is actually less likely to go badly. Medkits are like insurance that kicks in only after your 2nd car crash on the same drive. That's just not a thing that happens.
+
+XComACU
+•
+2mo ago
+I think that's the wrong attitude. There are a maximum of 6 pods per mission (other than Leviathan or other special missions).
+
+I mean, I get where you're coming from, and it's not like I don't use the Frost Bomb at all, or even early when needed. I just personally prefer clearing the first 2/4 or 3/6 encounters saving the bomb if I can help it. It's another of those "I can be a bit more aggressive early on" moments, as coming out of concealment with all your utility items still available really gives you an advantage.
+
+The first two pods, you're picking the fight and at near full strength, so ideally you should be dropping most targets quickly enough that the Frost Bomb isn't even needed.
+
+Well I was going to use his first WoTC playthrough, but that probably also isn't super good because it means he doesn't yet fully understand all the new stuff the game throws at him yet.
+
+And his later options are heavily modded, if memory serves. 🤔
+
+ It's literally impossible to get the exact number.
+
+Hard agree, unfortunately. You could maybe minimize variables through Skirmish matches, but the procedural nature of the missions means even repeating the same scenario over and over will result in different maps/compositions.
+
+I could try and track my next run a bit more closely, but a sample size of one is near useless, and we obviously have different playstyles too.
+
+The number of pods in the mid/late game don't really justify this.
+
+The pods themselves also get more durable, though. Even following the power curve with Mag Weapons and armor, you'll still start to hit enemies you can't always take down in a single turn. Yeah, proper positioning can mitigate their ability to react, but can never 100% prevent them from getting a hit in.
+
+Even if only 3-5 pods remain on any given map (assuming the first it wiped while concealed), that's still 3-5 chances something survives when it shouldn't, or a hit gets through where it shouldn't.
+
+Lets combine this with my hoarding Frost Bomb logic!
+Say a Sectoid survives the initial concealment attack. Yeah, a Frost Bomb could guarantee no damage, but you still only have one bomb a mission, one get out of jail free card you might need when something bigger comes knocking in the next 3-5 encounters. In that instance, I personally try to rely on the Sectoid's AI behavior, knowing that it's far more likely to use a psi ability than shoot. The chance I escape unscathed is likely, but not guaranteed. It could still choose to shoot and injure someone, after all. But, I know it won't kill, so rather than spending a valuable Frost Bomb for a guarantee, I'll play the odds I don't have to use any item at the risk of a wound and 1/4 Medikits.
+
+Late game? Yeah, you do sort of become death, the destroyer of worlds, but there will still be times that things survive. And the death of any soldier late game is immensely more costly, no matter how unlikely. I feel the logic still stands.
+
+This is not the kind of game where aggressive positioning is punished with damage. 
+
+Yes and No? When I say aggressive positioning, I'm thinking of moving up for flanks or taking low cover in areas that may help to guarantee a kill, but leaves them vulnerable to potential reprisal should something survive.
+
+Ideally, you always have a backup plan, or manage to wipe everything out the turn you encounter it, but reality isn't always so ideal.
+
+Yes, at 1 or 100 HP, you deal the same damage, but if there's a chance a target could survive, having your 1 HP guy standing right next is far riskier than the 100 HP guy.
+
+No you don't, you get one utility item and the fantasy of using it more. You literally have to try and get hit as many times as field medic wants you to and if a mimic beacon in that slot would've shaved just one of those then that item is wasted.
+
+I'm not trying to get hit, or use all three charges. 😂
+I don't use every grenade in a mission, or a mimic beacon in every mission, but that doesn't mean the slot was wasted.
+
+What I am saying is, cost-wise, what is effectively one utility slot for three items is better than one slot for one item.
+
+Yea, the mimic beacon potentially does more when used, but as addressed above, I'm more comfortable burning one of three Medikit charges to keep everyone full strength than I am losing a Mimic beacon which could stop a squad wipe.
+
+That's also one thing Medical Protocol alone doesn't fix, either, since you only have one for the mission. It switches that scarcity/utility dynamic more in-line with the other items.
+
+But that's psychological. Sure it can feel safer, but it was probably the right play in either case. You should simply play aggressively all the time, it's what this game is. Fear is the mind killer.
+
+Not always. 🤔
+It's certainly a component, I'm sure, but lower health values do also dictate the risk of undertaking some actions.
+
+Yes, players should generally move aggressively, but if a soldier is wounded, certain aggressive actions come with a far greater risk.
+
+Fear is the mind killer, but standing next to a Muton with less than 8 HP because you thought it would be dead is a whole-body killer. 🤣
+
+Medkits have no benefit unless another encounter on that mission goes badly. [...] Medkits are like insurance that kicks in only after your 2nd car crash on the same drive. That's just not a thing that happens.
+
+Huh, in retrospect, I think this is a difference in how we value things?
+In much the same way I do not necessarily view an unused item as a wasted item (a mimic beacon still has value even if it is never needed), being able to heal still has value even if the soldier is not hit a second time.
+
+It means the soldier can survive a second hit, but being hit again isn't the goal. The value comes from mitigating the risk of death following a second hit, even if that second hit never comes or is unlikely - because if it does happen, that costs you a soldier, a far greater price.
+
+To return to the insurance analogy, even if you are almost never in an accident, insurance still has value because there's always the chance of an accident. And it works after the first crash because it's getting you driving again in a car that can survive a second crash. The value doesn't come from getting into a second crash, it's from being able to survive that second crash if it occurs.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+> If Mimic Beacons are my "Oh, Shit" button, Frost Bombs are my "Can't deal with this shit RN" button, so I usually save them when I can.
+
+I think that's the wrong attitude. There are a maximum of 6 pods per mission (other than Leviathan or other special missions). So if a frost bomb/mimic beacon would get you out of a pod without getting hit, that's 1/6th (probably 1/4th-1/5th) of that mission that is just solved for you, that's pretty good! And even if you get hit on the next pod, it (unless you get crit by a sectoid in the early game) takes two hits to kill you, so that still bought you a hit. Just trading 1 for 1 is good enough.
+
+>Using a Youtuber like ChristopherOdd might be an option
+
+Well I was going to use his first WoTC playthrough, but that probably also isn't super good because it means he doesn't yet fully understand all the new stuff the game throws at him yet. Idk, without like a massive effort from the player base the numbers are kind of just impossible to get.
+
+In fact, the data collection problem is even worse than that. You can't do strict A/B testing. The same player at the same skill level bringing a medkit vs not is the ideal testing situation, but that cannot be done because every mission is different. It's literally impossible to get the exact number.
+
+>Mid/Late game, when your soldiers start being able to tank a hit more consistently, I think that flips. At that point, being able to bring people back up to full health between fights has more value, since it could let a soldier survive a second, unexpected hit.
+
+The number of pods in the mid/late game don't really justify this. If you get hit once but then clean up a pod, that's 1/4th of that mission done. Or 1/5th or 1/6th but still that's a lot of progress made. And because you can usually deal with a pod without getting hit, that one instance of damage is likely to be the only one you take. Especially if you start the mission concealed and get the drop on the first pod that's a whole group of enemies knocked out at once.
+
+And in the late game you have to try and take that much damage. You have the darklance and katana and untouchable and serial and fan fire and blaster launchers as many mimic beacons as you want what are you doing getting hit?! And even if, say, a lid unborrows in a spot you didn't except that's what medical protocol is for. It covers those edge cases.
+
+>Aggressive positioning also lets you potentially put out more damage.
+
+This is not the kind of game where aggressive positioning is punished with damage. It's the kind of game where aggressive portioning is rewarded with not taking damage. Alpha strike, that's the name of the game. If a soldier is at 1 HP or 100 the correct play doesn't change kill the enemy before they kill you.
+
+>Specialist because (and I know you ranked this low) of Field Medic. At the cost of a single Utility Slot and Ability Slot, you get three utility items.
+
+No you don't, you get one utility item and the fantasy of using it more. You literally have to try and get hit as many times as field medic wants you to and if a mimic beacon in that slot would've shaved just one of those then that item is wasted.
+
+Leading_Resource_944
+•
+2mo ago
+I always have got at lesst one medic spezialist in my army. Sometimes two. 
+
+When i fight the Assasine or Chrysalid, i take him/her with medkit.
+
+Battlescanner dont work the way i like to so i barely use them at all.
+
+u/eikin34 avatar
+eikin34
+•
+2mo ago
+Rating a medkit below a frost bomb or mimic beacon is not exactly a hot take. I can see where people might take one over a flashbang, though, when a flash is often better.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I think most people would be surprised that I think it's worse than a grenade most of the time.
+
+Moistinatining
+•
+2mo ago
+Great write up and I largely agree. Though medkits get the greatest use from being given to a specialist, they have to compete with either experimental ammo/bluescreens or a mimic beacon, so are immediately dumpstered once your specialist can equip two utility items. I think I play in such a way where my specialists are never in great grenade throwing range, but honestly that just means I should try that out rather than having them run around with a medkit. I think I get the most utility out of medkits when I use them to heal advent soldiers when I get the turncoat covert order as I just treat those guys as mimic beacons anyway, but that's such a niche use case that it's not worth considering.
+
+One thing that I don't feel great about XCOM 2 is how certain design choices run counter to XCOM EU/EW and feel like intentional "ha you thought this would be good like EW but it's not!" Both medkits and smoke grenades were support's bread and butter to the point where I'd gladly bring both a field medic and smokes+mirrors support on a mission (adrenal neurosympathy + combat drugs is nuts), but neither perform anywhere near as well in XCOM 2. In general, it feels like both sharpshooter and specialist get the short end of the stock compared to their EW counterparts, and their class-specific utility items are borderline useless when they actually have to compete with other utility items.
+
+u/cyborgdog avatar
+cyborgdog
+•
+2mo ago
+im reading all your parts and its amazing, I just started xcom 2 like last week and Im obsessed with it, are you going to have this compendium in Steam Guides or somewhere else so we can pin it ?
+
+u/zelandofchocolate avatar
+zelandofchocolate
+•
+2mo ago
+Fair play, you've convinced me. Going to not depend on them as much as I chase my first L/I win
+
+himthatspeaks
+•
+2mo ago
+I always carry one on my specialist. If a character gets hit, I can keep him on the front lines rather than rotating him to the back.

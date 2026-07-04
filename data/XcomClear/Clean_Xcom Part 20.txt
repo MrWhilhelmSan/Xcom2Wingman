@@ -1,0 +1,466 @@
+Dark Events range from nothing burgers to run killing, so knowing which to stop is a big deal. Dark events show up every month and you can only counter one at a time, but you usually have two goes at countering any one of them, so you can counter most dark events but some will slip past you. Knowing which to let slip past is very important.
+
+Here is the ranking system:
+
+★★★★★ - Dark events that absolutely cannot be allowed to happen. You have to drop everything to stop these.
+★★★★☆ - Very bad dark events, not unrecoverable but not good.
+★★★☆☆ - Annoying dark events, but not killer. You can handle it.
+★★☆☆☆ - Is mildly annoying, I guess? Like, I’d prefer not but eh it’s fine.
+★☆☆☆☆ - I’m sorry there was a Dark Event? I didn’t notice.
+
+In addition, this guide is going to be a little strange because how bad a Dark Event is changes based on one very important thing, do you have Grim Horizon turned on or not? If you do then they are all permanent (the description sometimes says “for x weeks” but it's lying they all last forever) and that changes the math on stuff a lot. But if you don’t then things shift around. I usually play on Grim Horizon but I know most of y’all don’t (not that I blame you) so we’re going to do things a little differently. I’m going to give 2 star ratings, the first is for a normal playthrough and the 2nd is for Grim Horizon. So it’ll look like ★★★★☆/★★★☆☆ where the first one is for normal and the 2nd is for Grim Horizon. OK? OK let’s roll.
+
+Avatar Project: Minor Breakthrough - ★☆☆☆☆/★☆☆☆☆ - This increases the Avatar project by 1.
+
+I do not care about this at all. On Grim Horizon you have bigger fish to fry and on normal you still don’t really have a reason to care. This is nothing, it’s entirely free.
+
+Avatar Project: Major Breakthrough - ★☆☆☆☆/★☆☆☆☆ - This increases the Avatar project by 2.
+
+This is the same thing as the minor breakthrough, aka entirely free. 
+
+Hunt XCOM - ★★★☆☆/★★★☆☆ - This summons a UFO to hunt XCOM and trigger the UFO base defense mission. If this triggers there is a 50/50 chance to dodge the UFO, unlike the story one.
+
+If this pops early in a run this mission can be a little spooky, but usually it’s not too bad. It can hit you with a lot of fatigue though. So stopping it isn’t a bad idea, but there are bigger targets.
+
+ADVENT Midnight Raids -  ★☆☆☆☆/★☆☆☆☆ - Increases the cost of rookies by 100%
+
+I’m sorry does this do…anything? At all? Honestly I don’t think I’ve ever cared about this once.
+
+ADVENT Rural Checkpoints - ★★☆☆☆/★★★★☆ - The next supply drop only gives 50% supplies. On Grim Horizon it is every future supply drop.
+
+On normal this is annoying but not that big a deal. You can survive getting a few less supplies for a month. On Grim Horizon though this is a pain. 50% less supplies forever sucks. It isn’t fatal to a run, there are ways to get supplies in this game, but it does suck.
+
+ADVENT Alloy Padding - ★★☆☆☆/★★★☆☆ - Gives ADVENT units a random chance to spawn with +1 armor for a month (or forever in Grim Horizon).
+
+If this is short term it’s sort of whatever you’ll deal with it but forever kind of sucks. Like, it’s not the biggest deal you can usually handle it but it does change the math on things that can trip you up. But there is worse.
+
+Alien Cypher - ★★★★★/★★★★★ - Increases intel cost by 100% for one month (or forever in Grim Horizon)
+
+This can literally kill your entire run. Intel is already a hard to get resource and this can rob you of the ability to contact a new region, and therefore stop the avatar project, and therefore die. On Grim Horizon if this pops early enough just…just give up. You lost, it’s over, go home. Beating nearly the entire game with double intel cost is basically impossible. If it pops late enough this isn’t a big deal at all but early this can just sink you.
+
+Resistance Informant - ★★★☆☆/★★★☆☆ - Causes the retaliation timer to move up by 2 weeks. 
+
+In vanilla this is nothing but in WotC fatigue can kind of screw you here. If this pops while the retaliation timer is under 2 weeks the mission will trigger immediately and you might not have any soldiers to send on it. However, if you can manage that mission, then you get a break from retal missions for a while. This also functionally delays the introduction of berserkers and lids to missions if it happens before those retal missions pop, which isn’t bad. I usually let this one go on Grim Horizon just because there is worse to handle.
+
+New Construction - ★☆☆☆☆/★☆☆☆☆ - Causes the aliens to build an avatar facility 4 weeks sooner.
+
+This doesn’t do anything. It’s the Avatar breakthrough ones but gives you a way to reverse the progress, and those already don’t matter. You can mostly ignore this.
+
+Alien Infiltrator - ★★☆☆☆/★★★☆☆ - One or two Faceless will spawn on every mission as a hidden civilian for a month (or forever on Grim Horizon).
+
+Fun fact this spawns civilians on mission biomes they usually don’t, which makes sewer missions even more annoying, hooray! Regardless, you always get a turn to kill the faceless when they reveal, so often this is just more faceless corpses, and therefore more mimic beacons. However if they reveal in the wrong moments they can literally kill a unit or cause a catastrophic failure. That’s rare, but it is worth noting.
+
+Infestation - ★★☆☆☆/★★☆☆☆ - Spawns extra chryssalids on missions for a month (or forever on Grim Horizon). 
+
+This can only spawn after lids start showing up, so it only ever happens super late into the game. That means you have scanning protocol or battle scanners to handle this without too much trouble. It’s annoying, and means you probably want the ability to heal the lid poison if this comes up for if/when you fuck up the sight lines and get stabbed (hey look I recommended healing in this game how novel). This is more annoying than anything else.
+
+Rapid Response - ★☆☆☆☆/★★☆☆☆ - Causes reinforcements to show up on G. Ops for a month (or forever in Grim Horizon).
+
+Normally this is nothing. Reinforcements can spawn on G. Ops anyway so this dark event might literally have done nothing. In Grim Horizon this makes them spawn forever. Which is annoying, and can screw you in very specific situations where the reinforcement spawns on a turn that results in a catastrophic failure, but that’s rare. It’s not that big of a deal.
+
+Vigilance - ★★★★★/★★★★★ - This increases enemy sight lines by 3 tiles as well as their concealment detection radius for one month (or forever in Grim Horizon, again).
+
+This actually reads “go fuck yourself.” Increasing enemy sight lines almost guarantees you draw more than one pod at time, maybe even two extra pods at a time. It means chosen encounters start with the chosen even further away from you, it means the rinse repeat of “scout, kill, onto the next” of this game breaks into “scout, the entire map falls on top of you, die.” On Grim Horizon specifically if this pops just delete your save file, it ain’t worth dealing with. I know it’s only 3 tiles, but those tiles make all the difference.
+
+Show of Force - ★★★☆☆/★★★★☆ - An extra pod spawns on missions for a month (or forever, yet again).
+
+An extra pod is bad, but not absolutely catastrophic. The game will throw more pods at you eventually and if you manage them correctly it’s just more XP for the pile. If this pops early into a run you just sort of die but eventually you can handle it. And for only a month it’s kind of a mild annoyance. 
+
+Viper/Stiletto Rounds - ★★☆☆☆/★★★☆☆ - ADVENT Troopers and Officers rounds poison you/bleed you on hit for a month (or forever, again).
+
+So how dangerous this is to you depends on one very simple thing, how often do you get hit? If it’s every single mission, this is pretty bad. If it’s only about 65% of the time, then this is kind of nothing. It’s only on a very small subset of enemies you have to remember. So you need to take damage to them specifically. Now that isn’t impossible but it is less broad than you’d think. Still, it can just kill you early into a run. It is responsible for one of only three times I had to heal in my grim horizon legend deathless run, so there’s that! And there really isn’t a difference between poison and bleeding other than a medkit makes you immune to poison, but you shouldn’t bring medkits anyway ;-P.
+
+Signal Jamming - ★★★★★/★★★★★ - All scanning (including contacting new regions, building resistance relays, everything) takes 50% longer for a month (or forever).
+
+Oh cool another dark event that just kills you. This basically cripples your run, especially on Grim Horizon you literally just die on the spot. This is 50% less of everything in a run. Literally everything, that is absolutely brutal. Late game you can fight through this but if it pops even in the mid game you just lose. 
+
+The Collectors - ★☆☆☆☆/★☆☆☆☆ - The chosen will now always go for the kidnap, rather than it being a chance.
+
+As far as I’m concerned this changes nothing. Once the chosen upgrade to be able to kidnap your units you can’t play like they will go for extract knowledge anyway, you have to assume they kidnap. And now it’s not an assumption, so…nothing changed? You can basically ignore this.
+
+ADVENT Lightning Reflexes - ★☆☆☆☆/★☆☆☆☆ - ADVENT Troopers (only troopers) will now cause all overwatch shots against them to miss.
+
+The thing about this is that it only applies to ADVENT troopers. Not officers, not stun lancers, just troopers. And overwatch always prioritizes pack leaders not followers, so often this doesn’t actually do anything because your OW isn’t targeted at troopers. And even if it is, OK it now misses it might’ve done that anyway. It just isn’t that important. It does make things like bladestorm not hit troopers, but again it’s literally just troopers so…OK, I’ll live.
+
+Collateral Damage - ★☆☆☆☆/★☆☆☆☆ - ADVENT Troopers carry an extra grenade.
+
+The difference between a trooper having one grenade and two is nothing. It changes nothing about how you should play, so this might as well not have any text on it at all. Ignore this.
+
+Counterattack - ★★★★☆/★★★★☆ - ADVENT units (so troopers, officers, lancers, etc) have a chance to enter overwatch after being revealed. (Well, that is what it is supposed to do).
+This dark event is bugged! It’s supposed to make them just go on OW, but they can use the extra action point given by this to just shoot you sometimes! Fix your game Jake! And obviously, is there anything worse than “hey get shot at with no counter play” I mean, the pod is going to activate eventually. It isn’t a “whoops I lose” dark event, but it is very bad. If it wasn’t bugged (hint hint you are using the Highlander Mod) this goes from deadly to just annoying. Shadowstep and Lightning Reflexes are in this game but it does make turns more awkward, so it’ll be 3 stars in that case. 
+
+ADVENT Return Fire - ★★★☆☆/★★★☆☆ - ADVENT Priests and Officers now shoot at you if you miss them.
+
+This is an idiot check. If you remember they can do this, it isn’t too hard to play around. You want to get 100%s anyway it just changes what units are doing what on a turn. You can’t take as many “hey if it hits I’m golden” shots. But if you are an idiot like me and forget these triggers you will just get tagged by this. Remember it exists and you’ll be fine, but maybe put it on a sticky note in front of your monitor.
+
+ADVENT Bending Reed - ★☆☆☆☆/★☆☆☆☆ - Stun Lancers can move after using their melee attack.
+
+Does this…do anything? Sure it makes Stun Lancers slightly harder to kill but only slightly, it still isn’t that big of a deal. Plus you really, really, really, really, want to kill Stun Lancers before they move anyway. I let this go 100/100 times.
+
+ADVENT Sealed Armor - ★★★☆☆/★★★☆☆ - ADVENT soldiers (troopers, officers, etc) are completely immune to fire, acid, frost, and poison.
+
+This is bad, obviously. The status effects aren’t that big of a deal most of the time but immunity to the Frost Bomb is a real pain. Given that a lot of advent units are very dangerous, I often want to spend it on them. Also it makes AVATARs immune to the frost bomb, which is annoying. It isn’t super duper bad, but it is annoying.
+
+Undying Loyalty - ★★★★☆/★★★★☆ - Any ADVENT soldier can become a psi zombie upon death.
+
+This is very, very bad. Psi zombies hit hard and it creates a lot more enemies for you to kill. In addition, it does it in an unpredictable way. You can low roll and have an entire pod reanimate and that just kills you. The later this occurs the less bad it is, but it’s still annoying on the final mission. Not quite instant death bad, but very bad.
+
+Gone to Ground - ★★★☆☆/★★★★★ - The Black Market closes for 6 weeks (or forever).
+
+The black market being gone for 6 weeks is bad, the Black Market being gone forever is run ending. It is so much power you just don’t get access to. Now in normal you can play around this, you can just tough it out. It’s bad but not that bad, but on Grim Horizon you just sort of take an L here. 
+
+High Alert - ★★★☆☆/★★★☆☆ - XCOM will no longer start missions in concealment.
+
+This is obviously bad, but it could be worse. It means the need for a scout increases even more but you should probably have one of those anyway. It basically just means every pod you have to fight the same rather than getting a freebie for the first one. It’s not good, I’d rather not, but you’ll live.
+
+Lost World - ★☆☆☆☆/★☆☆☆☆ - The Lost can spawn on any mission for a month (or forever).
+
+This is actually 5 stars because it tilts me into misplaying, but other than that it is no threat at all. The Lost just aren’t scary. In fact it’s not too hard to turn them to your advantage. But if this triggers on a Grim Horizon run I will delete my save because it is so fucking annoying to deal with I’d rather not play at all, but that’s a me thing.
+
+Barrier - ★☆☆☆☆/★☆☆☆☆ - Hack and psi defense doubles for a month (or forever).
+
+I never use the abilities that key off of Hack anyway, so I don’t care about this at all. It makes Haywire even worse but I never click that anyway. Make it harder to mind control with the Commander’s Avatar…I guess…but eh you’ll live. I just don’t care about this at all.
+
+Dark Tower - ★☆☆☆☆/★☆☆☆☆ - Will loss for your soldiers increase for a month (or forever).
+
+So this doubles the will loss you suffer on missions, but it doesn’t actually change the cap of will you can lose. You can only lose 33% of your max will per mission, and most missions hit that limit anyway. So this just changes things from “probably” to definitely. Which, like, OK, that’s whatever. I used to think this was super scary before I learned how it actually worked, but yea this does basically nothing.
+
+Spider and Fly - ★★☆☆☆/★★☆☆☆ - There is a risk of ambush on all covert ops. If the chosen is dead this doesn’t function for that faction.
+
+Oh, good, ambush missions, my favorite. Yea this does almost nothing. You have to fight more ambush missions, which I hate and are annoying, but aren’t actually threatening. Really all this does is annoy you. Which, I mean, fine it’s an effect but not a big one.
+
+Left Behind - ★★★★☆/★★★★☆ - There is a risk of capture on all covert ops. If the chosen is dead this doesn’t function for that faction.
+
+This on the other hand sucks! If you don’t have the option to negate the risk you are almost frozen out from that covert op. Not entirely, you can still do it. But if you go to hunt the chosen with a major and get them captured, well, that fucking sucks! I really do not want this to occur.
+
+Made Whole - ★★★☆☆/★★★☆☆ - The chosen no longer suffer weaknesses.
+
+If this happens early it is a real pain. Those weaknesses are the only thing giving you a fighting chance often. But late into a run you can work around this. Still, it can be problematic.
+
+Wild Hunt - ★☆☆☆☆/★☆☆☆☆ - The chosen always show up every 3rd mission, rather than it being a 50/50 chance on the 3rd mission.
+
+This might actually be a buff to the player. Not because it helps you, it doesn’t fighting the Chosen more is bad, but you get to know for sure they show up every 3rd mission in their territory. And that gives you extra information, and information is power. You can plan around their appearances much easier, and now if you get two missions in a row with a low enemy count you know you will fight a Ruler on the one that didn’t have a Chosen in it, or vice versa. That is quite handy.
+
+Loyalty Among Thieves - ★☆☆☆☆/★☆☆☆☆ - Every time a Chosen gains knowledge, the Hunter/Assassin/Warlock (whichever this dark event is for) gains a little bit of knowledge.
+
+I just can’t possibly care about this. Chosen gaining knowledge just doesn’t matter much. Sure they might invade you eventually but you can also just…win that mission it isn’t that hard you get 10 units. And that’s assuming things get that far, you can just…go kill the Chosen before things get that. This is just kind of nothing.
+
+OK, that’s it. This stupid thing is done. These last few parts were very annoying to write. But we’re not quite done yet! See y’all next time!
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+148
+
+Downvote
+
+37
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/hielispace avatar
+hielispace
+OP
+•
+26d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I'm back! I had a busy stretch but now I'm back with more parts of this guide. Next up is Force Level, then aliens, then alien rulers, then chosen, then we're done!
+
+u/Sunsfury avatar
+Sunsfury
+•
+26d ago
+Probably worth pointing out that part of the reason the avatar breakthroughs are so free is because they get added to avatar facilities, and so are easier to remove than a new player might expect
+
+u/Chii avatar
+Chii
+•
+26d ago
+i find dark events to be poorly implemented form of power scaling (for advent).
+
+It'd be interesting to have dark events (the hard, punishing ones only perhaps?) be an effect of a facility, with the pips being the "timer" on them (ala, early game facility have 3 pips, so takes 3 avatar progress for them to get online and activate the dark event[0]). The dark event stays until you can attack that facility (so if it's far from your region, you have to rush to get there to stop the dark event).
+
+[0] - late game facilities actually have fewer pips i find, so they get online much faster!
+
+u/faket15 avatar
+faket15
+•
+26d ago
+No Covert Ops?
+
+u/hielispace avatar
+hielispace
+OP
+•
+26d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I don't really have much to say, do the chosen ones when they show up. Don't send only rookies on missions that can get ambushed, recruit new scientists and engineers when you can. The rest free style. That's it, that's my whole advice.
+
+u/rogozh1n avatar
+rogozh1n
+•
+26d ago
+Don't be done, please. Just begin again from the start.
+
+u/comfortingmyself avatar
+comfortingmyself
+•
+26d ago
+I kind of wish Grim Horizons was the default - and that all Dark Events were tuned around it - with an optional toggle to make them temporary if desired. I like Grim Horizons, I think it's better flavor and gameplay, but some of the events are just a little overtuned with Grim Horizons on.
+
+High Alert is a weird dark event. Supposedly this completely breaks open the Neutralize Field Commander and Extract Supply Crates missions, since breaking concealment is the trigger for their timers to start. The timers won't start and you have free rein. But I haven't seen this myself. In fact I've seen the opposite, the timer will start immediately and make those missions absolute hell. I play with a good amount of mods, so it's probably one of those that fixes this, but I honestly don't remember which mod does it?
+
+IIRC burrowed Chryssalids effectively turn off Reaper scouting, so I rate Infestation as a pretty high priority event to stop. Not the end of the world or anything, you're probably chilling on the tactical layer by the time Chryssalids enter rotation, but still pretty bad.
+
+And I now hate Undying Loyalty after it was the first dark event to go through on my current L/I run. I didn't think it'd be that bad, but it's SO ANNOYING. Not just having to chew through extra bodies, but also that killing Advent enemies on Overwatch which reanimate into a Zombie is fairly likely to crash the game, so I'm pushed even further into making suboptimal plays just to play around this dark event.
+
+If you want to be funny, you could even include a 0-star category, for some Advent Dark Events like Bending Reed and Collateral Damage that are actively beneficial to the player. Advent is too frail/dumb to do much with those, but your own Double Agents sure can!
+
+Great guides as usual. Good to see you back.
+
+rynchenzo
+•
+26d ago
+Why is the Black Market so important? I'm on my third play through and never used it, the intel cost is too high.
+
+u/hielispace avatar
+hielispace
+OP
+•
+26d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+More supplies, more alloys, more crystials, more engineers, and more scientists. Plus it's the best source of superior PCSs and weapon attachments. The intel cost is a thing but intel is no good if you die without spending it.
+
+rynchenzo
+•
+26d ago
+Ok. I am blowing my intel on contacting new regions so I get more supplies.
+
+u/hielispace avatar
+hielispace
+OP
+•
+26d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Contacting new regions is important but you get stalled on it. Eventually you hit the limit of what you can contact and holding onto intel waiting to build a res. comms is a bit of a waste. The game will give you more.
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+26d ago
+The Black Market is pretty useful. It helps with supplies, alloys, engineers, scientists, everything you are short of.
+
+To get more intel, lean into hacking lampposts and skullmining. This should get you 100 intel or more extra in a month.
+
+If you are really short on intel you can researchdata pads. It delays your research but when that's the difference in being able to contact a blacksite region and raid it or not or something else important it may be worth it. If you get an inspiration for researching datapads, do it because this earns the inspiration for all future datapads.
+
+When you contact regions you can build comm towers to reduce the cost of contacting new regions. I usually don't contact regions more than 2 jumps away without comm towers (one tower every 2 regions apart). You'll want to build them anyway because of the continent bonuses.
+
+If you get a hack reward for reduced cost of contacting new regions go on a contact spree. This saves serious amounts of intel.
+
+u/RJ815 avatar
+RJ815
+•
+25d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+While a lot of it is not totally essential, especially on the higher difficulties you're almost always going to be at an Elerium bottleneck for upgrades past a certain point. The Black Market helps smooth this over to unlock an extra upgrade or two multiple missions sooner. Everything else is a bonus, but you can luck out on things like extra early engineers/scientists (which makes a huge difference above and beyond more region contact for Supplies), a good PCS, a high rank soldier of a class you're low on, etc.
+
+u/Mathdino avatar
+Mathdino
+•
+26d ago
+Another great post as always! Very small quibble: if everything takes 50% longer (or times increase by 1.5x), this actually results in 33% fewer resources, not half.
+
+u/hielispace avatar
+hielispace
+OP
+•
+26d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh yea, that's how math works.
+
+Mekhitar
+•
+26d ago
+Husband and I are in the middle of a Dark Horizon run on Commander, and we had Signal Jamming pop in the early midgame. What a pain. We thankfully shortly after got the Resistance card that makes supply pickups instant, but still, it’s so annoying.
+
+We ALSO got the Lost card, which is equal parts hilarious (what are all these lost doing in a city center?) and annoying. Mostly though it broke the run wide open. So much free XP. We have half a roster of colonels - and we haven’t been making any effort to farm them; just trying to deal with the ones that naturally show up.
+
+For Dark Horizon I kinda wish there was a way to just select that one card and turn it off.
+
+u/comfortingmyself avatar
+comfortingmyself
+•
+26d ago
+I use No Lost World on all my campaigns nowadays. Lost World is funny for a little bit but eventually the novelty wears off and it gets really tedious.
+
+Mekhitar
+•
+26d ago
+Getting this! Our Templar killed about 50 lost all on his own one mission. :/
+
+u/hielispace avatar
+hielispace
+OP
+•
+26d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+God I hate Lost World. Thanks for tanking my framerate and wasting my time game, it's so much fun /s
+
+u/zelandofchocolate avatar
+zelandofchocolate
+•
+26d ago
+Comment Image
+Pure pain
+
+u/RJ815 avatar
+RJ815
+•
+25d ago
+•
+Edited 25d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Something that I thought wasn't quite intuitive about Grim Horizon is the quirks of how Chosen-activated Dark Events work. IF I understand it correctly, it seems like they will ALWAYS fire the same month they appear for, BUT they'll go away once the Chosen is defeated for good in their Citadel. The normal 2-ish Ops time window for other Dark Events means you usually can take out really bad ones, but especially on Legend the Chosen triggered Dark Events can be a problem if they are something other than nonsense like the Loyalty Among Thieves sharing information (Undying Loyalty seems to be a mainstay for me :/). It adds another element of randomness in terms of impact but I thought I'd toss that info in.
+
+Alien Cypher is manageable on Commander since it just basically bumps baseline prices up to what it is on Legend, though the extra Black Market cost is particularly unfortunate. Early enough on Legend and it can be a run killer, should be like top three if not #1 priority to remove if you can. Later in a run you could manage by just giving up on Continent Bonuses and focusing on story missions, since Data Pads can help and research is a bit less critical once you're getting to Plasma Weapons. But any time before Plasma weapons if it goes through on Grim it is probably a run ender.
+
+While it's a minor point, SPARKs have a niche if you're seeing Chryssalids often enough to be a problem, like with Infestation. They can't be poisoned and have inherent defense. If you have enough foresight to slap an Aid Protocol on them, they are very unlikely to ever get hit by burrowed Chryssalids. But it does mean that you need to have invested in this class / option and are for sure giving up one pair of bonding bonuses. Late game a Bladestorm Ranger can also be your spearhead Chryssalid counter (bonus if they have a little extra dodge from light armor) but if you have Bladestorm Katana the run is probably close to over if you wanted it to be.
+
+IMO Rapid Response is one star on Grim as well. I don't know if I was supremely unlucky or something, but I had a Grim campaign where prior to it becoming a permanent event, I had reinforcements show up (seemingly) every Ops I went on anyways. It feels like the remaining turn timer is related, and even besides that if it's like a 75% chance vs a 100% chance then who cares. It also has a slight positive in being more XP which is always nice on Legend if you can handle it, probably worth the trade off. Alien Infiltrator is rougher as it is possible to end turn close enough to a transforming Faceless that it can cause problems.
+
+While Cypher is really bad I think Signal Jamming is even worse. Other than a rare Hack reward (which is RNG on top of RNG on top of RNG to even see let alone get), scan times have NO counterplay. Data Pads and Caches are SOMETHING for Cypher. Jamming is get fucked. This personally takes my #1 spot for worst Dark Event, especially since it's one of maybe two (the other being Cypher when you just don't have backlogged resources at a bad time) that can outright cause you to lose the Avatar Project if you don't have the Resistance Network instant region contact bonus.
+
+The Counterattack bug is particularly bad for the ability to just outright lose action economy to things like instant activation Stasis or Psionic Rift. It's not run-ending in and of itself but it is pretty horrible. On Grim I'd give the de facto bugged outcome five stars as action economy is the main resource you have to mitigate RNG.
+
+Lost World is definitely at least 4 stars on Grim. I played out a campaign with it early just for the challenge and to see what people dislike about it. A small amount of the time it is advantageous as a wildcard Mimic Beacon kind of thing and extra xp where every bit helps on Legend. Once you know the game the explosion factor isn't really that big of a deal, but even if you can handle it it for sure is tedious. Especially on Legend it eats up your action economy (especially for any Lost that don't die in one hit) and I found it to on average delay timed missions by 2 turns, which may or may not matter for your playstyle. The much more annoying thing even besides the sheer tedium of missions with 60-80+ enemy kills, is that you're much more likely to take injury on otherwise Flawless mission tactics just because some random Lost was one or two tiles in range for hitting a soldier compared to the rest being a non-issue. It's just not realistic to perfectly memorize their movement range vs any given map's obstacles when you're seeing literal hundreds of them over the course of a campaign. This is the only Dark Event I'd say is completely fair to mod out of the game. I did it one time but it's just very uninteresting. I like Lost when they are a change of pace. But shooting zombie fish in a barrel forever with a side of aliens is a snoozefest and mostly annoying rather than actually hard. Despite probably 40-50 missions with it, it only truly made <10% maybe even barely 5% of them uniquely challenging.
+
+From what I understand with Dark Tower your statement is correct if you don't take injuries. So basically passive Will loss. Otherwise that and rare things like a Spectre's Horror can push it lower. So it's an interesting case of a 'lose more' factor that doesn't really do anything if you are playing well. Viper Rounds are in a similar category of making a bad situation worse but mostly a non-issue.
+
+u/ShadowKnightTSP avatar
+ShadowKnightTSP
+•
+26d ago
+It’s “Made Whole” btw :D
+
+u/hielispace avatar
+hielispace
+OP
+•
+26d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Fixed. You'd think I'd be able to post at least one of these without a typo, but alas. It is not to be
+
+machine1979
+•
+26d ago
+Thanks again for doing these. Its been super helpful reading them.
+
+antiguy1
+•
+26d ago
+Grin Horizon doesn't affect Signal Jamming. Also, a lot of these also get affected by difficulty. An early Major/Minor Breakthrough or New Construction is a death sentence if you let that get through in the first couple Dark Events.
+
+u/hielispace avatar
+hielispace
+OP
+•
+26d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Wait it doesn't?! I mean it's still evil but less "whoops you lose."
+
+And yes they can changed by difficulty but this series is only about L/I.
+
+You can basically always handle the avatar project, you start near the blacksite and can build a skulljack early and that's 4 pips off right there on top of covert ops lowering it further. It just isn't that big a deal
+
+u/McGrevin avatar
+McGrevin
+•
+26d ago
+This actually reads “go fuck yourself.”
+
+Lmao so true. I recently got back into XCOM2 and did a commander run with no issues to shake the rust off, so then I did a legend run and this triggered extremely early for me. I was shamelessly save scumming to get through it but I still took a week off because the game was driving me crazy with triggering 3 pods every time I moved.
+
+Also I agree lost world isn't actually that hard but I always try to kill that one just out of annoyance for how long and tedious missions become when the lost relentlessly keep popping up
+
+And thanks for doing all these. I've done an Ironman legend run but I'm learning a ton from every single post. Really great insight all around
+
+baddoge9000
+•
+26d ago
+Hey! You're back ?! Thanks for the hard work man. So uh, what u gonna do with ur life?
+
+Tyroredux80
+•
+25d ago
+•
+Edited 25d ago
+Hi Hielspace, superb in depth info, sad to say I am late to the party and only found you around part 13, I would love to be able to see all the guides from part 1 if possible. I truly appreciate your wish for privacy etc. if u would oblige and trust me to view this guide it would be truly appreciated.
+
+u/hielispace avatar
+hielispace
+OP
+•
+25d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Th index has every part in it
+
+Tyroredux80
+•
+25d ago
+ty for promt response, i have two choices here... option A lie and pretend i know wtf a reddit index is or how to access it.. or option B honesty I rarely use reddit throw me a bone here 😄 I choose option B
+
+u/hielispace avatar
+hielispace
+OP
+•
+25d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's the link at the bottom of every post. Just click it and all will be clear
+
+Tyroredux80
+•
+25d ago
+It is clear.. many thanks commander ;)
+
+u/Dr_Bombinator avatar
+Dr_Bombinator
+•
+26d ago
+•
+Edited 26d ago
+God, one GH run I had to pick between Checkpoints, signal jamming, and high alert on top of having Lost World activate in I think May. Between increased pod size models and LW I think I never had a sub-90 minute mission or less than 100 kills ever since. Absolute hellish grinder of a campaign, but it was funny watching ADVENT drown in all the zombies they’d summon.
+
+I really appreciate the Covert Infiltration mod that adds an event chain to remove a dark event.
+
+u/rogozh1n avatar
+rogozh1n
+•
+26d ago
+Is Alien Infiltrator extra bad because it often leads to the death of civilians, which leads to more fatigue for our units?
+
+u/hielispace avatar
+hielispace
+OP
+•
+26d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Fatigue loss is capped per mission at 33%, and beyond the first like 10 missions you are going to hit that anyway so it's not a big deal
+
+u/rogozh1n avatar
+rogozh1n
+•
+26d ago
+Then, as my grandma used to say, fuck 'em if they can't take a grenade.
+
+Thanks!

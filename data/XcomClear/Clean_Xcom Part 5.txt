@@ -1,0 +1,698 @@
+I should’ve posted this guide first; this is a guide on how to actually win at missions. How to go from dying on veteran to flawlessing multiple missions on Legend. This isn’t a rigorous “in situation X perform procedure Y for a guaranteed win” type of thing, it is a framework that will massively improve your odds at winning and flawlessing more missions. This is the method I’ve developed after 3600 hours and multiple deathless L/I grim horizon wins under my belt, so I’m pretty damn sure it works. It isn’t the only way to play this game and win, there are plenty of strategies that have the potential to see you to victory if you understand the game well enough. But this is a method you can default to if you don’t yet understand this game's systems well enough to riff together a strategy on your own. OK, enough banter, let’s crack in.
+
+So I’m going to break this down into 5 parts (and a walkthrough of how to apply it). Each part will go over a different bit of the mission from squad select to actually being in a mission to fighting a pod to everything in between. I won’t go over every little detail, but you’ll get it. And obviously there are other ways to win missions than what I recommend, but I can’t exactly tell you to emulate a playstyle I don’t use now can I?
+
+To put my best advice up front, you are trying to hit a loop where you scout a pod, kill that pod in one turn, then scout the next pod, then repeat. That’s the goal. When things are forced off of that loop, you need stun tools to avoid taking damage and losing missions to get back on the loop. That’s the core of my advice, the rest of this is just how to do that. As for how to start, well let’s start at the squad select screen. 
+
+Part 1: How to select a squad
+
+This is a guide on how to actually choose what units to bring, and it is a very simple 5 step process.
+
+Step 1: Bring a scout
+Step 2: Bring a ranger 
+Step 3: Bring a grenadier
+Step 4: Bring someone for the mission objective or to fight the chosen (as needed)
+Step 5: Bring…other warm bodies you want to get XP.
+
+That’s it. That’s literally it, but let’s break it down a little more so you can understand.
+
+Step 1: Bring a scout
+
+Information is what wins wars, and that’s true in XCOM as well. Knowing when it is safe to move up and when it is not is so important. Knowing what is in the next pod is killer. Knowing you can just drop a killzone and watch people get shot at is also great. You want a scout on 100% of missions (that aren’t hoard missions, those none of this advice matters because they are easy). That should be a reaper if they aren’t wounded/tired/dead, but if your reaper is any of those things (and you don’t have a second one), then it should be a ranger with Phantom and/or Conceal. It's not like you can't win missions without them, but it is waaaay harder. 
+
+Step 2: Bring a ranger
+
+Rangers are the best base class in the game and they should also be on every mission. Fundamentally you need to be able to push enough damage through on a turn to kill the enemy before they kill you. Rangers do the most damage, so bring one. If you are bringing a scout ranger for step 1, then you should bring a second ranger for step 2. Two rangers on a team is better than one, three is even better than two but we’ll cover that when we get to step 5. You could make the argument that you can swap out the ranger from this step for a Templar, as the classes are very similar, but I generally prefer still having a ranger in my team at all times. Though if your roster isn't fully developed or just your rangers are all out of action a templar can fill this role as well. 
+
+Step 3: Bring a grenadier
+
+You will need to blow up cover, apply shred, apply holo, and throw around rockets on every mission. This class is your primary support class as funny as that sounds and you should never be without one. You might be able to get away with swapping your grenadier with a SPARK, but I’m not convinced that’s a good idea most of the time. Just be safe and bring a grenadier on basically every mission. You can probably get away with just “another unit with an exo-suit whose carrying a few grenades” in a pinch, but you’d prefer not to have to do that.
+
+Step 4: Bring someone for the mission objective or to fight the chosen (as needed)
+
+You will know the mission objective ahead of time, so plan for it. Is it a hack one? Then bring a specialist. Is it a kill the general one? Then you need extra damage and mobility, so bring a templar. In addition, the chosen will spawn every 3-4 missions and on every golden path missions (more detail will be in the chosen guide), so you can always have a pretty good idea if they are going to show or not. If they might, then plan for that. Bring someone with scanning protocol for the Assassin, bring their faction weakness if it will be helpful, bring a lot of grenades and explosives if they are shell shocked, plan for them if the need to be. Don’t get caught unaware and have to fight the Chosen underequipped for it. Fight them on your terms.
+
+Step 5: Bring…other warm bodies you want to get XP.
+
+Unless you are doing the stronghold missions or leviathan or going to go fight an Alien Ruler, you shouldn’t deploy all your highest rated soldiers. Then your best squad will all get tired at once and that’s no good. So you should always rotate in one or two lower leveled soldiers in the flex slots. They can even fulfill the roles above if your best ranger has blademaster and your reaper is out then a B or C team ranger with Phantom should be going on this mission. This is your flex slot. An opportunity to bring sharpshooters or extra rangers or a Spark or a second grenadier or whatever you fancy. Just make sure that everyone gets a share of the XP pie. You are going to need 16-20ish soldiers to see action in a run even if you have no deaths, so you shouldn’t put all your eggs in one basket. In WotC, at least. In vanilla you can get away with running the same 6-8 guys over and over again and buying someone from the black market if one of them dies but not on WotC, because fatigue. 
+
+To sum up, you should always have:
+
+A scout
+
+A ranger
+
+A grenadier
+
+Someone for the mission at hand
+
+Someone(s) you need to feed XP into
+
+Follow that and things will get so much easier for you.
+
+Part 2: How to equip your squad
+
+OK, now that you have your squad selected, how do you equip them? Well, if you want details on what to give to each soldier class that’s in their guides but for general tips, follow these 3 rules.
+
+Always have at least one mimic beacon on a squad
+
+Always bring the frost bomb
+
+Always bring explosives
+
+Going step by step, for rule 1, the reasoning is simple: Mimic beacons are overpowered as shit and will bail you out of a lot of situations. You should always have at least one, because they are just that good. You might even want to bring two or three but at least have one. For rule 2, it’s much the same. Stunning enemies is very good, the frost bomb stuns enemies, so bring it. And finally rule 3 is simple, you will probably need to destroy cover, so make sure you can do that. Now luckily rule 3 of this section is usually covered by step 3 of the last section, bring a grenadier, but make sure you have the ability to remove cover if you need it, it’s important. You might want to bring an exo-suit or a grenade on someone other than your grenadier just to make sure you don’t run out of firepower.
+
+After those 3 categories, the utility items you want are much more flexible. You generally want special ammo on any unit who isn’t a Templar, but exactly which will depend on where in the campaign you are, what enemies you are about to fight, and what you have available. Bluescreen rounds are the strongest ones generally but if you see using the Shadow Chamber that there is only 1 robot on the mission, you probably want to go with something else. If you suspect you are about to fight a ruler, special grenades and ammo that inflict status effects are very useful. If you have special armor, you want to equip them. Spider Suits go to rangers and sharpshooters, exo suits can go to anyone but are best on grenadiers. And specialists usually prefer having both their equipment slots available but throwing everyone in an Exo/WAR suit works, too. How to equip each individual unit type is covered in their respective class guides. 
+
+Part 3: Scout the pod, kill the pod, scout the next pod, repeat.
+
+This is the actual “OK I’m in a mission now what” phase. The exact procedure will look different in each mission, but the general flow looks like “scout a pod, kill them as fast as possible, scout the next pod, repeat.” That’s the loop you are trying to hit. 
+
+You always want to fight one pod at a time, but a lot of very powerful abilities require you to move up, not to mention turn timers and the fact that (unless you’re a sharpshooter) aim goes up the closer you get to the target. This all pushes you towards moving closer to the enemy and risking activating another pod. That’s why we brought a scout. They can tell us when it’s safe to move up and when it’s not. Now sometimes you will activate more than one pod at once, that’s OK, that’s what the mimic beacon and frost bomb are for, to stun the 2 pods into being de-facto 1 pod again, at least for a turn.
+
+Importantly, this game has turn timers everywhere. So always keep moving, you basically never want to spend a full turn not moving just on overwatch or you might lose to the turn timer, if a pod is too close for you to move up without revealing yourself, it’s time to kill that pod. In addition, sometimes you will just have to fucking book it to the objective, or keep advancing forward just so have enough time to make it to the objective. That’s OK, we’ve accounted for this. If you advance too fast and reveal more pods than you meant to because of the turn timer (or just a pod was somewhere you didn’t expect), that’s why you brought a frost bomb and mimic beacon. We have those tools for a reason, so that when you inevitably pull more than one pod at a time, you aren’t absolutely owned. 
+
+If at all possible, have your scout far enough ahead of you that you aren’t in danger of losing to the turn timer and you don’t have to start dashing when there are still active enemies. If that doesn’t happen, that’s OK, you brought tools to help with that, but try and avoid that situation it can get messy. And if you don’t have a turn timer, move as slow as possible. Overwatch every goddamn pod. Don’t be in a rush if the game doesn’t force you into one. There’s a reason they added turn timers, it’s because without them you have too much control over missions.
+
+Part 4: The flowchart
+
+This is probably the most important bit of this guide. Here is the actual “you are fighting a pod, what do you do” section. This is the flowchart you should follow. It isn’t super rigid as you’ll see, but it is the general procedure to follow so you can win.
+
+Step 1: Can you reliably kill every enemy without triggering another pod? If yes, do that. If not, move onto step 2
+
+Step 2: Can you reliably kill every dangerous enemy without triggering another pod? If yes, do that. If not, move onto step 3.
+
+Step 3: Attempt to unreliably kill every dangerous enemy, but do not overextend. If enemies are still alive after step 3, move onto step 4.
+
+Step 4: Stun the enemy. Throw a mimic beacon or frost bomb or flashbang (in order of effectiveness), if you are out of those, move onto step 5.
+
+Step 5: Be in high cover and hope for the best.
+
+This step by step flowchart will see you to victory. It is the thought process I go through every time I fight a pod. Literally everytime. The exact details of when to apply each step will vary from mission to mission and I can’t go over everything but that is basically it, do that, and you’ll win. 
+
+The main thing this is accomplishing is alpha striking, killing the enemy before they ever get a chance to do anything. That is the ideal XCOM 2 play pattern (unless you turn beta strike on in which case literally everything in the game has to be reevaluated which is why I'm not covering it in this series). The way you lose runs (on the tactical layer) is by having enemies take too many actions. You get micro missiled then shot a bunch and now half your squad is dead, for example. So the goal is to let them never even come close to pulling that off because that MEC and troopers that were about to kill 3 of your units are now all dead in a ditch.
+
+Now, obviously, this is easier said than done. But it does frame that flow chart in the correct light. You are trying to alpha strike, that's your goal. But when you don't achieve that you need some way to still deny the enemy actions. That's what it's about, not letting the aliens screw you by taking actions you don't have control over. Most of the time you control them with death but sometimes you gotta control them with a frost bomb or mimic beacon or similar. 
+
+A very important point here, when I say “reliably” I don’t mean 95% shots, I mean 100%. If there is a line that has 0 chance at failure and kills every enemy active, take it. If there isn’t, if there is even the slightest chance of a shot missing or low rolling damage or whatever, then you need to plan for it. That’s what step 3 is, where you don’t over commit to actions that might fail. It might be that they hit, but don’t bank on a 95%, you might roll that Nat 1. Be ready with a mimic beacon if that shit misses. 
+
+I also mention “dangerous” enemies and that’s because some enemies will waste their turn doing nothing and some have to die instantly immediately no matter what always and forever. As for which is which, that’s for the enemy guide. But generally the advice is “kill the things that will hurt you.” Troopers always shoot at you, so they gotta go. Sectoids? Not so much, so you can let them live to your turn if you need to. You’d prefer if every enemy was dead before they took a turn, but that’s not always feasible, so you need to pick your targets carefully.  
+
+I will leave you with some final pieces of advice. 
+
+Part 5: There is no future, there is only right now
+
+It can be tempting to try and save a mimic beacon or frost bomb or Run and Gun or whatever for a future pod, but don’t. If you need it now, you need it now! Kill the “too good to use” part of your brain stone dead. Don’t plan for a hypothetical future, plan for the real present. Don’t use abilities and items willy-nilly, put thought into it. But if you need to use something, fucking use it! Don’t save that grenade for tomorrow, save your soldiers lives by throwing it into ADVENTs face today! There are only 3-6 pods on 99% of missions, and the pods early in a mission are more dangerous than the ones at the end because you can play like a maniac in the last pod and not risk activating any more pods. So typically items are used earlier in a mission rather than later. Plus mistakes can’t compound that late into a mission. So all things being equal using items earlier is better than using them later. Now obviously if the last pod is a Sectopod that changes the math on that, but generally. 
+
+And for one final piece of advice before I go into an example: this doesn't work for literally every situation. I mean, how could it? This isn't really how you fight rulers. The Chosen can cause you to deviate from this kind of playstyle as well (only kind of, but we'll cover that later). And it also can't make your decisions for you, but it is the easiest way I’ve found to flawless the most number of missions in a playthrough.
+
+Part X: An example. 
+
+Let’s go through an example. Say you are about to do a standard guerilla op that is hacking a terminal and you just got squad size 2 and also know that the chosen won’t be on this mission.
+
+Well, first things first we need a scout. If our reaper is up and ready that’s them, if not it’s a ranger with phantom. Let’s say we can bring our reaper. Next we need our highest ranked ranger that isn’t tired or hurt, simple enough we add them to the mission. Then a grenadier, and because this is a hacking mission we bring along a specialist. Now we have 2 open slots, we can bring a wide variety in this space and it’s kind of up to you, but for the sake of moving along I’ll bring a Templar and another grenadier in these slots because I want to train them up more as they were falling a little behind in XP. I could’ve chosen a SPARK or a sharpshooter or just 2 more rangers that’s not important just that those units need XP.
+
+Next we need to equip them. I have a specialist so they get the mimic beacon and the other item is probably bluescreen rounds or another mimic beacon or maybe the skulljack if I need that for story purposes, it has a little flex but they are definitely getting at least one mimic beacon. Then the frost bomb goes in the grenade only slot for out grenadier so I can double it’s uses with heavy ordinance (if you don’t have this yet, just bring it in whatever utility slot it doesn’t matter) then because I’m not super late into a run I’ll probably bring plasma grenades and an exo suit to finish them off. I could swap the grenades for special ammo if I wanted to, but because Sectopods and Andromodons aren’t showing up yet I don’t absolutely need BS rounds on them and in this situation I want more explosives. Could easily make a different decision there though. Then for my ranger they get a spider suit and talon rounds, if I didn’t have talon rounds I’d give them a different special ammo and if I didn’t have those I’d give them a grenade. My reaper doesn’t have tactical rigging so they don’t get a utility slot. As for my flex slots, I’ll give a second mimic beacon to my templar just in case (could justify other things, but more mimic beacons is more better) and for my second grenadier I don’t have an exo suit yet so special ammo and plasma for them. I want to point out how this is both rigid and loose. I have some clear benchmarks I want to hit, but after that it’s a bit of a dealer's choice. Also give stocks you have to your lower ranked soldiers, because they are more likely to miss.
+
+Now I’m on a mission, I move up with my reaper and yellow dash with everyone else in as straight a line behind them as I can manage (while staying in cover) to avoid activating any pods I didn’t scout out and to reach the objective quickly. I continue this movement pattern until I see my first pod. Let’s say it’s an archon and two mutons. Great, so they gotta die. I throw a claymore and then a rocket on them and deal a minimum of 12 damage to all of them but let's say we don't get monumentally unlucky and deal 13 damage. That kills both mutons, triggers the Archon’s battle frenzy, and reveals my squad. I don’t care that I used both the rocket and the claymore in one pod because now that pod went from potentially scary to “literally just an injured Archon” and Archons don't take cover so I don’t need to use an explosive for the last active enemy. And if I deal 13 damage to the Archon with 24 HP, I know that a 100% to hit shotgun blast + rend will get me the kill without any RNG and give me a stack of focus (min damage on a shard gun is 6, min damage on rend is 5, 11 is exactly enough). Another play I could if my Ranger isn’t in position to get that 100% to hit is just take a lower percent shot and if it hits carry on with just rending the target, and if it misses uses fire with my lower ranked grenadier who I gave a stock to and use that plus combat protocol plus rend to kill the Archon without any RNG that way (advanced stock deal 2, combat protocol at this tier does 4, rend does 5, that’s also exact lethal). See how we negate any chance for RNG to screw us? This is what you want to do, force winning lines even if you miss shots. Or better yet force shots to be unable to miss. Even if I absolutely low rolled and did 12 damage with the claymore + rocket combo I still had a way out of that turn with Parry, stocks, and combat protocol. The absolute worst case scenario must be planned for, even if it is unlikely. 
+
+Skipping ahead a bit, let’s say I accidentally reveal two pods at once. One with an Advanced Officer and two Advanced Troopers and another with a Codex and two Vipers. These are appropriate enemies and pods for this point in the game but don’t get too hung up on the details. OK, now what? Well, of these enemies all of them will try and damage me on my turn except the Codex. So I can remove the Codex from my thought process for now. The Officer and Vipers are probably the most dangerous enemies left, so I want to focus them. I’ll move my reaper up to make sure meleeing those enemies won’t trigger yet another pod (that would probably be catastrophic), hold my specialist’s and frost bomb carrying grenadier’s actions for last in case I need those items, then focus fire and kill those enemies. To not bore you with all the details let’s pretend I only succeed in having enough damage to kill the two vipers and I injure the officer. Well, shit, OK, now I need that mimic beacon. And just to be safe I’ll also toss the frost bomb at the officer and a trooper that just so happen to be standing too close together. If they weren’t I would’ve just frost bombed the officer. Now the codex and remaining active trooper(s) waste their turn shooting at the beacon. Then I can clean up the officers and troopers, get psi bombed, but then finish off the codex with a rend, slash, and combat protocol. Nice and simple.
+
+That’s basically the thought process in action. That’s a made up example, but I have certainly gone through it a number of times. That is the general way this plays out. If I had a sharpshooter instead of a templar in that slot for example I would’ve had different tools and made different decisions, and there were other decisions I could have made that would probably have also resulted in no injuries, but hopefully that demonstrates the general flow. 
+
+Conclusion
+
+OK, that’s it. Do that, and you’ll win, at least mostly. It is both that simple and also that hard. None of the steps here can tell you exactly what to do in a situation, obviously, but they can set you up for success instead of just going on gut feeling. I think I have made them as concrete and useful as possible without being so rigid that they are brittle, but if you disagree, let me know.
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+209
+
+Downvote
+
+69
+Go to comments
+
+
+1
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/keilahmartin avatar
+keilahmartin
+•
+2mo ago
+It's decent enough advice, but it seems to apply only once you've already got some characters and tech developed, which is the easy part of the game.
+
+What about the first 1-5 missions? That's the part that people need help on.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+The early missions basically just test your xcom fundamentals.
+
+A lot of the same stuff still applies - you’re still trying to be safe and only engage one pod at a time. The main difference is without all the tools of ammo, fancy grenades, armor, etc you’re relying a lot more on stuff like making sure you’re taking cover, using frag Grenades to remove cover + do guaranteed damage, etc.
+
+You’re right in that the inverse difficulty curve makes the early game the hardest. But you’re still applying a lot of the same principles. Basically, you’re trying to use frags to get as close to reliably killing all the enemies as possible. And when you can’t reliably kill all the enemies, you’re falling back to OP’s “step 5” of “be in high cover and hope for the best.”
+
+Aleventen
+•
+2mo ago
+If i cant get well above 60s in the early game I am not afraid to hunker down and I swear to god id be damned before I use overwatch with a rookie
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's the same thing, really. Scout a pod, kill it, move onto the next. The only difference is you don't have those very powerful stun tools so your margin for error is a lot thinner.
+
+tooOldOriolesfan
+•
+2mo ago
+Early in the game you may not have a reaper or phantom, etc. so while you have to be careful with movement it does involve some luck.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The alternative to that is be extremely careful about the fog of war. There's only so much you can do with turn timers, but moving excessively far is almost always what causes extra pods or unnecessary damage. If you're not sure, it might be better to move to an actual wall vs corner peaking, to get closer with less risk. You can play more risky with Rangers especially once you get Implacable and/or Untouchable, but that's a fair ways into the game. Rangers are simultaneously one of the strongest classes on Commander and Legend, but also the ones most likely to make it worse for the team as a whole if you overextend. It's a fine balance of not excessively grouping up for AoE enemy attacks, but also not being so spread out that you can't deal with surprises or wandering pods etc. If you have the time to do it, regrouping and reloading mid-mission is often a safe play, even if you have to "waste" an overwatch. Savescumming those kinds of situations can be the difference between an extra pod or not, seen it plenty.
+
+u/Chii avatar
+Chii
+•
+2mo ago
+it does involve some luck.
+
+you make your own luck in xcom!
+
+The formation you choose to move in before hitting a pod is important. I choose the single file formation. One soldier (the "scout") moves 1 blue move ahead, and every other solder do not move past the sight vision (aka, do not reveal any new tiles after the first scout's).
+
+If there's a timer, the scout moves a blue move, then moves up one more yellow move into heavy cover, but choose that position wisely so as not to reveal too much of the map, but is closer to the objective. This is where luck comes in - if you get revealed, the rest of the team is able to at least come and support, or use the pod scatter to try flank (or retreat backwards to try kite the pod). In sewer or train maps, this method works as the map is divided into segments that are usually visibility blocked from each other except at the doors, so you can push up really far without revealing a pod (ala, got lucky). You can push really fast, really early (like half a map in 2 turns as every solder can take a double move after the scout).
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Well, you can have a reaper if you just turn on the "start with Reapers option" which is what I would recommend to a new player.
+
+While it's possible to win the first couple missions with a Templar or Skimisher carrying you, it's a lot harder.
+
+u/asianslikepie avatar
+asianslikepie
+•
+2mo ago
+Skimisher carrying you, it's a lot harder.
+
+Who is having trouble with Skirmishers early game? Skirmishers don't scale well because their late game abilities (Battlelord, Whiplash etc.) suck but early game they're great.
+
+They start with essentially free spider suit, Judgement is a +25% aim mid range nearly guaranteed kill on any ADVENT in low cover and below and Total Combat is amazing because grenades are amazing early game.
+
+Templars are iffy early game because their gauntlets may not even one shot a basic ADVENT trooper without focus.
+
+Reapers are good scouts from the beginning but their damage output is almost non-existent without equipment and levels. Low level Reapers have inconsistent crit even with flanking, their basic rifles don't kill anything on a low roll, claymores and remote detonation are very good abilities but have limited ammo/are situational useful and they don't have Silent Killer yet/aren't consistent enough without Talon Rounds to trigger the effect.
+
+Early game Reapers contribute scouting, but their combat abilities are anemic compared to what they will do later one with a fully geared rifle and Talon ammo.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I do think Skirmishers are a bit overhated, but Reapers are definitely the best, even though I generally agree with the rest of your points like their bolt action being pretty shit damage and them not being tanky enough to really deal with it. It's hard to overstate JUST how strong the claymore is, even outside of their scouting ability for ironman. A claymore and grenade/car explosion deletes or significantly softens up most enemies. Remote Start is somewhat RNG, but the damage is VERY strong in certain situations AND it doesn't even break them or your team out of Concealment! Reapers aren't super strong as direct damage dealers for a while but IMO one of your first priorities should be the Squad Size upgrade, and then you can have general purpose damage dealers while your Reaper is your scout and AoE support. Also, realistically only if you start with Reapers can you get more than one, as a singular one with other starts can't be available for all missions. IMO Reapers scale to usable and decently strong faster than Sharpshooters are least. By the time they hit Shrapnel they are already worth the unit slot.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Skimishers are harder to use than reapers, but they are quite strong. Reapers delete (mostly) one pod for you and scout the whole map. Skimishers help you fight each pod much more effectively but that's still a harder task.
+
+u/zelandofchocolate avatar
+zelandofchocolate
+•
+2mo ago
+I assumed you'd make this research a priority, commander..
+
+Thanks, you legend
+
+Fabulous_Jellyfish71
+•
+2mo ago
+I love how much detail we get from each of these parts. H o w e v e r :
+
+“cOmMaNdEr, ThE aLiEnS cOnTiNuE tO mAkE pRoGrEsS oN tHe AvAtAr PrOjEcT, iF wE’rE gOiNg tO sLoW tHeM dOwN wE’lL nEeD tO mOvE - F A S T”
+
+dalberto36
+•
+2mo ago
+I find these guides quite addictive, thanks! Will you still be doing guides for other classes as well next time?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yes eventually, but I thought covering this stuff was more important first. Next is for the strategic layer, then either utility items or the other classes I haven't decided yet
+
+rynchenzo
+•
+2mo ago
+For a noob like me, a guide to base building would be fab
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea I'll get there, too.
+
+Currently my strategy layer guide is more surface level than this because there is just so much to cover, but it does contain my recommended build order. And eventually I'll do a full guide dedicated to base building specifically.
+
+rynchenzo
+•
+2mo ago
+I really appreciate the time you're putting into these guides, so thank you
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Guerilla Tactics School, Resistance Ring should probably be your first two, though different people might prefer one over the other. GTS allows you to reduce RNG on Rookies, and Resistance Ring lets you get more promotions and miscellaneous resources. The real value of GTS is that it's the only thing that can get you to a Squad Size of 5, which is by far the best investment in the early game. Some people like a Lab early to reduce RNG on scientists and push for Magnetic Weapons as probably the second best investment in the early game. I'm not going to claim you absolutely should have a Proving Ground as your third facility, as I'd often break that rule, but if not it should probably be your fourth, though you may have to build a Power Relay if you delay it. The Resistance Ring can help you manage the Avatar project with Sabotage missions, but it's not always guaranteed and not always enough. Skulljacking an Officer is the most reliable way of dropping Avatar Progress in the early game, and it is possible you may really need it in your back pocket if it's not realistic to assault an Alien Facility yet.
+
+===
+
+Besides that, at some point I like getting an Infirmary and/or Training Center up. You can de-prioritize the Center as it mostly covers bonus stuff like level 2 bonds and extra abilities with AP. It's all nice to have and increases the power of your soldiers, but level 2 bonds take a while and it takes time to build AP, mostly from killing the Chosen or specific Covert Ops. I'll leave it up to you in terms of how many injuries you take, but an Infirmary makes it far less punishing. Predator Armor is nice, but moreso for the extra item slots than the health pool, as on harder difficulties the armor alone won't always help survivability vs crits.
+
+Aleventen
+•
+2mo ago
+How much Adderall does this require. I have plenty and want to try to make my own to test my game knowledge and mastery
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+As someone who hasn't done anything harder than caffeine, none!
+
+I mean, it probably helps, but I wouldn't know.
+
+Aleventen
+•
+2mo ago
+Point and advice taken, this is a competition and Adderall will be my mimic beacon. If that doesnt work, ill revert to point 5, find high cover and hope for the best lol
+
+Jk
+
+Fantastic guide, inspiring and I think itll be a lot of fun to follow in your footsteps and learn more about the game
+
+Tepppopups
+•
+2mo ago
+"1. Always have a Mimic Beacon"
+
+You don't need to read any further, no need any special tactics if you have a MB .. 😉👍
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I mean, that's not inaccurate.
+
+u/Based_Ment avatar
+Based_Ment
+•
+2mo ago
+Great guides ! Since your post history is private, would you be able to link all your parts so far in each post? Would love to save them all in one handy archive.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I'll make an archive when I'm done, but I don't want to pollute the sub with it just yet. They should be easy enough to find if you search for "an overly complete guide"
+
+But there will be an archive post eventually, soon even.
+
+u/Khaim avatar
+Khaim
+•
+2mo ago
+It's generally helpful to have each post link to the rest,or at least to something. Relying on search is a bad idea.
+
+u/Based_Ment avatar
+Based_Ment
+•
+2mo ago
+Ah that's great, much appreciated community work sir or madam or other !
+
+Confident_Ad6017
+•
+2mo ago
+The shadow chamber reveals whether a chosen will arrive. When listing enemy types, if you don't see a heavy like a sectopod or gatekeeper in the list, expect a Chosen to make an appearance.
+
+u/Chii avatar
+Chii
+•
+2mo ago
+The shadow chamber reveals whether a chosen will arrive
+
+by the time you get to the shadow chamber, it's quite likely you've eliminated the chosen(s) already!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yep! Either that or a ruler, they count as a boss monster as well.
+
+Le-Baus
+•
+2mo ago
+OMG.... I have finished L/I and I didn't know about that :D Thank you
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+There is no future, there is only right now ... Now obviously if the last pod is a Sectopod that changes the math on that, but generally.
+
+I get what you're saying, but this is the main point I disagree on. Rationing with "weaker" resources is important in certain circumstances. The best example of this I'd say are Chosen Base Assaults. Ideally, and it is doable up to Legend, you want to one cycle the Sarcophagus after the Chosen dies. Banish (ideally with a Repeater) is absolutely busted strong for giving you the best shot of focusing firepower into the Sarcophagus with the rest of your troops. A Templar with Invert ready is also handy but Invert is less of a limited resource. (Amplify is also nice, Rupture if you have it on anyone.) If you don't prepare for the "hard parts" of a mission (e.g. seeing Sectopods on the Shadow Chamber, and IMO on Legend Andromedons are often a bitch too), you might end up overextending yourself due to the turn timer or taking unnecessary damage. I've never sweated it that much on Commander, but on Legend I frequently still have at least one pod left or active while I was completing the main mission objective. This won't always tie up one of your soldiers depending on positions and free actions etc, but often it can. Supply Crate tagging is a weird scenario where you almost always have to take risky moves to maximize the reward, but it is optional so keep that in mind.
+
+===
+
+Saturation Fire, Serial, Reaper, Frost Bombs, Banish, are all things I generally recommend holding onto for more ideal or desperate scenarios (typically manifesting as a bad second pod activation) unless you really can't Mimic Beacon or miscellaneous stall out of it. A Grenadier can give you a second frost bomb, a Templar can give you Parry, a Ranger can give you Untouchable as "renewable" stalls (finite but LESS finite). These are all useful delaying tools to not blow your load too quickly, as sometimes the end of missions can be a bit more challenging when grenade, heavy weapon, etc resources start to dwindle. A Grenadier without explosives is much weaker and less flexible, so naturally your team strength goes down as you spend resources. I often have to end up using a different resource like a Beacon or a Grenade if I mistime something like Run and Gun or Killzone for instance. The margin of error is more generous on Commander and below, but on Legend you might need every hit you can get to fully alpha strike some turns, even if it's just extra shreds or holo targeting or whatever. I think the Chosen are any challenge at all only on Legend, in part because it's the only time I think it's realistic for you to slow roll into one or more of them getting full Training and/or even an Avenger Defense off.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I don't disagree per se, but I think players are more likely to overhoard then under. There is an art to knowing what you can get away with? Should I be clicking lightning hands for this pod? How about spending my rocket? Maybe I should use the frost bomb here and save the mimic beacon for later? Or maybe the other way around?
+
+I just want to break new players out of the habit of being gun shy. You have these things to use not look at and admire! It's a very common new player mistake in all games like this to hoard resources, don't. Use them.
+
+But also yes if you are going to go kill the Chosen you really want to save banish to give you time to unload on the sarcophagus. So you might opt into taking damage instead of using it. You're making a bet that's its better in the long term. You can spam invert in the normal mission part, though. You can get another stack of focus from the enemies that start in the chosen chamber itself. But all of this is an exception, not the rule. If you auto kill a pod in one round, you buy yourself time on the mission timer to go a little slower and safer.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+For me my rules of thumb are as follows:
+
+You can pretty safely use one grenade / claymore per pod. Generally, ANY AoE or multihit ability (Serial, Reaper, etc) that hits three enemies is worth it. Do I sometimes soften up two targets with a grenade? Yes. Do I sometimes use a grenade to blow cover to kill a single Lancer? Yes. But in general, hit three, even better if you can fit more. A claymore and a grenade (and/or car explosion) can often clear or almost clear a pod by themselves so that leaves you 2-4 other soldiers to do whatever.
+
+IMO, you should ideally almost never use a Mimic Beacon if you're only dealing with one pod. I'm going to say 95+% of the time if you do, you fucked up somewhere. A team that is keeping pace with weapons research and leveling should basically always be able to kill a singular pod on the turn they see it. Occasionally damage sponges or bad Aim RNG might have one remain, but this is what crowd control is for. Stuff like Parry being easiest and earliest, but Untouchable can work too. If you basically already know you're not dealing with a Chosen or Ruler, you can be more liberal with your frost bomb(s). I find I usually don't ever have to frost a Gatekeeper, but I often have for Sectopods if I can't burn them, as you can somewhat reliably get them to waste an attack and then delay with Wrath Cannon. I haven't messed around with it a ton, but an EMP bomb can possibly pull off a stun (and damage, unlike the frost bomb unless buggy critting) for a single soldier's action, bonus if it's a Salvo Grenadier.
+
+Lightning Hands basically on cooldown. It's 'free' damage, and has a three turn timer. With few exceptions this is usually fast enough to have it up for the next pod or other situation that could benefit from it. Anything with a longer cooldown I think you should save for other situations. If one bothers to use SPARKs, Overdrive is a good example of an ability that can quite impactful if used correctly, but easily wasted otherwise. I generally like using Lightning Hands, Overdrive etc to mitigate RNG if I don't have 100% Aim, or to just really nail something to dead if I do. There's a fine balance between spreading damage efficiently and prioritizing enemy death above all else, even if they're one hp left (but, this is what stocks are good for, and RARELY situations like Burning or ending turn adjacent for a Bladestorm or Retribution).
+
+Grenadiers' main job is shredding armor and holo targeting. Whatever sequence of actions that accomplishes that, even if it's a double Salvo play, is probably worth it. Firing their minigun is often useful, but it's not always the BEST play unless all you have is a hammer and everything looks like a nail. Rangers are your real hammer. Mid to late game Sharpshooters can be too but aren't as straightforward. While Sharpshooters are weak in the early game, there are few classes other than Reapers that fit the mold of "I really need this dead NOW at either 100% or 95% chance". Shooting through walls with stacked Aim is kind of dumb, but honestly once I knew how to do it I did it way more often. Once they get some aim and something like Bluescreen, Specialists are a fair bit better. They are my LAST choice for damage dealing, but sometimes you have to flex every shot you can, and are a decent choice once robotics are more common, even though I risk Hacking way less on Legend and/or Ironman.
+
+u/Chii avatar
+Chii
+•
+2mo ago
+Lightning Hands basically on cooldown. It's 'free' damage,
+
+i think this is somewhat difficult to judge. Lightning hands is free, but it also lets you do a higher DPS on the turn you use it. If you use it on an early pod and over-wipe (ala, deal a lot more DPS damage than you need to clear the pod, with remaining solders' attack un-used), you would've wasted the lightning hand when a regular attack could've done the same job. Ideally, the last soldier kills the last enemy of the pod for perfect action efficiency!
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Sure, I agree. Perhaps the better nuance is: make other reasonable attacks in the turn first, and then if you doubt you can clear the whole pod or a dangerous enemy before the turn is over, then use your Lightning Hands. It becomes more of a special tool you can consider once you have Darkclaw, as Face Off and Fanfire are potentially extra strong pistol-centric skills, but generally on Legend the extra DPS is always nice and rarely wasted (so long as you aren't blowing it on Lost or something). I tend to "over" fire Lightning Hands (and just wait for the cooldown) on Legend because Graze attacks mean that suddenly your "shot to get rid of full health" doesn't actually kill the target, precluding the ability to use both Lightning Hands AND more death from above. With time you get a sense of what enemies are prone to getting Grazed attacks and are tankier than they may seem.
+
+u/Tachiiderp avatar
+Tachiiderp
+•
+2mo ago
+Is legend early game consistently winnable without a reaper start? I've been playing ironman commander for ages because everytime I tried legend, there's just way too many enemies in the beginning. I remember one time I had no grenades left and there's at least an unexplored pod left.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Winnable? Sure! Easy? Fuck no.
+
+That claymore does a lot of work for you, basically deleting one pod. Plus the information it gives about the rest of the mission.
+
+It can be done without it, leaning on Justice or Rend can work, but man is it tough.
+
+u/betweentwosuns avatar
+betweentwosuns
+•
+2mo ago
+Reapers are the best faction, but the other two are also more than good enough. You know the Matrix line "when you're ready you won't have to"? That's early game scouting. Easy and moderate mission types both have 3 pods. One is close to where you start, one is between you and the objective, and one is on the far side of the objective.
+
+When you're ready, you won't need a scout. You'll see the pods through fog of war and know how much you can advance to improve your shot without triggering another pod.
+
+Also, what does winnable mean? Losing a mission is fine. I'm pretty sure I could lose the first 5 missions and win the campaign. The evac button is broken.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I once saved a triple pod AND Hunter activation mission with evac. A mistake caused a soldier to get captured but I could have done better. Two badly injured soldiers evaced out and by some miracle and burning through turns I cleared the Alien Facility with my three man squad remaining.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I did a Skirmisher start recently, probably one of the worse ones. DOABLE, but Reaper as first choice and Templar as second place is better. I got good starting cards though. Reapers have better soldiers but fewer must have cards IMO.
+
+u/Kahlizzle_Da_Boss avatar
+Kahlizzle_Da_Boss
+•
+2mo ago
+Comment Image
+Very concise and easy to understand this is great advice for new players and even more experienced players. You also followed the tried and true method K.S.S. Keep it Simple Stupid.
+
+u/betweentwosuns avatar
+betweentwosuns
+•
+2mo ago
+Kill the “too good to use” part of your brain stone dead.
+
+Indeed. I got a lot better with pre-Liuetenant Reapers when I realized that you can burn a "consumable" on each pod. Clays for 1 pod, shoot another and go back into Shadow, and then flank and shoot the 3rd. There are only 3 pods in the vast majority of early game missions. Use the cooldowns off-cooldown and the consumables when you need them.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Exactly!
+
+Just take the fucking shot. If you drop out of shadow, that's fine! You had shadow to kill enemies and now you did that, it worked! Good job!
+
+Ok-Huckleberry-419
+•
+2mo ago
+Ever done a no squad size upgrade run? Curious to know your thoughts on squad comp for that? Reaper, Ranger, Grenadier, Flex?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+My squad was basically always Realer, Ranger, Grenadier, Ranger. Sometimes I threw in a specialist for flare, but you just ain't got the DPR without all the heavy hitters at your disposal. Templars were good too. Didn't touch sharpshooters or skimishers once on that run.
+
+Suspicious-Hornet-64
+•
+2mo ago
+Most guides on this game were written 10 years ago, not 8 days ago! I bought the game 2 weeks ago so this guide is amazing!
+
+I'm on my 3rd playthrough already and have learned a lot of what you're saying the hard way, but I wouldn't even understand half of this guide without having those painful experiences first. Having played a lot of turn-based D&D games, I figured I'd start on Veteran. The game kicked my ass until I almost rage quit. The difference is the strategic level difficulty curve you talk about that doesn't exist in fantasy role playing where mistakes can be healed through or resurrected.
+
+I've put in 144 hours in two weeks. That around 10 hours a day, every day, and yes, I have a job. That's how addictive this game is. I'm glad I finally got around to playing it.
+
+Thanks for this well thought out and well written guide.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You are exactly my target audience, so thank you for reading!
+
+Tepppopups
+•
+2mo ago
+My guide is much simplier and has only one point:
+
+Don't reveal more than one enemy pack at a time. Use scouts, scanners and any other means to do that and you will be golden.
+
+u/Revenge_accounted_be avatar
+Revenge_accounted_be
+•
+2mo ago
+Sadly 1 scanner is 1 greanade less. And with rookies and low rank soldiers a greanade means securing the kill or whiffing a mission without casualties. A scout with phantom or better a reaper is always better than a scanner that you can use only one time
+
+u/ulughen avatar
+ulughen
+•
+2mo ago
+Scanners have 2 charges, do not end turn and do not break concealment. I abused them a lot on my no-reapers run, good stuff.
+
+u/Revenge_accounted_be avatar
+Revenge_accounted_be
+•
+2mo ago
+I remember using them in Vanilla Xcom 2. Specialist with the scan ability was also super usefull. But they got kinda power creeped by other tools with dlc
+
+u/Revenge_accounted_be avatar
+Revenge_accounted_be
+•
+2mo ago
+In general really good advise. But a little thing that you are missing.
+
+Movement is key, far away soldiers with high cover or high ground lowers a lot the chances to hit, Close flaking soldiers have increased crit chance and aim bonuses. Both from Xcom and Advent. So, you want to be as close as you can without triggering the special AOE attacks when you are ambusing or attacking and if you screw up and overextend, break line of sight and try to make the enemy waste a turn in movement instead of attacking
+
+Also at least to me I tend to not depend on mimic beacon, I dont know if is just me but I tend to play more recklessly with a mimic beacon and tend to over extend and rush the mission sometimes eating damage that otherwise the mission should go flawless
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+actually advent doesn't have range tables, their chance to hit is static just depending on your cover and their aim.
+
+I don't generally recommend trying to use movement to force a pod to burn actions. It can work, but unless you already know every Aliens movement and how to manipulate LoS properly it can be pretty easy to screw up and get punished for it. So I wouldn't recommend it.
+
+u/erwillsun avatar
+erwillsun
+•
+2mo ago
+Just picked up the game again after getting into it about a year ago, your guides are coming at a perfect time and have been really helpful
+
+dwhite10701
+•
+2mo ago
+How much do you allow objectives like rescuing civilians or racing against Advent for supply drops to break you out of your "scout a pod, kill a pod" loop?
+
+u/Chii avatar
+Chii
+•
+2mo ago
+for supply drops, the way to "save" time is to exploit the fact that the advent marking of a crate happens only once every other turn, so wait for the marks, then get only those crates. Often, the marked crate is the one near you (i'm not sure how the game decides which crate they mark first, but in vanilla, i've never seen the crate far away getting marked first after your reveal).
+
+Doing that means advent never gets a single crate (which makes the game a tad easier - not just resources on your side, but denying resources to advent's strategic layer).
+
+For civilians, i think there's sometimes just no choice - the attacks on them can happen so far away that you can't save em all. I think those missions is designed for you to activate every pod, let the civilians be the "mimic beacons"...i've not found an "exploit" to make those missions perfect except for luck.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's hard for me to determine exactly how it works, but I think the game does a two pass check:
+
+A. Tries to pick crates that are either visible or accessible within a full dash move of one of your soldiers (since marking crates is not turn ending).
+
+B. If there is no crate that fits that criteria (because you are lagging behind fighting a pod or whatever), then it seems to either pick randomly, or just whatever is "closest" but in the distance.
+
+===
+
+The tricky part is there seems to also be a somewhat obfuscated distance criteria. Even if there is a 'closer' crate (such as a blue move), it will at times skip it. Additionally, I'm not totally sure if it takes into account special movement criteria. For instance I just had a mission where the only way it was realistic for me to get one particular crate was to force move a lot with Reaper slashes on a Ranger, then using Implacable to move onto it for the end turn. I think theoretically I could have dashed (or Rend + Momentum) a Templar into that position, but I used it for a different attack so I didn't actually pull it with that. I can't say for sure that you can ALWAYS reach crates in all circumstances but it does seem like the game tries to, though often it can be a risky move.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's just a turn timer by a different name. You have to keep moving, but you do usually have enough time to still scout every pod. Just make sure to take some yellow dashes every once and a while if you have to.
+
+kittenwolfmage
+•
+2mo ago
+Generally quite decent advice, though Mimic Beacons can be a real trap if you rely on them. The enemy won’t always target them (gotta know how the AI for different enemies operate to get the best of them), and given that they’re prone to being crit they might only soak one hit, and leave the rest to go after your squad.
+
+They can be quite useful, but they’re less reliable than the Frost bomb, and the “I’ve got a mimic beacon if something goes wrong” mindset is one you need to watch you don’t develop. Hard CC > Soft CC.
+
+I think there should be another Step between 1&2 that is “Can you reliably kill or Hard CC all enemies without triggering another pod? Do that”
+
+And if you can’t do that, and you’re needing to look at the ‘unreliable kill’ options, your tools like Frost Lash, Sting Grenades, and other ‘unreliable hard-CC’ should be used up-front, not saved as a backup if something lives. Using unreliable hard CC first to ‘thin the herd’ and then trying to reliably kill what’s left is far better than ‘I’ll kill what I can, and then use an unreliable hard CC to try and lock down the survivor(s)’.
+
+u/Jumpy_Walk8542 avatar
+Jumpy_Walk8542
+•
+2mo ago
+Thank you so much for these guides. They are a joy ti read and also helpful and informative!
+
+BassHeadDeezy
+•
+2mo ago
+Anyone willing to join a multiplayer game with me? I’m trying to trophy hunt this game and need the play a multiplayer game trophy
+
+Crackhead_Mafia
+•
+26d ago
+This may be a stupid question, but how are you continuing to scout with your reaper/phantom ranger when scouting for subsequent pods? Are you keeping that specific unit in concealment and out of combat the whole time, even after using the re-concealment charges? Whenever I encounter another pod, they’ll always move to cover and join the fight, or is that what’s expected to happen
+
+u/hielispace avatar
+hielispace
+OP
+•
+26d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+So the thing to remember is that missions, at the start of the game, have 3 pods in them. So you fight one in concealment with your whole squad. So the play pattern is to kill that pod without blowing concealment, then fight the next pod normally, then just go find the last pos and kill them without a scout.
+
+If you have a Reaper you can scout the whole mission because you can reconseal from the jump. Also claymore. And with conceal you can do later with Rangers as well.
+
+Crackhead_Mafia
+•
+26d ago
+Sounds good, thank you. Didnt know that the game starts off with 3 pods, makes it a lot simpler
+
+wearyoldtraveller
+•
+2mo ago
+Why are people dropping tactics manuals for a 10 year old beloved game?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Why did you comment that?

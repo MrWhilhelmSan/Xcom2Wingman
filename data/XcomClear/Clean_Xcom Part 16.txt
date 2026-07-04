@@ -1,0 +1,896 @@
+XCOM 2 has a fair variety of weapons, and rather than bloating each class guide with all this information, I thought I’d break it out into its own guide I can refer back to. And even doing that there is still just so much information to go over that we have to break it down further. 
+
+Here is my ranking system:
+
+★★★★★ - The Best of the best. Abilities and things that you build around, or weapon mods that are overwhelmingly the best in slot. Things of that nature. The difference between having stuff in this tier and not is so massive I’d consider it nerfing yourself not to grab them. You really, really, really want stuff with 5 stars.
+★★★★☆ - Really strong abilities. Abilities I am always happy to have and would trade a lot of other abilities for, but they aren’t quite as “must have” as the 5 star ones.
+★★★☆☆ - Abilities that are pretty good. Stuff that I would buy with AP quite happily but might pass up if the other ability is better.
+★★☆☆☆ - These are underwhelming. These abilities just don’t really do enough to justify having them. They might have very niche use or be passives that just kind of do very little. Stuff I just don’t care about. They aren’t horrible or useless, but you probably wouldn’t miss not having them.
+★☆☆☆☆ - Trash abilities that are just worth nothing.
+☆☆☆☆☆ - Given to abilities that are actively harmful. There are only two 0 star things in this entire game. If you can guess what they are, go buy yourself a cookie.
+
+For this guide in particular this rating system is pretty loose. You can’t make a decision between an assault rifle and a cannon so one having 3 stars and the other having 4 doesn’t tell you anything. I am still using this system to both give you a general sense of how strong I think something is and also because it becomes much more useful in the class guides and I want to be consistent.
+
+Range Tables
+Range tables are, well, tables that tell you have much aim is either added or subtracted from your total. It’s why shotguns have such amazing aim up close but extremely poor far away. There are 4 range tables and every ranged weapon has one. The short, medium, long, and vector range tables. The short range table is for shotguns, bullpups, and pistols. The medium is for cannons, rifles and the bolt caster. The long is only for sniper rifles. And finally the vector table is only for vector rifles, because reapers are unique, for some reason. Anyway, here is a table of those tables that tell you how I rank each of them.
+
+Range Table
+Short (★★★★★)
+Medium (★★★☆☆)
+Long (☆☆☆☆☆)
+Vector (★★★★☆)
+I’ll talk about each range table in depth, but first I will just flat out port them into this guide for you to see. Note that weapons have different range tables at different tiers, though they only ever get better as the tech improves. OK here we go.
+
+Short Range Table (★★★★★):
+Tiles Away	Weapon Range Bonus
+1	40
+2	35
+3	32
+4	28
+5	23
+6	19
+7	16
+8	12
+9	6
+10	2*
+11	0
+12	-2
+13	-4
+14	-7
+15	-10
+16	-12
+17	-15
+18	-17
+19	-18
+20	-18
+21	-19
+22	-19
+23	-21
+24	-25
+25	-30
+*For some reason, at exactly 10 tiles away tier 2 and 3 shotguns have +3 aim not +2. Why? No clue. Is that helpful information? Probably not. But hey, for the sake of completeness, here it is.
+
+As for why this is so elite, it’s simple, the number when you get really close is really big. The name of the game is to try and get to 100% to hit, because then you can’t miss, and then RNG can’t screw you (as much). The short range table just has the easiest time getting there. And on the weapons it’s on, especially shotguns, getting right into an enemy’s face is exactly what you want anyway. You could argue that on Bullpups the medium range table would be better, but I’m not convinced of that. That huge bonus up close is just so premium. You do have to be wary of using these weapons at range, but that just isn’t that hard to overcome most of the time. 
+
+Medium Range Table (★★★☆☆):
+Tiles Away	Conventional Aim Bonus	Magnetic Aim Bonus	Beam Aim Bonus
+1	20	21	22
+2	19	20	22
+3	17	19	21
+4	16	17	20
+5	13	16	19
+6	11	14	17
+7	9	11	15
+8	7	9	13
+9	5	7	11
+10	4	5	9
+11	3	4	7
+12	2	3	5
+13	1	2	3
+14	1	1	2
+15	1	1	1
+16	0	1	0
+17	0	1	0
+18	0	1	0
+19	0	0	0
+Weird that at exactly 16-18 tiles beam weapons are 1 aim point worse than magnetic ones but whatever.
+
+This is the “normal” range table. It isn’t bad, it isn’t great, but it's pretty good. It only ever gives a bonus which is nice. Not too much to complain about, not too much to rave about, it’s the very definition of “good not great.” Certainly better than the next one…
+
+Long Range Table (☆☆☆☆☆):
+Tiles Away	Aim “Bonus”
+1	-30
+2	-27
+3	-24
+4	-21
+5	-18
+6	-15
+7	-12
+8	-9
+9	-6
+10	-3
+11	0
+Hey, remember when I said I’d give out 0 stars to things that actively nerfed you. Well, here it is! A range table that literally only exists to make your unit worse! By god do they hate sharpshooters in this game. This is half the reason that class isn’t very good. As a result of this, squaddie sharpshooters are the only non-rookie that, under no circumstance, can get a 100% to hit on a basic trooper with their main gun without a scope or tracer rounds. Just terrible. Be thankful this is only on one class.
+
+Vector Range Table (★★★★☆):
+Tiles Away	Conventional Aim Bonus	Magnetic Aim Bonus	Beam Aim Bonus
+1	25	26	27
+2	24	25	27
+3	22	24	26
+4	21	22	25
+5	18	21	24
+6	16	19	22
+7	14	16	20
+8	12	14	18
+9	10	12	16
+10	9	10	14
+11	8	9	12
+12	7	8	10
+13	6	7	8
+14	4	6	7
+15	2	4	6
+16	1	2	3
+17	0	1	2
+18	0	0	1
+19	0	0	0
+This is just the medium table but better. I don’t know why they buffed Reapers (because this range table is literally only for them) like this when they already have the best aim growth but hey I won’t complain. You could argue this is better than the short range table, but personally, I prefer +40 at point blank range to +27. But hey, it’s not like you ever get to make that choice anyway so whatever. 
+
+Primary Weapons
+Moving on from range tables to actual weapons, I will go through every primary weapon, rank them, and explain all the unique variants of each. I’ll also cover the TLP weapons and if they are worth using (hint: yes). These are in no particular order, but I think it’s only right to start with Assault Rifles.
+
+Rank
+Assault Rifle (★★★☆☆)
+Shotgun (★★★★★)
+Cannon (★★★★☆)
+Sniper Rifle (★☆☆☆☆)
+Vector Rifle (★★★☆☆)
+Bullpup (★★★☆☆)
+Gauntlet (★★★★☆)
+Heavy Autocannon (★★★★★)
+Assault Rifle (★★★☆☆)
+Rather than talking at length about every little detail, here is a table of the damage, crit damage, crit rate, clip size and mod slots of each rifle. Then another table of the special rifles from the TLP pack and the Disruption Rifle.
+
+Name	Damage	Crit Damage	Crit Chance	Clip Size	Mod Slots
+Assault Rifle 	3-5	+3	-	4	1
+Magnetic Rifle	5-7	+4	-	4	2
+Plasma Rifle 	7-9	+4 (+3 in the vanilla game)	-	4	2
+Disruption Rifle	7-9	+4	-	7*	See below
+*this is due to having a superior expanded mag, and if you have Inside Knowledge this increases to 8
+
+Assault rifles are basically the default weapon, despite the fact that only three classes can use them. They are the definition of “middle of the road.” They have some weaknesses, some strengths, but are overall just “good.” Hence the 3 star rating. As previously mentioned they use the medium range table and start by doing 3-5 damage and a 4 sized clip. This is the rifle's biggest problem, you can shoot a trooper, hit them, and fail to kill them. This problem only gets worse as the game goes on. You don’t even have a chance to one shot an elite trooper with a beam rifle on legend. Now I’m making this out to be a bigger problem than it is, you have tools to handle this kind of thing, but still, it would be nice to deal 4-6. 
+
+Here is a table of each of the weapon mods of the TLP rifle and the Disruption Rifle.
+
+Name	Mod 1	Mod 2	Mod 3	Mod 4
+Old World Assault Rifle	Scope			
+Old World Magnetic Rifle	Adv. Scope	Adv. Repeater		
+Old World Plasma Rifle	Sup. Scope	Sup. Repeater		
+Disruption Rifle	Sup. Scope	Sup. Repeater	Sup. Expanded Mag	Sup. Stock
+The TLP Rifle has exactly what you want, a scope and a repeater. Cheating kills when you hit and hitting more often, what more do you want? Well, maybe an expanded mag if you roll rapid fire from the Training Center, or a stock to set up kills, or a hair trigger maybe. If you find yourself drowning in scopes, you can absolutely bench the TLP rifle for something better, but you get this, literally, for free. And free is hard to beat. As for the Disruption Rifle, it’s basically perfect other than the stock. Why are they giving you stocks on the legendary weapons of this game that also have a superior scope? I don’t know, but hey 4 mods is better than 2 (or 3, with the tech bonus) so it’s still worth using, especially considering it’s special effect.
+
+I have more to say about the Bolt Caster and Disruption Rifle, but I’ll save it for the Special Weapons section to avoid bloat.
+
+Shotgun (★★★★★)
+To start, here is a table of the damage, crit damage, crit rate, and mod slots of each shotgun. 
+
+Name	Damage	Crit Damage	Crit Chance	Clip Size	Mod Slots
+Shotgun (Tier 1)	4-6	+3	+10%	4	1
+Shard Gun (Tier 2)	6-8	+4	+10% (+15% in the base game)	4	2
+Storm Gun (Tier 3)	8-10	+4 (+5 in the vanilla game)	+10 (+20% in the base game)	4	2
+Arashi	8-10	+5	+25% (from the superior laser sight)	7*	See below
+*This is because the Arashi has a Superior Expanded Mag. If you have Inside Knowledge this increases to 8.
+
+Shotguns are the best primary weapon type in the game. They have the short range table, they have 4-6 damage at base, they have a 4 clip. They are as good as it gets. There are basically no situations where you’d trade any other weapon for a shotgun, which is funny because rangers are the only class that can even make that choice!
+
+Moving onto the special weapons; here is a table for the weapon mods of the Arashi and TLP weapons. Do note that each TLP weapon corresponds to a tech tier. So the Conventional Scatter Gun is unlocked from the start, the Mag Scatter Gun with the Shard Gun, etc. 
+
+Name	Mod 1	Mod 2	Mod 3	Mod 4
+Conventional Scatter Gun	Laser Sight			
+Magnetic Scatter Gun	Advanced Laser Sight	Advanced Hair Trigger		
+Energy Sweeper	Superior Laser Sight	Superior Hair Trigger		
+Arashi	Superior Laser Sight	Superior Hair Trigger	Superior Expanded Mag	Superior Stock
+I’d prefer a superior repeater over a stock, but hey 4 weapon mods is still pretty good! I’d basically always want the Arashi over a normal Storm Gun, even if the Storm Gun has three weapon mods. There is a rumor that the Arashi has a better range table than a normal shotgun, but I can find nothing in either the game files or online that confirms this to be true. I think it’s just something people thought and didn’t check. 
+
+Cannon (★★★★☆)
+Cannons are basically just rifles but better. They have the medium range table, deal 4-6 damage at base, and the only thing that is worse about a cannon than a rifle is that they have a 3 clip. For the rest of the details. Here’s a table for all the details:
+
+Name	Damage	Crit Damage	Crit Chance	Clip Size	Mod Slots
+Cannon 	4-6	+3	-	3	1
+Magnetic Cannon 	6-8	+4	-	3	2
+Plasma Cannon 	8-10	+4	-	3	2
+How sad that this weapon doesn’t have a super special chosen weapon. Anyway, as you can see this weapon is exactly as you’d want it. It’s literally all upside aside from the 3 clip. But hey, they put an auto-loader and expanded mags in the game, use ‘em. 
+
+For the TLP Cannon, here are the weapon mods they have:
+
+Name	Mod 1	Mod 2
+Conventional Cannon	Stock	
+Magnetic Cannon	Adv. Stock	Adv. Expanded Mag
+Powered Cannon	Sup. Stock	Sup. Expanded Mag
+That stock early is huge for letting you set up kills with grenades on basic troopers early, and the expanded mag helps you pay for hail of bullets and chain shot, but there is no scope, and I want one. I usually do dump the TLP cannon once I get an advanced or superior scope to stick onto a cannon, but while you are angling for that, or if you have a 2nd grenadier on a mission, it’s still pretty good.
+
+Sniper Rifle (★☆☆☆☆)
+Sniper Rifles are the only weapon in the game to be stuck with the long range table, they deal 4-6 damage at base and have a 3 clip. They are also the only weapon in the game that you cannot move and shoot with on the same turn. You must spend both actions firing them. Here’s a table of the details:
+
+Name	Damage	Crit Damage	Crit Chance	Clip Size	Mod Slots
+Sniper Rifle 	4-6	+2	10%	3	1
+Gauss Rifle	6-8	+3	10%	3	2
+Plasma Lance	8-10	+4	10%	3	2
+Darklance	8-10	+4	10%	3*	See Below
+*The Darklance has an auto-loader, so that 3 is a bit misleading.
+
+By god do Sniper Rifles suck. They have literally everything working against them. They have a small clip, they have the worst range table ever devised, and you can’t move and shoot with them! The only good thing, and I mean the only good thing about them is that they are in the 4-6 damage club, but that’s it. If they did 3-5 I’d drop them down to 0 stars. This weapon is trash and it should feel bad.
+
+For the TLP Sniper Rifle and the Darklance, here are the weapon mods they have:
+
+Name	Mod 1	Mod 2	Mod 3	Mod 4
+Conventional Sniper Rifle	Scope			
+Magnetic Sniper Rifle	Adv. Scope	Adv. Auto-loader		
+Particle Lance	Sup. Scope	Sup. Auto-Loader		
+Darklance	Sup. Scope	Sup. Auto-Loader	Sup. Stock	Sup. Hair Trigger
+Yet another ultimate weapon with a stock, and this one has the even more baffling decision of giving them an auto-loader over an expanded mag, but hey whatever the darklance is broken anyway so it hardly matters. As for the TLP Sniper, it has a free scope which sharpshooters desperately need, but I’d like a stock or an expanded mag or hair trigger on the rifle. So if you can spare the scope maybe go without, but it keeps sharpshooters as lower investment to just hand them the TLP rifle and not think more about them so you can go either way about it.
+
+Vektor Rifle (★★★☆☆)
+Vektor Rifles are the weapons of Reapers. They have a special range table that is more or less the medium range table but better. Other than that, here are the stats on them:
+
+Name	Damage	Crit Damage	Crit Chance	Clip Size	Mod Slots
+Vector Rifle (Tier 1)	3-4	+3	-	3	1
+Temnotic Rifle (Tier 2)	4-5	+4	-	3	2
+Shadow Lance (Tier 3)	5-6	+4	-	3	2
+This weapon is sort of a mixed bag. A better range table than a rifle is great, but 3-4 damage is a lot worse than 3-5 because it means you are coin flipping to kill basic troopers without crits even at point blank range. The real thing that sucks about them is their low damage growth. They do the least damage of any weapon. Less damage is less happy. Especially because this class gets banish and if the vector rifle did more damage at higher tiers that ability would be even better. But hey, they are accurate and are attached to a broken class, so it’s not all bad.
+
+Bullpup (★★★☆☆) 
+Bullpups are the weapons of Skimishers. They have the short range table and the other details are below.
+
+Name	Damage	Crit Damage	Crit Chance	Clip Size	Mod Slots
+Kal-7 Bullpup (Tier 1)	3-4	+2	-	3	1
+Kal-15 Bullpup (Tier 2)	5-6	+2	-	3	2
+Kal-90 Bullpup (Tier 3)	6-7	+2	-	3	2
+This is literally just a shotgun but worse in every way. Same range table as a shotgun, but one less ammo, less crit damage, and lower damage. But the short range table is so good that it still makes this weapon pretty strong. There is some argument online that it would be better if this had the medium table because of how Skimishers work specifically, but I’m not convinced. And it’s not like you can make that trade anyway, what you see if what you get.
+
+Gauntlet (★★★★☆) 
+This is the only melee only primary weapon. As such it does not have any weapon slots, does not take ammo and cannot be used at range. It also, you know, as a side thing, literally cannot miss (unless a Muton counter attacks you). So here’s a table of their damage output, but because Templars are super unique this is less helpful than normal.
+
+Name	Damage	Crit chance	Crit damage
+Shard Gauntlets (Tier 1)	4-5	10%	+2
+Tempest Gauntlets (Tier 2)	5-6	10%	+2
+Celestial Gauntlets (Tier 3)	6-7	10%	+2
+Note I didn’t say +10% for the crit chance just 10% that’s because this rate is flat. It can’t ever go up or down.
+
+So ranking these is sort of apples to oranges, but I’ll try. The big thing is that they can’t miss and do 4 damage minimum. So click Rend and a trooper dies always and forever. The only thing keeping me from giving them a 5 star is you literally cannot attack with range with them at all even a little. But does that really matter? No. Is putting this with the other weapons a little silly? Yes. Am I doing it just for completeness sake? Also yes.
+
+Heavy Cannon (★★★★☆)
+For our SPARK enjoyers, here is a table of info for their weapons: the heavy cannons. One additional note, they have the shredder perk built within them. So a tier one heavy cannon shreds one armor, a tier two shreds two armor, etc.
+
+Name	Damage	Crit Damage	Crit Chance	Clip Size	Mod Slots
+Heavy Autocannon (Tier 1)	4-6	+3	-	3	1
+Helix Rail-Cannon (Tier 2)	6-8	+4	-	3	2
+Elerium Phase-Cannon (Tier 3)	8-10	+4	-	3	2
+Heavy cannons are literally just cannons but better, they are identical in every way but they have shredder built in. Now the amount of time grenadiers spend without shredder is like 2 missions but technically this is just better. The only downside is how expensive they are to build, but I’ve not included that info in this guide because I have to stop at some point or this will be as long as Dune. All the prices of literally everything will be in its own guide eventually, I promise.
+
+Secondary Weapons
+Now moving onto the secondary weapons. Again ranking them with stars isn’t super productive because you can’t ever not have them and they are literally all class specific but the data on exactly how they work and what damage they deal and all that juice should still be helpful. And I like giving things ratings, so that’s what I’m gonna do. Here’s a table of every secondary weapon and how I rate them. 
+
+Rank
+Sword (★★★☆☆)
+GREMLIN (★★★☆☆)
+Grenade Launcher (★★★★★)
+Pistol (★★☆☆☆)
+Psi Amp (★★★★☆)
+Ripjack (★★☆☆☆)
+Autopistol (★☆☆☆☆)
+BIT (★★★★☆)
+OK those ratings are even more fake than most ratings are, but they exist for the sake of completeness, and do generally reflect how useful each of those are. It’s just I don’t know what that actually tells you. But enough banter, let’s get into each individual secondary. So in no particular order, let’s start with the sword.
+
+Sword (★★★☆☆) 
+Swords are a melee only weapon. So they cannot be used at range and you must be adjacent to the enemy to use them. They grant a flat +20 aim bonus to any attack used against them and ignore cover but not innate defense. So hitting a trooper behind low or high cover is the same but there is a difference between a sectoid and an archon for example. Here is a table of each sword and their damage, crit chance, all that. No secondary weapon is moddable in XCOM 2 so we don’t need a table for that. There are three special swords worth mentioning, the TLP sword, the Axe, and the Katana. The TLP sword is literally just for looks. Gameplay wise it’s the same as a normal sword so I’m not giving it its own section. The Axe and Katana have their own very powerful quirks to them, but most of that will be in the Special Weapons section at the end of this guide. I will include their damage numbers and such in this table just so that’s all in one place.
+
+Name	Damage	Crit Damage	Crit Chance	Additional Effect
+Sword	3-5	+2	10%	
+Arc Sword	4-6	+2	10%	25% chance to stun or disorient
+Fusion Blade	6-8 (5-7 in vanilla)	+3	10%	75% chance to burn
+Hunter’s Axe	4-6	+2	10%	
+Ionic Axe	5-7	+2	10%	25% chance to stun or disorient
+Fusion Axe	6-8	+3	10%	75% chance to burn
+Katana	8-9	+3	0%	Cannot be dodged Pierces 5 armor
+The sword is a very useful tool in this game. I go over it in more detail in the Ranger guide but you will use it a ton throughout a run. It drops a bit in usefulness around the halfway mark of most campaigns, but it picks back up in usefulness later into a run. And no I don’t know why Fusion Axes and Fusion Blades do the same damage. I think they just forgot to change it when they buffed the Fusion Blade in WoTC. Bizarre. Also isn’t it weird that the Katana can’t crit by default. Like, why? What does that change the math on? Also that 75% chance to burn might be wrong. Everywhere online either said “100% chance to burn” which is incorrect or didn’t give a number! Fun! I’m pretty sure it’s 75%. I remember learning that at some point but if you have proof I’m wrong please let me know. 
+
+GREMLIN (★★★☆☆) 
+GREMLINs let you hack telephone poles and objectives from far away and are just used for almost all of the Specialist abilities. Here is a table of all the relevant details about them, hack bonus, defense bonus from aid protocol and all that fun stuff.
+
+Weapon	Hack Bonus	Aid Protocol	Healing Bonus
+Gremlin		+20 defense	0
+Gremlin Mk II	+20 	+30 defense	+1
+Gremlin MK III	+40	+40 defense	+2
+That healing bonus applies to both medical protocol and restoration.
+
+So ranking this is weird. Like, am I ranking aid protocol and remote hack and medical protocol and so on. Because that seems dumb. I’m going to not over think it and give this 3 stars for its general utility of being able to make the specialist class function and move on with my life. All ratings are necessarily fake but the ratings of secondary weapons are more fake.
+
+Grenade Launcher (★★★★★)
+Grenade launchers increase the radius of and the distance thrown of grenades and give a grenade only inventory slot. There are only two of them for some reason, so here’s a table of what they do
+
+Name	Grenade Radius Increase	Grenade Range Increase
+Grenade Launcher	+4	+1
+Advanced Grenade Launcher	+5	+2
+These are some absolutely elite bonuses. Grenades are already super strong and this makes them borderline broken. You can catch so many enemies in one blast with these from more flexible positions. Combined with the bonuses from the grenadier class this shit is amazing. I couldn’t ask for more from a secondary weapon.
+
+Pistol (★★☆☆☆)
+Pistols are an additional weapon that has the short range table and infinite ammo. There are also three special pistols. The TLP pistol is just a different skin for a pistol so I don’t have to worry about them. The shadowkeeper is a normal pistol except it has the Shadowfall ability, but more on that in the Special Weapons section, and the darkclaw, which does extra damage and ignores 5 armor. Here is a table with all the relevant information.
+
+Name	Damage	Crit Damage	Additional Effect
+Pistol	2-3	+1	
+Mag Pistol	3-4	+1	
+Beam Pistol	3-6	+2	
+Darkclaw	4-7	+2	Ignores 5 armor
+Pistols aren’t great. Some of the abilities that use them are pretty good, but the weapon itself is bad. The damage numbers are so low and while the short range table is great, you can’t use it to gain easy kills in the same way because of the low damage. The damage is so low that two pistol shots are needed to equal one shotgun blast, and that just ain’t practical. The darkclaw, however, is very powerful for its interactions with bluescreen rounds and other sharpshooter perks. This isn’t the worst thing in the world, but it could be better.
+
+Psi Amp (★★★★☆)
+Psi Amps give bonuses to Psi Offense and increase the damage of abilities like soulfire, void rift, and null lance. The way psi-offense works is the difference between your psi-offense and your target's will is the chance your psi attack will have an effect. Here is a table of the important info:
+
+Name	Psi Offense	Bonus Damage
+Psi Amp	+0	0
+Advanced Psi Amp	+20	+1
+Alien Psi Amp	+40	+2
+Yet another “how the fuck am I to rank this” one. Psi-op abilities are broken in the extreme, and you need a psi amp for them, so…I guess I should give it 5 stars??? But then you don’t really use psi-ops until a run is already won so…I guess I’ll knock it a star for that. Sure, let’s go with that. The important part is what they do not the stars I give them.
+
+Ripjack (★★☆☆☆)
+Ripjacks are melee weapons just like swords in that they are melee only attack that gives a plus 20 aim but their damage is fixed (other than crits) rather than being a roll and can only be used by specific abilities of the Skimisher rather than just being able to use slash at all the time. Here is the table:
+
+Name	Damage	Crit Damage	Crit Chance	Additional Effect
+Ripjack	4	+1	10%	
+Ionic Ripjack	6	+2	10%	25% chance to stun or disorient
+Fusion Ripjack	8	+3	10%	75% chance to burn
+Ripjacks are basically just bad swords, but the way the Skimisher class works that’s not the worst thing in the world. But if I could give Skimishers a sword, I would, it’s just better.
+
+Autopistol (★☆☆☆☆)
+Auto-Pistols are completely and utterly identical to pistols, but require you to buy separate upgrades and makes it so they can’t equip the shadowkeeper or darkclaw. I’ll include the table for completeness, but yea, their just pistols.
+
+Name	Damage	Crit Damage
+Autopistol	2-3	+1
+Mag Autopistol	3-4	+1
+Beam Autopistol	3-6	+2
+This is just a pistol but on a class that absolutely does not need one. I often literally leave them unupgraded the entire run. I use autopistols so little. You can ignore them almost entirely and not really notice the difference.
+
+BIT (★★★★★)
+
+BITs allow Sparks to hack towers and objectives just like Gremlins but they also give a heavy weapon slot. They also upgrade in lockstep with GREMLINS. Here is a very small table with the hacking bonus
+
+Name	Hack Bonus
+SPARK Bit	0
+Plated Bit	+10
+Powered Bit	+20
+The thing giving this 5 stars is that heavy weapon slot and the remote hack. SPARK hacking stat is always bad even with the bonus but being able to hack an objective to not lose on the turn timer is just a nice thing to be able to do. The heavy weapon as well is very good. It’s always good to throw a rocket at your problems! It doesn’t do as much as other secondary weapons, but it’s still very good.
+
+Special Weapons
+There are a few weapons that have specific properties that make it suitable to discuss them separately. So I’m going to go through each one and rank them. I won’t go over “a powered shadowkeeper does X damage but a magnetic one does Y” I already covered that in the pistol section but I will talk about the useful pieces of information.
+
+Bolt Caster (★★★☆☆)
+The Bolt Caster has the medium range table, does extra damage, has an in built +15 to aim, can’t have weapon mods, and only has one shot per clip. In addition they have a 20% chance (50% against rulers) to stun the target. It counts as an assault rifle for the purposes of research breakthroughs and can only be equipped by the classes that can use those. Here’s a table with the info.
+
+Name	Damage	Clip Size	Crit Damage	Crit Chance 	Aim Bonus	Additional Effect
+Bolt Caster	6-8	1	+3	-	+15%	20% Stun
+Magnetic Bolt Caster	8-10	1	+4	-	+15%	20% Stun
+Plasma Bolt Caster	10-12	1	+4	-	+15%	20% Stun
+That one ammo clip makes this a really tough thing to recommend. If your specialist picks up rapid fire, chain shot, or hail of bullets from the training center this turns those off. You can’t chain guardian shots with this, it slows you down by having to reload a bunch. But, on the other hand, 6-8 damage and +15 aim is pretty fucking sweet. I often give this thing to rookies or low level specialists so they can hit something. If you know you’re going against rulers this is also an OK option. A lot of damage in one attack is exactly what you want against them and the stun chance of 50% is pretty sweet. But overall, I find them hard to use. But people get a lot of success out of them so maybe you will, too.
+
+Hunter’s Axe (★★★★☆)
+The Hunter’s Axe is an alternate sword that does extra damage (except for tier 3 ones, for some reason) but has an extra ranged attack that can be used once per mission. So I’ll show the table (again) and then I’ll discuss the throwing axe ability.
+
+Hunter’s Axe	4-6	+2	10%
+Ionic Axe	5-7	+2	10%
+Fusion Axe	6-8	+3	10%
+ 
+Axe Throw (★★★★☆) - Axe Throw is an active ability with 1 charge that is a free action. It does the damage of the axe itself, it is not buffed by blademaster or similar. It gains the 20% aim bonus from ranged attacks, has no range table, but is affected by both cover and defense. So if you have 68 aim on a basic trooper in half cover. The axe throw will have a 73% chance to hit with the axe throw. This is coded in a weird way to where sectoids don’t take extra damage from this attack, but if a chosen is immune to melee they will also be immune to this.
+
+This is quite strong, it’s a free attack that will usually have a pretty good hit rate and does good damage. It gives your ranger even more power and that’s great. I’d rather have the Katana (see below) but for my 2nd ranger on a squad I’ll always take the axe.
+
+Shadowkeeper (★★☆☆☆)
+The Shadowkeeper is a completely ordinary pistol but it has a 15% crit chance the Shadowfall ability. So here’s the table (again, exactly the same as a normal pistol) and then I’ll discuss Shadowfall.
+
+EDIT: The shadowkeeper also gives plus 10 aim
+
+Name	Damage	Crit Damage	Bonus Aim	Crit Chance
+Shadowkeeper	2-3	+1	+10	+15%
+Enhanced Shadowkeeper	3-4	+1	+10	+15%
+Powered Shadowkeeper	3-6	+2	+10	+15%
+Shadowfall (★★★★☆) - Shadowfall is a one charge active ability that costs one action point and ends your turn. It fires a pistol shot that cannot crit and cannot miss. If it kills, it grants individual concealment.
+
+Shadowfall is bad combat protocol, but bad combat protocol is pretty good. It doesn’t do extra damage to robots, it doesn’t pierce armor, it doesn't have squadsight range. But still a “I point at you and then hit you” ability is just so good in a game like this. Given I recommend never running more than one sharpshooter in a squad, this ability is enough to justify building the shadowkeeper and using it as your only upgraded pistol.
+
+Chosen Weapons
+Moving onto the WoTC special weapons. The Chosen each give special weapons. The Assassin and Hunter give two and the warlock gives only one. They each have their quirks. Here's a table of all the basic properties of each of them, then another table of the weapon mods they have, and then I’ll discuss each individual weapon and their (usually) very powerful extra benefits. And just to state on the outset, all of these get 5 stars. You should equip them when you get them.
+ 
+
+Name	Type	Damage	Crit Damage	Crit Chance	Additional Effect
+Disruption Rifle	Assault Rifle	7-9	+4	-	100% crit against psionic enemies
+Arashi	Shotgun	8-10	+5	25%	-
+Katana	Sword	8-9	-	-	Ignores 5 armor
+Darklance	Sniper Rifle	8-10	+4	10%	Only takes 1 action to fire, still ends your turn
+Darkclaw	Pistol	4-7	+2	-	Ignores 5 armor
+Name	Mod 1	Mod 2	Mod 3	Mod 4
+Disruption Rifle	Superior Scope	Superior Hair Trigger	Superior Expanded Mag	Superior Stock 
+Arashi	Superior Laser Sight	Superior Hair Trigger	Superior Expanded Mag	Superior Stock 
+Katana	-	-	-	-
+Darklance	Superior Laser Sight	Superior Hair Trigger	Superior Auto-Loader	Superior Stock
+Darkclaw	-	-	-	-
+Disruption Rifle (★★★★★) - This is the best assault rifle in the game. It has a stock instead of a repeater which is sad but otherwise 4 weapon mods is better than 2 or 3. The real draw is that they always crit psionic enemies. Meaning you can use this gun to just melt avatars in the final mission. And that is pretty damn good. Otherwise, it’s an assault rifle.
+
+Arashi (★★★★★) - The Arashi is a shotgun that has 4 weapon mods. That and +1 crit damage is literally all this does that’s different from a beam shotgun. Now that makes it better than a tier 3 shotgun, and shotguns are broken so that’s pretty good, but it isn’t anything special. 
+
+Katana (★★★★★) - The Katana is a sword that pierces 5 armor and cannot miss (mostly). What more do you want? This makes bladestorm utterly ridiculous because now the chance to follow up with a bladestorm attack is a guarantee. Technically, this can miss in rare situations with an enemy with high innate defense. Because the way the game works it doesn’t actually auto-hit but gives a +100% bonus to your to hit chance, and after the 0.7x multiplier of any reaction attack high defense enemies can have the bladestorm slash go just under 100% to hit. But that’s super rare, comes up like 1/20 runs. Regardless, this thing is broken, equip it when you get it.
+
+Darklance (★★★★★★) - Behold! The most powerful weapon in the game! The ability to fire a sniper rifle after moving doesn’t seem like a big deal, until you remember a little perk called Death from Above. DfA refunds an action point back to you after you score a kill with your rifle from higher elevation than your target. But now your sniper rifle only needs one action point. So you can just keep chaining kills together until you miss, you run out of ammo (and you have a superior auto-loader), or an enemy isn’t at a lower elevation than you. That is, quite frankly, as good as it gets. They make sharpshooters suffer the entire campaign but at least they give them this at the end of it. Shame they have a stock instead of an expanded mag, that’d make this thing even better.
+
+Darkclaw (★★★★★) - Darkclaw shots ignoring 5 armor is so huge. It means you don’t need AP rounds on a pistol wielding sharpshooter anymore. Now you can equip, say, bluescreen rounds and do an effective +10 damage per pistol shot to a Sectopod without any need for set up at all. And with perks like lightning hands and fan fire…well…that gets as silly as you would think. This and the Darklance on one unit creates an angel of death. 
+
+Weapon Mods
+The last, and shortest (thank fuck) section is going over each weapon mod and how they function. Now I won’t go “this is best on this class for this reason” and go super in depth for everything, but I’ll give a general overview of how everything works and give some general gameplay advice.
+
+To start, I’ll give a table of how I generally see each weapon mod and also how they work.
+
+Name	Effect
+Stock (★★★☆☆)	+1/2/3 damage on a miss
+Scope (★★★★☆)	+5/10/15% aim (additional 5% when targeting flanked enemies)
+Laser Sight (★★☆☆☆)	+5/10/15% crit chance, with more gained as you get closer.
+Hair Trigger (★★★★☆)	+5/10/15% chance to get an action refunded after shooting, even on a miss.
+Expanded Mag (★★★☆☆)	+1/2/3 extra ammo per clip
+Auto-Loader (★★★☆☆)	1/2/3 free reloads
+Repeater (★★★★★)	+5/10/15% chance to instantly kill any enemy hit with an attack by this weapon.
+Stock (★★★☆☆) - Stocks are reliability incarnate. Early into a run I wish every unit had a stock on it to easily set up kills. The later into the game you go however, the more and more that lovely 100% to hit pops up and the less stocks are useful. It’s why I don’t like all of the chosen guns having them. But even late into a run sometimes you just need to be able to do one damage no matter what, so they are always good, just not always maximally good.
+
+Scope (★★★★☆) - More aim is more better. The only downside is that you can’t also equip a laser sight. So on one or maybe two classes you’d rather have one of those, but otherwise literally just always equip this forever and ever and ever always. Hitting your shots is good, it’s really that simple.
+
+Laser Sight (★★☆☆☆) - This is literally only for rangers and maybe reapers, hence the two stars, but on those classes crit fishing is very profitable, especially on rangers. A small note, the game says you get more crit by getting closer to the enemy, and that’s true, but I have no idea how much. It isn’t by more than like 10% but if someone has the table of the exact values to show me, I’d love to hear it!
+
+Hair Trigger (★★★★☆) - A chance to get another action is very juicy, but that whole “chance” business keeps this out of being my favorite. They can bail you out of a bad situation, but it’s only a chance to. Still, it’s a chance to help you a lot. And sometimes all you need is rolling the dice more to try and get lucky. Importantly, this only gives you back one extra action, not a whole turn. Not a big deal, one action is quite a lot, but worth noting.
+
+Expanded Mag/Auto-Loader (★★★☆☆) - Expanded Mags and Auto-Loaders do the same thing in slightly different ways. They both make it so you run out of ammo less often. Expanded Mags are better on classes with rapid fire and chain shot and similar. Auto-loaders are better on classes without those things. Auto-loaders are better against codexes’ psi-bomb but are liable to run out of usefulness on long missions. Which is better? It depends on the weapon and class honestly but usually expanded mags. Both are fine but usually not my first choice until later into a run where those options come online. Still, they're solid.
+
+Repeater (★★★★★) - So I previously said that a weapon mod being unreliable is why I can’t rate them as top tier, but the upside of this weapon mod is so high that it has to have 5 stars. Sectopod? One shot. Gatekeeper? One shot. Chosen? One Shot. Alien Ruler? One Shot. This can one shot anything and everything. This massively increases the odds of something going in your favor. If you watch any 4 man ironman legend runs, this is the weapon mod they prioritize the most, it's just that good. And if you happen to be a Reaper with banish, things get extra silly.
+
+And that’s it! I’ve covered every weapon in as much detail as you could possibly want! This was extremely annoying to put together. Never ask me for anything ever again. Goodbye!
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+159
+
+Downvote
+
+48
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/putsomeiceonit avatar
+putsomeiceonit
+•
+1mo ago
+Man, I wish auto-loader equiped weapons had the OPTION to use the auto-loader if you've got the time. I hate it when I'm storming the chosen compounds and burn through the auto-load charges before we even get to the tough bit!
+
+Or even, let me spend 2 actions to regain an auto-load for later etc...just give us something!
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It really is a nerf to the Darklance specifically, because it's tough to hold enough back to DfA chain in the final chamber.
+
+Or...you know...they could've gone with an expanded mag instead of a stock...but whatever.
+
+u/ferrofibrous avatar
+ferrofibrous
+•
+1mo ago
+"Free Reload Anytime" is a small QoL mod that splits Reload and the Free Reload into separate actions.
+
+thaduck3
+•
+1mo ago
+There is a mod for this on steam workshop
+
+Artistic-Top-5093
+•
+1mo ago
+I think it should instead operate like dual mags. Every other reload would be free.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+This was the most annoying thing to make in the entire world. But hey, I called this guide overly complete and I fucking mean it!
+
+u/puppleups avatar
+puppleups
+•
+1mo ago
+It’s a really fun project to read, you’re doing great and thanks for all your work!
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You're welcome.
+
+Important_Garlic_785
+•
+1mo ago
+Bro, I’m totally in love with the game, I also forced my girlfriend to join as she likes to write and I let her create all the side stories for the characters I like to create, not mentioning our characters fighting side by side! I extremely enjoy these guides as I keep starving for more Xcom content, filling those gaps with a lot of knowledge is satisfying to say the least, your work is impeccable and your nickname popping up when you post on here became one of my favorite notifications I get on Reddit. I admire you’re efforts, commander!
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+•
+Edited 1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+1/2 (woofh)
+
+So I wonder how much of this should be taken strictly in a vacuum. Because IF we're specifically not accounting for Height Advantage and Squadsight, then I do agree that the baseline values and setup for Sharpshooters are baseline bad to pretty terrible. With SPARKs I said Adaptive Aim is a near necessity. I feel a little less bad about Sharpshooters because Squadsight is inherent to their class. Back in Enemy Unknown I feel like you had much more serious consideration for Snap Shot as kind of like Run and Gun, and you could build your Snipers a little differently for that reason. I also feel like I use Squadsight way more in XCOM 2 than I ever did back in EU/EW. Where the long range table really sucks is if Sharpshooters pick up extra skills. It made me really sad to realize things like Rapid Fire don't work with Squadsight, meaning you have to thread the needle over positioning at height at an awkward middle distance while still having enough action points to actually shoot the rifle. By the time you get Darklance it's just far less relevant. Also sad is IIRC that even if you double tap an enemy with Rapid Fire, you won't get Death from Above. It means that abilities that sound potentially good on Sharpshooter often aren't that much, which sucks when they're already that particular.
+
+===
+
+Sharpshooter is also weird in the sense that a dedicated Pistoleer IMO doesn't make that much sense to build around. There was value in Enemy Within because your Covert Operative was limited to only carrying a pistol and actually buffing it could make a difference in that unit not being almost dead weight. But in XCOM 2 you're just not going to be doing all that much damage with pistols for a fair while. The Shadowkeeper helps but I feel like it's a bit of a peashooter (only 'bested' by the worse autopistol) til at least Magnetic, and even then I only really like Plasma more other than it being an "ammo free" weapon for picking off Lost. And it's strange because both Lightning Hands and Fan Fire are really good abilities that can come in clutch (Faceoff I find usually too niche though it's not bad with Darkclaw) but you're going to have your sniper rifle for kills for a bit unless you pick up a pre-leveled unit as a mission reward or Black Market mercenary. The power curve is just so weird for this class, where they can be borderline almost useless at worst (especially if you can't take good advantage of scopes and height), but then chain killing monsters at best. It makes it hard for me to accurately judge them as it depends on a variety of factors, and I always work to buff their aim so I can shoot through walls and low cover like nobody's business, making them excellent marksmen to pick off priority targets. But yes, by default, they need setup to get even close.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+•
+Edited 1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+2/2
+
+There is a rumor that the Arashi has a better range table than a normal shotgun, but I can find nothing in either the game files or online that confirms this to be true.
+
+I'm guessing this is because of stories of the Assassin blasting someone from far away with her shotgun. It doesn't happen often but it is memorable when it does. I imagine that's more of a confirmation bias thing rather than translating into something tactically useful. Besides, you want to be taking flank or exposed shots anyways for crits, which kind of inherently helps aim even if you aren't putting it right in their mouth.
+
+If you're desperate then the Bolt Caster is an okay option for Specialists in the very early part of the game. With inherent aim and height advantage they work okay for pinging enemies at mid range. As soon as you get the 10% scope TLP old world mag rifle I think it's basically always better (even if the repeater never goes off as I have bad luck with 10% weapon mods), as a mere 5% and locked in as the only option on the conventional rifle is borderline nothing. I'd almost always prefer a stock instead since Specialist aim can have problems for a while. A +2 stock for sure I'd always prefer just to chip damage enemies down in the early game. Where the Bolt Caster gets interesting is in the mid game. Once you get Bluescreen I think the damage becomes much more appreciable for the garbage ammo. Cover and the one ammo makes it difficult to use against organics sometimes, but launching a tent spike at a MEC and either outright killing it or wounding it severely is not bad. Thing is though, when I get to this point in the game, if I don't have to (as you only have so many options other than worse rookies in the early game), I tend not to run Specialists. If I do it's almost exclusively because I need Scanning Protocol and/or Medkits for an early Assassin spawn, where you have a harder time bursting her down and are likely to take essentially unavoidable damage. So this means that the bolt caster tends to become very expensive in a lot of ways, doubly so when magnetic rifles are around as probably better on average with their ammo and damage range. I have at times slapped a Caster on a Psi Operative because moving, reloading, and attacking from range is different for them compared to every other class, but again that's basically so late game the campaign is already won or well on its way. You could just never use or upgrade the Bolt Caster and not really feel a difference. The 50% against Rulers is just way too risky, especially against an early Viper King that can severely injure or nearly squad wipe you if you're not really prepared. Frost Bombs are just a way better stun even though they don't last multiple turns but merely a few actions (though there is the VERY cheesy Lightning Hands option...).
+
+It's funny because I never really cared about the Hunter's Axe on the lower difficulties. I just never felt the extra damage once per mission was all that important actually, especially when I rarely to never stressed Aim for Rangers. That said it's very nice on Legend. Action economy is always at a premium and for a while it does a bit more damage than a comparable sword while providing a one time roll at free damage. I find it significantly more valuable than Whiplash for instance, and if this is the difference maker on killing a Lancer or other high priority target, it's worth it for that alone. You need all the help you can get on early Legend. And it does remain relevant for a fair while, even though I think the damage and armor piercing and can't miss of the Katana eventually supersedes it. Katana with the Colonel Reaper skill in particular is great for chain kills.
+
+I've never understood what the stealth aspect of the Shadowkeeper is supposed to be for. Granted, I've never really tried a pistol-centric Sharpshooter from early on, but even then I can't wrap my head around it. You're either last hitting something to the point that I'm not even sure what's there left that's dangerous for you, or you're just using it for guaranteed chip damage. The only realistic way you'll be at risk of getting shot at is if you Grapple into danger and just... why? A big value of Sharpshooters is damage at a distance that's pretty typically safe. They don't have many options for taking fire more than once or twice, and I don't count Return Fire as it's reactive, not proactive. Anyways the fact that it's once per mission makes it basically irrelevant for stealth, as you're almost certain to break it in the next turn or two once set up for more shots. If ALL Shadowkeeper kills re-stealthed or something (working something like Reapers' Silent Killer), that would be pretty cool but I just don't know what it's supposed to be other than a shittier Hail of Bullets. The extra crit is nice though as IMO Sharpshooters crit noticeably more with it, so a nice small passive bonus. I think Talon Rounds are still generally the wrong choice here as opposed to more bluescreen or dragon rounds or maybe AP, but I guess in theory you can roll the dice if you set up exposed shots.
+
+Avatars come up so infrequently I wouldn't really stress them with the Disruption Rifle. If anything this weapon is like THE best option for destroying Gatekeepers consistently. Get some Holo Targeting, Shred, and Bluescreen and the damage is beautiful. Being a good assault rifle on top of that is just a bonus, pretty nice for Guardian plays though.
+
+An interesting nuance about Darklance is that it almost completely supersedes Serial on Sharpshooters. There are niche situations Serial still comes in handy, even on a Darklance wielder, but typically a single unit with the lance and Claw is best IMO, just get more utility elsewhere. It does require Death from Above to be like In The Zone for EU, but again, what are you trying to do with Quickdraw that you think it's worth it? Pistols just aren't that impactful IMO to be avoiding a skill that starts pretty good for mobility and repositioning reasons, and then becomes insanely broken with the right setup, letting Sharpshooters skyrocket in killcount.
+
+Because of enemy Dodge, I think Aim stacking is actually more powerful than people realize, especially on Legend with different stats for enemies. The difference between a 99 and 100 is not just 1 percent, you have a very real chance of whiffing your attack and doing basically half of what you were "supposed to" as per the damage preview. Likely meaning you need a whole additional attack to kill than what was displayed. It's very often overkill but I find that hardstacking Aim on Sharpshooters and Grenadiers if you can help it (that is, both a Superior Scope and some of the best Aim PCS items you can get) ups their damage and utility almost more than anything. With Grenadiers especially I feel like you really need all the help you can get if you want to like literally ever use Chain Shot and not just whiff it. It misses too often for my preferences and setups as is (what? you're going to Holo AND Frost Bomb AND Scope AND Aim PCS for one ability?), but damn it's some juicy damage if you can get it. Scopes, mags, and stocks I feel are the objectively best setup for Grenadiers though you can trade mags for autoloaders if you have more or better quality of those.
+
+Hair Trigger is just too unreliable for me, even the Superior 15% version (I usually don't get to run the bonused 20% for long before the whole campaign is over). To me the only real value for this is if you're trying to set up something on Rangers where you're like running AP rounds to target enemies in a specific way and praying for a proc. But it's not a reliable strategy. 85+% of the time it's doing literally nothing, worse than a 1 damage stock even. I'd say you could make a case for these on Rangers and Grenadiers if you have a third slot on their weapons as the reward is pretty good to shoot again, but you're gambling in a game where even a 1% miss chance can spiral bad, so 85+% is just too much for me. I'd actually say the best class for this is a Skirmisher, maybe rarely a SPARK. An extra shot for either is really nice since they have more opportunities to fire more often. Typically other weapon mods take priority when I have them, but if you luck out on a trigger early and don't have anything better it's a thought, since at least they have a chance to proc it more often than anyone else.
+
+u/veegeeplz avatar
+veegeeplz
+•
+1mo ago
+I feel a little less bad about Sharpshooters because Return Fire is just such a bizarre ability on them, so there's really no competition with Squadsight. Back in Enemy Unknown I feel like you had much more serious consideration for Snap Shot as kind of like Run and Gun, and you could build your Snipers a little differently for that reason.
+
+Small correction - isn't Squadsight a base ability for Sharpshooters in XCOM 2?
+
+I believe Return Fire is competing with Long Watch - Overwatch with Squadsight rules.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Derp, my bad, I'm thinking back to when Squadsight was a choice in Enemy Unknown. I basically never select Return Fire so it was a bit of a blind spot. Long Watch isn't really that great for a while either (unless you get Holo Targeting or stocks on them) but I'm almost never in a position to actually get value out of Return Fire, at least without my Sharpshooter being just dead from damage early game anyways. I've never felt the desire to get a Pistoleer going early, though I do think Lightning Hands and Fan Fire are very strong, with Faceoff being situational but good with Darkclaw.
+
+u/veegeeplz avatar
+veegeeplz
+•
+1mo ago
+I agree with your thoughts on Return Fire, and I think that's the community's consensus regarding this ability.
+
+Long Watch's main gimmick is pulling pods from outside their vision range once you've broken concealment. You just have a scout keep an eye on them, put your Sharpshooter on Long Watch, and if you hit the shot then you've activated a pod during their turn.
+
+Is it a bit awkward and clunky to set up? Yes. But at least it can provide some value, which is more than I can say about Return Fire.
+
+EDIT: Obviously it's also a nice quality of life pick so you don't have to move your Sharpshooter and give up Overwatch with your Sniper Rifle. Again, niche, but it's there.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The gimmick is dependent on a Phantom Ranger or Reaper though. It's something but I think more often than not it's probably a detrimental use of action economy to "give up" a turn just to hold specific ground, though I've been a Legend grind lately and one pod at a time for a while is crucial to avoid injuries, and mission timers are tighter with baseline values. You can eventually stack aim, height, etc enough to overcome the overwatch penalties, but there are still Squadsight distance penalties so eh. I like Kill Zone on Legend as super overwatch and even that misses a lot lol. I mostly pick it up because I just don't use Return Fire. It pops up on Skirmishers a decent amount and I can probably count the times it actually did something on one hand, and that's on a unit that does get in the thick of things sometimes. (I'm not accounting for the Return Fire tank strategy as I think it's just silly and not viable during the hard parts of the game without a lot of RNG, not to mentioning timers messing with it.)
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I don't think height advantage or squadsight helps sharpshooters much at all. The name of the game is to see a 100% to hit pop up, that's what we want. And Sharpshooters have no tools that help them get there with their main gun that other classes don't have. Height advantage? Other classes get that just the same. Scopes? Same deal everyone can equip a scope. Sharpshooters as a class has a lot of aim but when you can get to 100% as a Squaddie with literally every other unit that isn't helping much. And squadsight isn't even that good. Sure more vision is good but it nerfs your aim even further. It takes so much investment to get sharpshooters to be able to consistently get that 100% to hit when I could just as easily brought a ranger instead who gets it from the word go.
+
+Eventually Sharpshooters get the Darklance and Darkclaw and start doing some wacky shit but so what? It's not like a ranger in that slot wouldn't also have obscene things to do. I mean if a grenadier rolls DfA from their XCOM abilities they out compete sharpshooters in literally every way.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+•
+Edited 1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+As much as I love Rangers, with them being by far my favorite class (and Assaults in EU/EW were good too), I've noticed on Legend that their ability to pull extra pods is a serious detrimental factor, especially if ever trying to use their sword. It's honestly far less of a big deal on Commander, but it's IMO a problem all the time on Legend because of the baseline extra pod every single mission, way more often having two pods on top of each other or another close that a few extra tiles of movement will trigger. Their short range table, their crit fishing is great and I love it. They're also typically one of the first units to act on my team (usually less often with Templars as I try to clean up kills with them or do Parry a specific way). They are also by far the class that causes me to use Mimic Beacons more than anything else and it's not even close. As such, personally, hanging back with a Sharpshooter safely pinging away at enemies is fine by me, especially great on city maps but especially terrible in sewer maps with bad line of sight and not much height. I would say generally speaking you will always get better results running two Rangers / two Grenadiers in the early game if you can. Personally I hate Specialists more than Sharpshooters even. Squadsight does detract from aim but you have to be shooting pretty far to overcome the overall bonus for being stacked up higher. I totally get it, they have issues, but for me I need so much Aim help on Grenadiers to even think about Chain Shot, so a good chunk of the early game I'm just lobbing around grenades and rockets as not aim dependent. Thus it's easy for me to give scopes to Sharpshooters first and foremost, Rangers don't need them (Skirmishers and Reapers don't really either), and I'm just not taking Specialists if I want damage. So I get more value out of them than most I guess, turning them into true killing machines. I think being able to blast down a Codex in (usually) one shot with bluescreen is pretty nice, but it's hardly the end of the world because of Psi Bomb. Personally, I feel like Chain Shot specced Grenadiers need even more help than Sharpshooters to become viable and it's either risky a coin flip or just going for the late game, where Saturation Fire is pretty good too.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Rangers could be in danger of pulling extra pods, if the class didn't come with it's own solution! It gets phantom, and you get Shadow. It is not hard to mitigate this problem. And it isn't even a ranger specific thing every class whats to get closer to the enemy. Even sharpshooters. Their best early game skill is lightning hands and that has a shotgun's range table.
+
+And you can't just sit there and plink away at enemies, this game has turn timers and almost every mission. Rescue stranded, lost missions, story missions and the base defenses are the only missions that don't. That's, what, 10 out of 60 missions in a run? At best. You have to move up, the game demands it, so if you're doing that anyway, then why aren't you holding a shotgun? Or a gun that benefits from being close to the enemy.
+
+I think specialists are amazing. Remote Hack alone allows you so many safer plays, it's 2 extra turns (mostly) of maneuvering and they get combat protocol which is like top 5-10 best perks in this game. They have problems, mainly in the midgame where they try and sell you that field medic does anything, but combat protocol, revival, remote hack, guardian, ever vigilant, capistor discharge. All solid to excellent. And hell, sometimes you might even need to cure poison with medical protocol. Certainly the 3rd best of the base classes but that's because this game has launch grenade and shotguns and run and gun and stuff, not that the class itself has problems. I've done exquisite timing runs where I run 4 rangers 2 spec and it works great and you don't have to do gauss weapons. Which for exquisite timing can be a little tricky.
+
+Grenadiers actually have an easier time getting to 100 aim than sharpshooters. At squaddie their aim is 67, so 20 from high ground and 13 from their range table gets you there. Which isn't easy but is doable. And for sharpshooters...oh, they can't at all, how sad. If you bring a scope they can as long as they have high ground and aren't 11 tiles or closer, but that's a lot less flexible on a class that can't move and shoot.
+
+At captain their aim is 73, which means high ground plus advanced scope is enough. Or being within 3 tiles and an advanced scope it's the same. Sharpshooters have 87 aim so they need a superior scope or high ground to get 100% to hit. They literally cannot do it otherwise. Not great. Now you can stack those, but you can stack those on grenadiers too and they get a range table on top of it. The math doesn't really work out for sharpshooters until you get 91 aim at colonel, where now it's actually feasible to get 100% to hit even with squadsight's aim penalty a lot of the time espically because the game hands you a free superior scope with the dark lance. But that's so much more specific. Plus grenadiers get launch grenade and shredder and holo! Compared to lightning hands quickdraw/DfA (before the Darklance) that's a much more favorable position.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It blows my mind how much you like Combat Protocol. Last hitting? Sure. I'd always do it versus a Lancer if I was in a scenario where I had to. But two damage is IMO just nothing on Legend. 90 out of 100 times I'm throwing a grenade or taking a rifle shot instead if my hitchance isn't shit. Specialists do pretty well, probably even better with height advantage even without a scope, and the TLP weapon progression is nice even if the repeater usually isn't all that relevant to my tactics and just a small bonus. By mag rifles they are a more serious contender, both because of more utility and because mag rifles are typically the first weapon upgrade I get, not accounting for Alien Ruler weapons or a scenario where you get the Arc Blade first from Instant Lancer autopsy. But honestly just surviving to mag weapons on Legend is like 50% of the campaign's challenge for me. I cannot overstate how much I hate the potential for conventional assault rifles to not even one shot the most basic trooper enemy at the start of the game. It's beyond terrible. I'll take a Reaper, Skirmisher, or Templar instead almost always to just not deal with that, and enemy damage spongey-ness only gets worse as the game wears on with Officers and so on so forth. Specialists don't get a pass because they can throw grenades, that's just me trying to survive with a bad team composition. I would always, always take even a Squaddie Grenadier instead if I could, and hopefully get Shredder on it soon.
+
+===
+
+By the time you get Guardian or really a Major of almost any class, the campaign is more or less already won and it's just wrapping up. It's a significant damage bump for sure, and I don't hate Ever Vigilant either. Haywire is a decent option for crowd control of MECs (turrets usually aren't that big of a deal but can be funny to hack) but it comes back to why aren't you just killing it instead? If I can stack Hack with Skullmining and the second Gremlin, the odds are better for a stun at least but the chance for Hacks to backfire means I think it's much worse on Legend when the odds are already against you. If you pick up a bonus +20 from an objective you had to do anyways, or Information War, that is pretty good and worth considering and I have done it, but I've gone many missions not even touching Hack/Haywire at all. By all means take them on missions that have hackable objectives as it might save a litle time and occasionally reward you with something decent, but I can't tell you how much setup I'd need to even consider Hacking lamposts or stunning a MEC vs just shooting it to death.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Combat Protocol + grenade = dead trooper, no muss no fuss. Literally cannot fail way to kill someone. Blademaster sword slash is exactly 2 away (1 with the axe) from 100% cannot fail killing a sectoid, combat protocol cleans that up. Helps cleans up turrets, helps clean up MECs, it has squadsight range so if the Chosen has Watchful and is 160000 miles away you can still zap them and then move in with everyone else. It cleans up so many situations for you easy.
+
+Not one shooting troopers with the base rifle is annoying, but with WotC that's true of Reapers and Skirmishers as well it isn't as much a liability for this class. And even then the TLP weapons give you a stock to clean that situation up. An officer has 7 HP and so a 3 damage attack from a rifle plus cannon or shotgun auto-kills. It isn't that big of a deal. It's also a 1/3rd chance without crits, now that's much, much worse than a 0% chance but it's not that bad.
+
+I'm not sure surviving to mag weapons is half the battle, like yes it's the hardest part for sure but so much is left to go wrong. It is a major breakpoint for sure, but only one of them. Mag weapons and squad size 1 is a huge jump but so is predator armor and squad size 2. Once you have squad size 2 its gg, that's the run won unless everything goes completely tits up but it probably won't. You still have a good bit to battle after that first break point. My campaigns average about 55-60 missions and there are like 10-12 before mag weapons. Something like that, so it's not over.
+
+I don't know the last time I used haywire, like ever. Except for Shen, I guess. I don't even usually buy it with AP. They gave you combat protocol to kill robots I don't need another tool on the same class to handle that enemy, espically not a tool that can buff the enemy! No thanks!
+
+I do agree by the time you get Majors the run is basically over, you're just running down the clock. But by that token sharpshooters fare even worse. They have nothing at squaddie, they can longwatch + shadow at corporal but that's much worse than combat protocol + remote hack. Lightning hands is good but it's just having a shotgun every 3 turns and revival is actually quite helpful for when you can't alpha a sectoid or the chosen jumps you. Especially at this stage before you fully lock down the enemy with meme beacons. Then at luiet sharpshooters do probably pull ahead of specialists, quickdraw DfA are better than scanning protocol and a perk that has no text in it if you don't bring a bad item. But also the training center comes online about this time for me, and specialists make better use of the perks you get from that so...is it really fair to say that sharp>spec at this rank? I think a colonel sharpshooter is better than a colonel specialist even if you gave both their ideal training center perks but that's just fucking around in the late game so whatever.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+•
+Edited 1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+While Combat Protocol is more reliable than a basic stock (which has to even drop in first place, which can possibly not happen to my surprise over many loot drops), I feel like I still lean on stocks on Specialist and Grenadiers shots as my primary chip damage, in part because it's not locked to finite charges like Protocol is. Picking up one on a Specialist early is probably fine, especially on Legend as the enemies are more likely to outright kill you than be healable damage until Predator Armor (not to mention the horrible wound timers at the start), which EU had the exact same glass cannon incentive problem on its highest difficulty. Protocol is okay but I feel like I see Lancers fast and tier 1 GREMLIN is already weak by then IMO. But maybe some people rush the MEC Breakdown for tier 2 and bluescreen faster than I do and that could be a factor. As dumb of a strategy as it feels, same as EU I felt the almost objectively correct strategy is to have only grenades on EVERYBODY til the armor upgrade. Don't get tempted by a medkit or flashbang, that one grenade absolutely can make the difference between a wound or not. As you went over elsewhere, one charge of heal is fine and you really want to try your best to not take more damage or any at all if you can help it, and the revive for Chosen is "free". It's surprisingly hard to beat 3 guaranteed damage from grenades and potentially on multiple targets, not to mention the absurdity of claymore + grenade when you can. I always got more wounds and worse timers from deviating compared to just more explosives, more of the time, running double Grenadiers when I could for the same reason. Aim is really only a major issue when you don't have scopes and rank stat progression, but you can toss a bunch of grenades to mitigate that for a fair while, and hopefully luck into a stock or two, but at least the TLP cannon is something.
+
+Reapers have an interesting option with Blood Trail. It does nothing for full health targets so they still sort of have the same Trooper issue, but it's good so long as a target is wounded. Officers, priests, and stun lancers are going to be up quick so Trail makes it so that your damage floor is at least better than rifles, while also having the nice short range bonuses and ability to sneak to a flank. Even with firing the gun more often I think two charges of Shadow is fine so long as you aren't revealed preemptively. But it's not like your other classes get overpowered stealth anyways. Skirmishers mitigate aim significantly by being able to take two shots and getting Grapple for free. The earlier units get Grapple the better, on Legend it's almost too late for high impact on Rangers and Sharpshooters and it's more a bonus than anything. Justice is also basically the best Skirmisher ripjack skill, and you get it for free running a Skirmisher at all, plus you get a decent inherent aim bonus on that plus it effectively helps team aim before Holo since it moves the enemy out of cover.
+
+It's definitely easier to get "okay" usage out of a Specialist faster than a Sharpshooter. I think Scopes and Aim PCS and TLP weapons are a wash as factors as they both benefit (though I'd argue Sharpshooters benefit more but whatever). Specialists benefit from being able to move and shoot any turn which is a major consideration, but rolling 3s against damage sponges is terrible, not to mention it gets even worse with Lancers having enough Dodge to occasionally be a problem. Sharpshooters require setup and really want to try to stay put with good Squadsight sightlines at height, but not every map or engagement is conducive to it. They work better as a 5th unit ranged support, whereas your core original four team IMO should be: ranger, grenadier, faction hero (reaper best but anything is better than squaddies and rookies really), and then optional. I'd try to run another grenadier or ranger or maybe a templar instead of another base class, but a specialist is okay. If they have good bond compatibility that helps a lot because a lot of the time that extra Teamwork-fueled attack from another class is probably better, or with one action point left they could toss a grenade, take a stock shot, whatever with their other turn, even aid protocol is occasionally something for AI manipulation.
+
+===
+
+If people underutilize Death from Above I think that's why their Sharpshooter gameplay is so painful. That's the key skill that helps them fire their damaging rifle and still keep decent Implacable style (but earlier yet more specific) mobility for evac timer missions as well as occasionally eeking out damage with a pistol shot, which feels less painful when you direct more damage with the rest of your squad elsewhere and use a peashooter to last hit a low enemy with usually pretty decent aim. They pretty badly need a Spider Suit eventually to keep pace with the rest of the classes by midgame though, and I feel like all the other mag weapons (definitely assault rifle, shotgun, and cannon) take priority which is also rough on power-spiking. Bluescreen helps them a lot though and tends to be my main ammo of choice for them helping with MECs and Codexes, also not being RNG-dependent like Experimental Ammo while fitting a great niche that remains relevant til the end of the game, even better by the time of Fan Fire. I also consider the fact that the devs made Specialists rank up faster, so using them as a damage option until later in the game feels like square pegging a round hole, whereas they had more faith that Sharpshooters are okay even though they aren't quite as broken and strong as EU Snipers, at least not til LATE game.
+
+Smitty2k1
+•
+1mo ago
+I love your guides and wonder if you have considered how to make a balance mod that would nerf/buff or make things more relevant/less OP? Or have recommendations for existing mods.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea I've thought about a rebalance mod.
+
+The things that stand out to me is Specialists and Sharpshooters and Skirmishers need buffs, Reapers need a nerf. Everything else is fine enough I think.
+
+For specialists it's simple swap out covering fire, ever vigilant, and field medic for perks that actually do stuff. Or just buff covering fire to make it ignore cover that's fine. I think some mods do that. I'd probably say to actually give this class Killzone and not sharpshooters because they get the buff to OW, lean harder in that. But the class is mostly fine.
+
+For sharpshooters give them an actual range table and snap shot instead of just a bunch of nerfs from their main weapon. Make the class about being accurate actually accurate wouldn't that be novel. You could probably replace return fire for snap shot, or move things around just give them access to it soon. Also make Deadeye not suck ass, that would help.
+
+Skimishers need a blademaster equivalent for their ripjacks. Swap out all their weird overwatch perks for stuff that actually does something. Also give them banish instead of reapers.
+
+To nerf Reapers just make it so Shadow doesn't have the extra charge. Now you can't just blow Shadow without a care. You could give them an extra charge later into their tree because I've taken away banish and now they are a very low damage class, and that's better. Also make it so remote start doesn't do double damage, just make the radius bigger. I think that's more fair.
+
+That's off the top of my head anyway.
+
+u/seto_kiaba avatar
+seto_kiaba
+•
+1mo ago
+Great work as always
+
+u/Bomber678 avatar
+Bomber678
+•
+1mo ago
+Am I tripping? I swear the shadowkeeper gives bonus aim, which makes it a must buy for snipers. +10, I'm pretty sure
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh I think you're right. Yea I forgot about that, I'll fix it in the morning.
+
+u/Bomber678 avatar
+Bomber678
+•
+1mo ago
+Surely bringing +10 aim to sharpshooter should bump it up a tier from their regular pistols. It really helps out the consistency of the sniper by a lot. I swear by equipping it to get results!
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Not really, it already has the short range table and sharpshooters aim stat. There aren't that many situations where it brings you from a 90 to an 100
+
+u/Bomber678 avatar
+Bomber678
+•
+1mo ago
+It gives the sharpshooter +10 aim, that includes sniper rifle shots. That's a big deal, it's a whole advanced scope bonus
+
+u/vndt_ avatar
+vndt_
+•
+1mo ago
+It doesn't. UI bug. Same with the TLP Sword adding 20 aim in the UI.
+
+u/Bomber678 avatar
+Bomber678
+•
+1mo ago
+What?? Show me
+
+u/vndt_ avatar
+vndt_
+•
+1mo ago
+Vektor, not Vector.
+
+Gauntlets have stun/disorient chances based on Focus level.
+
+Bolt Caster attacks are undodgeable.
+
+Shadowkeeper has +10 aim.
+
+Fusion melee weapons have 100% burn chance (needs confirmation).
+
+Laser Sight proximity bonuses are found in XComGame.X2Effect_LaserSight.
+
+u/QuantumQuokka avatar
+QuantumQuokka
+•
+1mo ago
+I feel like you've underrated the stock and weapons with a stock here.
+
+The stock is much much more useful than hair trigger or repeater, especially on higher difficulties.
+
+XCOM works based on an action economy, which means an enemy with 1HP left is just as dangerous as one with full health. Having a stock and knowing you can guarantee finishing off low health enemies is incredibly critical in XCOM. Yes, technically combat protocol does the same and better, but only the specialist gets that
+
+The stock is also very very useful in that a lot of XCOM abilities like untouchable rely on you killing an enemy outright. It's much more useful to know that you can finish a low health enemy this turn.
+
+This is also why the repeater and hair trigger are overrated. They're nice bonuses when they happen, but you can't rely on them, especially at higher difficulties. The chance for it to trigger is just much too low. They're very much a "nice to have, but not game changing" compared to all the other weapon modifications. The repeater is basically not actually useful on anyone other than a reaper with banish and a superior extended magazine. Even then, it's only a less than 80% chance of it getting you that instant kill
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Stocks are great, but given that for a lot of classes a 100% to hit isn't that hard to get, they go down in value, because you literally can't miss. They help you clean up kills, grenade + stock = dead trooper for example, but they fall off.
+
+While yes repeaters and hair triggers are random, the benefit is so huge. There is a reason people ban themselves from using repeaters in certain challenge runs they just cheat. It's a random cheat, but it's still a cheat. They help stack the deck in your favor. Especially against chosen and rulers. While yes they are unreliable the possibility for a free win is just too high to ignore.
+
+u/QuantumQuokka avatar
+QuantumQuokka
+•
+1mo ago
+The problem with repeaters and hair triggers is that at higher difficulties, relying on them will get you killed.
+
+It's always worth remembering the sage quote from the IRA to Margret Thatcher. You have to be lucky every time. We need only to be lucky once.
+
+Advent could say the same to us, that we need to be lucky close to every time. They only need to be lucky a few times.
+
+The same is true here. At higher difficulties, getting lucky 15% of the time is not even close to being enough. You need a reliable strategy, which neither of those provide. I'd say if you tried to rely on it, it would actually shift the odds against you
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Relying on them is a bad strategy, but you don't have to rely on them to get value of out of them.
+
+Let's imagine you pull two pods at once. This is going to (usually) force you into using some sort of stun option. Mimic beacon, frost bomb, whatever. But if you get lucky with a reapeter or hair trigger, that can be enough velocity to get you out of that situation without needing those stun tools. So you can save them for the next encounter and so the probability of something going wrong on that mission drops a lot. Now maybe that didn't happen, but then you are left with the same solution as before, throw a mimic beacon. And they don't conflict you don't have gamble on a repeater or throw a beacon you can gamble, then act accordingly. Similarly to how you treat shots that are less than 100% in a lot of ways.
+
+On a lot of guns, bullpups, shotguns, assault rifles are the main ones that come to mind they aren't screaming to need a specific second attachment. Everyone (but rangers) want scopes but for that 2nd slot you have some flexibility. Sure an expanded mag on pullpups is nice a stock on an assault rifle can be useful but they aren't necessary, and you might not have them. Often the decision isn't "hair trigger v stock" it's "hair trigger v nothing."
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+•
+Edited 1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Stocks are valuable for overwatch chip damage. Yes, of course, you don't want to be overwatching if you can help it (except for Guardian), but it's going to come up. Even with good and fairly consistent 100+% aim on normal shots, overwatch shots have that detrimental modifier, being even worse for dashing units, and of course stuff like Spectres with their Lightning Reflexes. The nature of getting good stocks is RNG, as I had little to none early my last Legend campaign / prioritized them on Grenadiers. That said, when you do get them they are strategically valuable. Chipping enemies on overwatch is inconsistent as you can't guarantee it'll even hit the enemy you want. Chipping an enemy behind cover is great though. It absolutely can be the difference between a kill or not. It's also particularly good vs Priests so that you can at least force them into death after Sustain from a safer-for-your-unit high cover position etc. Stock interaction with Holo Targeting is especially nice, though sadly if a stock comes into play it doesn't do Shredder and can get reduced by armor. Still, stocks are a mainstay of my Grenadiers and Specialists for a fair while at least until I'm getting more Superior Scopes (though Advanced is at least better than basic 5%). I never really find them that useful on Rangers and Sharpshooters, but occasionally a Skirmisher might run it as well depending on what's available. I feel like Scopes are usually superior for SPARKs, but there is something to be said for running stocks if you get a decent one, especially with Hunter Protocol if you don't have a good extended mag or autoloader.
+
+u/ConstantPop4122 avatar
+ConstantPop4122
+•
+1mo ago
+I agree with most things in this guide other than the hate for snipers and sniper rifles.
+
+From early game, using a reaper and squadsight I killed all three rulers without them escaping or even getting sight of my squad on their first appearances.....
+
+On the final mission, two snipers (one with darklance, one with superior clip, both with death from above) absolutely dominated that map, 100% coverage with almost 100% hit chance of every enemy) it was almost so easy I was disappointed.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I think they agree with Sharpshooters becoming much stronger with the Darklance. I think early to mid game Sharpshooters are still viable, the strategy is just a bit more specific. I think Aim stacking on them is underrated as they are the only class to be able to consistently shoot or even kill through half cover, as you won't always have a grenade or claymore handy for that. (Also, Dodge becomes way more relevant on Legend with different enemy stats and the health pool totals.) They are good for nailing priority targets, like a lancer or field commander, and become good assassins of robotics once bluescreen comes into play. It's very specific but also no one can come close to nailing MECs, Codices, and Spectres the same way in particular. Chain Shot Grenadiers can kind of get close, but the aim is a lot worse and they have to be more in the line of fire to do so, while also not doing other grenade or shredder duties. And even then, once Sectopods and Gatekeepers come into play, Fan Fire bluescreen from Sharpshooters is beautiful.
+
+Winterimmersion
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Great write up as usually, I actually learned a few quirks I had no idea about like the katana being able to miss.
+
+u/Hectormixx avatar
+Hectormixx
+•
+1mo ago
+Another amazing guide, you sir are a hero!
+
+baddoge9000
+•
+1mo ago
+You can rest now soldier.
+
+u/BusinessCat88 avatar
+BusinessCat88
+•
+1mo ago
+I think Sharpshooters are nerfed because they encourage passive play and Firaxis wanted to discourage that with mission timers and other design choices.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+If you're killshotting with Sharpshooters and Squadsight, Death from Above is actually pretty good. It's not Snap Shot good, as you need a Training Center and RNG Run and Gun for that, but it's not bad and makes Sharpshooters a little more usable if you get past those early tougher ranks (where I'm usually just using grenades and doing my best with the rifle, height, and the pistol). Activating Death from Above is very similar to Implacable on Rangers, but earlier and a bit more specific, though you kind of need height to adjust their aim til scopes/aim PCS anyways. It's a good mobility tool, and even has a little flexibility. If you find a good perch you can even kill one unit and then chip or possibly even kill another low health unit with the pistol shot, which is handy in cities and Lost-centric missions in particular, but usually pretty bad in the sewer type missions.
+
+===
+
+I see people griping about timers and whatnot but I've never had issues handily making the timers, especially with Rangers and sometimes Templars or Grenadiers as my spearhead units. Lightning Hands helps a lot to chip enemies down for a variety of reasons, especially nice with bluescreen. There does come a point in the mid game where you really should consider running light armor on them to help their mobility with Grapple, both to get in position for distance shots and to catch up when you need to on Guerrilla Ops evacs etc. I feel like Rangers are the only other class even that competitive for light armor but those have Run and Gun and other mobility tools so I usually don't sweat it. Grapple is what elevates Death from Above into actually good and closer to Snap Shot Sniper play.
+
+u/Wonderful_Discount59 avatar
+Wonderful_Discount59
+•
+1mo ago
+I modded my game to allow all classes to use all weapons.  Snipers are so much more versatile when they can use assault rifles, or the bolt caster.  (Rookies are also a lot more useful when they can use shotguns).
+
+Prince-Ali_
+•
+1mo ago
+Do you know if put a mod on a base weapon, does the mod Carryover if the weapon gets a magnetic or beam upgrade?
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It does
+
+Prince-Ali_
+•
+1mo ago
+Thank you so much for your help, these guides are super useful?
+
+Is there a way to only see your guides in the forum? Your profile is private, which I totally get, but I'd love to be able to read through your guides one by one instead of just scrolling the xcom feed until I find one.

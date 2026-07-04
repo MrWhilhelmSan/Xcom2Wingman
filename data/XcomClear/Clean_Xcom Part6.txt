@@ -1,0 +1,765 @@
+Probably should have also done this before I went in on rating the classes but whatever I can do it now. This is a guide for how to win at the strategic layer. I’m not going to go through every little thing in depth, because that would be 10 trillion billion words long, but this should give you the tools to not just flounder around. This is more surface level than my other guides because each different section probably deserves its own guide, but this will at least get you started.
+
+Importantly, this part of the game is where cause and effect are the most disconnected. You can lose your entire run because you made the wrong decision about what building to build several realtime hours ago and not know it. If you, for example, delay building a resistance comms too late and then the avatar project kills you several missions later, you might not even realize that’s why you lost. It’ll look like the game just killed you for no reason on the strategic layer even though you were winning missions on the tactical layer. This is a guide to minimize that variance on the strategic layer, to make it so those decisions that aren’t immediately clear as to their effects have some direction behind them. The goal of this entire guide series is to take a player who can barely win on Veteran to someone who can beat L/I almost all the time, that’s what I’m here for, and this is how to do that.
+
+Let’s break it down into 5 parts.
+
+Part 1: The Reverse Difficulty Curve
+
+This is the most important thing to know so I’m including it first. XCOM 2 has a reverse difficulty curve. The hardest missions are at the start and the easiest missions are (mostly) at the end. The hardest missions of the entire campaign are Gatecrasher and the first retaliation mission, and from there the curve is basically only down. There are some small spikes, the Chosen Strongholds are harder than the average mission for example, but mostly every mission is easier than the one before.
+
+“But wait” I hear you say from behind your computer screen “doesn’t the enemy get stronger over time. Eventually I have to fight Gatekeepers and Sectopods and those are really scary!” And you are correct. The enemy does scale in power over time, but here’s the thing. ADVENT scales linearly, you scale exponentially. ADVENT gets stronger aliens every 10.5 days (14 days on legend). You get stronger every time a soldier ranks up, or you complete research, or you build a new facility, or contact a new region or…etc. You gain power at a much faster rate and your advantages compound. Getting your first sergeant gets you powerful new abilities from ranking up and squad size I. ADVENT gets at best one new alien to play with. 
+
+How this works in practice is that the early game, the first 5 or so missions, is just trying not to die. Gatecrasher especially is just gambling that your 85% shots with your rookies actually work. Then after that you get squad size I you start being on more even terms, then eventually you overtake ADVENT in power and finally blow past them and can flawless mission after mission after mission with ease. 
+
+You can roughly think of the campaign in phases: early game (before squad size I and mag weapons) where you’re weakest, midgame (before squad size II) where things stabilize, and late game where you outscale ADVENT. Your priorities shift accordingly; early you’re just trying to survive, midgame you stabilize and deal with the Avatar Project, and late game you’re just closing things out. 
+
+Now as interesting as that is, what does it mean practically? Well, that’s simple. In XCOM 2, you need to get power fast. You’re in a race and start behind the enemy, you need to catch up and speed past as fast as possible. That means units that are strong early, like reapers and rangers, are much, much, much more important than units who need to reach higher ranks to become powerful. The generic endgame tools are strong enough that rookies can make them work but in the early game you need every bit of power you can scrape together from every source. It means that building a workshop, trading engineers and supplies now for more engineers later, is a bad trade because later is easier than right now, so you need that engineer helping you quicker. It’s a principle that applies to a lot of strategy games, but you are trying to not get squad wiped or lose to the avatar project in the next week, not building your perfect squad or Averanger layout for the endgame. Focus on the short and medium term, and the long term will take care of itself. As for how to do that…
+
+Part 2: Science is king
+
+Being able to research faster is one of your key accelerants to catch up and surpass ADVENT. Research lets you unlock mag weapons to deal enough damage to late game foes. It lets you unlock predator armor so you can bring more utility items and not die to a single Sectoid crit. It lets you get all holy mimic beacons to steal enemy actions, and so on. As such, you want to prioritize getting as many scientists as you can. The faster you get mag weapons and predator armor and the rest, the better. That means if you can scan for a scientist, do it. If a G. Op gives you a scientist as a reward, you probably want to do that one instead of the others (unless the dark events on the other will absolutely screw you). It means you should heavily consider building a lab in the early game (I usually build it third, but you might want to build it first; it is that important). Get science, research important things, get power, win. 
+
+It’s not like engineers and clearing out spaces and building stuff is unimportant, it is extremely important, but science matters more. More facilities are very good, like very very good, but not as good as magnetic weapons or getting mimic beacons. To put it into perspective, I usually build a lab, explicitly trading engineering time for research speed. That's how important research is. In addition you will eventually hit enough engineers to do everything you want them to do but you will need more scientists until extremely late into a run. Both are good, in fact both are very good, but science is king.
+
+Part 3: What to research
+
+A full guide to research will have to wait, but I can give you my order in the early to mid game. It goes:
+
+Alien Biotech
+Resistance Communications
+Modular Weapons
+Resistance Radio
+Officer Autopsy
+Magnetic Weapons
+(Experimental Weapons)
+Faceless Autopsy
+Gauss Weapons
+Hybrid Materials
+Plated Armor
+MEC Autopsy
+And then…the rest.
+
+There is more to research and more orders I recommend you do it in but for now we’ll stop there. If you want just a strict guide on what order to do stuff in, there you go. But there is some flex in that. You do Alien Biotech before Modular Weapons because you probably don’t have any weapon mods to give out that early into a run, but if you find a superior scope during Gatecrasher, do Mod. Weapons first! If Mag weapons gets inspired, you might want to do them on the spot. Magnetic Weapons are slow to research even if you max out how many scientists you get so usually I sneak in Resistance Radio before it but you could absolutely justify switching those around. Maybe you do the MEC Autopsy before Plated armor that’s fine to the super exact order isn’t as important as the general “A before B” structure that gives. Feel free to swap things around. 
+
+What I don’t recommend is researching anything that isn’t on that list before everything on that list is done. Mindshields are cool, they aren’t as important as mimic beacons. You might want plasma grenades but you probably want Plated Armor more. There are other good things to research, but I absolutely make sure those 10 are done before anything else. Again there is some flex in that, but that’s my general stance. 
+
+There is one other thing I want to highlight, which is Experimental Weapons which unlocks the Alien Hunter stuff if you have integrated DLC turned on. I usually have that option turned off (that's a preference not a power level thing) but if you do have it on you want to complete that project asap once the proving ground is online to get the frost bomb (and the other stuff is good, too. But mostly you want the frost bomb). So that usually means in the sort of mag weapons - faceless autopsy range, maybe a little sooner. If you have integrated DLC turned off you don't have to worry about it, but if you do, there you go. 
+
+Part 4: What to Scan For
+
+With research covered, let’s go to you actually on the map flying around. My general flowchart looks like this:
+
+Is there a scientist or engineer scan reward? If yes, do that. 
+
+Do I have an open resistance contact and the intel to contact a new region? If yes, contact a new region. If you need to contact a new region but it's way too expensive, build a relay. 
+
+Is there a resistance contact or avenger power reward? If Yes, do that.
+
+Is there an intel reward? If yes, do that.
+
+Is there an alloy and/or elerium crystals reward? If yes, do that.
+
+Is there a soldier/ammo and grenade type/late game assorted equipment reward? If yes, do that. 
+
+If none of the above, scan a skirmisher HQ.
+
+You could flip number 3 and number 4 depending on the situation you are in, but that’s generally my priorities. These are all things that either speed up your progress or remove a bottleneck. Scan rewards like supplies or rookies are nice, but just too low impact to waste your extremely valuable and limited scan time.
+
+This priority list puts the things that increase your power level at the top first. You need scientists and engineers and you need them bad (until you are in the late game, in which case you can kind of just do whatever); they increase your power level the fastest. Contacting new regions is your literal win condition (you have to get to the forge and psi gate somehow) and it gives you more supplies every month. Resistance contacts and power cost you valuable room slots on the Avenger cheating that limit is huge. Intel is super hard to get and is worth more than gold so you want to get as much as you can. You can get alloys and elerium from clearing rooms and supply raids but you are likely to run out and get bottlenecked on things so more is always better. And scanning at skirmisher HQ speeds up both room construction and excavation rate so it is better than scanning anything left. 
+
+Again, there’s some flex to this. In the late game you don’t need more engineers, so you can ignore those rumors. If you’ve already contacted every region you need to win, then you can ignore resistance contact rumors. Maybe your entire roster is wounded and you need to scan at Templar HQ that happens. Maybe your roster is a little too thin and you want to scan a soldier rumor that seems reasonable to me. These aren’t rules, more like guidelines.
+
+Part 5: Do not Fear the Avatar Project (Too much)
+
+New players are often scared of the Avatar Project, but as a certain book will teach you, fear is the mind killer. The doom counter has to fill all the way up and then you get 15-27 (depending on difficulty) days to make it go down before you lose. That’s a lot of time. 
+
+That doesn’t mean you can ignore it entirely, do that and you will lose even if you flawless every mission. But it does mean you shouldn’t be paralyzed in fear of it. You just have to make sure you have some way to reduce it within reach. The blacksite, an alien facility, skulljacking an officer, doing a covert op, something. If the bar is 2 away from full, you need to start moving in the direction of getting one of those things ASAP, because the aliens can fill 2 bars at once. You don’t need to panic, the game isn’t over until it’s over, but you need to take action. You shouldn’t spend all your time and energy grinding it down to 0, that means you aren’t spending it on increasing your strength to overtake ADVENT’s. You just need it to be not immediately killing you.
+
+Part 6: Facility Order
+
+A full guide will come on this in time, but here is the general order.
+
+GTS
+Ring
+Lab
+Power Relay
+Proving Ground
+Training Center
+Res. Comms
+Shadow Chamber
+…other stuff
+
+You might notice that the infirmary isn’t on that list. Yep, it sure isn’t. It doesn’t increase your power as much as the things on there. You should build it eventually to clear negative mental debuffs and spend elerium cores to boost people back into your roster, but it can wait. This is my default order I do almost always, but you could justify doing the lab first. Or doing Ring-GTS-Lab, or GTS-Ring-Proving Ground. Those all work. The only thing slowing you down here is that you need power as your 4th building no matter what you build, so whichever you kick into 5th place is going to be waiting a while. I think you can get away with delaying the proving ground the easiest, and I would never, ever, ever put the GTS in that slot, but otherwise there’s some flex, as with everything on here. I’m presenting things in a linear order so people who want to can just follow a script instead of having to parse out exactly what is best.
+
+I'll also point out that if you do Res. Comms in that order you will absolutely have to (on Legend) do a covert op that reduces the Avatar Project to not die. Now that's no problem one is always offered eventually, but it is good to know!
+
+Conclusion
+
+There is a lot more to go over in this part of the game, too much to cover in one guide. I think literally every section deserves its own full guide at some point, but I gotta stop somewhere, so I’ll stop here. This gives you a direction you need to go, a general framework to follow, and just an example to work off of is usually very helpful. The general way to think about this layer is you are trying to accelerate the rate at which you gain power, and then use that new power to gain even more power, then use that new power to go even further beyond and get yet even more power, then you win. That’s the gameplan, catch up and then blow past ADVENT as quickly as you can.
+
+Here is a link to the index with every guide in it: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+137
+
+Downvote
+
+74
+Go to comments
+
+
+1
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Do people want me to do utility items or the wotc classes next? I have both the utility item and Reaper guides written but I want to know what the people want.
+
+u/V-Lanner avatar
+V-Lanner
+•
+2mo ago
+I take great enjoyment in reading your guides, so it's a win-win for me. But I would be interested in your views on utility items.
+
+darkdiashi
+•
+2mo ago
+The classes guides are the most dazzling and such, but you may as well do Utility next to get it out of the way, before switching over to focusing on classes again
+
+u/SlavaUkrayini4932 avatar
+SlavaUkrayini4932
+•
+2mo ago
+I'd say the items, since most of them are available in the base game and I prefer to recommend to play the base version to new players before jumping into WotC.
+
+TenMinJoe
+•
+2mo ago
+Loving these guides so much, thank you! I vote for utility items
+
+Sucram-Bunsib
+•
+2mo ago
+Utility items!
+
+u/MATCHEW010 avatar
+MATCHEW010
+•
+2mo ago
+Would you mind unhiding your post history so i can find your previous ones!?
+
+Ah ignore me. Seen the index.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea I made an index, have fun!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You know I was sure people wanted the next classes but I was wrong. Utility items it is!
+
+dwhite10701
+•
+2mo ago
+I've played this game for years and beaten it on every difficulty (though never LI or LI with no deaths, like the OP). In that time, I've stressed so much on finding additional engineers and have prioritized them over absolutely any other reward during the early game. I don't think I've ever treated scientists as anything more than an afterthought.
+
+Thank you, this guide has given me a lot to think about.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The thing is, scientists are really valuable for whatever you're rushing, with Magnetic weapons being a good choice. After that, with some possible exceptions on Legend, the game just isn't nearly as hard as the start. Mimic Beacons and Frost Bombs are pretty early in the game and remain very strong through pretty much all of it, giving you a LOT of wiggle room for mistakes or to soften RNG on Aim etc.
+
+===
+
+I also value engineers highly because they wear many hats at once. Excavation would still be worth it even if it didn't give resources directly for doing so, but faster and more often Excavation is useful for a fair while because of it. And most facilities gain benefits (sometimes the whole main point of them) with staffing, so there is a lot of opportunity cost with engineers up until about 6ish or so. This, ironically, is why I think the Workshop is so much more worse than the Lab. The Workshop nets you 2 engineers at best for a HEFTY investment cost whereas scientists really only have one purpose. When you first build a Workshop is a net of one engineer for power and supply cost, and only gets more irrelevant as an option down the line. The adjacency aspect is just what completely kills it. If it was rebalanced to provide gremlins that could fill any slot it might be worth it sometimes. But as is it's so niche and such a hefty cost for getting barely anything at all out of it.
+
+Djscratchcard
+•
+2mo ago
+As far as facilities go, where does the workshop fall for you? I usually try to build one to staff power relay and res comms. Not sure if that's needed or if I'm just hurting progression
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Never. I never build it, it actively harms you when you build it. I briefly cover why here (trading power now for power later in this game is a bad deal), but basically you trade so many supplies, engineering time, and an open slot to build things when you could've just built the thing. You're slowing yourself down for basically no reason.
+
+baddoge9000
+•
+2mo ago
+Amazing, thanks for your effort. Would've been legendary(pun intended) 10 years ago.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Well 10 years ago I was a middle schooler (yes, that was to make you feel old) so I probably couldn't have written this.
+
+baddoge9000
+•
+2mo ago
+Oh wow, so ur like 21-23? You're young bro, nice work.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+A little older than that, but yes I am fairly young.
+
+baddoge9000
+•
+2mo ago
+Cool, so what's next on the list?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Utility items seems to be the people's wishes
+
+baddoge9000
+•
+2mo ago
+Yeah, sounds about right. BTW you probly answered somewhere, but how many hours u got on xcom2?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I think I just crossed the 3700 line while making this. 3550 on steam and 150 on xbone (don't... don't play this game on xbone, but my computer was broken and I was desperate).
+
+baddoge9000
+•
+2mo ago
+Damn, thats crazy amount. I think I got just over 300 :(
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I may be a little obsessed. If you can't tell by the 6000 words you just read ;-p
+
+1 more reply
+u/WindowSeat- avatar
+WindowSeat-
+•
+2mo ago
+Great guide as always.
+
+How do you get Faceless corpses early to actually craft Mimic Beacons after researching them, though? Are you only guaranteed one corpse per retaliation mission and the rest come from random missions?
+
+I'm doing a campaign with Lost and Abandoned disabled for the first time, idk if that matters, and I don't think I've seen more than one or two Faceless so far.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+We've all done it! "Oh sweet early meme beacons....wait..."
+
+I put them in my order where they are because that's usually right after you do the 2nd retal mission and have enough corpses.
+
+u/WindowSeat- avatar
+WindowSeat-
+•
+2mo ago
+Do Faceless spawn in any mission besides Retals?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+They spawn on savage sitrep missions, a chosen who has beastmaster can summon them, and the alien infiltrator sitrep causes them to spawn, but normally no they do not.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The hardest missions of the entire campaign are Gatecrasher and the first retaliation mission, and from there the curve is basically only down.
+
+I agree, though I'd add the caveat that I agree with what someone brought up that Legend has a second difficulty bump when you first see Berserkers in a retaliation mission. They're trivialized a little with haven missions that give resistance units, but they're damage sponges if you encounter them with just magnetic weapons. If you don't build a lab I feel weapons tech doesn't feel QUITE punchy enough for a while on Legend. Magnetic will keep pace a little before falling behind when more armored units are more frequent, or if Chosen Training gets to higher levels. IF you can manage the Berserker retaliation without too much injury, then I'd say you're probably golden to finish a Legend campaign. IMO it's a benchmark similar to when you face Chryssalids on Impossible in Enemy Unknown, as a make or break on whether you've progressed enough to deal with enemies tough-ish for your level.
+
+===
+
+Magnetic Weapons are slow to research even if you max out how many scientists you get
+
+I tried this on my last Legend run, rushing Magnetic weapons nearly as fast as possible from good inspiration and timing (and I think I bought a scientist from an early Black Market IIRC, perhaps also getting an extra from Dark Event G Ops or Covert Ops). The trade off for this though is I had to dedicate a LOT of my Resistance Ring time in the early game to Sabotage missions to keep the Avatar Project in check as the Proving Ground was probably a little slower than was most sensible. Rushing Mag weapons ASAP is a huge opportunity cost on Legend, it's less of a risk on Commander. The player Syken manages with ballistics longer than I'd expect on Legend but I see his rationale at least, as he's also pulled off some crazy hard plays.
+
+===
+
+Mindshields are cool, they aren’t as important as mimic beacons
+
+I agree, though if you get Warlock first on Legend I'd say SOME consideration could be given to a Mindshield or two, realistically for your Rangers as they won't have a Spider Suit yet or likely even Talon Rounds. Sectoids are not at all in short supply in the early game, it's just a question of if you can spare the Supplies. With a Mindshield or two you can start farming AP with Warlock kills at least since the second encounter with him as your first Chosen (the first retal is rough but theoretically doable). However AP farming is absolutely a mid to late game consideration for advanced players and I get what you mean about pushing through the early game. Mimic Beacons and Frost Bombs are by far your best tools early on and throughout. Indispensable on Legend especially as I typically drop Mindshields for more alpha striking stuff by mid game.
+
+===
+
+Intel is super hard to get and is worth more than gold so you want to get as much as you can. You can get alloys and elerium from clearing rooms and supply raids but you are likely to run out and get bottlenecked on things so more is always better
+
+For impactful upgrades I'd actually recommend trying to stockpile Intel for the Black Market. An extra engineer or weapon upgrade (possibly also needed for Predator armor) will pay dividends the sooner it can go online. Supply Raid missions appear often enough in the early game you don't have to sweat it a lot, but upgrading Shotguns and to a lesser extent Mag cannons is pretty nice. Sharpshooters aren't yet strong enough to sweat their mag rifle on Legend.
+
+===
+
+I think you can get away with delaying the proving ground the easiest, and I would never, ever, ever put the GTS in that slot
+
+I've been watching Syken's L/I Grim Horizon Exquisite Timing guide and I was shocked by the take that he put off GTS way longer than I thought would be reasonable. But I think he's supremely comfortable with just ballistics and no squad size upgrade from his expertise and Aim management. I do agree with you, but it is interesting that it is theoretically possible to delay it as Squad Size is by far the main reason to build GTS, with a side of rookie training if you go for it early.
+
+u/syken4games avatar
+syken4games
+•
+2mo ago
+It was less a matter of "wanting" to push it back, but Exquisite timing is tuned for commander difficulty with the achievement. On Legendary it takes twice as long to do anything and you have the exact same time available. As a result to make it even theoretically possible, you end up with needing to sacrifice everything on the way and simply play with one team, no upgrades, nothing and go on the last mission with 3 chosen.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh snap, cool to see a response directly!
+
+As I posted elsewhere it was just interesting and impressive to see that it was even theoretically possible. By which I mean it feels fairly self evident that stuff like faster Excavation speed and instant Resistance Contacts have tangible value for speed. It was moreso that, for me, on Legend I felt perpetually "behind" on the power curve when starting with ballistic weapons and squad size four, with upgrading both being something that helps even the odds a little. I just winged it and took 60-70%ish shots a lot in the early game and adjusted as needed. But it's been interesting watching the Grim Horizon guide to learn how often you stay back in full cover and sometimes do subtle things to help Aim. Sectoids are my main struggle with early Legend but I was diligently noting how much you made it look easy (or easier), even with bad pod pulls, which is usually when injury or death happens to me compared to methodical engagements.
+
+u/syken4games avatar
+syken4games
+•
+2mo ago
+You might want to check out my Xcom2 Enemy Behavior Guide- you can look up the 10ish videos if you search in youtube if you want to.
+
+A lot of the way that you manipulate the AI boils down to understanding what it can and cannot do in the different situations. That will save you a lot of headdache in dealing with them. Easy to learn a bit, hard to master.
+
+Also, I am typically monitoring reddit for my name, so that is how I can to this disucssion, in case people have questions.
+
+Cheers,
+
+syken
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I've been going through it lately actually! A lot of it is just stuff I naturally noticed in my own runs, most pointedly how to manipulate Sectopods to get two turns to take them down (though I have gotten better at blasting them in one). I highlight Sectoids because on Legend it's a damage sponge where a Ranger slash doesn't quite cut it anymore in the early game. They're quite easy in general if they do a psi ability and almost any one of them. The trickier part for me is what if they mind control and you can't break the control on your next turn? I tried taking some flashbangs in the early game but it wasn't ideal, especially because a soldier with one might not be in a good position. From watching other stuff it just seems like you lean harder on regular grenades to soften up and break cover, and yeah I've learned too that the humble grenade into plasma grenade remains one of the best tools throughout. But from glancing at your Sectoid guide perhaps I should try to manipulate them into Reanimation more. I felt I got hit with Mindspin a ton in the early game but that may just be how I was prioritizing targets.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea on Exquisite Timing runs you are forced to put off the GTS a long time. You don't have time to not have the proving ground. But lord knows that isn't what a newer player should do. I mean, you can beat the whole game with only 4 units, doesn't mean you should!
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+For sure, it was more just interesting that ballistics plus squad size 4 was even viable that long. Two of THE most impactful upgrades and he just... went without. They're both some of the best action economy choices in the early game so it's fascinating to see different tactics, especially with him not struggling against Sectoids like I sometimes can.
+
+MJtheJuiceman
+•
+2mo ago
+
+
+Will will speak of your valor in Valhalla.
+
+u/DerAva avatar
+DerAva
+•
+2mo ago
+I'm not sure I see the reasoning for delaying mag weapons. Maybe you are gambling on having a 2 region continent start and are hoping for a decent continent bonus, but I take consistency over gambling, and mag weapons is a big early power spike. Tech costs are static, you will not get it faster by waiting longer and any tech that delays mag will delay that power spike without giving you any meaningful compensation.
+
+ThedarkJosh
+•
+2mo ago
+Guides are cool. Are they mostly for Ironman top difficulties? I’ve never used a mimic beacon but also never played on the highest difficulty
+
+biketheplanet
+•
+2mo ago
+If you haven't ever needed a mimic beacon, I'd say that is a good sign that you need to play a higher difficulty level or add som AI enhancing mods. And play Ironman if you are not currently doing so.
+
+ThedarkJosh
+•
+2mo ago
+I’ve beaten long war and long war of the chosen iron man on the one under the highest difficulty with no mimics so you’re probably right
+
+u/Oceansoul119 avatar
+Oceansoul119
+•
+2mo ago
+No. Mimic beacons are utterly unneeded regardless of difficulty but then this guide is written by someone who thinks snipers have worse aim than grenadiers.
+
+Shawn_NYC
+•
+2mo ago
+I'm currently in my first playthrough. How does the shadow chamber research fit into this? I noticed it pauses my science research. I prioritized doing the shadow chamber research because it feels like the story was pushing me in that direction. But the rewards don't seem that great and it blocks me from getting the magnetic weapons everyone keeps talking about.
+
+u/LightningTP avatar
+LightningTP
+•
+2mo ago
+The game is constantly baiting you into prioritizing story missions. Also, if you didn't notice, COMMANDER, THE ALIENS CONTINUE TO MAKE PROGRESS ON THE AVATAR PROJECT. But in reality, taking the bait actively hurts you. Story missions are generally difficult and reward nothing except some blocks off avatar project. Skulljacking the officer enables codex spawn which you wouldn't get otherwise. Further missions also have some nasty surprises (no spoilers). Shadow chamber research offers no gameplay rewards whatsoever.
+
+I highly recommend postponing all of it as much as possible. There's no actual downside of letting the avatar project get to full as long as you have a facility ready to kill. Also, covert ops to reduce avatar progress are invaluable. And let Central beat it.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You can literally stall doing those for like...months. Basically the time to do those is if you are feeling threatened by the avatar project or if the thing you are currently researching isn't that good but you're blocked from researching something better. Otherwise you can wait a while.
+
+becircus
+•
+2mo ago
+It's been a long time but a more reliable way of playing especially on Legend is to do Officer biopsy as soon as possible (Alien Biotech, Officer Biopsy) then build your Proving Ground.
+
+With Proving Ground you can access SPARK which is basically broken with three shots with overdrive. All you need is adaptive aim and superior scope and you will get your three shots. With skirmisher that is two more shots.
+
+Delay resistance communications as long as possible. Because if you lose when you only have 1 region, you lose 0 regions. That gives you a lot more flexibility. And the first alien blacksite is guaranteed to spawn 2 regions away from a region you own. So there is no point expanding further early except for money, which can be handled by the Black Market and careful use of money.
+
+You can also build Psi Lab much sooner than most people think, and get Psi Operative right around archons. Most people deal with archons with stock, but with a psi operative you can not only deal with archons but andos and all the manner of mini boss enemies. Stasis the boss, kill the trash when it comes out of stasis it faces the full wrath of your squad
+
+Finally with the Bradford DLC you can get tons of weapons mods and powerful weapons right from mission one
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I disagree. Getting a spark early is good but it actually depends on your settings. If you have integrated DLC turned on it costs 150 supplies, 2 cores, 30 alloys and 10 crystals. That is very pricey for a unit you won't get for a while even after you click to buy it. If you don't have integrated you are either doing the mission (in which case the proving ground isn't useful) or you can just...buy one. Now that's more appealing not more not appealing than squad size 1. Probably worth bumping the proving ground to 3rd instead of 5th, but not that big a deal.
+
+The best way to not lose regions is not lose missions, and contacting at least 3 regions gives you your choice of which dark event to stop and what reward to get. That's more scientists, more engineers, and having less crippling dark events. Also more supplies per month and a continent bonus that ranges from mediocre to absurdly powerful.
+
+I wouldn't recommend new players to build a psi labs. Yes psi ops are ridiculous but it's just unnecessary to see the credits roll. You'd be better putting your time and energy into the extremely powerful classes the game hands out for free when you rank up a rookie or complete a covert op.
+
+becircus
+•
+2mo ago
+I believe another reason to rush proving round is experimental weapons and ammo. That will increase your damage and apply malus to enemies to mess up their AI much faster than getting mags. Proving ground can also be your first building under certain settings. If you manage your money and excavate correctly and sell the bodies, you can make the cost.
+
+A lot of the difficulty early on is just because your weapons do not do enough damage. Experimental ammo solves that problem early and cheap. And of course the very broken frost bomb.
+
+Delaying resistance comms building actually makes sense once you see what it does. It only gives you more regions and you don't need it to get the first three regions IIRC so even if you want three you can still get it. Meanwhile resistance ring gives you the broken covert ops and reaper and very shortly skirmisher. More regions is not life or death. Frost bombs, fire ammo it is all life or death.
+
+Also a lot of reason why people die in higher difficulty is not getting plasmas fast enough. As soon as Mutons show up you kill one and autopsy to get plasmas, no matter what. If your proving ground is not ready by then because you delayed it, god help you
+
+Once you stasis, you never go back. Check enemies like archon, ando, sectopod. The counter to everything.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Proving ground (unless you spend an engineer to build it faster, which I don't think you should do) takes 28 days to build, then another 10 for experimental ammo, and that's just one of them. You might be able to sneak one in before you do magnetic weapons, maybe two, but that's a rather thin play. If you want to do more damage faster then a lab will work better.
+
+I wouldn't ever recommend the proving ground first, squad size 1 is probably the highest power spike you get. And you can get a sergeant before you even finish building the GTS if you build it first. There is absolutely no reason to ever slow that down.
+
+The res. comms building you can delay for quite a while, I do in the example above, but you can't delay it forever. You will need to expand to win the game eventually, and doing so has plenty of other benefits.
+
+I don't think plasma grenades are that big a break point imo. They are certainly helpful, very helpful. But you probably start subbing out grenades for rockets and experimental ammo and mimic beacons around that time anyway. And if you don't have predator armor yet the choice between meme beacon and plasma nade is not a hard one. They are good for sure but not that good.
+
+Statis is broken, absolutely. The 2nd strongest ability in this game probably, but you don't need it. And its random when a psi op gets it. And if you put the effort into building a psi lab into things that gives you more up front power then you can push through those enemies anyway. Psi ops are fundamentally a win-more option, they simply increase your power in runs you've already beaten. Once andros and sectopods start showing up the game's over and you've run. You might fuck up and lose a soldier here or there but the generic tools at your disposal are powerful enough to make a comeback from literally nothing.
+
+becircus
+•
+2mo ago
+I only played on legend difficulty and the most reliable way was Proving Ground and Resistance Ring. The two most powerful buildings are Proving Ground and Resistance Ring, for what they give. One gives broken weapons and the other gives covert actions for your bench and resistance orders. Comms is long term economy and doesn't directly increase the lethality of your squad.
+
+Squad size +1 when you only have machine guns isn't going to do much, unless you use two grenadier. But you can also run two grenadier with four players, and delay leveling snipers. If you have a proper squad loadout, +1 soldier isn't that powerful. Another reason is you can spread out the XP. You say it is easy to get a SGT before GTS is done and it is, but if you bring 4 rookies on the Reaper mission, you can get 4 more squaddies. I would rather have many, many squaddies than one super squad with a SGT, so the GTS is not as valuable to my playstyle. My bench is deep, with ten squaddies by the end of the reaper mission. Because a grenadier is incredibly useful and you can get really far just spamming grenades.
+
+Proving ground + resistance ring is very powerful. And you don't have to build another power to get it, which is another gain. If you have to build a power to get the proving ground, that's where people run into trouble and delay it for far too long. I consider stasis the strongest ability in the game because nothing can block it and it hard counters everything.
+
+Not saying any of this is the only way to play and mostly recalling from memory since it has been years. Cheers.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You make good points, and I'll consider incorporating them into a later run I do. Squad Size I allows you to have some "dead weight". No class is useless but some classes get online later than others. Even though I think Reapers are the strongest start, at the same time their damage leaves a little to be desired until they get Shrapnel. By rushing GTS you can have "four real damaging soldiers" plus a Reaper scout for ironman, or whatever other soldier that might be a little low damage or low rank to get a leg up. An extra grenade also doesn't go amiss but an early claymore is similar if not a bit stronger. If you're fine bringing four top performers you don't need the GTS rushed.
+
+Also one thing I didn't realize until recently is how much Integrated DLC makes a difference. IMO, if you have it off and have the special missions instead, Skullmining is one of the only decent options in the early game for Proving Ground, as you'll be short on alloys and elerium especially at times. Integrated DLC integrates (hah) powerful options to incentivize the Ground more. It's easier and faster or just about as fast to play with The Nest and get the base weapons, but really only the Frost Bomb and Hunter's Axe matter.
+
+becircus
+•
+2mo ago
+The "real damage" in the beginning are shotguns and grenades. Until your weapon tech catches up nothing beats shotgun with crit laser right in the face. And since you are running rangers you don't necessarily need a reaper early. Instead you run Mox, since he has two shots and grapple. All about the action economy and bonus actions. I don't even bring a sniper until very late. I like putting battle scanner on grenadiers.
+
+If you have a squad with SPARK and overdrive and adaptive aim and superior scope, a skirmisher, bonded teammates and a couple broken weapons like bolt caster for the hacker and frost bomb for the grenadier, you have basically won the game if you make optimal moves. You have enough alpha strike firepower, especially once you reach mags but even before if you have experimental ammo. This is without researching gauss weapons, plated armor or plasma. All the action economy you get just breaks the game
+
+I forgot how broken skull was. Another reason to get proving ground, so you can instant kill trash with your hacker.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Mox locks you into an Assassin with Shadowstep as your first Chosen. (ALSO, no starting hero unit to level and use as you prefer for a few missions.) Not insurmountable, but a caveat as few to no rewards are truly "free". Just different pros and cons. I personally don't mind Skirmishers as I think they are strong enough in the early part of the game before other soldiers can get Grapple (plus the double shot remains useful), but I know the consensus is that Reapers, then Templars are the preferred hero units. Psi Soldiers are obviously strong but they take more time to get going. Training them on Legend is painful in particular.
+
+I found value with an early Bolt Caster on a Specialist but honestly I'm not a huge fan of it, at least until bluescreen creates a hilarious robot deleting shot. Doing damage "every other round" when Specialists are already kind of lower on damage potential is questionable. You might be able to optimize blue moves, Combat Protocol, and a reload into stationary shot but it's even more setup than a Sharpshooter, which at least has better ammo and the pistol isn't terrible. I haven't really messed around with it on Ranger so maybe crits as well as some stuff like Run and Gun or bonds might be something.
+
+becircus
+•
+2mo ago
+I always played with the mission enabled so always got reaper and skirmish shortly after. The reason is you bring four rookies to the mission and get four free squaddies more grenadier a second bench everything.
+
+OP is right that difficulty is front loaded and bolt allowing you massive damage and potential stun, frost bomb and maybe psi lab rush just breaks the action economy of pods. Anything expansion increases your power curve. Every other round is fine if you kill everything, stand still to reload, move up kill everything over and over. The aliens dont get a second round or rarely do as long as you keep up with upgrades (plasma, bluescreen, etc.)
+
+Templars are not preferred because of double popping pods and reapers are very situational (need cars to ignite etc.)
+
+u/V-Lanner avatar
+V-Lanner
+•
+2mo ago
+This guide is great and was very encouraging on how I have been growing as a player. I haven't played Xcom2 since 2016 but thanks to ChristopherOdd's season 10 I recently got back into it.
+
+Having said that I have restarted 3 times. The lessons I learned are echoed in your guide. So I feel a bit validated that I'm understanding the game on a deeper level and I have the right thought process/priorities.
+
+On your guide you touched on this but I think there needs to be a greater emphasis for new players that: There is no time limit (sorta).
+
+As long as you can keep the Avatar project from fully completing (hell even if it completes it still gives a count down to push it back) you can play for as long as you want.
+
+Advent only scales to a certain point and while technically so do your soldiers their cap is at a much higher level due to research as you stated.
+
+So there's no need to rush the story and you can take your time as long as you continue researching and keeping your soldiers leveled.
+
+I think new players feel pressured to do the story stuff asap and not take the steps needed to get into that end game properly.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea a full guide for the Avatar project will happen eventually (I had too much ground to cover on this one so I had to be brief) but you are exactly correct. You lose when the clock hits 0. Not when it's 1 hour away from 0, not when the bar fills. When the doom clock hits 0. As long as you have a way to stop that, literally anything, then chill. Don't go fighting the sectopod in the forge mission in kevlar, you don't have to!
+
+u/V-Lanner avatar
+V-Lanner
+•
+2mo ago
+Can't wait! And to your point about flexibility, I got a bad RNG roll after gatecrashers and 4 of my soldiers received neg traits. (1x Sectoid panic, 3x panic when a squadmate panics. So I went Lab -> Resistance ring -> infirmary because I was getting close to being forced to pair them up with sectoid. I figured getting rid of sectoid panic now will save me a headache later and the other 3 can get cured whenever since nothing really panics anyone until later.
+
+u/Lighty539 avatar
+Lighty539
+•
+2mo ago
+Another great read. While I have started a L/I run and are some months in, I might have messed up on the strategic layer. Due to breakthroughs and FOMO I do not have Plated Armor and have lost several of my higher level soldiers and the frost bomb + gas grenade :/
+
+As for next guides, I will take either :)
+
+I already learned to check for which chosen I can face the hard way. The Warlock mind controlled 3 soldiers and used their grenades in lost missions, so I was in panic mode to control the hordes and unfortunately lost 2 soldiers. Had I focused on mind shield instead of nades, I could probably have handled it without trouble.
+
+Lost my highest level, a reaper on retaliation as a soldier got scared/rampaged by lost -> charged and pulled all Advent pods, which found my scouting reaper and murdered her :( I am thinking that maybe going to cover is not always great with her. The enemies will seek their own cover and ended up flanking her from the other side of a tree.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Breakthroughs...aka the game baiting you! Yea they just ain't worth it. You don't got time to burn!
+
+u/vince_vulgar avatar
+vince_vulgar
+•
+2mo ago
+I'm playing vanilla and trying to get through my first I/L run. I've been going GOps into AWC. I think the random bonuses and (crucially on Legend) heal time are valuable early. Then I usually go Power into Comms unless I get free power then I go Proving Grounds. Any suggestions?
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+2mo ago
+Intel should be not a problem after you research skullmining in the proving ground. If you have a specialist in the team with a skulljack you can get intel with skullmining in 2 out of 3 missions. This can produce one third of your intel alone. Intel will not be in short supply if you do this. There is also a lot of intel to be gained by hacking lamp posts. The skulljack helps in this too because it provides a 20 point hack bonus. This is why I regard a skulljack a 5 star item (must have equipped in every mission). But my combat strategy doesn't rely that much on mimic beacons. I usually have one on my sharpshooter but that's it. It's not used in most of the missions and is just there as a get out of jail free card in case I need it. My mimic beacons are haywired enemy MECs. That's something the skulljack also helps with because of the hack bonus.
+
+Getting an early lab is possible but puts strain on the energy of the Avenger. The additional research of a lab is worth two scientists. The more scientists you have, the more diminishing the effect is because of how research works. If you have difficulties to hire early scientists it can be worth the investment. It's like the workshop for engineers in that regard.
+
+A lab also provides a better breakthrough chance. However breakthroughs don't profit from the research bonus of the lab nor from more scientists. They always have 5 days research time no matter how many scientists you have. For a lot of breakthroughs it's questionable if you want to sacrifice 5 research days, at least in the early game. If you get an early conventional weapons bonus, that's great. +1 damage to ballistics weapons, pistols and swords helps a lot in the early game and can reduce the need for early magnetic weapons. However you need a lot of luck to get this.
+
+Instead you could get a proving ground running before your first power relay, which essentially also is a research facility. That one having a month earlier could be worth more than the research bonus for one month with a lab. In one month you can research 2-3 proving ground projects. If you have Shen's Last Gift DLC with integrated content, building the proving ground unlocks Mechanized Warfare which unlocks SPARKs. I'm inclined to favor the proving ground over a lab when you have Shen's Last Gift integrated. If your first found base personel was an engineer the proving ground should probably be favored because you can staff it with an engineer to save 50% project time. That's worth a lot more than 1 staffed scientist in a lab because that scientist doesn't save 50% research time.
+
+Early lab is a gamble for good breakthroughs, while early proving ground is reliable research. If you don't want to go for breakthroughs I would also say favor early proving ground instead.
+
+Autopsies:
+
+This depends on the first Chosen you face. If it's the Assassin, do a early Advent Trooper autopsy because it unlocks battle scanners. Battle scanners help a lot against the Assassin. They are much better than specialist's Scanning Protocol which you might not even get that fast because you need a specialist lieutenant for this. Also scanning protocol competes with Field Medic which helps to keep your troops alive and revived. I am not a big fan of scanning protocol. I'd rather have scouts and battle scanners.
+
+All other autopsies are probably worth doing as soon as they are unlocked. Maybe the Faceless autopsy can wait until you have a handful of corpses because you need faceless corpses to profit from the autopsy.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I never use skullmining. 30% failure rate and can do damage to me? When I could bring any other item that has neither of those problems? Nope, not for me.
+
+Any haywire chance under 100% should be regarded as 0% because it buffs the enemy if it fails and ends your turn. While skullmining boosts your hack, it doesn't boost it enough to get to 100% shutdown without further investment and I could get the exact same result by just throwing a mimic beacon. And I don't even need to be fighting a specific enemy, it just works.
+
+No matter what your third building is your next building is always more power, the game is set up for this always to be the case so the power strain just doesn't matter. And while yes eventually the lab is redudant XCOM 2 is a race to get as much power as fast as you can to catch up to and then blow past advent. The boost to research early is so valuable that the lab is in heavy contention to be the first thing you build. It's just that good.
+
+Breakthroughs are the game baiting you into doing something dumb. You should ignore everyone that shows up except +1 mag and/or beam damage. And even then, yea you can probably skip it. Got better things to do.
+
+For autopsies you should just wait until they are instant if they aren't faceless/mec/muton. They just don't do enough and are eventually free.
+
+And I've said this before. But you should never take field medic, it does nothing. You can go read my specialist guide if you want a full (and I mean full I spend like 1500 words on it) breakdown as to why. It's bad, don't take it.
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+2mo ago
+There are always tradeoffs. I bet that that other item instead of a skulljack can neither produce intel, which you seem short of and also does not have a 70% chance of instakill an enemy. Everything else is risk management. Yes, it does have a 30% chance of not working (while still doing guaranteed damage), but a specialist does not work on his own but is part of a team. Also, if a skullmine attack misses you get refunded an action in WotC which can be used for both attacking and moving, so that's essentially like having a better version of Implacable *on a miss* which is fantastic. A missed attack doesn't end your turn! Perhaps you could try it out and see if it can improve your strategy?
+
+The same goes for haywire. If it fails you have a alternative plan on the ready. You never do this as the last action of the team. Do this as the first action of your team and build your plan around it. MECs have a comparatively low hack defense (30 points lower than a codex, 80 points lower than a sectopod).
+
+When a specialist learns haywire he has leveled up 3 times improving his base hack stat from about 50 to 65. Covert missions can raise the hack stat even more. Further raises can be made by rewards for hacking towers (lamp posts), which give a permanent boost of +20. A gremlin mark II gives a bonus of 20 and the skulljack gives another 20. With two hacking rewards you are at hack 145. Now in WotC there is the resistance order "Information War" which lowers the hack defense of every enemy by 20. Even missing one of these haywiring a MEC for control has a chance of 95% in legendary difficulty. If you get another soldier rank (lieutenant) you are at 100%. In the mid game hacking a MEC gets pretty reliable.
+
+Field Medic competes against scanning protocol which I deem next to being worthless in the presence of scouts (especially a reaper with target definition) and battle scanners, also bladestorm rangers against chryssalids, so that's essentially a free perk. Since you not only can heal with a medikit but also revive, which cures negative mental status effects (including shadowbind by a spectre, being hit by a stun lancer and so on) I think field medic is much better. But of course playstyles are different, evaluations too. I don't have a problem with it.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I've used skullmining a few times and I just prefer to bring BS rounds/mimic beacon as my items. Skullmining has a fair few strengths but it's just outcompeted in the end. I actually think skullmining is better on rangers funnily enough just as run and gun on a stick. You hit they take 2 damage and kill the enemy, not bad, and if you miss you shotgun them in the face and kill tue enemy, which is better! It makes a decent candidate for their utility item slot before you put them in a spider
+
+I'd rather not plan around something failing that hard when combat protocol solves the same problem. Combat protocol does half a mecs HP (well, on average, Mecs have 9 and they do 4.5 on average) and that makes them super easy to clean up. Switching an enemy to your side is a huge swing in your favor, that's true, but it's also true that to win the most consistently you shouldn't play to high rolls but to the most consistent play, and it's just better to kill them and move onto the next enemy. It is not hard to get 100% to hit on a enemy that doesn't take cover after all.
+
+And yes you can stack hack high enough to make haywire protocol work but you could've spent that effort doing... anything else. Instead of stacking hack you could've been stacking promotions, or aim, or mobility, or anything else. Why are we putting so much effort into this one skill when we could have gotten a captain instead?
+
+And yea Scanning Protocol isn't anything super good. It has its uses against the assassin and lids but it's not crazy. But that's not field medics competition. Field medics competition is bringing an item other than a medkit on your specialist. It is the only skill in the game that requires a specific utility item. Literally the only one. And medkits, in this game, or bad items. You shouldn't build them. They do not much of anything.
+
+A full explanation of why is going to have to wait a little bit (it is in my utility item guide and it is long) but the short version is that X2 is about alpha striking, but killing the enemy before the ever take a turn, not healing after the fact. And with extremely powerful stun tools like flashbangs, mimic beacons, ans frost bombs that prevent more damage than medkits, even with field medic, could ever heal the use cases for medkits collapse into basically nothing.
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+2mo ago
+•
+Edited 2mo ago
+I didn't know that rangers can use skulljacks for skullmining. I never assumed they could because they have no hack stat. This indeed would be interesting. Another source of run and gun.
+
+My standard equipment for rangers is a hazmat suit so they can run through fire and acid and some ammunition. Skullmining kills purifiers without them exploding so someone giving a skulljack who has a hazmat suit would also be a nice synergy in case the skullmining fails. If the skulljack attack fails an action is refunded which can be used with run and gun to get the kill anyways.
+
+Mqken2
+•
+2mo ago
+I remember when someone first posted their playthrough many years back on this sub, where they told us to always rush lab as the first room to build on the avenger.
+
+Now it's pretty much considered a great if not meta strategy, which is awesome to see. I think recent year ChristopherOdd playthroughs he's rushed labs and seeing those powers pikes early is so crucial and makes things so much easier.
+
+u/remillard avatar
+remillard
+•
+2mo ago
+This is fascinating and I will try it out. The overworld parts are kind of stressful.
+
+So what is your opinion on the RED CRITICAL EVENTS. Maybe I'm scanning for a scientist, but then RED CRITICAL EVENT comes up. If I said ignore it, it really advises against this. Are there some of these which can be delayed or put off? The fact that the game makes me click twice to keep doing what I'm doing is... kind of irritating frankly but maybe it's well warranted.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You shouldn't ever skip missions. Do every mission that's offered to you
+
+u/remillard avatar
+remillard
+•
+2mo ago
+Okay. Well that's good to know because there's that tension of trying to get done what I was intended to get done, or go off on the mission. Thanks!
+
+machine1979
+•
+18d ago
+When do you decide to go for key missions such as Blacksite or Stronghold assaults? I tend to delay these as I wait to gain power, but then so do the chosen gain strength as time goes on. Do you go for them as soon as you can or do you wait? If so, for what?
+
+u/hielispace avatar
+hielispace
+OP
+•
+18d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Kind of whenever honestly. The stronghold assaults you want to do ASAP because the Darklance/Katana are instant win buttons (assuming you think your squad can handle it, but they probably can) the others you do whenever. I usually do them "early" but only because it feels dumb to leave them on the world map forever. It doesn't really matter.
+
+u/XCOM_Finx avatar
+XCOM_Finx
+•
+2mo ago
+The cynical in me was 100% expecting you to shit on Scientist and the Laboratory and force me to write a reply about how valuable they are. Well kudos to you for subverting my expectation :D
+
+I will always remember my L/I 4 mans/deathless run in which the stars aligned scientists wise combine with a lab rush and the Templar Pursuit of Knowledge order. I managed to tech up to Beam weapon by the time Spectre started to show up... Yeah it was very fun to massively out scale Advent.
+
+Come to think of it i've missed your Grenadier and Specialist guide, not that I need them but admittedly these guide have been a pleasant read so I should check those as well.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Labs are so cracked. Science is king!
+
+If you missed any of my guides I linked the index to all of them at the bottom if you want to check them out.
+
+dwhite10701
+•
+2mo ago
+I just started a heavily modded Commander run, and just last night I decided to build a Lab (instead of Proving Grounds) because of this guide. Let's see what happens.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's probably less necessary on Commander because research times are shorter, but we'll see!

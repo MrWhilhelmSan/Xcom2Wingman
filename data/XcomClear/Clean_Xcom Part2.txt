@@ -1,0 +1,917 @@
+Grenadiers are your main openers. They are the class you use to enable your other units by destroying cover for better shots or shredding armor or setting up holo targeting. As such they are actually more a support unit than they may first appear. That’s not a knock against them they are probably the 2nd most powerful base class and you could argue them to the number 1 slot. They enable the rest of your squad by blowing up cover, shredding armor, applying holo, and of course can still do big damage. This class is not missing much, other than aim, but that can be fixed!
+
+Here is how the rankings for abilities (and other stuff) is going to work. 
+
+★★★★★ - The Best of the best. Abilities that things that you build around. Or weapon mods that are best in slot. Things of that nature. The difference between having stuff in this tier and not is so massive I’d consider it nerfing yourself not to grab them. You really, really, really want stuff with 5 stars.
+★★★★☆ - Really strong abilities. Abilities I am always happy to have and would trade a lot of other abilities for, but they aren’t quite as “must have” as the 5 star ones.
+★★★☆☆ - Abilities that are pretty good. Stuff that I would buy with AP quite happily but might pass up if the other ability is better.
+★★☆☆☆ - These are underwhelming. These abilities just don’t really do enough to justify having them. They might have very niche use or be passives that just kind of do very little. Stuff I just don’t care about. They aren’t horrible or useless, but you probably wouldn’t miss not having them.
+★☆☆☆☆ - Trash abilities that are just worth nothing.
+☆☆☆☆☆ - Given to abilities that are actively harmful. There is only one of these in the entire game.
+
+Stats:
+Rank	Aim (★★★☆☆)	HP (★★★☆☆)
+Squaddie	67	5
+Corporal	69	6
+Sargent	71	7
+Lieutenant	72	8
+Captain	73	8
+Major	74	9
+Colonel	75	10
+So their aim growth is just slightly behind rangers and specialists and it makes them have the worst aim of any of the base classes (if we don’t count sharpshooters getting nerfed into the ground by their own weapon). That said, it’s only a few points here or there. Easy to overcome with scopes and aim PCSs, but it does mean you need just a tad more investment in their aim to get the most out of this class. Their HP growth is the “good” one but it really doesn’t matter much, HP just isn’t that important of a stat, especially not the HP you get from your class.
+
+Weapons:
+Grenadiers can only use their cannons and grenade launchers. For the specifics go to the weapon guide but here’s how good they are generally:
+
+Cannons (★★★★☆) - Cannons are just assault rifles but better. They do more damage with the exact same range table, the only “downside” is a smaller clip but that hardly matters at all. I’d still prefer shotguns to them, but as weapons go they are pretty great.
+
+Grenade Launcher (★★★★★) - This shit’s broken. Making grenades both bigger and thrown farther opens up so many plays. You can nuke an entire pod's cover, frost bomb multiple enemies, or just throw a grenade those extra few tiles to get out of a jam. This is the best secondary in the game, at least among the 4 base classes. 
+
+Grenadiers only have one special weapon to their name, and that is the TLP Cannon (★★★★☆) which is just a cannon with a free stock (and expanded mag at later tech tiers). It's good, but I often sub it out for a more purpose built cannon eventually. Still, it's good in the early game. More detail will be in the weapon guide. 
+
+Abilities:
+As always, here is a table of every ability the Grenadier has and my star rating of each of them. If that’s all you want, then here you go. 
+
+Rank	Demolitions Expert	Heavy Gunner
+Squaddie	Launch Grenade (★★★★★)	
+Corporal	Blast Padding (★☆☆☆☆)	Shredder (★★★★★)
+Sergeant	Demolition (★☆☆☆☆)	Suppression (★☆☆☆☆)
+Lieutenant	Heavy Ordnance (★★★★★)	Holo Targeting  (★★★★★)
+Captain	Violite Mix (★★★☆☆)	Chain Shot (★★★★☆)
+Major	Salvo (★★★★★)	Hail of Bullets (★★★★☆)
+Colonel	Saturation Fire (★★★★☆)	Rupture (★★★☆☆)
+GTS	Biggest Booms (★★☆☆☆)	
+Alright now that you see generally how I view each ability, let’s go through them all in more detail:
+
+Launch Grenade (★★★★★) - Launch Grenade is a passive ability that lets grenadiers launch their grenades using their grenade launcher, getting the range and area size buff from it. It also grants a grenade only slot.
+
+I said it in the grenade launcher section, I’ll say it here. This shit is broken. Extra range, extra area, and an extra grenade? Actually what more could you want as a squaddie? If I could give this to every unit in my squad I would. Simply blow up the enemy, it’s just that easy!
+
+Blast Padding (★☆☆☆☆) - Blast Padding is a passive ability that grants your grenadier one armor and a 66% damage reduction from enemy explosives. Meaning that if a Muton throws a grenade at you that damage gets reduced, but the damage from an exploding car for example does not.
+
+This perk is bad. XCOM 2 is a game about alpha striking, not about tanking hits. If you get hit with this, you are still going to be wounded. It might, depending on exactly the situation you are in, turn a fatal hit into a non-fatal hit, but the odds that come up are just so slim. I literally never take this, even with AP. Don’t plan to get hit, plan to avoid getting hit. Fear is the mind killer. The enemy will launch a lot of explosives at you if given the chance, but if you get exploded at least two soldiers are getting targeted, so blast padding is at best at 50% effective and doesn’t stop you from taking damage. When this perk is across from shredder! Don’t…don’t take this. 
+
+Shredder (★★★★★) - Shredder is a passive ability that grants your cannon the ability to shred armor. You will shred one point of armor per tech level of the cannon. So a default cannon shreds 1, a mag cannon shreds 2, etc. Also the shredding happens after the damage. So if you roll 4 damage on a target with 5 HP and 1 armor, you will do 3 damage to them and destroy their one armor pip.
+
+This is the grenadier perk, the main thing they bring to the table. Armor, especially later into a run, can really slow you down and this means you aren’t reliant on an endless series of grenades to get rid of it. Early into a campaign, this doesn’t do much. Helps against turrets and the chosen and that’s about it. But once Mutons and MECs and Andromodons show up, you will need this shit. Always take this, it is the central perk for this class.
+
+Demolition (★☆☆☆☆) - Demolition is an active ability that ends your turn and costs 2 ammo with a 3 turn cooldown. It has an 80% chance to instantly destroy any non-industrable cover the enemy is standing behind, but does no damage to them directly. It will automatically blow up cars and also explosives in the environment however. 
+
+By god does this suck. I’m spending two ammo and my whole turn to…for a chance to do something! For a chance to not do any damage at all, even! I’ve said it before, but in this game reliability is king, and this just ain’t reliable. It also doesn’t work on pillars or other cover that can’t be destroyed, which is when you want to use this because grenades won’t remove cover. Speaking of, this is the class with more explosives than anyone else. So…what am I clicking this for? 
+
+Suppression (★☆☆☆☆) - Suppression is an active ability that ends your turn and costs 2 ammo with a 3 turn cooldown. You target one enemy and suppress them. They take a -50 aim penalty on any attack they make and if you move you take an overwatch shot. Importantly, in WoTC if the target has cover your overwatch shot will take it into account, but in vanilla this ability ignores cover.
+
+This ability also sucks. It’s a “whoops I didn’t alpha strike guess I’ll click this and hope it works” ability. And on a class I usually act first with in a turn…yea…no I don’t want that. Also the chance of you hit your overwatch shot with this absolutely sucks because it eats the penalty from cover and the 0.7x overwatch multiplier. In vanilla this can actually give you a higher chance to hit, but even then it is happening on the enemies turn and so you can’t plan on hitting that attack, so it’s still not very good. The enemy just has too much wiggle room. They could still hit the aim reduced attack, they could move and waste it, they just have too much control in a game about denying enemies control. It can mess with enemy AI, they really prefer to not eat the overwatch shot this grants, but it just isn’t reliable enough.
+
+I’m going to stop just ranking abilities to say I haven’t used suppression or demolition in my last 2000 hours of playing this game. I think suppression might be a tiny little bit better maybe? But I just don’t click either of these so if my descriptions of them sway you one way or the other, go for it.   
+
+Heavy Ordnance (★★★★★) - Heavy Ordnance is a passive ability that gives the grenade in your grenade only slot an additional use. So if you have a frost bomb in there you’ll get two frost bombs on the mission, if you bring an acid grenade it doubles, etc.
+
+This is so good. Running out of grenades can be a real liability, and this basically eliminates that problem. It also lets you double the frost bomb for when you are fighting rulers (or just for normal pods because that thing is broken). This can also free up your other utility slot(s). You can equip special ammo and still bring two grenades, and that is quite strong. A little boring to describe, but very, very strong. 
+
+Holo Targeting (★★★★★) - Holo targeting is a passive ability that causes any single target attack from your gun (so rapid fire and chain shot still work but something like saturation fire doesn’t) will mark the target. While the target is marked, your squad’s aim against that target is increased by 15. This applies between multiattack abilities. So if you use chain shot, the first attack will not have the plus 15% to aim, but the second will. This also applies when you use suppression. 
+
+Holo Targeting is maybe the most important ability on the grenadiers tree. A lot of enemies in the mid-late gain have innate defense. And a unit with a lot of defense behind full cover can be very hard to hit and this ability can do a lot of work fixing that. It also combines with chain shot and (if you are blessed by the training center) rapid fire. I will often take god awful shots with my grenadier just to get holo applied. When I said grenadiers were a support class, this is what I meant. Shredding and applying holo to the same target sets the rest of your squad up for success.
+
+Volatile Mix (★★★☆☆) - Volatile Mix is a passive ability that grants grenades +2 damage. This does not apply to heavy weapons, just grenades. It also doesn’t increase the damage grenades do to the environment.
+
+This ability is fine. More damage is good, and because of the grenade slot you will always have a use for this, but how big of a deal is this really? Especially if you bring frost bombs instead of damage grenades. Still, this can move the margins on a few kills from “need a good damage roll” to “as long as it hits.” If I’m overflowing in AP I’ll pick this up. Otherwise, eh. I’m sorta tempted to move this down to two stars but I think it generally performs better than those perks, so here it stays. But that should tell you I’m not this ability’s biggest fan, but it’s not bad.
+
+Chain Shot (★★★★☆) - Chain shot is an active ability with a 3 turn cooldown that ends your turn and uses two ammo. It fires one shot at a minus 15 to aim, then if that shot hits it fires another one, also at minus 15. 
+
+It’s bad rapid fire! This ability is so good but also absolutely terrible. If you miss that first shot, that is just so much damage down the drain. And holo targeting applies on your second shot so if the first one hits the 2nd one probably will as well, but if it misses…Still, stack enough aim on your grenadier, use Teamwork or inspire or combat presence to let them shoot to apply holo, then give then another action to shoot chain shot and you’ll just shred motherfuckers. Literally, given your gun has shredder on it. I always take this, I use it a good bit, but the times it lets you down hurts. They hurt so bad.
+
+Another thing to note about Chain Shot is that it can miss targets like the chosen sarcophagus or other mission objectives. The way those work is they set your chance to hit at 100, so anything that subtracts from your aim, like chain shot or rapid fire, can actually miss because that 100 becomes an 85. This isn't that big a deal, you just don't click this ability on those objects, but it is important to know.
+
+Salvo (★★★★★) - Salvo is a passive ability that turns firing a heavy weapon or using a grenade into a non-turning end action. Meaning if you can fire a grenade while you have two AP,  you will have one action point left.
+
+Holo targeting may be the most important ability on the Grenadiers tree, but this is the most powerful. It is a huge swing in terms of action economy. Now you can remove cover for an entire squad and apply holo to the biggest threat in one turn. The amount of sheninages this allows you to pull is through the roof. Throw a blaster launcher, then click chain shot, and now whatever enemy was behind full cover previously is now probably dead. Even being able to go frost bomb -> shoot to take advantage of the frost bomb’s minus 10 defense is huge. This ability is so good, always take it.
+
+Hail of Bullets (★★★★☆) - Hail of Bullets is an active ability that costs three ammo, has a 5 turn cooldown, and ends your turn. You fire a shot that cannot, under any circumstance, miss at a target. That attack also cannot crit.
+
+Late game grenadiers have a lot of good perks to choose from. This is the “actually Mr. Gatekeeper go fuck yourself” ability. As long as you can see the barest peep of an enemy, even if your chance to hit is 1%, you can now make it 100%. You can always, with certainty, apply shred, do damage, and apply holo in one attack. I think Salvo is overall stronger than this, but man is this ability good. The only downside is that, at the end of the day, it’s just getting a shot off. That’s good but if you see enough 100% shots this does literally nothing. Still this ability is absolutely amazing.
+
+Saturation Fire (★★★★☆) - Saturation Fire is an active ability that consumes 3 ammo and has a 5 turn cooldown and ends your turn. It creates a cone from the grenadier and takes a shot at every enemy and piece of cover in that area. Each enemy has the chance to take damage depending on whatever chance you have to hit them and each piece of cover has the demolition effect applied, meaning if it can be destroyed it has an 80% chance to be removed.
+
+Saturation Fire is basically another heavy weapon you can carry around with you. And that’s about as good as it sounds. Those are limited to once per mission for a reason and this means you get (basically) two! Now on most missions that isn’t the biggest deal, I mean it’s good but there is better, but where this really shines is on Leviathan. On Leviathan, you have to be very conservative with items until the final room. That means you can’t just throw grenades and heavy weapons at pods willy-nilly. But with Saturation Fire, you have a recharging heavy weapon that can be used to do damage, shred, and remove cover of squads over and over again, assuming you go slow enough in that last mission (and you should). Now Saturation Fire isn’t a perfect substitute, its effects have a failure rate after all, but it’s damn good.
+
+Rupture (★★★☆☆) - Rupture is an active ability that consumes 3 ammo and has a 3 turn cooldown and ends your turn. It fires a shot from your cannon that, if it hits, is always a crit. In addition the target will now take 3 damage more from all sources.
+
+Rupture is the ultimate “buff your squad by hurting your enemy” ability of grenadiers, the problem is that it just isn’t super needed. At this stage of play, you can deal a lot of damage. And with hail of bullets and chain shot (which will always do more than this on its own) and the rest of your squad just…being there and doing stuff the extra damage effect is sort of whatever. It’s very funny if you have a gunslinger sharpshooter though that’s a great time. It’s not bad, it’s a crit that will later deal more damage that’s pretty good, but it just isn’t bringing anything crazy to the table. In modded runs where enemies have 10000 HP or if you get this before you see the rulers it goes crazy though, but those are just kind of specific. This happens so late.
+
+Biggest Booms (★★☆☆☆) - The GTS perk for Grenadiers, It gives grenades (only grenades, not heavy weapons) a 20% chance to crit for +2 damage.
+
+I mean, it’s more damage sometimes, but, like, why am I spending 200 supplies on this? It is just so low impact and random for it to justify that price tag. Now that 20% is a little deceptive, because each roll of damage applies individually when you grenade someone and grenades almost always hit multiple targets. It'll come up more often than you’d think a 20% would, but still. I just can’t justify spending that much on such a marginal effect. 
+
+Armor and Utility Items:
+Moving on from abilities to armors and utility items, here is my view on which of those you should consider for your grenadiers. I won’t go over every utility item because I’d be here all day, but I’ll go over the ones I think are important. Similarly armors will be covered by category and in more broad terms because this guide is already too long.
+
+To start, here is a table of how good each armor type is on this class in particular:
+
+Armor
+Light (★★★★☆)
+Medium - (★★★☆☆)
+Heavy - (★★★★★)
+Viper Suit/Armor (★★★★☆)
+RAGE Suit/Armor (★★★★★)
+Icarus Armor (★★★★★)
+Some people might be surprised I gave 4 stars to light armor, but the thing is grenadiers come with extra explosives, and the mobility and height advantage is extremely valuable on a class that is otherwise slow and low in aim. That being said, obviously heavy armor is better! Salvo works with heavy weapons, and that makes them absolutely ridiculous on this class! I just want to point out that going light armor isn’t a bad idea, just an outcompeted one. 
+
+To briefly go over the rule armors, the difference between viper and rage are the same as the difference between light and heavy, but the Icarus Armor has a real nice home on this class. It lets them carry a grenade, special ammo, and another type of grenade and gives them access to the ability to teleport anywhere on the map. This armor is broken on anyone, but Grenadiers make a solid case for it. I usually give it to a ranger/sharpshooter over them, but hey, you should consider it!
+
+For Utility items, the ones to go over are frag/plasma grenades, experimental grenades, the frost bomb, mimic beacons, and special ammo. If you want my views on other utility items, see my utility item guide. One other note, you will always have at least one grenade on them, but I’m not giving them extra points in star rating for that. You still have to choose what grenade to bring, after all.
+
+Frag/Plasma Grenade (★★★★★) - This class gets extra of these to start and there is an argument to never unequip them. You will, from the moment you load up gatecrasher to the time the last AVATAR falls, need to destroy cover and deal guaranteed damage. It just never goes out of style. And because special grenades don’t destroy cover, and that is very valuable, you might want to just…roll with these forever. I usually sub out my frag/plasma for bluescreen rounds very deep into runs, like when Sectopods start showing up, but for a long time these stay on my grenadiers.
+
+Experimental Grenades (★★★☆☆) - Each different special grenade has its own quirks but that’s best saved for the utility item guide. The question comes down to “would I prefer cover destruction (normal grenades), or would I prefer more damage/shred/area coverage and a DoT effect.” Personally, I just like the cover destruction of normal grenades too much. It just feels to me to be more useful more of the time. But it’s not like these grenades are bad items (even though I’m not convinced they are worth the core) and against rulers specifically these are very powerful. So if you like them, go for it! I’m not Wizards of the Coast. I won't come to your house and break your legs for not following my opinion.
+
+Mimic Beacons (★★☆☆☆) - These things are busted as everyone who's even tried them once knows but my god do grenadiers not want to be the ones holding them! Grenadier utility item slots are extremely valuable, so much so they gave the class an extra one and still I wish I could bring more. It’s just so hard to justify giving a meme beacon to this class and not your specialist or your ranger or your sharpshooter or anyone else! Now if you do go Icarus armor on your grenadier then maybe as your third item, but I’d still rather bring two different kinds of grenades and special ammo on this class. 
+
+Frost Bomb (★★★★★) - The Frost Bomb is absurdly powerful and grenadiers are probably the best class to hold it. It gets the buff from their grenade launcher in both throw distance and area, and that allows you to do some silly things. So if you see a pod and they aren't active yet, you can usually frost bomb all of them at once. And that gives you two entire turns to kill a pod that has -10 defense and is standing out in the open with no cover, that's pretty good! So good I ban myself from abusing this strat! You can also just use it normally, throwing it to stun an enemy you can't kill in a round. You could argue that, because it eats a grenade slot, its actually better on a class with less damage dealing potential, but the sheer flexibility of throwing it longer and in a bigger blast radius is just too juicy to pass up. Espically because Heavy Ordinance doubles its uses.
+
+Experimental Ammo (★★★★☆) - Giving up a utility slot for an ammo type early into a run is a tough proposition. You’re giving up a grenade, something extremely powerful because of Launch Grenade, for something that only works on hit for the class with the worst aim (of the base classes), but as time goes on and ways to stack aim on this class increase, that deal becomes better and better. Eventually they overtake grenades in power, but that takes a while. As I said previously I usually make the swap when sectopods show up.
+
+Here is a table of how I rank each of them.
+
+Ammo Type 
+Viper Rounds (★★★☆☆)
+Dragon Rounds (★★★☆☆)
+AP Rounds (★★★★☆)
+Tracer Rounds (★★★☆☆)
+Talon Rounds (★☆☆☆☆)
+Bluescreen Rounds (★★★★★)
+  
+Viper/Dragon Rounds (★★★☆☆) - I’m looping these together because for my purposes they are the same item. They give a +1 damage and a status effect on certain units. Those units are slightly different (see utility item guide), but whatever. Plus 1 damage is good, but it isn’t plus 1 damage on all unit types and as I’ve said before it’s hard to justify a grenade over these. But if you get one of these before an Exo Suit (which you usually do) then this can go in the free slot before you switch over.
+
+AP Rounds (★★★★☆) - Of the base classes, this class probably wants these the most. Because they usually are the first one attacking armored targets to shred them, so this can operate as a good bit of extra damage. This makes a strong case to be the ammo you give to your grenadiers as a result, still, I think one ammo edges it out, but these are good.
+
+Tracer Rounds (★★★☆☆) - Tracer ammo just gives more aim, but on a class with poor aim that’s not bad. There are other ways to fix aim, PCSs and scopes, that are more powerful, but if you don’t have exo suits yet and roll these instead of one of the better ammo types, this is a good class to have them on.
+
+Talon Rounds (★☆☆☆☆) - What are we doing trying to crit fish on this class? Go put these on rangers where they belong.
+
+Bluescreen Rounds (★★★★★) - The all powerful BS Rounds! Do you know what enemy type has a bullshit amount of armor? Robots. So grenadiers spent a lot of time shooting at this enemy type specifically, so that plus 5 damage is so good. The reason this is better than AP is that if you click chain shot this will generate a lot more damage than AP will in the long run. BS Rounds are broken. What more do you want me to say?
+
+Weapon Mods:
+Let’s go through each weapon mod and why or why not you might want it on this class. 
+
+Here is a table of my ratings of each of them, with the understanding that higher tier versions are always better than the lower tier ones so I didn’t differentiate between them here. I am also considering that some classes want certain weapon mods over others, and that does factor into things, you do have to choose who gets what from a limited pool after all.
+
+Weapon Mod
+Scope (★★★★★) 
+Laser Sight (★☆☆☆☆)
+Hair Trigger (★★★☆☆)
+Repeater (★★★★★)
+Stock (★★★★☆)
+Expanded Mag (★★★★☆)
+Auto-Loader (★★★☆☆☆)
+Scope (★★★★★) - This class needs help with its aim, and so they are probably the class that wants these the most (outside of sharpshooters, I guess). If you find a scope, slap it on a cannon, simple as that.
+
+Laser Sight (★☆☆☆☆) - Oh yes the item that makes it so I can’t equip a scope, I definitely want that? I’m wasting my time talking about this, you know it’s bad.
+
+Stock (★★★★☆) - This class has worse aim than most, so stocks to just guarantee you do some damage are nice. Especially early when scopes are hard to come by and you don’t have aim PCSs yet. But eventually you will probably phase these out for scopes and expanded mags and hair triggers and the like. Still, the ability to just do a tiny bit of chip damage is always good, even in the final mission.
+
+Repeater (★★★★★) - Repeaters are very strong on most classes, but of the base classes they are best on grenadiers. Grenadiers are often the ones opening fights for you, so sometimes when you are just setting up holo you get lucky and insta kill a chosen for free! It is RNG at the end of the day, but the upside is so high that I recommend these highly.
+
+Hair Trigger (★★★☆☆) - This class shoots a bunch, classes that shoot a bunch want hair triggers. You could argue to give these to other classes, but you could also argue giving them to grenadiers. It works.
+
+Expanded Mag (★★★★☆) - To get the most out of chain shot, hail of bullets, and saturation fire you really need an expanded mag to not have to reload as much. You can make do without them, but you’d prefer not to.
+
+Auto-Loader (★★★☆☆☆) - On this class specifically, this is a bad expanded mag, because you can’t use chain shot with ammo in two different clips. But they work in a pinch. If you can’t find an expanded mag, I’d equip these.
+
+PCSs:
+And lastly, let us go over PCSs, luckily for me, there just aren’t that many of them. So this’ll be quick! Here is a table of how I value each of them on Grenadiers. And as before, the higher quality ones are always preferred.
+
+PCS
+Aim (★★★★★)
+HP (★☆☆☆☆)
+Dodge (★☆☆☆☆)
+Will (★★☆☆☆)
+Mobility (★★★★☆)
+Aim (★★★★★) - If I find an aim PCS I give it to my grenadiers 99/100 times. I want them hitting those chain shots, and this is how you do that (plus scopes). You could argue to give them to sharpshooters over grenadiers because their aim is even worse (if that seems crazy, go read my sharpshooter guide to see why). 
+
+HP (★☆☆☆☆) - I’m going to say this for every class. But this does basically nothing. This is a game about alpha striking. Hopefully you simply don’t get hit. Now if you do, will this save you? Only maybe! Get crit and you still just drop dead. The opportunity cost is also so high. You can’t have a better PCS if you have this one. Honestly just sell these.
+
+Dodge (★☆☆☆☆) - It’s an HP PCS, but worse! Literally don’t even think about using this. Dodge is just too unreliable to even consider a real stat on your soldiers. A classic case of “every bad for enemies, useless for you.” If you see a dodge PCS just see it as picking up credits for when you sell them at the black market. 
+
+Will (★★☆☆☆) - OK I have learned things about will since the last guide and the way the game does the fatigue mechanic means that will has a small impact on how many missions you get to go on before you are tired. With enough extra will, you might (keyword might) be able to sneak one more mission out of them. But honestly? The effect is very small and not having one of the better PCSs sucks. And grenadiers aren’t the class I would stick these on anyways, that would probably be Reapers. But they do more than I first gave them credit for, which is neat. 
+
+Mobility (★★★★☆) - Extra mobility is great on every class. It lets you more easily get into position for chain shots and might give you those few extra squares you need for a grenade toss. I prefer aim, but these are good. I would just rather give them to other classes.
+
+Summary:
+Grenadiers are a very strong class on their own and they enable the rest of your squad to be even stronger. Other than their low starting aim and completely useless abilities at sergeant there just isn’t much to complain about with this class. So go forth, ignore Vahlen’s warnings from the previous game, and blow everything up within a 10 mile radius! 
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+156
+
+Downvote
+
+76
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+Bluemajere
+•
+2mo ago
+Impressive butchering of the word "volatile" but neat guide otherwise!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Fixed
+
+u/Wonderful_Discount59 avatar
+Wonderful_Discount59
+•
+2mo ago
+Iirc, suppression cancels enemy overwatch. Which is probably the thing it is most useful for. Except even then its so rarely useful that I forget to use it in the cases where I could.
+
+I find demolition minutely more useful, because it can blow up cars and other explosive cover.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The thing is, remote start exists. And I have my reaper on like 60%+ of missions. Especially early into a run. And even without that, I just have better things to do with my grenadier than click suppression or demo.
+
+I'm sure they have their uses. But I am not rating a perk over 1 star if I haven't clicked in my past 2000 hours of gameplay and not been worse for it!
+
+u/ulughen avatar
+ulughen
+•
+2mo ago
+To each its own i guess, i click Demolition more than Rupture. You don't always have reaper on mission and sometimes Demolition saves you a grenade.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I also don't click Rupture much just because you get it so late, but regardless. It's true you don't always have a Reaper, but even then I'd just rather be doing something else with my grenadier. I just don't squeeze use out of it.
+
+kittenwolfmage
+•
+2mo ago
+Doesn’t it also prevent enemies from using certain abilities, like Throw Grenade?
+
+It might not be the greatest ability in their arsenal, nor does it help clean up enemies on your turn, but it’s still a sometimes useful control tool to have in your back pocket if you can’t clean up on your turn.
+
+stuckinatmosphere
+•
+2mo ago
+At the risk of stepping on WOTC toes, I'd argue that Grenadiers remain unique there as well. No other class does AOE like they do (ignoring Psi everything), and that all but guarantees they'll be present in any comp that's not a total meme.
+
+u/seto_kiaba avatar
+seto_kiaba
+•
+2mo ago
+I'm doing my first campaign since 2019 and don't remember much about the game and these guides have been very helpful! (It helps that we have a similar mindset about overall strategy) So thank you so much!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Thank you
+
+SaltySorceress
+•
+2mo ago
+How dare you mention wizards of the coast and war of the chosen in the same post. Now how am I supposed to know if you mean WotC or WotC when you say WotC?
+
+Just kidding, thanks for the guide!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I do this all the time. I see WotC in the wild and my brain always picks the wrong one! I see someone online saying "WotC is fucked up" and I go "wait I really liked the DLC sure it has it's problem oooohhh you mean the other one." And now I'm inflicting this curse onto you! >:-)
+
+IronBrew16
+•
+2mo ago
+Only downside to explosives in XCOM2 is that you don't get loot drops from enemies. Thankfully, the devs have blessed us with the black market.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea....who cares? I'd take a flawless mission over loot 100/100 times. It's not like you even always kill with explosives anyway, often they just set up your kills.
+
+IronBrew16
+•
+2mo ago
+Also they're objectively hilarious. We're a guerilla strike force, of course we're gonna do war crimes!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Explosives aren't war crimes.
+
+Acid bombs and poison bombs tho...those..those are war crimes.
+
+amisayed
+•
+2mo ago
+are they if they are used against aliens?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Technically no! War crimes specify humans. But because ADVENT is part human and has human DNA, and the law (as far as I know) doesn't specify what qualifies someone as human, it would actually be a ruling by a court that determines if that violates it. There isn't anything written to say how it should go.
+
+And if we go a step further in realism, advent were doing the same thing. The had poison spit and acid bombs to chuck at us. War crimes are so people play fair, but turnabout is fair play. If they do it, we can do it. Also who the fuck is going to prosecute XCOM? The world they just saved from getting turned into goop? Or how about the 0 militaries that can stand up to them after advent is gone. Yea...no XCOM would be fine.
+
+Calinate
+•
+2mo ago
+As someone who is struggling with their first L/I run, these guides are great! Keep them coming!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+New one every two days!
+
+u/Greedybogle avatar
+Greedybogle
+•
+2mo ago
+You missed writing up your top-rated weapon mod for this class, the repeater!
+
+I love putting repeaters on grenadiers. They're inconsistent, but since I'm almost always using a grenadier to take the first shot at a big enemy it's always a delightful surprise to drop them in one. Sectopods and Chosen are especially satisfying, feels like I got a whole free turn with the rest of the squad freed up.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh I did! I did forget to mention them. Yes repeaters are quite strong on this class, especially because they are yuou're opener.
+
+RoninPrime68
+•
+2mo ago
+An overly short and to the point guide to everything you actually need to know about Grenadiers -
+
+>Great potential for tanking, best used as a mobile assault ram that can open shortcuts for the rest of the squad
+
+>grenade launcher having bigger radius makes Grenadiers the best for dealing dmg with them, therefore make sure to equip yours with all the special mines/grenades you get/buy/loot
+
+>Shredder
+
+>slap some scopes onto your cannon and you're good to go
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The only class in this game that can tank is Templars because they don't actually get hit and might roll sustain. Otherwise I am of the opinion that "tanking" in this game is terrible.
+
+The rest I agree with.
+
+RoninPrime68
+•
+2mo ago
+If you're stupid enough you can have anyone dying and if you're smart enough you could avoid most stupid injuries lol.
+When i'm talking about "tanking potential" i'm def not talking about Tanking as how it's usually captured in video games, more like in the way that could pull a lot of damage from others towards them (and probably survive through most of it) and with how they're great at being able to clear a straight path towards whatever you need to handle 9 out of 10 cases.
+
+Also big booms that could open fights with lots of starting AoE damage to groups of enemies is always good
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+2mo ago
+Suppression is a plan B ability. Sometimes alphastrike doesn't work and then it's quite useful to be able to suppress the most dangerous enemy.
+
+Demolition is the poor man's cover removal, but it has infinite loads and it can be interesting on the second grenadier in the team. Especially if that grenadier isn't using a plasma grenade in his grenade only slot. This opens up a lot of possibilities for both experimental grenades and for a double load of flashbangs with heavy Ordnance. Flashbangs profit from improved range and improved radius of the grenade launcher.
+
+Yes flashbangs are not alphastrike, but sometimes things don't go your way and flashbangs are excellent plan B items. While mimic beacons are great (on other soldiers), they also may be in short supply. Flashbangs have unlimited supply.
+
+If you have a grenadier on a covert mission, equip flashbangs because alphastrike might not be working in a 2-man team when ambushed. In covert mission ambushes suppression is probably a 4-star ability.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I think I'd rather just shoot and hope for the best rather than click suppression. Your plan B should not be something the aliens have a say in. Frost bombs and mimic beacons exist for a reason.
+
+Same with demo, honestly. I think I'd rather just click shoot even if my chance to hit sucked. At least then I apply holo and do some chip damage with a stock. That can really change the math on things like combat protocol or run and gun + shotgun getting the kill.
+
+I literally never use flashbangs, I know a lot of people like them, and I get why (there is another item people like that I think is terrible but we'll cover that in the utility item guide) but nah. Maybe it's just because I rush frost bomb every single run but I'd just never want to equip one. Rather have a normal grenade honestly. Though I see why people go a different way on that.
+
+If you need a frost bomb, mimic beacon, and flashbang on the same mission...how? How did you do that? You are in the mid game before you can afford your second meme beacon even if you activated the entire map at once how did two of those stun items not get you there? And if they didn't I don't think e third is saving you honestly.
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+2mo ago
+In my view plan B is triggered most often when you can't avoid the enemy has a say on his turn or when it is likely. Plan A is alphastrike and when a shot misses but you still can guarantee a kill all active enemies with your remaining actions you are still in plan A.
+
+Of course personal preferences exist. XCOM 2 is not a game where just one optimal strategy leads to success. If you have success with the way you are playing keep it that way. You have managed Legend Ironman Grim Horizons with no deaths so you certainly know what you are doing and you are comfortable with it.
+
+Personally I like flashbangs, especially in the early and mid game where your soldiers do miss quite often. In this phase alphastrike is more an idea than a certainty. I really like to have the option of a plan B then.
+
+Suppression can be used in canceling overwatch. Overwatch is also canceled by a kill but a lot of times a kill can't be guaranteed by spending just one shot. Using suppression can help you to get more tactical options. With suppression the actions of one soldier are spent to neutralize an enemy for one turn pretty good and the actions of your other soldiers can be spent elsewhere. This is especially good when the target is difficult to kill with one action because it is behind high cover. Removing the cover and shooting it needs 2 actions you may not always have (salvo might be on cooldown or not available, cover may be indestructible or you don't want to or can't spend a grenade).
+
+Andromedons make also a good case because they never can be killed with one action because they have two lives.
+
+If the alternative to suppression is only a low percentage shot suppression is almost always the better option. If that low percentage shot doesn't kill and it won't most of the time that enemy gets a unhindered chance to do damage. If however you suppress that enemy, the enemy gets always a chance but that chance can be close to a zero percent chance if you are behind cover. On average this gives better results than taking the low percentage shot.
+
+Suppression also helps to manipulate enemy action priorities. Suppression is effective as long as the suppressing soldier doesn't receive damage, so a suppressor will be very high on the enemy priority list. This protects other soldiers. Suppression from behind high cover protected by aid protocol is sometimes as good or even better than a mimic beacon. A mimic beacon has limited durability where a soldier behind cover protected by aid protocol is very hard to hit.
+
+The good thing about taking suppression is that the alternative demolition is a very optionable ability. You lose not much by not taking demolition and I think suppression has more use cases. Most of the time you take suppresssion anyway so it's very likely that you have it in your arsenal. You just have to judge if you actually want to use it in a specific situation.
+
+Frost bombs and mimic beacon are very limited items. Mimic beacons are expensive because they exhaust on use and require resources to build them you can't just buy. Mimic beacons are also not very durable. If you have an alternative which works just as good or if those first solutions are just not applicable it is very good when you have those alternatives. I like to prepare for the worst, not just for the average.
+
+Flash bangs have a huge area of effect. They can hit a dispersed group reliably. They can also cancel mind control on a very good range with the grenade launcher.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Mimic beacons don't exhaust on use. You can spam them every mission like most utility items.
+
+becircus
+•
+2mo ago
+Yes suppression and demolition arent that horrible and add depth in a team of two and especially three grenadiers. Alpha strike is all well and good but without infinite reload abilities and versatility you would not have sustain and very little margin for any kind of error. How many legendary runs ended because you are hyper optimized for alpha strike that could have continued with a deeper squad?
+
+The other poster is right about mags and plasma making demo better too. Overall if you run 2-3 grenadiers (or more) you dont want each one to be a clone.
+
+isigneduptomake1post
+•
+2mo ago
+Great guide. What do you think of proximity mines? I like to use them in cover on a pod before throwing an actual grenade for double damage, I also throw them on the spawning platforms on chosen missions.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Their fun, but they come in so late. You can do some silly things with them, sure. But by the time you are researching them, at that point the run is already over, or nearly over.
+
+I'll go over them in more detail in my utility item guide.
+
+u/zelandofchocolate avatar
+zelandofchocolate
+•
+2mo ago
+Didn't consider scopes and blue screen rounds on grenadiers, thanks
+
+u/jonasnee avatar
+jonasnee
+•
+2mo ago
+I think people are overly harsh towards blast padding, its only bad in the context that its competing with what is 1 of the best abilities in the game. If shredder became a sergeant skill and blast padding had to compete with either demolition or suppression it would likely be what you pick. Id rather have this than the stealth ability on rangers or either of the 2 sniper skills at corporal. It effectively gives you 7 hp at corporal.
+
+Demolition also has some interesting interactions, it can be used to blow up cars for example. Its very niche, same as suppression, and i view both as worse than your corp skills but still.
+
+Rupture (★★★☆☆) - Rupture is an Saturation Fire is an active ability that consumes 3 ammo and has a 3 turn cooldown and ends your turn. It fires a shot from your cannon that, if it hits, is always a crit. In addition the target will now take 3 damage more from all sources.
+
+No offence what are you trying to write here?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+If blast padding competed with demo/suppression I'd take it because a bad passive is better than a bad active. I just generally think HP/armor when you're units have it is a fake state. Either you're getting nickel and dimed for like 2 damage a hit, or are having to weather an entire pod raining hell on you and in either case how much HP you have just won't matter. It might save you, maybe, but I'm not convinced.
+
+>No offence what are you trying to write here?
+
+Oh there's a typo there! It should read "Rupture is an active ability that..."
+
+u/vndt_ avatar
+vndt_
+•
+2mo ago
+The interaction between Chain Shot and Chosen Sacrophagi needs to be mentioned.
+
+Biggest Booms crit is +2 damage.
+
+There's no text about Frost Bombs.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You are right, I should add those things. I will do so in the morning.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Fixed
+
+u/RedStarRocket91 avatar
+RedStarRocket91
+•
+2mo ago
+Demolition (★☆☆☆☆) - Demolition is an active ability that ends your turn and costs 2 ammo with a 3 turn cooldown. It has an 80% chance to instantly destroy any non-industrable cover the enemy is standing behind, but does no damage to them directly. It will automatically blow up cars and also explosives in the environment however.
+
+Okay so this is something I have to disagree with, based on some stuff I found when digging around in the .ini files a year or two after launch.
+
+Most forms of cover actually have an invisible health bar, and different weapons deal different damage to cover. And the problem with ballistic weapons is that their cover damage sucks and typically isn't high enough to destroy the cover, which leads to seemingly much lower than usual rates of effect.
+
+Because you tend to get Demolition while you're still on Ballistic weapons, your first experiences with it are likely to be it seemingly doing nothing. Once you get to mag weapons the damage immediately jumps high enough that it'll reliably blow through most forms of cover. The problem is, by that point most players have already written it off as useless so don't bother trying again even though their higher-ranked soldiers have very good hit chance and it's almost guarantee to wreck cover if it hits.
+
+Once you're on mag weapons Demolition is easily a ★★★★☆ ability because it's a very reliable cover-buster, and it's on a cooldown rather than being a limited-use item. This frees you up to take other items like specialist ammunition or frost bombs without sacrificing your cover-busting ability, and means running out of grenades on longer missions is much less of an issue.
+
+Basically; cover-busting is always really useful because it's extra hit chance and crit chance for followup attacks even without direct damage, and this lets you do it in a way that's unlimited.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The problem with demolition is it's 80% success rate. 80% isn't 100%. You basically always have a better, more reliable play than clicking it. Throwing a grenade, applying holo, just shooting them for stock damage, etc. Reliability is kind and this shit ain't reliable. I haven't clicked it in over 2000 hours of playtime. I've taken it a bunch, I literally flip a coin between it and suppression both are so low impact, but I don't click it. Doesn't that tell you something.
+
+Mark-C-S
+•
+2mo ago
+Yeah I think for its cost it should be guaranteed. Or at least 90. It can't even do damage. You're using a whole action and multiple ammo, for it just to whiff (also I swear it misses more than 80 shots do, but that's prob just bias).
+
+It's so, so weak compared to holo targeting, that can do damage and reliably marks. Demolition could do with a little buff to at least make it interesting.
+
+u/RedStarRocket91 avatar
+RedStarRocket91
+•
+2mo ago
+I mean honestly what that tells me is that if you haven't tried it even once, you're not in a position to be a good judge of it regardless of total playtime. I pick it basically every playthrough and once I have mag weapons I can't remember actually seeing it miss, to the point where I'm not convinced the 80% is accurate.
+
+I completely agree reliability is good, and that's exactly why I take it. Even knocking down light cover is automatically a better bonus than holotargeting for anything that uses cover since the cover bonus is higher than the holotargeting bonus and it's higher crit chance.
+
+Would strongly encourage you to give it a try on your next run once you're at mag tier. Very confident you'll chance you mind on it once you've actually got experience using it!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The difference between removing light cover and applying holo is that applying holo always works! And if you have a stock you are also doing damage always, and the game hands you a cannon with a stock.
+
+I mean just review the risk/reward here on a target in light cover comparing shooting at them to clicking demo.
+
+If demo hits: you remove their cover, that's it. If it misses, you did nothing.
+
+If a shot hits, you deal 6-8 damage, apply holo and shred up to two armor. If it misses you deal (assuming the TLP cannon) 2 damage and apply holo.
+
+Just in terms of risk/reward the normal shot is almost always better. And if it isn't? Well, you have grenades for a reason. And in a game where the max pod count is 6, and that this point it's like 4, you don't really need to be that conservative with them.
+
+u/RedStarRocket91 avatar
+RedStarRocket91
+•
+2mo ago
+I'm not saying holo-targeting isn't good (it's excellent). What I'm saying is that there are situations where it's better to destroy cover than to holotarget, even if the initial attack lands.
+
+If you're shooting at something in light cover, for example, then you'd lose that 5-6 damage/shred and +15 by not holotargeting. But by destroying their cover you're gaining a higher +20 bonus to hit and a +40 bonus to crit chance. If the enemy is in heavy cover it's effectively a +25 hit chance bonus compared to holotargeting, which is really significant.
+
+The issue with grenades is that there's an opportunity cost. You yourself have already identified frost bombs as the best consumable you can have on a Grenadier. If you put them in your grenade slot you can only carry a single cover-busting explosive, and if you're running something like the RAGE suit, you can't even take that if you want frost bombs plus bluescreen rounds, so you're reliant on somene else to be on cover-busting duty instead.
+
+And again, the alternative is Suppression, which is a bit useless (especially in WOTC). There will be situations where you need to destroy cover, and demolition does that without needing to spend limited-use items which in turn means you're less locked in to carrying limited-use items and can carry other, stronger equipment.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+If the enemy is in heavy cover it's effectively a +25 hit chance bonus compared to holotargeting, which is really significant.
+
+Yes but without the potential to deal damage or shred, and for most enemies that just isn't a good trade.
+
+For enemies like mutons, they go down in two hits basically no matter what when you first encounter them. They just have too much HP to do otherwise. That means if I'm clicking demo the number of actions spent on that one enemy is effectively 6 (2 from 3 soldiers). Now it might still be 6 if I click shoot, but it might be 4. That is so huge.
+
+And then you get to enemies like Andromodons who absolutely need their armor shredded for you to do anything to them. You could run a lot of AP rounds instead, but then you are giving up BS rounds and I don't want to do that.
+
+so you're reliant on somene else to be on cover-busting duty instead.
+
+I mean if I'm bringing the rage suit I also have a rocket, probably a few rockets. So cover just isn't an issue. The later into a run you go the more ways around cover you get. Claymore, grenades, rockets/other heavy weapons, just clicking run and gun and ignoring it. Cover destruction becomes less important. You still do it, but the tools you have to do it expand dramatically as your options increase. So the proposition of clicking a button that does no damage when you could just do any of that is... questionable.
+
+u/RedStarRocket91 avatar
+RedStarRocket91
+•
+2mo ago
+Again, I'm not saying that you shouldn't be shooting enemies. I'm agreeing that there's potential to do damage and shred with attacks. But if you miss, you've gained +15 to hit for subsequent attacks and dealt chip damage, whereas Demolition is at least a +20 to subsequent attacks (possibly +40) and +40 to crit chance. That's substantially better for the action point economy.
+
+Demolition also doesn't take away your ability to do heavy gunner things. You can still just shoot your target if the odds are good! But it gives you options if the hit chance is bad rather than forcing you to take a shot that might miss or burn a consumable that you can't get back.
+
+Heavy weapons are great, but they're also limited-use. There will be situations where all you really need to do is destroy a single piece of cover, and a rocket can be an inefficient way of doing that compared to just using a fairly quick cooldown.
+
+It's the same with things like claymores and grenades. They're very strong, but still limited-use and once you've used them they're gone. Demolition relieves some of the pressure on those because in the event you need to destroy cover you don't necessarily need to burn a limited-use item, which means you can put your grenade slot where it matters (frost bombs).
+
+Also, not to put too fine a point on this, but you are the one who gave five stars to both Heavy Ordnance and Salvo, and part of your reasoning was that they help neaurtralise cover. I don't really understand why you'd give such a high rating to those abilities (and to be clear I agree they're five-star abilities), but then just a single star to Demolition.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+But if you miss, you've gained +15 to hit for subsequent attacks and dealt chip damage, whereas Demolition is at least a +20 to subsequent attacks (possibly +40) and +40 to crit chance. That's substantially better for the action point economy.
+
+But demo also has the chance to miss. The risk/reward is almost always in a shots favor. Do a lot of something on a hit vs do a little on miss compared to do something on a hit vs do absolutely nothing on a miss. Even 80% isn't high enough to justify that risk/reward ratio. I do not want a 20% chance to blow my entire turn.
+
+But it gives you options if the hit chance is bad rather than forcing you to take a shot that might miss or burn a consumable that you can't get back.
+
+I'd honestly rather shoot even if the odds are bad. Or I'd find a play with a different unit and focus my Grenadier somewhere else.
+
+There will be situations where all you really need to do is destroy a single piece of cover, and a rocket can be an inefficient way of doing that compared to just using a fairly quick cooldown.
+
+Missions only got up to 6 pods in them. A rocket for a dead pod is always a good trade, it doesn't actually matter how many targets that rocket is hitting. I'm not trying to get the max value of these things, there isn't a warranty of them, I'm trying to flawless this mission in front of me. And using a rocket now to save a mimic beacon for later? Sign me up 100/100 times.
+
+gave five stars to both Heavy Ordnance and Salvo, and part of your reasoning was that they help neaurtralise cover.
+
+It's not just removing cover, though that is important, it's also the action economy swing and damage. Half the value of a grenade is the guaranteed damage it deals. It isn't all the value, but a lot of the time I'm chucking a frag grenade not because I need cover gone but because I can then click combat protocol and kill that trooper 100% of the time. Demo is at best giving up half of that value. More than half, because it can miss and only ever hits one target.
+
+Salvo is absurd because you can destroy cover and deal damage -> shoot for massive damage. It's a huge swing in your favor. But you've taken away most of that formula.
+
+Demolition relieves some of the pressure on those because in the event you need to destroy cover you don't necessarily need to burn a limited-use item,
+
+Use it or lose it. I think trying to conserve items in this game is usually a bad decision. There is no future, there is only right now. Unless you are in the chosen stronghold or similar missions just aren't long enough to need to save items. If a mimic beacon stuns 1 enemy, great! Just fine with me. That's anywhere from 1/8-1/16th of this mission dealt with. Kill the "too good to use" part of your brain. Kill it stone dead. Even on the chosen Stronghold you can happily spend items in the run up to the fight. As long as you have, like, a stun tool left so you can focus the sarcophagus you'll be fine.
+
+The only real mission where conserving items matters is leviathan, but for that you should more than enough tools to handle full cover. Like, they gave you a unit with mind control and a null lance what is a wall gonna do? Or you can just click saturation fire on a full pod, that works too.
+
+I just don't think there is ever a time where I want to click demo over a normal shot. And that's really what it's competing against, just shooting. Is it worth taking over suppression? I mean, maybe. But an ability I never use vs a different ability I never use isn't a race I particularly care about.
+
+u/Lighty539 avatar
+Lighty539
+•
+2mo ago
+Fantastic. It is great to get a veteran's thought on not just the skills, but the equipment + PCS. Looking forward for more guides.
+
+rynchenzo
+•
+2mo ago
+Volatile mix with gas grenade is pretty nasty
+
+u/Macraggesurvivor avatar
+Macraggesurvivor
+•
+2mo ago
+Well-rolled grenadiers, specially multiple such grenadiers, with max aim are the best, unmodded combat unit. They just do tons of nice and ranged damage and shredding. If you get like 6 to 12 grenadiers, you have a pretty good chance to get at least one or maybe even 2 that rolled 'in the zone' or at least serial. But, better in the zone.
+
+They even good vs some of the harder modded enemies and you need their massive shredding on each attack, holotargetting, ammo, salvon + multiple saturation fires or chainshots. They just invaluable even vs mods. As a pure combat unit that is powerful throughout all stages of a campaign and can get absolutely imba. You can often get in the zone on a few of them, and sometimes you then roll something like killzone on top. Is just really strong. Specially if you get mobility (icarus armor for instance) or war suits, with even more firepower.
+
+Id experimented around. But, my typical goto squad in any difficulty with 6 soldiers was 2 grenadiers, reaper, ranger, sniper, specialist. Somtimes I took a third grenadier, or a second sniper, and then only brought one scout. And, the early game game combo of freezing entire pods out of concealment from a good distance via grenadier + frost bomb is also very nice. Useful even later and vs some really nasty enemies.
+
+Is just an all around useful, powerful unit.
+
+But, there are so many really fun, modded new classes you can get, and they are really a lot of fun. And, some of them are much stronger than the regular classes. They also brought back MECs from xcom 1. They completely imba.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Into the Zone isn't in this game, so I'm not sure what you are referring to, maybe DfA?
+
+And yea Grenadiers are super powerful, but I'd argue rangers have the higher cap. The damage output of katana+bladestorm is just so high on an entire pod. Plus rapid fire, plus reaper. They are just less dependent on the training center perks and have just as high a ceiling with them. You can DfA or Serial chain with a shotgun just as easy as a cannon with the right positioning.
+
+u/Macraggesurvivor avatar
+Macraggesurvivor
+•
+2mo ago
+•
+Edited 2mo ago
+In the zone. It's possible I have that in xcom 2 through a mod.
+
+I thought it is in the unmodded game. Then, serial is still pretty good.
+
+Rangers are also very good.
+
+I always bring at least one scout. I like both reaper and ranger a lot. I like the concept of a conceal, very hard hitting, very mobile ambusher a lot. While providing vision for everybody. They 're a bit harder to scout with than reapers, but are also better in direct combat situations, specially close quarters. Rangers are a very useful hybrid class.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea in the zone is not in this game unmodded. It's in the mec soldier mod I think.
+
+Themeloncalling
+•
+2mo ago
+The biggest power boost to the grenadier does not come from the GTS. It's the Muton autopsy. Unlocks the magnetic grenade launcher and plasma grenade. Plasma grenades strip away cover better than frags and punch holes through buildings for evac reliably. Mag launcher used to detonate claymores is a guaranteed heavy pod dead with very low chance of making them scatter to vision.
+
+tooOldOriolesfan
+•
+2mo ago
+Fortunately with ability points you can get both hail of bullets as well as salvo.
+
+I agree both suppression and demolition are pretty worthless at least in XCOM2:WOTC. Demolition would be better if it was 100% guaranteed but I don't believe it is.
+
+Personally I don't find rupture or saturation fire to be of much use.
+
+And yeah, bluescreen ammo usually goes to my grenadier and my specialist.
+
+u/BeligerentBard avatar
+BeligerentBard
+•
+2mo ago
+I want to know what the one ability with zero stars is going to be.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You'll find out tomorrow :-)
+
+u/theMEENgiant avatar
+theMEENgiant
+•
+2mo ago
+How do flashbangs factor in for grenadier?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I don't usually use them at all, but if I were to I'd give them a specialist instead. Grenadiers actions are too valuable to spend on an unreliable stun tool. The radius of flashbangs is fucking huge anyway so you don't really need the boost from the launcher on them.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+I think you could move tracer rounds up higher, just given how important aim is on this class. I know you mentioned preferring to get aim from other places, but I think that neglects the opportunity cost involved. Aim PCSes are super valuable, and you may not have enough for all of your snipers and grenadiers. And often times before I get high ranking grenadiers, I’ll give them tracer rounds, scopes on their cannons, and aim PCSes. Once they get higher level, you can start swapping them out for AP or blue screen rounds for sure. But IMO tracer rounds are never “wrong” on grenadiers. The extra damage from the ammo types just isn’t as important as guaranteeing the shred. And as you mentioned, failing a chain shot is just sadness.
+
+I always feel kind of “meh” about AP rounds in general because of how reliant I am on grenadiers to shred armor via cannon or grenade. For enemies with super high armor, that’s usually the top priority (well, except for the shield bearer that you ignore) and you just shred them down asap and/or destroy them with BSrounds (often your sniper with DFA). For the random 1-2 armor advent units, the AP rounds are barely better than dragon/viper rounds. On a grenadier specifically, you can use them instead of tracer to eke out a bit of extra damage on your opening shots, but feels just strictly worse than BSrounds. But I’m open to being sold on how much extra damage these provide on a grenadier. Maybe there’s a world where you are out of BSrounds, out of tracer rounds (and/or your grenadier is already above 100 aim even on chain shots) and this is your best option.
+
+So I’d probably have tracer at 5 stars, BSrounds at 5 stars (because it’s illegal to place BSrounds at anything lower) and then AP at like 2-3ish? And everything else at 1. I don’t think I’d honestly ever use any of the others. They definitely do something but I’d probably rather just use a suit that has less slots than use one of these ammos. Either light for more mobility or heavy for the heavy weapons. I guess maybe there’s a world you’re on predator/warden armor without any extra heavy/light armor and you don’t have any other ammo to give to your grenadier so you just chuck that in the slot but like..that feels pretty contrived to end up at a scenario where the end result is just marginal upside of “this is better than a strictly empty slot”
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I feel like 3 stars is appropriate for how you rate them, you use them if you got them but eventually swap them out. I just value that extra damage so much more than 10 aim. You can find 10 aim elsewhere, you can't find an extra 5 damage elsewhere.
+
+The thing about AP rounds is that they do extra damage on this class specifically because they shoot armored targets first, and because shredder applies damage with the armor in tact it's anywhere from +1 to +5 damage. Where they fall off is that the 2nd hit of a chain shot doesn't get that plus 5 number, they get a plus 0, and so BS is better. There are a lot of units that have a bit of armor that aren't robots, the big ones being andros and avatars. But yea BS is better.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+Yeah I guess I value the 10 extra aim and just never missing way higher than a couple of incidental damage. It won’t always be 5 with the AP rounds the way the blue screen rounds are. And I generally feel like if the grenadier connects, the unit should die anyway.
+
+The armor on like the mutons and andros is kind of in that same category as like the random advent units. It’s fine if I have the ability to shred it first incidentally, but I’m not going out of my way for it. AP rounds against those might as well be dragon/poison imo.
+
+u/theMEENgiant avatar
+theMEENgiant
+•
+2mo ago
+Will you discuss Sparks at some point? If not, what are your thoughts on them here (since they share the most similarities with the grenadier class)? I hear they aren't even worth building at higher difficulties.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea we'll get there eventually. I am going to take a break from doing classes after the core 4 to talk about general strategy (might sneak in the guide about different weapon types and utility items, we'll see), and then I'll do the faction soldiers, then sparks and psi ops. That's my plan right now at least.
+
+u/theMEENgiant avatar
+theMEENgiant
+•
+2mo ago
+Great! No rush though. I'd hate for you to get burnt out on these guides because they've been very helpful
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I've already written a lot of these. But I might slow down eventually, we'll see.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Not OP but some thoughts on SPARKs:
+
+On Legend they are a costly and rough investment, especially if you need to do Shen's Last Gift for the free one. It's not a particularly hard mission but it's a big step up between Commander and Legend, likely a bad idea if you don't have at least 5 squad size and Magnetic Weapons + Predator Armor. Even if you Flawless your units will be Tired if not Shaken from the mission's Will depletion. The later SPARKs come online the worse they are, because you have to upgrade their weapons and armor to reach parity with normal soldiers, on top of getting kills with them to level them up into useful. They also bypass the bond system which helps action economy. Repairs are also QUITE slow on Legend on particular, which hinders their ability to not get tired. I really don't think it's ever worth having more than one, similar to faction hero units but this one probably being the most niche of all.
+
+Now that the negatives are out of the way, some things for consideration: It's hard to overstate how absurd Rainmaker is for Powered Heavy Weapons. If you can get ahold of a Shredstorm Cannon, you unironically can clear an entire room with what's essentially a massive armor shredding shrapnel shotgun cannon. Grenadiers with Heavy Weapons are good yes, but SPARKs are next level. Rainmaker takes some time to get there but it's feasible to pick even in the late game. Overdrive is interesting as a baseline skill. I think you really need the next level with Adaptive Aim to make it good for mutli shots, but then it is kind of like a mini armor shredding Banish, or moving and being a stronger Skirmisher. If they can get there people like Hunter Protocol, but it's pretty deep into the tree.
+
+SPARKs are interesting. I think Commander is about as hard as you can get before they just can't keep pace with alternatives, but they are decent for the mid game and have niche uses. They aren't as good as Enemy Within MECs but if you commit to them there is interesting stuff you can do, such as Wrecking Ball occasionally cutting turn times and movement length down.
+
+u/theMEENgiant avatar
+theMEENgiant
+•
+2mo ago
+I'm a bit confused how you equip late game grenadiers. You say you often swap the plasma grenades for blue screen rounds when sectopods show up, does that mean you're usually running blue screen rounds + 2x frost bomb + heavy/powered weapon (from heavy armor)? Doesn't that kind of neuter the ability to destroy cover? Or are you saying you swap between plasma/blue screen depending on if a sectopod is in the mission?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The example I used here isn't in the late game I pinned it to Force Level 11 which is Archons showing up. I usually switch to deal with Andromodon Wrecks. And once you get a powered weapon you're cover destruction needs are pretty much met, simply throw a blaster launcher. Plus it helps if you put the rage suit on a ranger, that gives you another one to play with.
+
+genericJohnDeo
+•
+2mo ago
+In a non modded game rupture's damage bonus actually applies to itself. Because the grenadier has no inate crit chance against hardened enemies and enemies in cover, rapture effectively adds 6 total damage to a shot(up to 7 in vanilla). That's not quite as high as chain shots potential, but unlike chain shot, rupture's extra damage is actually guaranteed and rupture isn't reducing your chance of actually hitting in the first place.
+
+If you aren't using blue screen rounds (which I think is a perfectly OK way to play grenadier) then rupture actually nets you more damage against gatekeepers and sectopods than chain shot would. It's a pretty decent skill for just increasing the grenadiers damage. I don't tend to use it much anymore because the community highlander mod removes the bonus damage and It just feels wrong using it with the mod.
+
+u/XCOM_Finx avatar
+XCOM_Finx
+•
+2mo ago
+I will play devil's advocate for Suppression because it has one niche use that I think should bump it to 2*. That niche being Rulers, especially if like me you have done no frost bomb challenge and you have to come up with unorthodox method to CC the Rulers (I play with them spawning randomly on mission instead of facility so they start to show up at FL4). -50 aim to VK means its very unlikely to pull you and shutdown its main ability that you have to worry about. Plus, when you get the hang of it VK AI is very predictable so with experience its easy to make good use of Suppression against it. -50 aim on Zerk Queen can be a life saver if she is full on hammering one of your unit. Combine this and Hunker Down and she will look stupid missing over and over. This would leave only her AoE to worry about but its damage is minimal. Of the 3 Rulers, Suppression perform the least versus AK because its got the most unpredictable AI. Nonetheless, -50 aim is still impactful and can be consider if AK is already shredded and your Grenadier doesn't have better to do, as you pointed out Suppression do apply Holo Targeting which is very good on AK. I doubt I change anyone mind's about Suppression but if I made someone reconsider their opinion that's already something.
+
+Also, i'm not sure how obscure of a cheese it is but with Saturation Fire if you use it on an inactivated pod that you do not have vision of, but know their location, you can use the ability to damage them without triggering them. I once did a run with pod size roughly doubled and this was clutch late game to do enough entry damage to alpha strike giant pods.
+
+Once again great guide, keep up the good work. :)
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+So I've tried this, and it doesn't seem to work well. Not as in "the tactic is bad" I mean "my game starts acting weird" not well. Sometimes the ruler moves but then it doesn't trigger or they don't move and it does??? The game sort of freaks out a bit. Now maybe something in my bug fix and UI mod list (which is usually all I have on these days) is actually causing this, I don't know, but it is worth noting.
+
+I will also that unless I have two grenadiers on a mission, the grenadier is the one carrying the frost bomb, so they through that instead of clicking anything else. And I'd really prefer to just do damage and shred with my other one if I have them (and to be fair I do pretty often). I think it probably works the best against the VK because you fight them at FL 4 (fucking *rude* Firaxis!) and so you kind of just have to try anything you've got, but idk I'm not giving it 2 stars for a very specific use case against 1 enemy that you might not even fight in that situation unless you actively turn that setting on. It's sort of whatever at the end of the day. The other ability is demo so...you're not giving much up either way...so...
+
+u/XCOM_Finx avatar
+XCOM_Finx
+•
+2mo ago
+The only case i'd seen the bug you describe is when a Mec suppress a Skirmisher (or anyone with a grapple suit) and you grapple outside their vision. You wont trigger their overwatch, but the suppression penalty are still applied somehow. I wonder if maybe AK specifically when he grabs one of your unit or devastate if behave similarly to what I just describe.
+
+The Frost Bomb while its amazing is honestly kind of shit versus AK who thawed after a single action, while if you keep your distance he might decide to only shoot you which is good value from Suppression because of all the Rulers AK is the one you truly don't want to get hit by. Also, assuming you have Holo the difference between firing directly on Zerk Queen and AK and taking your overwatch shoot from the suppression is not as big as one might think, you can't flank them so there is no flank bonus to begin with and in the off chance they stay put and attack that -50 sure is doing something meaningful.
+
+Like i'm not saying Suppression is some sort of magic solution to Rulers but its one of the very few tool to CC the hardest type of enemy unmodded XCOM 2 have to offer which I think fits perfectly into your 2* criteria of "They might have very niche use".
+
+u/shuipz94 avatar
+shuipz94
+•
+2mo ago
+I agree Demolition is not great but I think it deserve two stars rather than one. If the cover in question is something that can explode like a vehicle, it becomes a budget Remote Start.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Budget remote start with a failure rate, I think you'd usually be better off finding another play.

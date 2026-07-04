@@ -1,0 +1,589 @@
+This is a very important part to this guide, maybe the most important. Knowing what each enemy can do and how their AI works is the key to victory in this game. So let’s get into it.
+
+My general philosophy for enemy targeting is “who is going to deal damage to me next turn?” Those enemies die first. Enemies that mind control me or summon a shield or shadowbind me or whatever are a problem for next turn, but I need to live to next turn in the first place, so enemies that deal damage gotta go. This also means that enemies that deal damage + something on top, like Stun Lancers, are top priority because not only will they hurt me they might also steal my action economy!
+
+Here is the ranking system:
+
+★★★★★ -  These enemies cannot be allowed to take a turn. They are the number 1 priority to die.
+★★★★☆ - Enemies you really would rather not take a turn. They won’t instantly kill you (usually) but are still bad.
+★★★☆☆ - Enemies that are a problem, but have some sort of exploitable behavior or other ability to slow them down to make them not a huge threat.
+★★☆☆☆ - Action economy eaters. Things that harm your action economy but don’t deal damage to you directly.
+★☆☆☆☆ - Enemies that are just not a threat.
+
+ADVENT Troopers (Standard/Advanced/Elite) (★★★★☆)
+Aim: 65/70/75
+Health: 4/9/12
+Mobility: 12
+Attacks: Magnetic Rifle: 3/5/5-6 damage (+1 crit damage)
+Abilities: 
+
+Grenade: 3-4 damage, 1 shred (Advanced and Elite only)
+
+Behaviors: They shoot you, or throw a grenade if it can hit two of your units at once.
+
+The basic enemy unit and also the one responsible for the most deaths! This enemy does only one thing, shoots at you (and sometimes throws a grenade but whatever). And that is very, very bad. Any time this enemy takes a turn uncontested they have a chance to injure your units. They need a crit to one tap even a rookie, but that means if they flank a rookie, 40% die roll to just one hit kill them, which, you know, is bad. There isn’t really a concrete strategy for dealing with these guys other than, well, shooting them until they die. No fancy gimmicks, no tricks, just murder.
+
+ADVENT Officers (Standard/Advanced/Elite) (★★★★☆)
+Aim: 75/75/80
+Health: 7/13/18
+Mobility: 12
+Defense: -/-/10
+Dodge: -/15/15
+Attacks: Magnetic Rifle: 3-4/6-7/7-8 damage (+2/+3 crit damage)
+Abilities: 
+
+Grenade: 2-3/3-4/3-6 damage, 1/2/3 shred. 
+
+Mark Target (grants +10 aim against the target, costs only one action
+
+Behaviors: First priority is to mark, then throw grenade, then shoot.
+
+This is our first "If A then B" unit. If a) the officer can see another enemy and b) can see at least two of your soldiers, it will use it's mark. If that's not true and two units are standing too close to each other, it will throw the grenade at them. Otherwise shoot. That means if you, say frost bomb a trooper and force the officer to move by blowing up its cover (ADVENT units will always move to not be flanked if possible) then it'll waste it turns. That's obviously a little specific, but it can come in handy. Otherwise they are just another unit you absolutely have to kill.
+
+Sectoid (★★★☆☆)
+Aim: 75
+Crit: 10
+Health: 10
+Mobility: 12
+Psi: 90
+Health: 10
+Attacks: Beam Pistol: 3-4 damage (+2 critical damage)
+Abilities: 
+
+Mindspin (very likely to panic, can also take control of the unit)
+
+Raise zombie (raises a psi zombie, needs available body)
+
+Behaviors: If they can flank, 50/50 chance to flank then take a shot. If they cannot, prefer raise zombie. If they cannot, mindspin. Will also sometimes double move.
+Weakness: takes +3 damage from melee attacks
+
+Sectoids actually have a bit of RNG in their AI, so they can do mindspin even if raise zombie is available, but they prefer to raise zombie and they can just shoot at you sometimes, especially if the other abilities are on cooldown. Also the exact math of how mindspin works is really complex, so...just don't worry about it. Usually it's panic sometimes its mind control that's all you need to know. Regardless, this is the first unit that primarily doesn’t deal damage to you. And thus are usually your low priority target in the early game. However, if you end up flanked by them, you have a 50/50 to get shot at with 75% hit rate, and then a 50/50 to get crit and die on the spot. So 25% chance to die, which is very bad. I think this enemy is actually responsible for most deaths in my L/I runs just because I sometimes have to gamble on taking out the more dangerous enemies and then…lose. Moving on from that, a psi zombie or getting mind spun just isn’t that big of a deal. Sure you might get mind controlled but you then have three units to deal 10 damage, not too hard usually. If you get mind controlled with a bunch of enemies active you do sort of just lose but that’s why you focus fire the troopers before the Sectoid. 
+
+Lost (★☆☆☆☆)
+Aim: 90
+Crit: 0
+Health: 2-4
+Mobility: 8
+Weapons: Claws: 1-2 damage
+Immunities: Poisoned, Disoriented
+Weaknesses: Headshot, Fire
+
+OK so the lost eventually upgrade themselves when to have more HP and deal more damage but honestly I don’t give a fuck. The Lost are just not a treat, even a little. If you are unfamiliar, they only ever show up during their sitrep (or if you have Lost World active) and don’t take cover, have next to no HP, and everytime you shoot one to death you get all your action points back. They also take extra damage from fire, but honestly that hardly comes up. They will target you 70/30 compared to targeting ADVENT. If a mission is a hoard mission with no ADVENT. It’s free. It’s just a free win. You might eat a single injury if you massively fuck up but that’s it. If it has both lost and ADVENT it takes a bit more thought, but it is basically always better to kill ADVENT rather than kill the Lost. If you have to pick between being shot by a trooper or swiped at by a lost, the lost does 1-2 damage, the trooper does 3-4. So…kill the trooper. These guys are just free XP walking around most of the time. Also you can block ladders to a high ground position and they literally can’t hurt you at all, which is fun. I’ve wasted enough time on these.
+
+Lost Brute (★☆☆☆☆)
+Aim: 90
+Crit: 0
+Health: 6-7
+Mobility: 8
+Weapons: Claws: 3-4 damage
+Immunities: Poisoned, Disoriented
+Weaknesses: Headshot, Fire
+
+Brutes are normal lost that take a bit of extra work to kill, but that’s kind of it. You do have to actually kill them rather than let them hit you, though, because they can one shot a rookie.
+
+Lost Dasher (★☆☆☆☆)
+Aim: 90
+Crit: 0
+Health: 2-4
+Mobility: 24
+Weapons: Claws: 1-2 damage
+Immunities: Poisoned, Disoriented
+Weaknesses: Headshot, Fire
+
+24 mobility is a lot of mobility, but because they need an action point to slash at you all you have to do is count squares and make sure you’re more than 16 tiles away to not take damage. Simple. 
+
+Faceless (★★★☆☆)
+Aim: 75
+Crit: 15
+Health: 12
+Mobility: 14
+Weapon: Claws: 3-4 damage (+2 crit damage), attacks in an arc, destroys terrain
+Abilities: Can leap, regenerates 2 HP per turn.
+
+If a Faceless crits you during the first retal mission, you die. Simple as that. And because it’s a melee attack your cover isn’t worth anything. However, they are a melee only enemy, so you can simply count tiles and see if they can hit you. Their melee attack eats an action point, so if they have to dash into range they cannot hit you that turn. 14 mobility means they can move about 9 tiles in one movement. So just count tiles, make it 12 to be safe because their melee attack has some reach to it, but yea. If they catch you out they are very deadly but if you can handle them they are easy.
+
+ADVENT Stun Lancer (Standard/Advanced/Elite) (★★★★★)
+Aim: 65/65/70
+Crit: 15
+Health: 8/1015
+Armor: -/1/1
+Mobility: 14/15/15
+Dodge: -/25/25
+Defense: -/10/10
+Weapon: 
+
+Magnetic Rifle: 3-4 damage (+2 crit damage) / 4-5 damage (+3 crit damage) / 5-6 damage (+4 crit damage). 
+
+Shock Lance: 2-4 damage (+2 crit damage) / 5-7 damage (+3 crit damage) / 8-10 (+4 damage)
+
+Abilities: Stun Lance, attacks from a dash, chance to disorient, stun for 1 action, or knock unconscious, has +10 aim. (the math on the exact distribution of those is complicated, don't worry about it.)
+Behaviors: Always goes for Stun Lance if they can, otherwise shoots.
+
+Stun Lancers are our first “oh god kill it with fire” unit. If they crit you, that unit is dead. It doesn’t even matter what stage of play you are in, 14 damage is enough to drop you to 0 even if you are wearing Warden Armor! 15% chance for every attack to one tap a unit, that, that is very bad. And because they attack from a dash you can’t kite them like with faceless. And even if you are lucky enough to not get one tapped, you might get knocked unconscious and if you don’t have revival protocol, that’s basically the same thing. Theoretically you could burn or disorient them to disable their melee attack, but even their rifle hits hard, so that’s pretty thin. Put everything you have into killing this unit, they cannot be allowed to take an action.
+
+ADVENT Priest (Standard/Advanced/Elite) (★★☆☆☆)
+Aim: 75/75/80
+Health: 8/13/18
+Mobility: 12/12/12
+Dodge: 15/20/25
+Defense: -/10/15
+Weapon: Magnetic Rifle: 3 damage (+1 crit damage) / 5 damage (+2 crit damage) / 5-6 damage (+2 crit damage). 
+Abilities:
+
+Stasis: same as your stasis. One action point to put one of your units in Stasis
+
+Holy Warrior: grants shielding and extra stats to an enemy unit, if the priest dies (does not go into sustain) the other unit dies as well.
+
+Sustain (20%/60%/66%) chance: will drop to one HP and go into stasis upon receiving lethal damage
+
+Mind control (advanced onward): will mind control one of your units.
+
+Behaviors: Prefers psi abilities if at all possible.
+
+Another “eh, whatever” unit. Getting Stasised is nothing, like absolutely nothing. Sure you’re one unit down but it doesn’t do any damage and unlike getting mind controlled it literally cannot deal damage to you. Holy warrior can be buff to you if you kill the priest first, you get 2 for 1, but the sustain chance can ruin that. Sustain is the actual annoying thing about this unit, it stops DfA/Serial chains and means you (if you get unlucky) can’t fully alpha strike them. That said, the only times this unit damages you is if a) you can’t kill them on turn 1 b) they use stasis on you the next round c) you kill them that round and they go into sustain (or just fail to kill them, despite having two turns to) and d) they hit you with their gun. That is a lot of steps compared to a trooper “shoots you with gun.” This unit is kind of nothing. 
+
+ADVENT Purifier (Standard/Advanced/Elite) (★★☆☆☆)
+Aim: 75/75/80
+Health: 6/9/14
+Armor: -/2/3
+Mobility: 12/12/12
+Weapon: Flamethrower (no damage on hit, inflicts burn)
+Immunities: Fire, Poison
+Abilities:
+
+Incendiary Grenade (2-3 damage, inflicts burn)
+
+Incendiary Bomb (5 damage, inflicts burn) (Elite only)
+
+Dying explosion (50/50 chance on death (unless killed with explosive, then 100%), 3 tile radius, 5-6 damage)
+
+Behaviors: If two units are bunched up, throw incendiary grenade, otherwise use flamethrower.
+
+This unit is just not threatening. Their main attack literally cannot do damage to you! Sure it burns you but that’s a maximum of 3 damage, which you might notice is the minimum damage of a trooper! If you get incendiary grenaded that sucks but if you don’t bunch up its not really a problem. Another thing to point out is that their flamethrower has to roll to hit, so if you’re in full cover, you have a pretty good chance to not get burned even if this unit does get to do stuff. The only annoying thing is their explosion on death, but that is pretty simple to avoid, don’t stand within 3 tiles of them. This does give this unit a defacto (unless your Templar rolls fortress) immunity to melee, but that’s not too big of a deal given how not threatening they are.
+
+Viper (★★★★★)
+Aim: 75
+Health: 10
+Crit: 10
+Mobility: 15
+Dodge: 33
+Weapon: Beam Rifle (3-5 damage, +2 crit damage)
+Immunities: Poison
+Abilities:
+
+Tongue Pull. pulls a unit from cover (has a +20% to hit, fuck you game), then applies bind
+
+Bind: wraps unit up, they take 2 damage at the start of their turn, cannot take actions, and take an increasing amount of damage every other turn. Goes from 2 to 4, to 6, etc. If the viper takes damage the bind is released.
+
+Poison Spit: Poisons units in a 4 tile radius.
+
+Behaviors: Will always tounge pull, then ff two units are bunched up, poison spit, otherwise bind, otherwise shoot (will also sometimes poison spit one unit).
+
+This unit is death. The Tongue Pull is maybe the literal worst ability the aliens have access to. It has stupid high aim, stuns one of your units, deals (mostly) automatic damage, and because it pulls one of your units closer, you can pull another pod, and then die. And even without that the poison spit still sucks to get hit with. Poison is a very unfun status effect. This is the unit to use your flashbangs and frost bombs on early. Also they have 33 dodge, because fuck you that’s why. What an asshole of a unit.
+
+MEC (★★★★★)
+Aim: 75
+Health: 9
+Armor: 2
+Crit: 10
+Mobility: 14
+Weapon: Mag Cannon: (4-6 damage (+2 crit damage)), shred 1
+Immunities: Poison, Burning, other mechanical immunities. 
+Abilities:
+
+Micro Missiles: 3 damage, 1 shred, 5 tiles
+
+Suppression
+
+Behaviors: If two units are within Micro Missile range, use Micro Missiles. If that is not possible and all units are in full cover, suppress. Otherwise shoot.
+
+Oh good, more “can’t let you take a turn” units. Micro Missile is bad it’s very, very bad. Its radius is huge! Compared to grenades where you just have to not stand on top of each other it is so hard to be spread out enough not to get Micro Missiled that you really should pretend like you can’t a lot of the time. These motherfuckers gotta go.
+
+Muton (★★★★☆)
+Aim: 80
+Health: 11
+Armor: 2
+Defense: 10
+Crit: 10
+Mobility: 14
+Weapon: Beam Rifle: (4-6 damage (+2 crit damage)), shred 1
+Abilities:
+
+Bayonet: melee, 1 action to use. 6-8 damage (+3 crit damage), chance to disorient, stun or knock out
+
+Suppression
+
+Plasma Grenade: 4-5 damage, 1 shred.
+
+Counterattack: 66% chance to counter all melee attacks (bladestorm included) and use the Bayonet.
+
+Behaviors: If an enemy unit is within 1 move action, move and Bayonet them. If two enemies are within 3 of each other, grenade them. Take the number of active aliens other than the Muton times 10%, if that number rolled, suppress. Otherwise shoot (yes that’s their algorithm for suppression, for some reason).
+
+So Mutons are pretty bad. You can’t melee them, so that makes Rangers and Templars sad, and they have some pretty nasty attacks. They do have one exploitable thing about their AI, which is that if you have a Templar with parry within 1 move of them, they will move, melee that unit specifically, and then have wasted their turn. Not the most useful because you can’t melee a Muton (treat that 66% as an 100%, it wouldn’t make a difference. But otherwise these guys suck.
+
+Berserker (★★★☆☆)
+Aim: 75
+Health: 28
+Crit: 15
+Mobility: 15
+Weapon: Devastating Blow: 5-8 damage (+2 critical damage) (costs 1 action)
+Abilities:
+
+Enrage: After taking damage, Berserker gains +5 mobility, can attack allies.
+
+Behaviors: Choose the nearest target, move towards them. If within range, melee them. If in blind range may target allies.
+
+The extra mobility from Enrage can be problematic, so (and this isn’t the last time you’ll hear this) it’s best to kill every enemy in a pod except the berserker , then focus fire them. Just like with the Faceless if they are enough tiles away they literally cannot hurt you, so you can literally just count tiles. Or parry/untouchable solos them as well, they will just keep slamming into you and doing nothing as long as those are active. Though if one does hit you before you get predator armor it is basically instant death. Which, you know, isn’t great.
+
+Codex (★☆☆☆☆)
+Aim: 80
+Health: 13
+Dodge: 25
+Mobility: 14
+Weapon: Beam Rifle: 4-5 damage (+2 critical damage) 
+Abilities:
+
+Teleport: can teleport instead of move, doesn’t trigger overwatch
+
+Clone: upon taking damage, will split in half. The original is reduced to half HP and a copy is made with the other half within teleport distance. If they are reduced to 1 HP, the codex will just teleport
+
+Psionic Rift: creates a bubble with a 5 radius that unloads every gun in the radius. Then at the start of the alien’s next turn everyone in the area takes 3-4 damage
+
+Behaviors: Uses psi rift if able, if psi rift is active then go on overwatch, otherwise shoot.
+
+Our first ADVENT mimic beacon! This is an enemy that you absolutely should not be hit until you can kill them outright. In a pod of one codex + two troopers. You should just pretend the codex isn’t there on the first turn of that engagement. Literally ignore them. They will then waste their turn psi bubbling you, then you can auto-loader/sword/pistol/combat protocol them to death on the follow up. Or just one tap them with bluescreen, that works too.
+
+And that’s it for part 1. Sorry, I wanted to include them all in one but this has already taken forever, and I don’t want to leave it any longer. Part 2 should be done much sooner than part 1, I promise.
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+106
+
+Downvote
+
+34
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/hielispace avatar
+hielispace
+OP
+•
+2d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I realized that as I was posting this I forgot to include turrets, but that's OK, they can go in the next part.
+
+Good lord this took forever to write.
+
+u/Dr_Bombinator avatar
+Dr_Bombinator
+•
+2d ago
+•
+Edited 2d ago
+Vipers are my favorite Mind Control/Dominate unit for a reason (No not those two reasons)
+
+Relatively low will so they're easy to control, their dodge and health stats let them tank shots from crappy trooper aim, and they can severely debuff and reposition annoying enemies with player discretion rather than silly AI.
+
+I always tried to save a dominate charge for a Viper in the final chamber. It's been a hot minute since I last played and I could be wrong, but I think Viper Bind nullify Avatar teleportation on damage? In any case it locks them down from moving and teleporting normally and lets me kill its entourage and/or the Warlock without being hit by Psi shit all the time.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea bind negates teleportation
+
+u/Dr_Bombinator avatar
+Dr_Bombinator
+•
+2d ago
+Thought so. It's crazy that they're often low on people's mind control lists, considering they're basically an unlimited use frost bomb that also deals damage, though I guess most threatening enemies aren't humanoid to be fair.
+
+u/RJ815 avatar
+RJ815
+•
+1d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Tbh I just don't see Vipers that often in entire campaigns sometimes. I once had a Legend campaign without Battlefield Medicine for a long time as Vipers (other than stuff like The Nest) just stopped spawning, or only did so with no corpse retrieval.
+
+For Leviathan I feel like an Andromedon for the first part is almost objectively the correct choice for stop attacks, low Will, and high Armor. In the final room mind controlling a Priest is funny as it can allow you extra instances of Stasis and a chained Mind Control etc.
+
+u/SidewinderSerpent avatar
+SidewinderSerpent
+•
+2d ago
+Typical XCOM. Big points to anyone with violent intentions, and few points otherwise.
+
+Clearly that means they should ignore your Psi Operatives since they prioritize Stasis /s
+
+Garr_Incorporated
+•
+1d ago
+I still sometimes think about the comparison pictures between Deep Cover and Untouchable in your Ranger perks guide series. Truly one of the greatest combo of pictures you could have ever chosen. Both hilarious and fits so well...
+
+u/faket15 avatar
+faket15
+•
+2d ago
+Very good guide, but there are a few corrections and additions.
+
+Elite Trooper HP is 12, not 11. Advanced Trooper grenades are 2-3 damage. Advanced and Elite have +2 crit damage on their shots.
+
+There is a cheesy way to trick troopers (or basically anyone that would normally try to shoot) if you can drop an EVAC zone. When deciding whether to shoot, there are a bunch of checks to see if it should overwatch instead. One of the checks is if it can see one of your soldiers and the EVAC zone and has no allies on overwatch yet, it will OW instead of shooting (with 1 ally on OW it's a coinflip). This also works when it sees one of your soldiers is in the area of a delayed attack (Psi Rift, Blazing Pinions), as you mentioned on the Codex.
+
+One note that rarely matters is that Troopers with an extra grenade from the Collateral Damage Dark Event will try to grenade even single soldiers.
+
+Basic Officer HP should be 7. Elite Officer grenade damage is 3-6, not 7-8.
+
+Mark is actually higher priority than grenades and the way you described when they mark is not right. An Officer will mark if it sees at least two of your soldiers, plus at least one of its allies, and doesn't see any soldier already marked. It doesn't care at all about the cover of your soldiers, only about who the officer can and can't see. The requirement that it sees one ally doesn't care whether the ally is active or not, so if the officer is the last soldier on it's pod, but it can see an inactive pod, it will still mark.
+
+Sectoid Psi Reanimation vs Mindspin is 66/34.
+
+The way Mindspin (and Psi Op Insanity) works is very weird. It's a stat contest between the Sectoid Psi Offense and the target's Will. First it rolls to hit at 50 + Psi - Will (i.e. 100% to hit at 40 will or less). If it hits, it rolls for severity based on the RATIO between Psi and Will, with weights of 2 * Will / Psi for disorientation, (Psi + Will) / Will for panic and Psi/Will for mind control. At 40 will, that means 35% MC, 51% panic, 14% disorientation. At 60 will it misses 20% of the time and, if it hits, it's 28% MC, 47% panic, 25% disorientation. At 0 will it's 50/50 between MC and panic.
+
+The Lost are missing their damage level-ups at higher Force Level. Also the chance to target XCOM is 70%, not 75%.
+
+The impairing effect on the Stun Lancer, Muton and Berserker melee attacks follows the same mechanic as mindspin, but using their Strength instead of Psi Offense and replacing panic with stun and MC with unconsciousness. At 40 Strength (the value for all lancers, even Elite) vs 40 Will we have 50% chance to do nothing and, if it works, 40% disorientation, 40% stun, 20% unconsciousness.
+
+You should probably note somewhere that a big part of what makes Lancers bad is that their targeting is much harder to predict than other melee enemies. You can't bait a Lancer to always target your Templar with Parry.
+
+Purifier HP should be 6/9/14. Should also mention that they prioritize attacking Lost extremely highly, always going for them if possible.
+
+Tongue Pull doesn't ignore cover. It has a +20 bonus, just like Skirmisher Justice, so it will hit 75% of the time vs low cover and 55% vs high cover.
+
+If the Viper has both actions remaining, Tongue Pull is higher priority than Poison Spit, even with multiple targets. Spitting against a single target if the Viper can't go for 2+ is still higher priority than shooting.
+
+If you are fighting multiple of the same enemy later in the game (or because of multi-pod activations), you will see a lot of deviation because of global cooldowns on abilities. If you fight 3 Vipers, one will Tongue Pull and Bind, the second will Poison Spit (because it can't Tongue Pull), and the third will shoot (because it can't Tongue Pull or Poison Spit).
+
+u/hielispace avatar
+hielispace
+OP
+•
+22h ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Added to the guide, thanks for the corrections.
+
+u/DerAva avatar
+DerAva
+•
+2d ago
+Hope I'm not mixing up vanilla and LW here, but fairly certain even in vanilla you can bait a viper to bind you. They will always bind if someone is adjacent to them, which does trivial damage (and other enemies will ignore the bound soldier). So if you can't kill or disorient them but have an action left then moving next to them to bait the bind is valid.
+
+Red_Cat231
+•
+2d ago
+•
+Edited 1d ago
+I remember back when XCom 2 launched, there was an official website with a stat board for global game statistics including percentage of XCOM troops killed by each enemy type. ADVENT Troopers killed the most causing like a quarter of XCOM's losses.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh yea, they were the most lethal by far!
+
+Leading_Resource_944
+•
+2d ago
+They profit from being low on priority list.
+
+On my last Playthrough i lost two guys because of Archons (hitting + crit with their Shooting Weapons...). Archons simple got to much HP and dodge and there is always something more urgent that needs to be killed.
+
+u/RJ815 avatar
+RJ815
+•
+2d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Basic ADVENT Troopers also have no stalling abilities. By which I mean Sectoids can Mindspin or Reanimate, Codices can Psi Bomb, Sectopods can Wrath Cannon, Archons can do Blazing Pinions, etc etc. Technically, even ADVENT Officers that are barely different, they prioritize Marking and it's not a free action. Troopers will always shoot at you, grenade you, or overwatch. It makes sense they are deadly as they are one of the only enemies in the entire game you can't really stall once they are activated. Sure you can frost bomb them or maybe make a sole survivor retreat, but I mostly mean ability based stalls.
+
+u/Dry_Area_1278 avatar
+Dry_Area_1278
+•
+2d ago
+great work as always!
+
+u/kooarbiter avatar
+kooarbiter
+•
+2d ago
+psychic powers, robotic juggernauts, and cosmic horrors, and yet the most dangerous one of all is a mostly normal guy with a mostly normal gun
+
+humanity fuck yeah
+
+rynchenzo
+•
+2d ago
+Thanks once again for the inordinate amount of time it must have taken to put this info together.
+
+u/ulughen avatar
+ulughen
+•
+2d ago
+Purifiers are very dangerous if you are on the roof. They don't even need a grenade to inflict a lot of damage.
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+1d ago
+A viper can pretty much be neutralized for one turn by suppression or flashbang while a MEC would still be dangerous. The range of the Viper tongue pull is 12 tiles unimpeded and half of that when supressed or flashbanged. The range of her rifle however is not shortened by suppression or flashbang. Her poison is nullified by carrying medkits.
+
+A MEC however can be haywired pretty easily because his hack resistance is low. Multiple MECs at once are a problem, a single MEC is a reinforcement of your party or a nuisance at best if the chance of control is low. They can be shut down reliably by a hacker specialist. There are a lot of MECs running around.
+
+Hacker specialists are awesome.
+
+I think the priority of the enemies depends much on your team composition, their builds and their equipment. If your team counters the enemy abilities the priorities may change.
+
+So while Stun Lancers will always be high on my priority list, Vipers usually are not. I carry flashbangs and I have suppression on my team. Troopers are more easily killed than Vipers because of less hitpoints so Troopers have a higher priority than Vipers to improve the action economy.
+
+MECs are easily paralyzed for 2 turns with one action and don't require immediate destruction. If you shutdown a MEC from concealmant concealment isn't even broken. If you have a hacker on your team it's a 2 star enemy.
+
+If there is no timer and you are in concealment you can afford this tactic:
+
+Try a shutdown on the MEC. If it succeeds, continue with your battle plan. If not, nothing has happened. Stay in concealment, wait for haywire to cool off. Rinse, repeat.
+
+But for teams without a hacker they are top priority.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+If you are hacking a mec, you are still treating them as a high priority target, because you are spending actions stunning them over doing other stuff.
+
+And I don't use flashbangs or suppression, ever. I literally never use either of these things, but again if you are spending resources to stun an enemy, that means they are a high priority target.
+
+u/RJ815 avatar
+RJ815
+•
+1d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I'm surprised you've struggled so much with Vipers, I feel like I almost never have. Also ironically I've absolutely been in situations where the tongue (/adjacent like a Ranger sword swing) + bind was the BEST case scenario IF that enemy was guaranteed to hit something. You prefer them to miss, obviously, but if they do hit 2 is usually survivable for a turn of mitigating damage. I personally have never been in a situation where a tongue pull led to another pod activating. Though it's exceedingly rare for a tongue pull to even be attempted with how I hunt and shoot.
+
+I'm not sure what triggers it, but I have rarely seen MECs use a missile on just a single unit. I've noticed it seemed more often if they could cause fall damage, but it's only come up rarely so it's hard to say, and I usually try to prioritize MECs with bluescreen rounds anyways.
+
+u/faket15 avatar
+faket15
+•
+1d ago
+Basic MECs never missile a single target, only Heavy MECs.
+
+u/RJ815 avatar
+RJ815
+•
+1d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Interesting. I guess that's part of why I so rarely see it, as it'd basically be a lone Heavy MEC later in the game during a Covert Ops ambush evac. In other missions MECs rarely get a single turn if I can help it.
+
+rynchenzo
+•
+2d ago
+I personally find the Advent Purifier units a pain in the butt. The explosion on death has caught me out too many times, usually because they are stood next to something else explosive when they die.
+
+And I fucking hate those incendiary grenades.
+
+u/Dr_Bombinator avatar
+Dr_Bombinator
+•
+2d ago
+Those grenades are evil. They have no qualms about grenading single units either, which is practically a guaranteed death for low rank kevlar troops. Purifiers in movement range are a top priority for me.
+
+tretre03
+•
+2d ago
+Bladestorm on a Templar or Ranger will immediately free you from a viper pull, and also works as a way to melee Mutons
+
+u/hielispace avatar
+hielispace
+OP
+•
+2d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Mutons will counter bladestorm, actually.
+
+tretre03
+•
+2d ago
+I swear it worked for me the other day, maybe it didn’t counter because it died? Or it was a ranger with the katana and that just goes through?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Counter only has a 66% chance to trigger, so you can get lucky.
+
+u/taw avatar
+taw
+•
+2d ago
+ADVENT Troopers (Standard/Advanced/Elite) (★★★★☆)
+
+There isn’t really a concrete strategy for dealing with these guys other than, well, shooting them until they die. No fancy gimmicks, no tricks, just murder.
+
+If you play on Rookie or Veteran, there is a hard counter to Advent Troopers - you can free kill them with a grenade, and you start with 4-6 grenades. If they line up you could even take multiple with one. It's stupid OP, and the main reason why Commander (where this no longer works) is so much harder than Veteran.
+
+Viper (★★★★★)
+
+If you're a true Bladestorm enjoyer, then Vipers are a joke. They'll try to tongue pull the closest unit, which is likely Bladestorm Templar or Bladestorm Ranger, and just kill themselves doing zero damage to you.
+
+I'd rather shoot a Trooper, and leave them for last.
+
+Counterattack: 66% chance to counter all melee attacks (bladestorm included) and use the Bayonet.
+
+From some testing, this seems to be based on whose turn it is. If it's your turn (you activated their pod, they ran next to your bladestormer - even if that bladestormer didn't do the activating), counterarattack takes precedence. If it's their turn, bladestorm takes precedence and it won't get counterattacked. Or it could be more complicated than that, many ability interactions in XCOM2 are bugged or at least weird.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Vipers show up waaaaaay before you get bladestorm, and the dangerous part is really the forced movement which can reveal another pod and kill you on the spot.
+
+u/taw avatar
+taw
+•
+2d ago
+You get Bladestorm at captain, which you rush to for squad size 2 anyway.
+
+Vipers show up as pod followers (Force Level 8). They can show up as pod leaders earlier, but they're quite rare at this point. You'll have Bladestorm for most of the Vipers you encounter.
+
+the dangerous part is really the forced movement which can reveal another pod and kill you on the spot
+
+If you leave a Viper alive as the last of their pod (which is what this ranking is supposedly about), and they tongue pull you on their turn and activate another pod, that pod just scatters into cover. So you get your whole turn to deal with that new pod + 1 Viper (who might just be dead from bladestorming).
+
+I'd rather risk that than get shot.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Vipers show up at FL 4 you fight them forever before you get a captain. And even then FL 8 is early for a captain on Legend. Not super early, my runs usually get a captain at around FL 8/9 in WoTC where you can't power level like in vanilla.
+
+And then after that you have to bait them into binding your Ranger/Templar (which are the classes with Untouchable and Parry, which have anti-syngeries with Tounge pull), and then (if you are using a Ranger without the Katana) hope you hit (and you still take the damage either way), and then even if that works the new pod is super far away from the rest of your units, meaning you probably won't actually be able to alpha them and might need to use a stun item, and at that point you should've just used it on the Viper.
+
+them0use
+•
+1d ago
+What about spectres? They've got to be at the top of my Kill It With Fire Right Now list.
+
+EDIT oh oops didn't notice the "part 1"

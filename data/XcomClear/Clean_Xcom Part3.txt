@@ -1,0 +1,1108 @@
+Specialists are the safety net class. They let you recover from mistakes. Taking a hit, coming up short on damage, missing objectives, or forgetting battle scanners on psi gate. Some abilities are better than others, and some rankings will upset people (even though I’m obviously right about everything). But even if you disagree, this guide has all the info you could want.
+
+Here is how the rankings are going to work. 
+
+★★★★★ - The best of the best. Abilities you build around or best-in-slot weapon mods. Not taking these is basically nerfing yourself. You really, really, really want stuff with 5 stars.
+★★★★☆ - Really strong abilities. Abilities I am always happy to have and would trade a lot of other abilities for, but they aren’t quite as “must have” as the 5 star ones.
+★★★☆☆ - Abilities that are pretty good. Stuff that I would buy with AP quite happily but might pass up if the other ability is better.
+★★☆☆☆ - These are underwhelming. These abilities just don’t really do enough to justify having them. They might have very niche use or be passives that just kind of do very little. Stuff I just don’t care about. They aren’t horrible or useless, but you probably wouldn’t miss not having them.
+★☆☆☆☆ - Trash abilities that are just worth nothing.
+☆☆☆☆☆ - Given to abilities that are actively harmful. There is only one of these in the entire game.
+
+Stats:
+Rank	Aim (★★★★☆)	HP (★★★☆☆)	Hack (★★★☆☆)
+Squaddie	68	5	50
+Corporal	71	6	55
+Sergeant	74	7	60
+Lieutenant	76	8	65
+Captain	78	8	70
+Major	79	9	75
+Colonel	80	10	80
+So their aim is quite good; it is tied for the 2nd highest of any base class (they share the exact same aim growth as rangers) but functionally they have the 2nd best aim a lot of the time because shotguns can become very accurate at close range and sharpshooters have to put up with their stupid and bad primary weapon. As for HP they have the “good” HP growth but this game isn’t one where you can tank hits, especially not just from your base HP value. But more is also always better. As for their hacking stat, this is the only one I’ll bother to list because for other classes it just isn’t worth mentioning. This can have some pretty big upsides. You can get extra strategic layer goodies just from hacking objectives, which you were going to do anyway. Without higher tier GREMLINs and other buffs it can be hard to get it to be extremely reliable, but it is literally all upside.
+
+Weapons:
+Specialists can only use assault rifles (and the Bolt Caster, technically) as their primary weapon and have the Gremlin as their secondary. For exact details on those, go to the weapon guide, but for our purposes here, let’s cover them briefly.
+
+Assault Rifles (★★★☆☆) - This is the “default” weapon of the game, and it’s fine. Not one shotting troopers reliably even at 100% to hit is a bit sad, but they are fine, good even compared to some other weapons. If you want more details, see the weapon guide.
+
+GREMLIN (★★★☆☆) - The only thing this does is give a hack bonus and improve some later abilities. The hack bonus I don’t value much at all, but the abilities this lets you access are quite strong, some of the strongest in the game. Remote Hack in particular is absurd. Ranking something you can’t opt out of is odd, but 3 stars fits. I’d rather have a grenade launcher sometimes, but ratings can’t say everything.
+
+Specialists can also equip the TLP Rifle (★★★★☆), Bolt Caster (★★★☆☆), and Disruption Rifle (★★★★★). To go over them briefly (more details will be in the weapon guide). The TLP Rifle is a rifle with a free scope and repeater, the Bolt Caster does extra damage and has +15 aim but only has one clip, and the Disruption Rifle is a plasma rifle that has a bunch of free superior attachments and auto-crits psionic enemies.
+
+I basically always use the TLP Rifle for a long time. That free scope is huge. I don’t use the Bolt Caster much, the fact that they only have one clip is just so limiting. That extra damage can be nice though, so it is worth considering. Once I get the Disruption Rifle I auto-equip it, simple as that. 
+
+Abilities:
+As always, here is a table of every ability the Specialist has and my star rating of each of them. 
+
+Rank	Battle Medic	Combat Hacker
+Squaddie	Aid Protocol (★★☆☆☆)	Remote Hacking (★★★★★)
+Corporal	Medical Protocol (★★★★☆)	Combat Protocol (★★★★★)
+Sergeant	Revival Protocol (★★★★☆)	Haywire Protocol (★★☆☆☆)
+Lieutenant	Field Medic (★☆☆☆☆)	Scanning Protocol (★★★☆☆)
+Captain	Covering Fire (☆☆☆☆☆)	Threat Assessment (★★★★☆)
+Major	Ever Vigilant (★★☆☆☆)	Guardian (★★★★★)
+Colonel	Restoration (★★★☆☆)	Capacitor Discharge (★★★★☆)
+GTS	Cool Under Pressure (★★☆☆☆)	
+Yes I know some of those look wild, but how about I explain myself:
+
+**Aid Protocol (**★★☆☆☆) - Aid protocol is a non-turning ending active ability that costs one action with a 3 turn cooldown. It grants an ally a bonus to their defense based on the tier of the GREMLIN you are using, starting at +20 and increasing by 10 per tier.
+
+This is not great. XCOM 2 is a game about alpha striking, that’s what you are trying to do if you’re playing well. So defensive abilities like this are always a little suspect, especially given how unreliable it is. The enemy could still roll well and hit you even with this. It isn’t terrible and because it is non-turn ending and only costs one action you can use this then do something else with a specialist and sometimes you royally fuck up and leave someone exposed and this is your only chance to help them, but I don’t love “well if I play really bad and I get lucky” as a use case. Still, it’s free so I can’t hate it too much.
+
+Remote Hacking (★★★★★) - Remote Hacking is a passive ability that allows you to hack anything with Line of Sight. This is the only way to hack towers in the game, but this can also be used on mission objectives.
+
+This sounds underwhelming, but it’s bonkers strong. Maybe the best starting ability of the base classes, or if not it's close. This actually reads “increase hack based turn timers by 2 and sometimes get rewarded on top of that.” Specialists are the only units that get a reasonable hack stat and you can get some nice strategic bonuses from hacking objectives. You were going to hack them anyway, now you can do it further away meaning you can save time on mission timers, and you get free goodies?! What more do you want from a Squaddie perk? I brought up hacking towers but honestly? Don’t bother. The benefits can be nice but because the risk of failure has a negative consequence associated with it the risk-reward just isn’t ever in your favor until super late into a run. But just its use on an average G. Ops is amazing. 
+
+**Medical Protocol (**★★★★☆) - This is an active ability that gives you one charge of a medkit that can be used on any soldier within Line of Sight. If you equip a medkit, this ability has an extra charge. Just like a medkit, this only costs one action and does not end your turn. Each successive upgrade to your GREMLIN will also increase the heal this gives by 1, starting at 6 for a tier 1 GREMLIN.
+
+Rating this only 4 stars may seem crazy, but it’s not (and trust me we’ll get to crazier). This is a game about alpha striking, so healing hopefully never comes up in the first place. Now obviously no one's perfect at this game so you will probably take damage and you might think that means you need to heal, but nope. Healing only does something if the same unit gets hit twice because of how wound timers work.
+
+I go deeper into this in the utility item guide when talking about medkits, but just as a refresher, if you take damage, get healed, then don’t get hit again, that heal didn’t do anything. If you take damage, get healed, then get hit again, then the heal was useful. Healing is only effective if the same soldier gets hit twice (or is under some status effect like poison or acid or fire). That situation just isn’t very common. It can happen, it's not impossible, but it’s not common. And this is true even if you aren't yet extremely proficient in the game; there just aren't enough pods on most missions to get hit multiple times over multiple turns. And the worse you are at the game, the more likely you are to reveal multiple pods at once and take a bunch of damage in one go (and probably die for it) rather than have it spread out over multiple turns. 
+
+OK, so with all that, why is this 4 stars? I’ve been pretty negative here. That seems like a high rating for something I’m kind of poopooing. The reason is simple, sometimes the chosen crits you into bleed out. If the Hunter or Assassin get the jump on you in the early game, they can just tell you to go fuck yourself and crit you into bleed out in one shot with just about nothing you can do about it. Technically, this is always avoidable, but in practice it can be tough. You know what you really want when a soldier is bleeding out? To heal them! This is secretly an anti-Chosen screwing you ability. It can really take the pressure off fighting them early. And even without that, sometimes you take damage, heal, and then take damage again. Sometimes you fuck up and get poison spit lobbed at your squad and need to heal people it does happen. It has enough worth to get 4 stars, and if you are newer and take damage more often it’s only better. Still, passing up Combat Protocol early is a steep price to pay. Speaking of…
+
+Combat Protocol (★★★★★) - Combat protocol is an ability that ends your turn and has 2 charges. It deals 2 damage times the tier of your GREMLIN to any enemy within squad sight range. So it starts at 2, then 4 with a tier 2 GREMLIN, then 6. It deals extra damage to robots (so that’s MECs but not codexes) and gives that damage a range. So if you have a tier one GREMLIN it is 4-5, then 7-8, then 10-11. 
+
+Oh Combat Protocol, how I love thee, let me count the ways. First off, it can hit so many targets. That squad sight range on this is just ridiculous. Second, it just does the damage, no fuss no muss. It always works, and reliability in a game where rolling a Nat 1 on a 95% shot can tank an entire mission is just so good. Combat Protocol + grenade = dead basic trooper without even a chance for something to go wrong. And lastly, it deals double damage to the most dangerous enemy type. So many robots go down easier with this thing. This shit is so good. The only sad part is the 2 charges. If they let me use this more in a mission I’d give it 6 stars. And because the best form of mitigation is death, this might actually save more damage than medical protocol will ever heal. Shit is bonkers, take it. Even if you want medical protocol, really, really, think about taking this. I never go without it on any specialist for any reason.
+
+Revival Protocol (★★★★☆) - Revival Protocol is an active ability that has 1 charge, costs one action, and does not end your turn. It removes any mental debuff from one of your units within line of sight. That includes stunned, disoriented, unconscious, panicked, or dazed but not mind control.
+
+This is another great tool against the Chosen. Oh you dazed my Reaper? Well now they’re back up and not even disoriented. It is also good against sectoids' mind spin when it rolls a panic, because it brings them back to you with their full action economy intact, which can help smooth out a turn. It isn’t always what’s needed, it is fundamentally a reactive tool in a game that does not want you to react but act, but still, does exactly what you need a fair chunk of the time. It helps smooth out turns that would otherwise be very tricky. 
+
+Haywire Protocol (★★☆☆☆) - Haywire Protocol is an active ability that ends your turn and has a 3 turn cooldown. It lets you hack an enemy robot (again, that’s things like MECs and andromodon wrecks, not codexes or gatekeepers). The way this works is that you compare your hack stat against the enemies hack stat, and are always given the same two options. You can take a small risk to shutdown the enemy for a turn (it’s always just one turn) or you can take a big one to take control of them for 2-4 turns. If you fail the hack, the unit gets extra defense and aim. Successful hacks do not break concealment, unsuccessful ones do. 
+
+This ability is the least reliable thing in the world. You have to have a robot to fight, spend (functionally) your whole turn hacking them, and then you have to win the hack to stun or take control of them. If you fail they get buffed! That’s just too many conditions for me to want to click on this. Now, if it works, the upside is so big. Gaining a unit or even just turning one unit off for a turn is just a huge swing in your favor, and super late into a run where you can stack your hack to the moon this lets you turn a sectopod against ADVENT and that’s never not hilarious, but reliability is king, and this shit ain’t reliable. 
+
+Field Medic (★☆☆☆☆) - Field Medic is a passive ability that turns any medkit in your inventory into 3 medkits. So if you have 1 medkit, you can use it three times. If you have medical protocol and a medkit you have 4 heals.
+
+Alright, here we go. The ability I think is absolutely useless that everyone else loves. The short version of why I think this is a bad ability is that you need to get hit so many times on a mission for it to do anything and you could’ve brought a different utility item than a medkit to avoid that damage. If that convinces you, then skip the next several paragraphs. If not, well read on. I will try and lay out my argument as well and as fair minded as I can, but if I get a little heated, do forgive me, I am only human.
+
+OK enough humility, let’s get on with the show. I will get into this when talking about medkits as well, but they are not good items. Fundamentally medkits are reactive to damage when items like flashbangs and frost bombs and mimic beacons are proactive in preventing damage and therefore much stronger. And if you agree with me there and don't bring a medkit, this perk is literally blank, it does nothing. This perk, and only this perk, has an opportunity cost no other ability in the entire game has. It’s the only one that needs you to have a specific utility item, and that utility item is suboptimal. 
+
+But let’s put that aside and say you bring a medkit. That means you need to take damage on the same soldier multiple times (or across many soldiers with at least one repeat injury) in one mission for this to be useful. Assuming you have Medical Protocol, because wasting time having to get close to units to heal them is an even harder sell, a unit gets hit, then you heal them. That use is from Medical Protocol. Then they get hit again, then you heal them again, that use was from the medkits original charge. Then they get hit again, then you heal them again, finally field medic did something. But because of the way healing works in this game that unit has to get hit again for that last heal to do anything! The max pod count on a mission not named Leviathan is 6! Why is the same unit getting hit by 4/6 pods on a mission?! How are they doing that and not just dying outright? 
+
+The more realistic use case for field medic is when you get hit with an AoE attack, because you don’t know which unit might get hit next and maybe you need to remove acid burning from everyone or something similar. This does, admittedly, actually do something. But hey, you know what would’ve also worked in that exact situation? Bringing a frost bomb or mimic beacon! Bringing a medkit instead of one of those items to use with field medic is like buying an antidote for a poison you are drinking on purpose. You are willingly walking into taking damage just to heal it back up. 
+
+People generally try to argue that field medic operates as a safety net for when things go wrong, but using it makes things more likely to go wrong. It’s a safety net that makes accidents more likely. Having 4 charges on your medkit may feel safer, but fear is the mind killer! Just trust yourself enough to play well enough to not need that, and it helps that doing so will actually make it less likely things will go badly.
+
+Scanning Protocol (★★★☆☆) - Scanning Protocol is an active ability that has one charge with a Tier 1 or 2 Gremlin and 2 charges with a Tier 3 one. It reveals any hidden, currently inactive, or burrowed enemies with 10 tiles of your specialist. That means it causes faceless to become active if they are within range, decloaks the Assassin, shows you pods hiding behind walls from you, and unburrows Chrysalids. 
+
+This ability is kind of niche, and its niche can also be solved by bringing a battle scanner, but this saves you a utility item slot in those situations (unlike a certain other perk). The real use cases are against the Assassin and Chrysalids. Chrysalids are the only enemy in the game that break the “scout a pod, overwatch trap them, repeat” loop because they will just run at and stab your Reaper, so this can pop them out of the ground for you to shoot at them. And this lets you nail the Assassin before she can stab at you. Now, sure, that’s pretty specific, but you will literally always have to deal with both lids and the Assassin in a run, and this hard countering them makes this is an always click.
+
+Covering Fire (☆☆☆☆☆) - This is a passive ability that has your overwatch shots trigger on enemy attacks as well as movement. Importantly, in WoTC, this overwatch shot takes into account enemy cover but in vanilla it does not!
+
+OK, so before I rant and rave about how bad this is let’s explain exactly how it works. If you are using covering fire and an enemy is in cover, your chance to hit is multiplied by the 0.7x overwatch penalty including the enemies cover. So your aim is 70, and the enemy is in high cover, your shot without overwatching and any other range table bonuses or anything like that is 30%, because high cover gives them 40 defense. If you use covering fire, that 30% is multiplied by 0.7, giving you a 21% chance to hit. 
+
+I told you there was only one ability that actively hurts you, and this is it. This perk makes your overwatch shots worse than just shooting manually, it actively nerfs you if you have it. It’s the only perk in the game to do so, in fact. Let me explain why:
+
+The only situation where you are ever getting value out of this is if you are fighting an already active pod. After all, a pod that is scattering isn’t shooting at you so this won’t do anything. That is already pretty narrow. In most cases, overwatch isn’t your best option when a pod is active; you want to be doing something more aggressive or disabling enemies. So when do you overwatch? When you don’t have anything better to do and your chance to hit is terrible.
+
+OK, so in that situation, why click overwatch instead of just taking the bad shot? Because you’re hoping the enemy moves and gives you a better one.
+
+Here’s the problem. If the enemy doesn’t move, covering fire triggers and you take a worse shot than you would have by just shooting normally. And if they do move, covering fire does nothing. So it either does nothing or makes your play worse.
+
+It gets even worse with multiple enemies. If one enemy shoots, covering fire will trigger on that target and likely miss. If another enemy then moves, you’ve lost the opportunity to take a better shot. In that case, the perk actively sabotaged your overwatch, the thing it’s supposed to be buffing!
+
+The situations where covering fire actively interferes with you are rare, true, but when they do happen it is actively harming you. So this perk is either doing nothing or is actively hurting you, and it is the only perk to do so. This is, as far as I can tell, the only perk with a downside greater than its upside, so it gets the crown as the worst perk in the game! 
+
+Threat Assessment (★★★★☆) - Threat Assessment is a passive ability that gives any unit who you use Aid Protocol on a covering fire overwatch. So just like above they will shoot if a unit moves or attacks. This also increases Aid Protocol’s cooldown by one turn.
+
+“Now wait” you might be thinking, “you said Aid Protocol and Covering Fire were bad, why is this one so highly rated?” And that is a good question my dear reader, it’s because this isn’t a reactive or defensive ability, it’s bootleg rapid fire. If you have a ranger (or other class, but let’s focus on one for the sake of simplicity) right next to an enemy and then use this on them. That enemy will almost certainly on their turn either move or shoot, and that will trigger the ranger’s overwatch shot, which will almost certainly hit because they are right next to their target, and so now you’ve done two shots for the price of one with one action point. Basically, this is a slightly awkward rapid fire that can’t crit on the second shot. And all it costs is one action out of your specialist. That’s pretty good! And there are other uses as well. If you pick up Guardian next (and you should) you can use Threat Assessment on the specialist themselves and get two overwatches in one unit to try and string together more Guardian attacks. I often actually go a lot of missions without using this, but when it does come up it’s actually quite strong. I just have a blindspot for this ability exactly because my hotbar still says aid protocol. But that’s a me problem, just don’t have a blindspot :-). 
+
+Ever Vigilant (★★☆☆☆) - Ever Vigilant is a passive ability that automatically puts you into overwatch if you use all your action points to move on a turn.
+
+I find this unimpressive. I mean, it’s free overwatching and sometimes a pod will catch you unaware and then this is useful I guess. But…eh, I don’t miss it when I don’t have it. In an active fire fight I’m not usually dashing around with my specialist. They have other things to do. Also it’s annoying and slow because the game passes to have them overwatch at the end of every turn and I will happily not take perks that are good but annoy me, and this is mediocre and annoys me…so…nah.
+
+Guardian (★★★★★) - Guardian is a passive ability that gives a 50% chance for any overwatch shot that hits to happen again. 
+
+So the way this works is that if you hit with an overwatch shot, the game rolls a 50/50 chance. If you win the coin toss, your specialist will go back on overwatch and, if that target is still alive, you shoot at them again. If the original target is dead the specialist just goes back on overwatch and things work as normal. So if there is another target to shoot at that’s moving in the same turn, they will also fire on them. This repeats until everything is dead or you lose the coin toss.
+
+This ability is absolutely amazing. It’s RNG dependent, so you could get screwed and have this do nothing, but assuming average luck this shit is great. 50% is both more likely and less likely than you think it is because humans (yes, even you) are bad at probability. You can easily get a 4 long chain of this. But then again, you can get a 0 long chain as well. It is the chance to do a lot of extra damage. Specialists are accurate and they get an ability from the GTS that buffs overwatch and it all sings together quite nicely. This is the premier way to open up fighting a pod from concealment. 
+
+Another wrinkle is that if you stack two overwatches on the same unit with Guardian with Threat Assessment. Both have the chance to roll for Guardian. So if the first one hits and doesn’t roll the 50/50 (or just misses), you get another overwatch shot off and get another chance to get the chain rolling. The way the math works out, this is a very high chance to shoot a lot for just clicking overwatch. And it’s passive! You don’t have to even plan for it. You’ll click overwatch anyway sometimes and now that’s just a lot better. This is always worth picking up. Though if RNG screws you for a whole campaign this does nothing, but, um, just get better at RNG I guess.
+
+Restoration (★★★☆☆) - Restoration is a 1 charge turn ending active ability. It will heal 4 HP (plus 1 for every tier above the first in tech of the GREMLIN) and activate revival protocol on every single person in your squad, as needed. 
+
+This is a colonel ability, so that means you are expecting to get your entire squad wounded or panicked or whatever when you have a max level soldier. That doesn’t seem likely to me. How often are you taking more than 1 injury on a mission when you are literally rounding the end game? However, I still gave it 3 stars because this is the ability people think Field Medic is. It’s a safety net. If something goes super wrong on Leviathan and everyone is drowning in acid and you’re absolutely boned, this will bail you out 9 times out of 10. That shouldn’t happen, you should play better than that, but hey, things happen. Once in a blue moon this ability will absolutely bail you out, but that’s only once in a blue moon. That use case is good enough for the 3 stars, however. I usually buy it with AP. I don’t usually end up needing to use it, but I do buy it! And when I do need to use it I'm happy to have it.
+
+Capacitor Discharge (★★★★☆) - Capacitor Discharge is a 1 charge turn ending active ability. It deals 3–6 / 5–8 / 7–10 (organic) and 5–8 / 8–11 / 11–14 (robotic) damage depending on GREMLIN tier. I cannot find in either the game files or online what the percent chance is, but it has a chance to stun or disorient organic enemies. It does not pierce armor, unlike Combat protocol. 
+
+This is the ultimate of specialists and it sure feels like it. This is basically just another rocket you get to carry around with you on missions for free, and I like free. It isn’t perfect. The chance to stun is so unreliable I literally can’t tell you what it is (do comment below if you know the odds) and its damage isn’t the highest, but it's a huge AoE bomb you can drop. It will damage your own units, by the way, just like any other AoE. It's a rather nice boost in power, but not so much that it will be a radical transformation in your play.
+
+Cool Under Pressure (★★★☆☆) - Cool Under Pressure is the GTS Perk for specialists. It gives you a 10% aim bump to all overwatch shots (it’s a little complicated, but I’ll get there) and lets them crit. 
+
+So this seems straightforward but it’s actually sort of complicated. That +10% aim comes after the 0.7x multiplier applied to all overwatch shots. So if you have 80 aim on a target with no innate defense without any bonus from your range table that becomes a 56% chance to hit with an overwatch shot. With Cool Under Pressure, it is a 66% shot. And letting overwatch shots crit means that every overwatch shot you take with the target out of cover (which is the vast, vast majority of them) has a 40% chance to crit without a laser sight on your gun or something weird like that. 
+
+The benefits from this are very nice, more accurate and more powerful overwatches on the class with Guardian is great. It’s just kind of steep to buy. 200 supplies for this is a lot. On lower difficulties where it's 75 I’d buy this as soon as I could, but not on legend. You can live without this, but having it is good, just not needed.
+
+Armor and Utility Items:
+With every ability accounted for, let’s go over what armor and utility items I think are best. Rather than talking about literally every utility item in detail, I’ll just cover the ones you’d reasonably consider. As I see it, that’s frag/plasma grenades, flashbang/frost bomb, mimic beacon, medkit, and special ammo. There may be others you’d personally consider, but if you want my take on every utility item, that’ll be its own guide. Otherwise this thing would be far longer than it already is.
+
+To start, here is how I rank each armor type. Because wraith suits improve on spider suits in every way I don’t feel the need to rank them separate. 
+
+Armor
+Light (★★★☆☆)
+Medium - (★★★★☆)
+Heavy - (★★★★☆)
+Viper Suit/Armor (★★★☆☆)
+RAGE Suit/Armor (★★★☆☆)
+Icarus Armor (★★★★☆)
+The bottom line here is that anything works. Extra utility items are quite nice on this class specifically because they don’t have a special reason to want a heavy weapon or a grappling hook. But also a heavy weapon or a grappling hook is quite strong on any character at any time, so it’s not like it’s a bad idea. But generally I find that I need at least one person in my squad needs to have two utility slots and specialists are good candidates. I gave the heavy armor 4 stars and the light 3 because generally without external pressure in a class the rocket is better than the grappling hook. But if you pick up Death from Above from the training center, light armor shoots up to 5 stars in a heartbeat.
+
+Icarus Armor is still the strongest armor in the game but because of that everyone in the squad wants it and giving it to your specialist is sort of a waste. But also it works on everyone so I gave it 4 stars. You could argue it having anywhere between 1 and 5 honestly.
+
+Frag/Plasma Grenade (★★★☆☆) - This is your starting item and its upgrade. As options for specialists go they are pretty good. A reliable 3 damage is never a bad thing. Specialists are pretty average in terms of how effective a grenade is on them specifically. Really the thing to consider is if you want to replace them early with a flashbang or frost bomb. Later they almost always get subbed out for bluescreen rounds or a mimic beacon. I generally keep a grenade around until I get both mimic beacons and bluescreen rounds and then just stick with those, but other stuff works, too. 
+
+Flashbang Grenade (★★★☆☆) - This is your first stun tool, and it’s also the worst. It disorients any enemy who is in radius, and this disables quite a few alien abilities. Sectoids psionic bullshit, mutons melee attack, codexes splitting ability, etc. It can help a bit. But also it doesn’t stop them from acting all together. So when a sectoid crits you from behind full cover while disoriented it makes you wonder if this is actually the item you want. Personally, I’m not a fan. It’s just fundamentally unreliable and costs you supplies when compared to a regular grenade. Sometimes that little bit of extra damage and cover removal is enough to mean you don’t need a flashbang at all. Sometimes it isn’t, but personally I never build these and don’t miss them. But hey, lots of people will go to bat for them so they should at least be considered.
+
+Medkits (★☆☆☆☆) - I am tempted to give medkits 0 stars for the rage bait, but no, they don’t actively hurt you, so they can have one. I don’t like medkits, I think they are bad. They are fundamentally reactive in a game about being as active as possible. If you want healing, medical protocol doesn’t eat your extremely valuable utility slots. If you want a defensive item, go build a flashbang or (later) a mimic beacon. I haven’t built a medkit in actual literal years and it has never done me any harm. I would say more, but I already went on a giant rant in the field medic section and at this point I’m being redundant. Plus I have to discuss this again in the utility item guide, so I’ll save it.
+
+Frost Bomb (★★★★★) - The Frost bomb is absolutely broken and specialists make a good case for holding one. They are the lowest damage of the 4 base classes and that makes them a good candidate for this extremely powerful stun tool. But there might be a better one. If a grenadier has the frost bomb, it gets the buff in range and area from their grenade launcher. That means you can be more flexible where you hit and might be able to hit more targets. But that comes at the cost of a grenade for your grenadier. Fundamentally a specialist’s utility slots are just less valuable than a grenadier's, so maybe put it on this class instead. I usually prefer it on grenadiers but it works pretty well either way.
+
+Mimic Beacon (★★★★★) - Look, someone has to carry one. This is the most powerful utility item in the game so someone on your squad will always be holding one unless you are doing a no meme beacon challenge run or changed how they work with mods or whatever. But for the purposes of this guide, these are on your squad as soon as you get them. With that in mind, specialists are the unit to have them equipped on in my mind. This does what people think medkits do, stop you from dying. The specialist's job is to provide a safety net, and this is the best safety net there is. Meme beacons work on every unit, but they work best on this class.
+
+Special Ammo (★★★★☆) - Special ammo is good on a class as accurate as this one, but they aren’t quite as strong as on the other 3 base classes. In fact short of Templars they are probably the worst unit to have them. The main use of special ammo on specialists is guardian, it’s the only ability they get that shoots multiple times after all. And that means special ammo is at its best right as you engage a pod on your terms. Some special ammos are so strong that you equip them anyway. So here is a nice table to see how I think of all of them.
+
+Ammo Type 
+Viper Rounds (★★★☆☆)
+Dragon Rounds (★★★☆☆)
+AP Rounds (★★★☆☆)
+Tracer Rounds (★★☆☆☆)
+Talon Rounds (★☆☆☆☆)
+Bluescreen Rounds (★★★★★)
+Viper/Dragon/AP Rounds (★★★☆☆) - I’m looping all of these together because I feel the same about all of them. Because of guardian, AP Rounds are usually very effective because the enemy hasn’t been shredded yet and similarly that +1 damage from the other two rounds is quite nice. The only reason I’m giving these three stars is that you can do better in terms of special ammo.
+
+Tracer Rounds (★★☆☆☆) - More aim is always good, but usually specialists do pretty good for accuracy. It doesn’t hurt to be more accurate, but two other classes in particular seem to make a better case for them I think.
+
+Talon Rounds (★☆☆☆☆) - Don’t go crit fishing with specialists, they aren’t built for it. If you have these, give them to your ranger instead. Honestly I’d prefer just a grenade.
+
+Bluescreen Rounds (★★★★★) - Here’s a spoiler: bluescreen rounds are getting 5 stars from me on every class (but one, and you'll see why when we get to it). +5 damage is just so much damage, and it's on exactly the targets you want. The main combo for BS Rounds on specialists is that the disruption rifle always crits psionic targets, and that includes Gatekeepers, so you can do silly damage to them with BS rounds and that rifle. Get lucky with Guardian and you can kill them before they even fully reveal. Truly, a thing of beauty.
+
+Weapon Mods:
+So this is how valuable each weapon mod is on assault rifles specifically.
+
+Here is a table of my ratings of each of them, with the understanding that higher tier versions are always better than the lower tier ones so I didn’t differentiate between them here. 
+
+Weapon Mod
+Scope (★★★★☆)
+Laser Sight (★☆☆☆☆) 
+Hair Trigger (★★★☆☆)
+Repeater (★★★★★)
+Stock (★★★★☆)
+Expanded Mag (★★★☆☆)
+Auto-Loader (★★★☆☆)
+Scope (★★★★☆) - More aim is always more better. There are a few classes that struggle with aim more than this one and so maybe you want to give scopes them instead (hence 4 stars not 5), but look stick a scope on stuff, they're good.
+
+Laser Sight (★☆☆☆☆) - Why are we trying to crit fish with this class? Don’t equip the thing that makes it so you can’t equip a scope, that’d be dumb. I feel like I’m wasting my time even talking about this. You know not to do this, you're not dumb.
+
+Hair Trigger (★★★☆☆) - A lot of specialist abilities end their turn without them firing their gun so this won’t get as much use as on other classes, but still, it can cheat out extra actions for you, that’s pretty sweet.
+
+Repeater (★★★★★) - Cheese kills for free on literally any and every enemy? Yes please! With Guardian and a bit of luck this can be quite silly. Repeaters will get a high mark for every class and specialists are no exepction.
+
+Stock (★★★★☆) - Stocks are more reliability and so giving them to any unit is good but on specialists specifically they can serve as a combat protocol you shoot sometimes to clean up kills. Grenadier grenade -> shoot a trooper to auto-kill them is quite nice.
+
+Expanded Mag/Auto-Loader (★★★☆☆) - Once again looping things together to save time, this is more ammo in your clip, and that’s always good, but it’s not that good. The main ability you are looking out for here is Guardian (funny how often I say that) and so theoretically expanded mags are a little better but if you chain 4 Guardian hits into each other you’re so ahead that the extra ones you might shoot off from an expanded mag just don’t really matter. And auto-loaders are good against codexes so…pick your poison. They aren’t usually my first choice for this class but if I have extra lying around I’ll equip ‘em, sure, why not?
+
+Summary:
+
+Specialists have some of the most polarized perk choices in the game. They have combat protocol, which is amazing. They have covering fire, which actively hurts you. But if you build them right they are quite strong. I know some people give this class some shade but honestly I think they are always good. In the late game they fall off a little but not so much that I’d stop using them. They are a good class, not the best class, but a good one. Just, please, don’t get Field Medic, it hurts my soul every time I see someone pick it.
+
+ An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+150
+
+Downvote
+
+93
+Go to comments
+
+
+1
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+This post was literally so long Reddit made me chop a bit of it off, so here's the section on PCSs:
+
+PCSs:
+And lastly, it’s PCS time. Here is a table of how I value each of them on specialists. And as before, the higher quality ones are always preferred.
+
+PCS
+Aim (★★★★★)
+HP (★☆☆☆☆)
+Dodge (★☆☆☆☆)
+Mobility (★★★★☆)
+Will (★★★☆☆)
+Aim (★★★★★) - Aim is the PCS that is best in slot of specialists. Again, Guardian silly things and also just generally “shoot at guy better.” Other classes may want them more than specialists, but best in slot gets 5 stars that’s just how it goes.
+
+HP (★☆☆☆☆) - I’m going to say this for every class. But this does basically nothing. This is a game about alpha striking. Hopefully you simply don’t get hit. Now if you do, will this save you? Only maybe! Get crit and you still just drop dead. The opportunity cost is also so high. You can’t have a better PCS if you have this one. Honestly just sell these.
+
+Dodge (★☆☆☆☆) - It’s an HP PCS, but worse! Literally don’t even think about using this. Dodge is just too unreliable to even consider a real stat on your soldiers. A classic case of “every bad for enemies, useless for you.” If you see a dodge PCS just see it as picking up credits for when you sell them at the black market. 
+
+Mobility (★★★★☆) - Extra mobility is nice and all for more flank shots, but these really belong on your melee classes so giving them to specialists is hard to justify. If you somehow end up with 1000 mobility PCSs and no aim ones, then first, how? And second, yea, sure, equip ‘em. But that’s not really realistic.
+
+Will (★★★☆☆) - Will lets you take soldiers on missions more (and has some other extremely minor benefits that don’t really matter) and for specialists that’s not bad. They gain XP a bit quicker than other classes so this can get you a higher ranked soldier just a touch faster. And they don’t absolutely need other PCSs, but still, rather have aim or mobility. It’s just that those have more valuable targets. 
+
+RoninPrime68
+•
+2mo ago
+Before I get into what I agree and disagree with, forgot to include on my comment in your Grenadier thread that this is some incredible sum-up work and it's really awesome to still see people putting so much time into passing xcom knowledge to new/less experienced players.
+
+The GREMLIN is probably one of (if not *the*) best weapons in the game; you get to potentialy deal dmg (extra dmg to robotic enemies), heal, cleanse, buff, scout and temp increase your manpower with the same item - give your best specialist a flashbang and a mimic beac and you've got one hell of a support unit that could on its own cause so much damage WHILE keeping the back of your heavy hitters clear
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's sort of weird to rank because a lot of abilities key off of it, but it doesn't actually do anything. Like, do I give the gremlin credit for letting me click combat protocol? Idk, it's one of those where the star ratings is even more fake than normal.
+
+RoninPrime68
+•
+2mo ago
+It's less about "do I give the gremlin credit for letting me click combat protocol" and more about "do I give the gremlin credit for letting me do many things and only take one single equipment spot?"
+
+You can heal without taking medkits, you can hit robotic units harder without having to take bluepoint ammo
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+But those are abilities, not gremlin perks. They use the gremlin but they aren't about the gremlin. I think it's just sort of nebulous how you calibrate that in. And it's not like it matters anyway. You always have the gremlin if you use this class, so...whatever.
+
+RoninPrime68
+•
+2mo ago
+They're abilities (well, "perks") of your soldier but you're not really upgrading your specialist, you're really just upgrading your gremlin with most of them. You might as well just say the actual unit you deploy is the gremlin itself with the specialist being someone who's there to operate it
+
+OrlandoGW
+•
+2mo ago
+And if we remove operator as a weakness, we get Spark, which also deserves its own guide
+
+Previous-Friend5212
+•
+2mo ago
+I appreciate these guides, but they're definitely geared toward elite players and I'm not convinced that elite players are the ones that need guides.
+
+For example, you talk about medical protocol not being that useful if you're playing well, but it is useful if you're not a master strategist and you end up with situations like your squad is too spread apart to fully support each other with all the different types of utility items - because the long range of the medical protocol can make up for your frost bombs being too far away from the enemy that needs them.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I actually think healing gets worse the worse you are at the game. Because you are more likely to have things spiral into catastrophic failure rather than just take a bit of chip damage. Medkits don't fix death.
+
+There is a level of skill involved in bringing a mimic beacon instead of a medkit. Mimic beacons are proactive you have to throw them when you know you are in trouble where medkits can heal you after the fact, but I literally think someone just telling you to do that is enough.
+
+And while I can't speak for everyone, I know part of my journey from someone who could barely beat this game on Commander to someone who can win L/I runs with ease was dumping medkits. Like, that was a thing I did to get better at this game, it made me better. So I should probably tell new players to do that too don't you think?
+
+u/Jumpy_Walk8542 avatar
+Jumpy_Walk8542
+•
+2mo ago
+Fundamentally, turn based tactics games come down to two things: health/damage (which are the same thing) and action economy (the amount of actions each side can take). Combat is simply a race to reduce the other side's HP to 0 before they can do the same to you, and actions are the currency used to do so.
+
+The problem with healing is that it tends to be outstripped by a corresponding attack - it's just mitigation of some damage that has already happened (and in XCOM, that damage still stays after the mission, so it's really only mitigation). A disable like a mimic beacon or frost bomb is therefore already a step up from this, because it completely negates the attack (including any immediate debilitating effects) and possibly even multiple attacks, along with any other non-damaging effects which healing would not deal with. It also stops attacks which would kill outright and render healing unuseable. So with a disable you are trading even or positive in actions, and thereby preserving your health.
+
+What's arguably even better than disables is damage, because damage contributes doubly to the damage race. It reduces enemy health, and if you kill them they cannot do anything, so you reduce their action economy and negate the damage they would have done.
+
+This applies regardless of whether you are a master strategist or not. I'm quite sure that overall, you will actually do better replacing all your healing with damage and disables without needing to change your play, and substantially better with even small tweaks to it.
+
+OrlandoGW
+•
+2mo ago
+•
+Edited 2mo ago
+You changed my mind alot in those guides, I hope you wont stop and make it for WotC classes aswell after you finish it with Sharpshooter.
+
+Also my personal request if you also would make a sidestep after guides and look into bond abilities and cool ability combos from Cover Ops points from Training center
+
+Also sidenote - I like Skulljack Specialists cause its even more goodies with free kill and some mobility (sometimes), but I always pay a hefty cost cause of it. Most of my heals actually go to Specialist itself cause usually they have so many options to do that actually spending action poin to move into safety is a luxury in alot of cases
+
+Also even if you heal soldiers, they still will be wounded at the end of it and will go heal themselves, I onc got a 50 day (!!!!) healing on Templar who left field on full health, I have no idea how this calculates but feels like the more you heal them - the more they suffer
+
+I am your fan now anyway, keep going!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Thank you!
+
+Yea I'll make a guide about the training center eventually, but I literally hit the word cap on this post so it'll have to wait!
+
+I'll cover the skulljack when I get to utility items, but basically it has the chance to deal damage to you so I'm not a fan. You probably get some beneficial trades out of, you take 2 damage to not take 5 for example, but also...mimic beacons are a thing...and I'm not trading HP to throw those...so...
+
+rynchenzo
+•
+2mo ago
+Any soldier that takes damage will be injured. Healing mid fight only stops them dying, it doesn't change what happens after.
+
+OrlandoGW
+•
+2mo ago
+What I mean is that if you heal soldiers, you might save them tactically, but the more HP they lose - the more severe will be the recovery. So that can lead to soldier would be alive in the mission, but strategically he can become a full dead weight.
+
+I once had a soldier who got injuerd so badly in midgame I never saw him recover until victory screen
+
+rynchenzo
+•
+2mo ago
+Gotcha. Still, I don't want my team dead and I'd rather have them in the infirmary than in the memorial.
+
+dwhite10701
+•
+2mo ago
+I'm really loving these guides!
+
+I usually treat specialists as 2 separate classes, one that's strictly a field medic and one that's strictly a hacker. I wouldn't necessarily argue that this is the best setup, but I've been doing this for years and I'm kinda set in my ways.
+
+My hacker is the robot killer. I'll give them BS round, EMP grenades, and outfit them with them skulljack to increase their hacking stats. Then I'll attempt to hack everything with them until they have insane hacking stats by the end game.
+
+I get that you're down on using medics, but it's a lot harder to avoid injury when using mods like A Better Advent, or when just using new enemy mods in general where you're still learning new enemy behavior.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+My problem with medics isn't about avoid injury, it's the opportunity cost of using a medkit over another item. If you are using a modset that nerfs mimic beacons I agree their stock rises quite a bit.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The hack bonus I don’t value much at all
+
+Disagree. On basic Veteran I've found Hacking (except distance for objectives) almost irrelevant or weak compared to other moves you could be doing to alpha strike enemies. On Commander and especially Legend I feel like Hacking is more valuable if you're taking a Specialist as support vs just opting for more damage in Grenadiers or Rangers. Crowd control via Hacking is always risky (obviously moreso on Ironman), but it can be useful in a pinch or as a hail mary if you're overextended. Bluescreen rounds are so good already and for a long time I underrated the -Hack Defense bonus on top of EVERYTHING else the rounds are already god tier at. Bluescreen + Skullmining project Skulljack + Gremlin, while a fair bit of setup, gives you MUCH better odds of at least the first RNG option on Hacks (and can roll 100% at times). The vast majority of the time I don't think robotic domination is actually worth it, since you don't get to control the unit the same turn despite spending those action points and the odds to get it at all are significantly worse most of the time. If I do it at all, I'd basically only ever Haywire dominate a turret for "free" height advantage double shots or a Mec for their AoE / armor shredding mini missiles ability, Sectopods are essentially irrelevant as a domination target due to their Hack Defense but rarely you MIGHT opt to stun them, though I find a Frost Bomb is usually the better choice if available.
+
+===
+
+Also, dovetailing this same setup, especially on Legend I find I valued Skullmining WAY higher. It effectively is three bonuses in one: A) it can help Specialist mobility since they often lag behind if using any of their support skills, B) it pushes the Hack bonus into actually usable, even without bluescreen damage (but better with), and c) a 70% chance of one-shotting almost all ADVENT soldiers is situationally useful. The Advanced and Elite variants on Legend (while usually not super dangerous except Lancers) become such damage sponges that a 70% roll on what is basically an extra Repeater vs most organics is not bad (since Specialists have plenty of strengths vs robotics). Bonus if you actually get Intel for expensive contacts or much more rarely a Facility Lead, but there have been times I ate the feedback damage / didn't care about or couldn't get Flawless just to get a unit off the field since the damage potential of Specialists vs organic enemies is low outside of stuff like Guardian (which requires promotions to even get there). The only other unit that can hardcore single turn delete units from full health and armor like this are Rangers (Sharpshooters sometimes can, but especially on Legend it probably requires AP or Bluescreen or Darklance, and I'm not really counting Reapers' Banish since it's late in the campaign, one time per mission [best vs Chosen or Rulers or boss pod leaders], and locked to finite hero units), which I do love, but if you're bothering to take Specialists at all then at least this option ups their damage potential. On any class other than Specialist the Hack bonus and Skulljack are basically entirely irrelevant and just setting yourself up for very likely feedback damage, and basically all other classes have higher average damage potential. The Disruptor Rifle does make Specialists a lot better damage dealers, but it's just a win more bonus.
+
+Dr_Zoidberg02
+•
+2mo ago
+I like to use the skulljack on Advent Priest's when they mind merge with an enemy since not only will it kill both of them, but it also ensures the Priest doesn't get that stupid bubble saving it's life.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yep, that's one of the unique values of the Skullmine. I generally don't find Priests that bad, as Stasis or Mind Control or Merge is a non-damaging action by them. Sectoids are SO early that breaking Mind Control through death or a flashbang can be tough (doubly so on Legend), but by the time Priests show up it's usually not too hard to kill them in two turns. On occasion Stasis is funny because your forwardmost squadmate might actually be protected from enemy fire because of it. It's not reliable but it has inadvertently helped me from time to time.
+
+===
+
+Also, while in and of themselves they aren't that deadly, the best example of damage sponges are Shieldbearers. They get absurd on Legend. I've generally found that on Commander that it's not that big of a deal to let them get their shield off if you can't alpha strike them, but on Legend more enemies are likely to survive, or god forbid you pull multiple pods with them. Not insurmountable, but annoying for sure.
+
+===
+
+Also also, while it's so rare that it's borderline strategically irrelevant, it was funny to learn that ADVENT Field Commander Generals (the ones for Council objectives) can also be skullmined. It's practically suicide on Legend in particular but damn if it doesn't do some damage.
+
+Dr_Zoidberg02
+•
+2mo ago
+While I agree Priests are more annoying than dangerous, the issue I have with stasis is that on their turn, they get 2 action points, and depending on where they are, it could prevent you from moving troops past them since it could risk the priest moving and getting a flanking shot.
+
+Also, depending on how the fight is going, you either don't have someone that can afford to go on overwatch to kill them, or you do have someone on overwatch, but they miss anyway. It's also kinda feels wasteful having to waste an attack just to finish off an enemy with 1HP.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I agree in general. Of all the things Priests can do, Stasis on themselves and otherwise Stasis on an XCOM unit is pretty annoying. I only recently learned how busted the inverse of this is by being able to use it with Psi Soldiers.
+
+As for killing enemies at low HP, consider using Stocks more. I think they are one of the best attachments for lower Aim Grenadiers in general (notably the TLP cannon / light machine gun include stocks). Stocks are nice because even if you have terrible chances like 30% or less they at least do SOME damage for spending an action. Also a lot of people really don't like Skirmishers but I do think they have a niche up through the mid game at least. They are handy for mopping up units just like this scenario, and with Stocks you can get up to 6 damage guaranteed. I usually just put it on Grenadiers as Skirmishers won't be on every mission and if the enemy lives at least it can get chip damage and Holo Targetting too.
+
+Dr_Zoidberg02
+•
+2mo ago
+Yeah, I do use stocks. Guaranteed damage is really nice. i primarily put them on specialists since the other classes have priority on scopes, and having both feels redundant. However, I don't get around to using them till at least mid game since I prefer to give specialist the Bolt thrower early on since the damage and aim boost is helpful early on then switch to upgraded Mag rifles later.
+
+I also enjoy using skirmishers aswell being able to pull enemies out of cover Is quite handy early on, and even if it misses, it sometimes destroys their cover anyway, and later on I like to give them poison rounds and target several enemies.
+
+Also, how do you get stocks to deal 6 Damage? The superior stocks deal 3 and the attachment boost brings it to 4.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Specialists are decent candidates for stocks, they're usually my second choice for them. If I happen to have any to spare, I prioritize aim scopes for Sharpshooters and then Specialists as both classes have good baseline aim. This may seem like overkill but I find it's not. You're not always going to get Holo Targetting or Spotter bonuses, so extra aim even above 100 in the case of Sharpshooters helps offset enemy defense and gives you a better chance of hitting through low cover. The aliens all too often blast your soldiers in cover so it's nice to technically be able to do the same. While aim is also good for grenadiers obviously as they could use the help, I count holo as part of their kit past the mid game. I feel like the chip damage of stocks helps offset their aim issues, though notably Grenadiers are a common choice for aim PCS and until you get the modular cannons breakthrough I find that stocks and either reloads or extended mags are the most reliable initial two mods on their weapons. Note, I don't gamble on chain shot with them, hence not stacking aim as much as I theoretically could. Tracer rounds are okay on them but I tend to prefer bluescreen early and maybe AP later but that depends on the Proving Ground when bluescreen are more reliable and cheaper in time and investment.
+
+stocks to deal 6 Damage
+
+I meant 6 as in 2 instances of 3 stock damage with two shots from a Skirmisher with a superior stock. Arguments could be made for other mods but I think stocks provide flexibility since their aim is neither terrible nor amazing, though grappling for height can help.
+
+The superior stocks deal 3 and the attachment boost brings it to 4.
+
+This unfortunately is a visual bug. The boost does not work on stocks so they max out at 3 during actual gameplay. Similarly a boosted one showing "3" in equipment will only hit for 2 in reality. Feel free to test it sometime yourself to see what I mean. The boost seems to work on other things like crit and aim though.
+
+u/wewlad11 avatar
+wewlad11
+•
+2mo ago
+You commented that healing only matters if you get hit twice, and that’s unlikely if you’re playing well.
+
+That’s not the way I see it. When I have full health I think, “I can afford to get hit once.” That means I can make aggressive plays that perhaps will expose a soldier to one instance of damage, but I’m not worried because I know they won’t die. That becomes impossible for a soldier who has been wounded and can’t heal
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I simply play aggressive the entire time. I pretend all my soldiers have 1 HP and every hit is an instant kill and I play extremely aggressively. Dead enemies do not shoot back.
+
+I understand the psychological effect of a soldier being wounded, but fear is the mind killer. Do not be so afraid of losing a soldier you make bad plays.
+
+guachi01
+•
+2mo ago
+When you know you can heal then what's a bad play for you is not a bad play for someone who can heal.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+This is confusingly worded, but what I think you are saying is that if you have more heals certain plays become better or worse.
+
+And while that's true to some extent, the fact that a play involving a medkit means a trip to the bench for a while and a play with a mimic beacon means a trip to...flawlessing the mission. It's clear which of these is the stronger option. Heals are nice to have in a pitch, but the sheer opportunity cost of field medic makes it terrible. If it gave medical protocol more uses by itself that would be a different story.
+
+guachi01
+•
+2mo ago
+Your reasoning that if you bring a medikit then one of your units will always get wounded and if you bring a mimic beacon then your units will never get wounded is a supremely unconvincing argument.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Mimic beacons prevent injuries, medkits heal them. It's not that you won't ever take damage with a mimic beacon, it's that you will save at least one injury with them when you use them, probably more. And because of the way healing works in X2 that completely obliterates the need for a medkit. Because a single unit has to take damage 4 times for field medic to be effective, so even just dropping it to 3 makes that perk have no function. And mimic beacons help the other situations where you might need a medkit as well, like vipers poison spit or Andromodons acid bomb. It just completely supplants their purpose.
+
+u/Nimeroni avatar
+Nimeroni
+•
+2mo ago
+Haywire Protocol (★★☆☆☆)
+
+You call it unreliable because you haven't properly built your Specialist. Haywire Protocol require heavy investment in hacking (notably special ops).
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea that ain't worth it. You can do a lot of silly things by juicing with covert ops and stacking hack is one of the least profitable. Getting a colonel way earlier than you should or having 10000 mobility or aim is just way better.
+
+u/PenumbraChaser avatar
+PenumbraChaser
+•
+2mo ago
+These are great posts. One thing that I think is worth mentioning is that (I believe) specialists level up a little bit more quickly than other classes. This can be helpful in the early game, especially for getting the squad size upgrade before the first retaliation mission.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+That's true, but this post was over the character limit so I didn't have space to bring it up. The way it works is they have a higher kill share multiple. Different classes get different amounts of XP and specialists have the best one. I'll cover it in detail in another post eventually I think.
+
+u/PenumbraChaser avatar
+PenumbraChaser
+•
+2mo ago
+Ah, yeah - that makes sense.
+
+I have like 1500 hours into this game, and I'm really enjoying these write-ups. It is kind of fascinating to see how others approach/value things.
+
+u/zelandofchocolate avatar
+zelandofchocolate
+•
+2mo ago
+These guises are amazing, thank you
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+https://www.youtube.com/watch?v=noyFiYKlFJU
+
+u/zelandofchocolate avatar
+zelandofchocolate
+•
+2mo ago
+Haha. Do you have a sharpshooter one out? Just so I'm not missing it
+
+u/plzreadmortalengines avatar
+plzreadmortalengines
+•
+2mo ago
+Most of this I agree with but I think you're sleeping on aid protocol a bit. If you're playing on legendary you're going to get shot at early game no matter how well you play, and giving a low cover bonus to a teammate for 'free' can be very strong. The specialist would be a lot weaker early game without it.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I dunno, I've played a lot of X2 early games and usually you are dying to a sectoid crit (and aid protocol isn't of use there) or the chosen just killing you. The rest is basically chip damage. Now aid protocol can turn a hit into miss, but only maybe. Maybe it's a me thing but I think I click it like one a campaign, if that.
+
+u/plzreadmortalengines avatar
+plzreadmortalengines
+•
+2mo ago
+That's a good point about the crits, but I do find myself pressing it quite a lot when I have a specialist in my squad early game. Often I'll have 3 soldiers in high cover and 1 in low cover facing 1/2 troopers, and it's really nice to be able to give everyone high cover. Also nice later for SPARKs. Halving the chance to take damage from a trooper early game isn't bad.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I mean it's OK, it's free right it's one action and you always have it, so it can't be that bad. But...eh. I just don't use it much. But then I play hyper aggressively. You should see how little I use cover. Why have cover when the enemy could be dead?
+
+stuckinatmosphere
+•
+2mo ago
+The problem with specialists and any items is that they could, at any moment, be carrying a mimic beacon. Every item should be asking "Why am I not a Mimic Beacon?" Bringing a medkit on a specialist is rarely worth it because you could have brought a Mimic Beacon.
+
+u/betheBat01 avatar
+betheBat01
+•
+2mo ago
+I guess i am just playing wrong because I couldn't imagine not taking damage in a round. But seriously I get what you are saying on it's better to preemptively take out threats than to try and heal. But I almost always find my self in need of healing my squads. Whether they miss a sure shot and get in trouble or I over extend and accidentally trigger a pod at the end of a turn. I mean being able to deal with the assassin basically necessitated it for me because she doesn't trigger reaction fire. I killed her still but I don't think there was one encounter where I didn't have to resuscitate someone so we could prevent capture and help finish the fight.
+
+And I really appreciate the guides even if I am not so sure how to implement them to the most effective extent
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I'll cover how to play most effectively after all the base classes are done (really I should have led with it, but hey no one's perfect). The real thing to know is that you should always have a plan for if a shot misses. Be prepared to throw a frost bomb, mimic beacon, grenade, combat protocol something that will clean the situation up where you aren't getting hit.
+
+For the chosen specifically healing is more necessary, I say so in the medical protocol section, but you probably don't need more than one. You can heal whoever got tagged and then light the assassin up, or just leave the soldier dazed to get knowledge extracted out of them if you can't fight the assassin in that position. And capture only occurs after the chosen upgrade to their 2nd form, so early into a run you can safely let them just fuck off. And later into a run you have abilities like run and gun to chase her down even after she hits you.
+
+u/betheBat01 avatar
+betheBat01
+•
+2mo ago
+Cool that would help. I have been trying to run a combat focused specialist in addition to a medic to do more in terms of down field damage. And recently through trial and error started running the mimic beacon on specialist. I found running the flash bang was in effective mostly because I try and keep my specialist in the back of the pack so in case shit does hit the fan they aren't the first down or incapacitated. Trial and error is truly the best teacher though.
+
+I just lost a mission, which was a stealth op to plant x4 charges on a transmitter and I could only bring three operators. Most of my specialists were injured so I had to go with a high ranking Skirmisher, Col. Sharpshooter, and a Cpt. Ranger. Long story short we were getting overwhelmed by a combination of the lost and I ne of the black Sectopods with i think an officer, a red mec and I think 2 or 3 others.
+
+I had to extract after only planting the charges and barely pulling my downed sharpshooter to the extraction I called. But lost my skirmisher. I think I realized I shouldn't have rushed in as hard as I did and that I rely too heavily on medics at a cost. Bad positioning to get a risky shot on the sectopod triggered the other pod which resulted jn the mech shelling my position leading to the downed sharpshooter, 1 health Ranger amd the skirmisher sacrificing himself to give the Ranger a move to extract the sharpshooter.
+
+rynchenzo
+•
+2mo ago
+Haywire protocol is mad useful against the most dangerous enemies in the game, especially when they can be hacked from so far away. Having a mec charge forward into the next pod and just pummel them with rockets will never get old.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+I think I’d rank ever vigilant and revival protocol both 1 star higher.
+
+Revival protocol is really good against the statuses and such that you run into early. Especially against the chosen.
+
+Ever vigilant is fine. It’s random value when you’re dashing. I think 3 makes sense for it. Especially if you’re buying it for AP after guardian. But no huge quibbles there.
+
+I’m not sure I’d give specialists 5 star on frost bomb. Not bc frost bomb isn’t insane, but the radius on it for non-grenadiers is a little suspect. And I typically don’t prioritize mobility PCSes on my specialists (tbh I don’t prioritize giving my specialists any PCSes - they are at the bottom of the priority list for basically everything). So they just usually aren’t carrying a frost bomb. If I don’t have mimic beacon, I will use medikits even though they are of course sub-optimal when alpha striking.
+
+I do tend to lean towards giving them WAR suits in the late game so that they can use heavy weapons from afar. Basically treating them as bootleg grenadiers they have some other extra utility. That does limit their utility spot to just 1 mimic beacon typically. If you’re playing them with medium, then I guess some random ammo is fine on them.
+
+I do agree aim PCSes are best on them, but too rare to waste on them IMO. But it’s possible I just de-value and de-prioritize specialists in general and that causes a delta in our valuations.
+
+For the mods, I kind of wish you had enough character count to call out that the mods for specialists are inherently assault rifle mods and thus also technically mods for like rookies and squaddies on the SITREP that doesn’t let you bring high level units. For that reason, I heavily skew towards aim and repeaters first. Then after that hair trigger or free reload or something to try to give some extra rolls at action economy. That said, that isn’t really too much different than what you have for the specialists anyway. And stocks are also probably fine there.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I probably underrate ever vigilant because it annoys me honestly. I also just never find that it does anything needed. Like, when are you both dashing and overwatching? It just doesn't seem that helpful. It's passive and can come up so I gave it 2 stars but I'm more likely to drop it than I am to give it one more.
+
+Revival protocol is very good, but it isn't run defining. It isn't combat protocol or run and gun or other 5 star abilities. It's just very good. I'd trade it for a lot of abilities in this game (not that you get that choice, but you know what I mean).
+
+I did literally run out of character count. But the thing about rookies is I only ever deploy like 3 of them to a mission after Gatecrasher. After that I have enough squaddies from the ring and GTS that I basically just stop deploying them on actual missions.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+The specialists are sometimes dashing to overwatch if they are falling behind the higher mobility units and the reaper has seen that there’s another pod in the vicinity that might walk into you. Just a little bit of extra action economy.
+
+Yeah, revival protocol in hindsight is not as run defining as those other abilities. But it is a must-have in the early game against the chosen. So 4 is probably actually fine.
+
+And yeah agreed on the “sitrep squad” that sits on the bench. They are probably fine with most any high level gear honestly, I just skew towards trying to compensate for their god awful aim at lower levels.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+If you’re playing them with medium, then I guess some random ammo is fine on them.
+
+They're pretty good with bluescreen. Bluescreen rounds are OP in general but I'd make a case Specialists are one of the best choices for them. They are a class that already has bonuses vs robotics so why not stack it? And I'd even say that for the Skulljack Hack bonus even if you just stat stick it and don't melee ever.
+
+All in all though, Specialists have fairly low damage potential in the early game. Assault rifles, especially with Aim (e.g. the TLP rifle), are decent but not great. The Bolt Caster is arguably useful but eh, upgrading the Alien Ruler weapons forces you to permit Rulers to spawn and the Viper King in particular can wreck your shit. The Frost Bomb is far and away the best Alien Ruler bonus and it stays useful all game long. The axe is decent, the pistol is niche and weak basically immediately, and the bolt caster falls off around the time you get Mag weapons which are basically always worth rushing a bit.
+
+BudgetNihilist
+•
+2mo ago
+I see you ragging on healing and raise you the fucking Venator exploding in the middle of my team with its stupidly large radius.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+that's a modded enemy, so not really applicable to this guide
+
+if that's the only damage you take in a mission, you don't actually need a heal
+
+tooOldOriolesfan
+•
+2mo ago
+I find having more medical kits important. While many missions, even on legendary can be flawless there is always one where I need the medical kits.
+
+I've never cared for scanning.
+
+Specialists get a ton of kills in my campaigns. Always pair them with bluescreen later in the game. Use the bolt or when the improvised rifle (and whatever else it gets upgraded to) he gets that. Combat protocol is excellent since we all have had 90%+ shots miss so getting 100% even when it is only a few points early in the game is critical at times.
+
+I"m not sure why some players don't like specialists but I find them key both medically and killing enemies.
+
+Still don't see the value of stock except very early in the game when hit rates are low.
+
+Repeaters are really too good due to the instant kill. Sometimes the first shot on the chosen and boom, they are dead.
+
+Usually it is repeater, scope and expanded or auto loader.
+
+OrlandoGW
+•
+2mo ago
+I softbanned repeaters in all my campaigns after one time I spent 20+ minutes creating a perfect ambush for experiment viper thingie with just t1 team and then my first overwatch which I placed just as like "well I have nothing to do with this character anyway" kills it. It killed so much fun out of the game I just dont install it anymore. Also repeaters works with stock (???) which is so nasty it should not be allowed
+
+tooOldOriolesfan
+•
+2mo ago
+I can understand that.
+
+For a while now I've been playing LWOTC and that is a long campaign. I'm doing a lot of saving/reloading since my goal was just to understand what it is and how it works. Some of the battles are very long.
+
+Once I'm done, I'm not sure I will do it again due to how long it is and I've had a lot more crashes in it than I ever did with XCOM2:WOTC which is getting frustrating.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+But would bringing a mimic beacon instead of a medkit have prevented the injuries that the medkit is healing up? Because if so, then why did you bring a medkit?
+
+dwhite10701
+•
+2mo ago
+This is interesting. I tend to use mimic beacons as emergency items when one of my units is in a dangerous position. It sounds like you use it more as a routine item, when there are active enemies who can't be killed this turn. Is that correct?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I'd happily trade a mimic beacon for one injury prevented. Because there are only 3-6 pods per mission. So getting one pod cleanly off the board is so valuable.
+
+Either_Sort_171
+•
+2mo ago
+I really like your guides and they gave another perspective for me in this game, as well as some video i saw about target prioritizing enemies, but as i am playing the long war mod, everything you're talking about alpha striking gives me a itch because the classes get reworked, giving A LOT of value on defense, like using a scout to see enemies from afar and sniping them or doing area suppression with bonus hit chance against suppressed enemies, and the missions, a lot of times, punishes you for being overly agressive as finding an enemy in the aliens turn does not always end the turn of that group of enemies, but i get it that the base game is about alpha striking since the more you wait the more shit you deal with
+
+RootinTootinHootin
+•
+2mo ago
+I like this guide, it reminds me of an old guide you’d find on a forum somewhere in 2010
+
+u/Wonderful_Discount59 avatar
+Wonderful_Discount59
+•
+2mo ago
+Goodness, I hadn't realized Covering Fire was so bad.
+
+Although I'm wondering if its better than you think, because you're only considering it in isolation (i.e. when you have one enemy to shoot at, and have the choice of shooting or going into overwatch).
+
+But if you full-move, you can't shoot at all, but can still overwatch with have Ever Vigilant.
+
+And if you have Guardian, you can overwatch against multiple enemies.
+
+There's also the fact that a Codex can teleport from a position where you can't see it to a position where it can shoot you, without trigger overwatch, but Covering Fire allows you to shoot it before it attacks.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+But why would I be full moving when there is an active pod? And even if I did, covering fire makes my chances to hit with a guardian powered overwatch go down not up. While codexes can teleport around, you probably won't even hit them with a covering fire attack because they teleport into cover and if you did you got lucky, you didn't plan for that you prayed for it.
+
+Jolly_Key5662
+•
+2mo ago
+While playing today I found the only valuable use case for covering fire: For killing a stasis priest with 1 hp while having a teammate on open ground, so you can shoot it before it shoots your teammate no matter if they move or not.
+
+I still give it 0 stars
+
+averyvery
+•
+2mo ago
+I have picked covering fire so many times and then thought "huh this actually seems worse?" - thank you for confirming.
+
+u/Warm_Charge_5964 avatar
+Warm_Charge_5964
+•
+2mo ago
+On some missions I like to place a SPARK with Aid Protocol and smoke in front of my other units, tends to bait out enemies and be completely fine, but it's more to fuck around during endgame than anything else
+
+u/XCOM_Finx avatar
+XCOM_Finx
+•
+2mo ago
+After your Ranger guide, I was curious to see your ranking for the Specialist to see how it would compare to other good weapon type (Shotgun, Cannon). I'd say there is an argument to be made for BC to be the second best weapon type in the game. You often bring up how XCOM 2 have a reverse difficulty curve which is true and the BC excel very well in that portion of the game. The two main reason why it perform greatly is that it solve most of the early game threat and its easily the best weapon versus Rulers.
+
+Its a nice weapon versus many of the early game high priority target. Stun Lancer? You have a small chance to one shot them with tier 1 and are guarantied to kill them with tier 2. Viper? they are annoying with their high dodge which makes the BC ability to ignore dodge nice versus them. Mec? they are often an enemy that can be annoying because the main method players use to fight them is have your Grenadier shred them to kill them. This have the problem of relying on a class who's aim will still be bad at this stage of the game, while Specialist higher aim + the aim bonus of BC and ideally AP rounds means they can one tap them reliably. Versus Rulers the weapon is excellent due to its very high damage per shoot which is important when they get a reaction for every action you take and 50% chance to stun can solve what is normally an unpredictable fight. Oh and much like with Vipers ignoring dodge is a difference maker for your damage.
+
+I briefly brought it up with the Bolt Caster, but AP Rounds I think should be much higher, i'd give them a 5* honestly. Not only it does wonders with the BC, but its also amazing with a Guardian build. The case when overwatch is great is when you have nothing to shoot and are overwatch creeping and a pod runs into you. In that case all the enemy are full HP/armor and having your best overwatch unit able to fully gets its damage through is good. For example, an Andromedon without AP would require about 7 shoot from a Plasma Rifle to turn into phase 2 while with AP this number drop to 3 and with Guardian its commun to fire 3+ shoot so you can easily turn an Andromedon unto a suit just with overwatch alone. That's just one of the many enemy in the game with armor.
+
+When I started XCOM 2, the Specialist is the class I disliked the most due to its predecessor being terrible. As I played more and more I started to see how strong and versatile they can be. Now i'd say of all the class the Specialist is the most well designed class by Firaxis, very well balance while still being very strong in the right hands. There is no better feeling than dropping a full pods with a Guardian chain... ok i'm lying a point blank Shotgun crit is but my point remain.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Maybe this is a me thing, but I fucking hate the bolt caster. Not being able to reload and shoot is just so limiting in the tactics you can employ. It gives you so many tools to try and make up for it but I still can't stand it. That might be a me problem though. They are good against rulers, that's true. And important! But, eh, not a fan.
+
+The thing about AP rounds is there actually aren't that many enemies where it's that good when compared to BS rounds. Sectopods and Gatekeepers and MECs they are the same if they are unshredded and worse if they are. Lancers have 1 armor late into a run, shieldbearers have armor but who cares about them, andros and avatars are really the only enemies that are that important to try and guardian chain against super late into a run. I think BS rounds just end up being more useful more often. I mean they are still good against the other half of the andro. I might see them going up to 4 stars though.
+
+I think Specialists aren't that well designed. My mark for a well designed class is if both perks I could reasonably see myself wanting, and specialist has only 1 of those. Medical V Combat is a real choice (even if Combat is better Medical is quite good) but the rest the choice is already made for you. You wouldn't ever pick of restoration if AP didn't exist and every other choice there is a correct choice. They are better than supports in EU, that's for sure, and the class itself is good. Like I like where they pushed them to, but I wish there were more real choices to make. Grenadiers is probably the best designed class from my perspective because almost every perk (except shredder V blast padding) has some reason to go the other way.
+
+u/Reddit-Arrien avatar
+Reddit-Arrien
+•
+2mo ago
+•
+Edited 2mo ago
+Hard disagree with field medic (and healing in general)
+
+Yeah, in general you play with the intention that you don't take any damage, but eventually they will happen. Eventually your top soldier will wiff that high% shot, or a pod managed to patrol into your concealed scout (or concealed Reaper if you're that unlucky). Eventually a ADVENT/Alien unit managed to hit your soldier in full cover, maybe even critting them. At that point, being able to heal them and avoid having further bad luck resulting in their death can go a long way. I find that its even more true on Legend, as your damage will be behind, your soldiers at a lower level, and HP be only a bit higher that RNG can result in not being able to alpha strike all of them. If anything, at times I forgo MP and take field medic and heal the old-fashion way.
+
+It IMO becomes more true with all the DLC; In the base game with no DLC, I would agree with not taking Field Medic and/or forgoing healing outside Medical Protocol+Medikit as a safety net. Thing is, Its extremely hard to prevent Chosen from injuring your troops (the Assassin appearing for me means that somebody is going to recover afterwards). Alien Rulers, Ruler Reactions, and their propensity to spread damage around means multiple soldiers are going to be injured (while the mission still needs to be completed).
+
+This guy and this post is basically where I got this (and I agree with him).
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Sure, but will it happen 4 times? Because if the same soldier gets hit less than 4 times field medic had blank text. If you get hit, heal, get hit, heal, get hit and then don't get hit again you didn't need that 4th heal. And if one of those instances of damage would've been prevented by a mimic beacon, then you should've brought that item instead of medkit.
+
+That's the real thing here. A heal does nothing if that unit doesn't get hit again. And because there are powerful proactive tools that prevent damage all together, you would've been better off with those.
+
+In the situation where you miss a 93% shot, you can just throw a mimic beacon, waste the enemies turn, and then try again next round rather than having to eat damage.
+
+Rulers are much, much more likely to injure you. But they do a ruler reaction when you heal! So you can't heal during the fight anyway and a heal will (unless its the viper king) heal for less than they deal out in damage, so that's a losing trade.
+
+u/Reddit-Arrien avatar
+Reddit-Arrien
+•
+2mo ago
+In all fairness I just don’t find any use out of scanning protocol (Spectres rarely Vanish, Chrysalids are rare, Assassin is unpredictable for when to use it,) and for me a specialist is always going to bring a medikit. Plus, I can afford to be more Willy nilly with it; Use it on militia that managed to survive a hit, on a soldier that has to run though fire/poison/acid before they take damage, or had the floor suddenly break under them.
+
+Mimic beacons take a while unlock outside stuff like Savage Or Alien Infiltrator, given that Faceless are Retaliation exclusive. I don’t really spend lab time on Autopsies aside two (MECs and Mutons) cause I gotta research other stuff (Like better Weapons and armor). Plus, have you seen an enemy walk past a beacon and try to shoot my units instead? 
+
+From my experience rulers engage at around the middle point (or even at the start) of missions, so no healing means trying to complete a mission with likely multiple injured soldiers. They also don’t deal damage every single turn; They usually alternate between damaging and non-damaging abilities (Frostbite and Faithbreaker for example). Also, I usually have my specialist usually further back, and often they’ll be out of sight of the rulers (and in turn don’t trigger reactions). 
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's true that scanning protocol isn't that helpful. Good against the assassin and lids but that's pretty niche. But if you don't bring a medkit field medic has literally blank text, which, you know, is pretty bad.
+
+>Mimic beacons take a while unlock outside stuff like Savage Or Alien Infiltrator
+
+On legend you unlock one right after the 2nd retal mission that's when you get enough corpses, and you probably don't have a lieutenant before them. You might just have one, but probably not. At least from my experience.
+
+>have you seen an enemy walk past a beacon and try to shoot my units instead? 
+
+That means you threw it into a location they do not have LoS in. You can check using the indicator added in WotC by moving your cursor to the tile you want to throw it in and seeing if you would have LoS to them there. Otherwise the only units that ignore it are rulers and chosen.
+
+>From my experience rulers engage at around the middle point (or even at the start) of missions, so no healing means trying to complete a mission with likely multiple injured soldiers.
+
+That's fine. A soldier with 1 HP is just as effective as a soldier with 1000 as long as they aren't dead. And if the item you bring instead of a medkit helps you avoid an injury in a future pod, well, then they only needed that 1 HP. And even besides, if you leave rulers at their facilities until you get banish and a superior repeater you can just...not have to deal with them for 90% of the run. Even if you let them wander (like I do) you can get away with only a few injuries or even none with a couple frost bombs and some high DPR attacks.
+
+u/Reddit-Arrien avatar
+Reddit-Arrien
+•
+2mo ago
+For me personally, Specialist always brings medikits, and the combo for most of the Champaign is medikit+Skulljack. 
+
+Retaliation Missions on legend usually give two faceless (though from experience Haven Assaults still only give one for a while), but the instant is a a hefty 7 corpses. Again, I need to spend lab time on more important stuff like weapons, which can take the entire month to complete. 
+
+When I say “walk past”, I mean I threw it next to them, but at times they ignore it anyways. 
+
+And I feel like you keep assuming that things will always go your way. Maybe you’ve been extremely lucky that you can forgo medikits and other tools like it. You can throw meme beacon after meme beacon, but your soldiers can feel like they ain’t hitting for while (That’s the nature of the game).
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Specialist always brings medikits, and the combo for most of the Champaign is medikit+Skulljack. 
+
+Have you considered doing mimic beacon + bluescreen rounds. I can promise on my 3600 hours and multiple deathless L/I runs that it's better!
+
+but the instant is a a hefty 7 corpses
+
+Yea I don't go for the instant. I just spend the 10 days researching it. It's so worth it. They are run winners by themselves.
+
+When I say “walk past”, I mean I threw it next to them, but at times they ignore it anyways. 
+
+I don't know what to tell you either you have a mod that is messing with their AI or you encountered a glitch. I literally read through the code the enemies is forced to shoot at them.
+
+And I feel like you keep assuming that things will always go your way.
+
+It's not assuming, it's forcing. The game gives you the tools to flawless every mission it is your job to use them. Now doing so is hard, almost impossibly hard, but it can be done. You just gotta find the line. You can force this game to give you flawlesses when it doesn't want to. I have a guide about this coming out on Friday in fact.
+
+You can throw meme beacon after meme beacon, but your soldiers can feel like they ain’t hitting for while (That’s the nature of the game).
+
+No it isn't. This isn't EU where 100% to hit is hard to come by. You can force them to happen. Rend, claymore + grenades, point blank shotgun blasts, sword attacks after blademaster, close range pistol shots, combot protocol, hail of bullets, rockets, attacks boosted by holo targeting are all ways to get that lovely 100% to hit. Don't settle for an 85%, get that 100.
+
+u/Reddit-Arrien avatar
+Reddit-Arrien
+•
+2mo ago
+Well thats impressive (I have 1500 hours in the game, with some L/I completions and deathless runs as well). I’d like to see you try to beat a worst luck run then, and see how well that works.
+
+All those things has their limits; Templars can end a up a few tiles short of Rend, same for Rangers (virtually every enemy late game has some defense, so it no longer becomes guaranteed), you can’t throw explosives at everyone (ditto for HoB), and the map needs be a open to you getting close enough/high ground for a 100% shot, even with Holo targeting. Also, some of these options are not there at the start; There are some elements you can’t control, only work around to some extent.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You can't beat a worst luck run, you can't make it past gatecrasher on legend unfortunately. I think the first G. Op might also be impossible depending on what classes the game gives you.
+
+And rangers actually get enough aim to overcome that defense most of the time, and eventually you get the katana and don't have to care.
+
+While the game will try it's best to hurt you, you can always stop it. If one person has beaten the game without getting hit once, so can you. You may not know how (and I'm not that good either), but it is possible. That's the loop you are trying to hit.
+
+u/Reddit-Arrien avatar
+Reddit-Arrien
+•
+2mo ago
+I’m aware, and I’ve done stuff IMO on par with that; imagine skipping plated armor, on Legend difficulty no less? I made it work.
+
+Worst luck not being possible matters; you do need some luck, a part you can’t control, to win. You act like it’s always possible to avoid getting hit, to always get that guaranteed. But the thing is you can’t, and RNG can easily end your run early if it wants to. Being able to heal without a care allows you at minimum stop a bad situation from spiraling too, and that’s why it (and field medic) still has a place despite the alpha-strike nature of the game; Healing is guaranteed if you bring it, alpha-strikes and 100% hit are not.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Worst luck isn't possible on like 3 missions in an entire run. You could do it for the rest. It'd be fucking brutal but it is possible.
+
+RNG is not capable of ending a run if you don't let it. It can kill a soldier without too much say, maybe even cause you to fail a mission if you really fuck up, but you can beat this game with only rookies so it can't just end your run.
+
+And healing doesn't result in stopping a death spiral. The way you lose missions is when too many enemies take turns. It isn't getting wittled down by pod after pod it's three pods activating at once and just killing you. And medkits don't fix death. But you know what prevents those deaths? 2-4 of those enemies being forced into shooting a mimic beacon.
+
+11 more replies
+ValionMalisce
+•
+2mo ago
+I could have sworn it gives you a second heal if you dont bring a medkit. (I remember my specialist i was hack training being ambushed with basic equipment. I remember having 2 heals but I could just be misremembering cause Its been a while. Still not great with your points, but not literally does nothing iirc.)
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Field medic turns your medkit into 3 medkits. But if you have medical protocol (and why are you taking field medic without that) you already get 2 heals from that + the medkit. And so you need to get hit 4 times for field medic specifically to be useful.
+
+ValionMalisce
+•
+2mo ago
+•
+Edited 2mo ago
+Usually I end up getting both sides of the tree with my specialists using ap so. I love the flexibility that offers and its the one class I actively fill out both sides with. Also theyre a super good candidate for bolt caster until you can reaction stack for the simple fact of +15 aim and this class isnt always shooting until you get that online. Early game wise at least.
+
+I just figure if scanning protocol is super situational anyway, and field medic makes it 2 uses without having to equip a medkit, then its not doing *nothing.
+
+That said, only reason I run field medic with a medkit in the first place is cause it turns 1 specialist into 2 specialists healing wise.
+
+A lot of times I want more of the other classes or such. So field medic with a medkit still means Ive got a heal for most of the team in my back pocket while being able to run more rangers reapers templars or gunners.
+
+Then again Ive only barely started Commander difficulty so my opinion probably doesnt matter too much. Just wanted to refute that it literally does nothing cause idek why at this point lol.
+
+Edit: It seems I am misremembering getting an extra heal charge from field medic. Curseyoubraaaaaaaain
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+2mo ago
+Another great guide! Even if I see some details differently, it's the most detailed guide I have ever read.
+
+The main thing about the gremlin is being able to do things remotely! Hacking mission objectives from range is extremely valuable especially in missions with a timer.
+
+A Reaper can also hack but he doesn't have a gremlin, so he must get into physical contact with the hack objective. The difference is that the Reaper would break concealment if he does so to look up what's available with lamp posts and the gremlin doesn't. Being able to sustain concealment for looking up hack rewards or to look up hack chances is great. In some circumstances the gremlin can even break windows without breaking concealment which nobody else can do. Kind of niche, but adds to the versatility of the gremlin.
+
+For me this is a 5 star equipment. I have a specialist with a gremlin on every team because of this. Essentially you have covered this with the evaluation of remote hacker but since this is a base ability of the specialist I think this evaluation should be expanded on the gremlin too.
+
+The skulljack gives a hack bonus of 20% too and no remote ability. Even then, I equip it always as soon as it gets available (4 stars).
+
+Weapons:
+
+Personally I prefer the bolt caster over a rifle because of high damage and stun chance even if it has only 1 ammo. Therefore I would rate the bolt caster higher than a rifle. If you specialize the specialist as an overwatch specialist with guardian and covering fire you of course should prefer a rifle because the bolt caster doesn't give a second shot with guardian nor with covering fire. Also no weapon attachment can be attached to a bolt caster and that's something you want to have when you plan to use overwatch abilities (especially repeater because its trigger chances are independent of your to hit chances and maybe stock too).
+
+Abilities:
+
+Aid protocol: since this isn't turn ending it is almost like a free action. This alone makes it 4 stars in my book. You can use your ranger, your templar and your SPARK more offensive than ever with this. Did you know that mimic beacons can be protected with aid protocol? Now we're rolling. 5 stars.
+
+Medical Protocol: combat protocol is better for me too. If I later want to improve a specialist with additional abilities by XCOM AP or genius/savant AP it still wouldn't be the first additional ability I add. Most of the time you have ample time to heal after combat. Which means it can be done on foot, remote is just nice to have. More like 3 stars for me. Good, but not great.
+
+Revival protocol: 4 stars, because...
+
+Haywire: It's not even close. Getting your 7th team member with enemy MECs is so valuable (and even more if you have less than 6 team members). It's an expendable unit too so great scout material if you are no longer concealed. If they ever get control over itself again you can bet it has no more micro missiles. They are quite easy to hack and present in most missions. Also two shots per turn turrets with height advantage and of course, the big price, flanking and cover destroying sectopods on your side. Autowin. It's domination for robots but as a cooldown ability. If the hack resistance is too high you can stun the robot more easily and this is great too. It lessens the opponent pressure per turn considerably. Hey, shutdown doesn't even break concealment! Shutdown a codex before you give him the skulljack treatment. It doesn't clone when it fails or when you damage it with a non kill shot. A hacked MEC is a moving armored (especially when heavy) micro missile shooting mimic beacon. So, better than a mimic beacon and a mimic beacon already is a 5 star item (maybe not on this class but in general). Did I mention it is a cooldown ability while a mimic beacon is exhausted on use? 6 out of 5 stars. Maybe void rift+schism is the one better ability but void rift has a cooldown of 6 while this has 3.
+
+However, revival protocol is probably the first additional ability I would train with XCOM/genius/savant AP.
+
+Covering fire vs threat assessment: both are overwatch abilities. So both do not apply for alphastrike. It comes down what weapon you prefer. If you have equipped yourself with a bolt caster covering fire isn't very attractive because of the very limited magazine of the bolt caster. You can't get multiple shots out of it. However, the big drawback of threat assessment is that the cooldown of aid protocol is prolonged. When you use threat asessment most of the times you use it for the effect of increased defense and not for the low possibility to get a overwatch shot. So it really worsens aid protocol for most cases.
+
+With rifle: covering fire 4 stars, threat assessment 1 stars.
+
+The trick is, that a repeater can be triggered with overwatch fire and its chances are independent of to hit chances. A repeater doesn't have a disadvantage because it is a low percentage shot. Stock profits from low percentage shots. Your other soldiers will overwatch shoot on moving targets, the specialist gets additional opportunities. More guaranteed damage on enemies' turn is good.
+
+With bolt caster: covering fire 2 stars, threat assessment 1 star.
+
+Both are bad. The additional damage opportunity for the specialist in comparison to your other soldiers is worth more than nothing but not much more. At least the bolt caster has built in a superior scope, which is good for overwatch shots. The additional damage opportunity for other soldiers is canceled out by the worsening of aid protocol.
+
+Field medic vs scanning protocol. Field medic gives extra charges not only for healing but also for revival. For scanning there are battle scanners. The scanning range of scanning protocol is close to abysmal and half of it is spent for territory I came from and is already scanned. Battle scanners scan the territory in front of me with better radius. I take them when I'm up against the assassin, otherwise I don't bother with scanning. This is what scouts are there for (reaper, ranger). I don't care about chryssalids. My ranger has bladestorm and my SPARK has armor and innate defense. The templar has parry.
+
+Field medic 4, scanning protocol 1.
+
+Ever vigilant vs guardian: Obviously guardian is worthless with a bolt caster. I'd rate ever vigilant as a 3 star ability because a specialist uses aid protocol + another ability so often that he tends to lag behind. My specialists use dash quite often. Then getting an overwatch in addition is good. It does speed up the game. But it's not a game changer. Guardian is not a 5 star ability because you don't want to rely on overwatch, you want to rely on alphastrike.
+
+With rifle: Ever vigilant 3 guardian 4
+
+With bolt caster: Ever vigilant 3 guardian 1
+
+Cool under pressure: 4 stars for rifle users, 3 stars for bolt caster users.
+
+Rifle users most likely have covering fire and guardian which both are enhanced considerably with cool under presssure. The bolt caster does have ever vigilant improved which is something and his other overwatch shots. But since the bolt caster can imply stun cool under pressure improves also stun chances so it's overall a good ability.
+
+Restoration: Most of the time it is just one more charge of a medkit. Feels meh. 2 stars.
+
+Armor:
+
+light 2 medium 4 heavy 2.
+
+Light and heavy armor take away an equipment slot. Since I want to have a skulljack on my specialist not only for intel gathering but also to improve hack chances which is important for hacking and haywiring losing an equipment slot is bad. The other equipment slot is a medkit which I also want to have because I take combat protocol over medical protocol. If I get a third equipment slot special ammo is better than a heavy weapon because of multiple use and it's also better than a grappling hook because with a specialist the gremlin provides for mobility. The gremlin's range is squadsight. Thus the specialist doesn't want to give up on equipment slots.
+
+Equipment:
+
+Skulljack 5
+
+Intel gathering in missions is awesome, one shot kill ability on high hitpoint targets is great. Sorry, no stasis for you, priests. Hacking +20. Indispensable.
+
+Medkit 5
+
+I want to have at least some healing on the specialist and with medical protocol it gets remote and really good.
+
+Special ammo 4
+
+Everything else 1. Other soldiers have everything else. If you have more than one specialist in the team
+
+Ammo:
+
+The specialist is the robot guy but since he gets the robots with haywire it can be argued that on this guy ammo against bio targets is more useful than bluescreen. With ammo against bio targets you want to go for status effects. Dragon rounds stop the special abilities of bio opponents better than viper rounds. Your other soldiers can use bluescreen.
+
+Dragon rounds 4
+
+Viper rounds 3
+
+Bluescreen 3
+
+Everything else 2. For bolt caster wielders talon rounds are 1 because bolt casters have zero base crit chance and the crit damage is worse or equal than a rifle.
+
+Weapon mods
+
+Only applies for rifle users. It's likely you have covering fire and guardian. Both suffer from to hit penalties. Covering fire shots can be low percentage shots. You can't have both scope and laser sight. Repeater improves low percentage shots a lot, so they are naturally brilliant for overwatch shots (covering fire, guardian). I like guaranteed damage more than extended mags because overwatch shots have to hit penalties. But if you are lucky guardian can give you a lot of shots.
+
+Therefore
+
+scope 5
+
+laser sight 0
+
+hair trigger 2
+
+repeater 5
+
+stock 4
+
+extended mag 3
+
+auto loader 2

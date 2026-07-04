@@ -1,0 +1,697 @@
+SPARKs are weird. Unlike every other unit type, how you get them (and if they are worth it or not) is based on the settings you choose for your campaign. And they have a lot of unique things about them. Let's start with those uniquenesses, then discuss how you get a SPARK in each setting, what it costs, and how that influences things then we will actually talk about the class.  
+
+SPARKs are weird
+
+SPARKs are the only mechanical unit XCOM can get access to without hacking. They cannot take cover, are immune to poison, fire, bleeding, and cannot bleedout. They cannot pick up mission objectives like the blacksite vial, can’t carry bodies, and can’t form bonds. They also can’t equip utility items or PCSs and can’t gain AP or buy abilities with the Training Center. However they can be deployed wounded, even at 1 HP. They also start with 1 Armor and 10 defense and never get tired. Only one SPARK can be repaired at a time, so if two of them are injured one of them will stay at their current HP unless you switch which one is being repaired.
+
+All told, this is mostly a negative deal for SPARKs. The real big loss is they can’t ever equip a utility item, because utility items in this game are crazy good. When they use overdrive their damage is still competitive with other units (fully maxed out rapid fire from the Arashi using talon rounds is 38 damage, fully maxed out damage from clicking overdrive + shoot three times is 36, so close) but it would be a hell of a lot stronger if they could use BS rounds. It isn’t all bad, being able to be deployed on literally 100% of missions until they die is a huge benefit. In fact it’s so good that it is entirely possible to anchor your entire campaign around it. Basically power leveling a SPARK to be a colonel because they can’t feel fatigue. Sure they are less powerful as a colonel than almost all other classes but if they get one 50 days earlier than everyone else who cares you just cheated yourself an end game unit way sooner than you should’ve. I can’t stress enough just how much fatigue slows you down. When I play non-wotC XCOM 2 I deploy like 8 units ever because you can concentrate power so much easier, but not so in WotC. This lets you stack so much XP into just one unit that you can sort of skip ahead in the power curve. But how viable that is depends on what settings you pick at the start. 
+
+Unlocking SPARKs
+
+There are 3 different possible ways to get a SPARK. The first is with integrated DLC turned on, the second is with it turned off and the Lost Towers mission disabled, and finally it is through the Lost Tower mission. Here’s a table of how to unlock the SPARK in each situation.
+
+Setting	Cost for 1st SPARK	Cost for 2nd SPARK
+Integrated DLC	100 supplies, 20 alloys, 5 elerium crystals, 2 elerium cores and 14 days at the Proving Ground	Same as the 1st one.
+Lost Towers Off	Free other than the 14 days it takes at the Proving Ground	100 supplies, 20 alloys, 5 elerium crystals, 2 elerium cores and 14 days at the Proving Ground
+Lost Towers On	Given to you after completing the Lost Towers Mission	100 supplies, 20 alloys, 5 elerium crystals, 2 elerium cores and 14 days at the Proving Ground
+So clearly, with Integrated DLC turned on, that is a hefty price to pay even for your first one. And that alone basically makes this class irrelevant. You are paying for a class that isn’t actually any stronger than just units you can build normally. If you have Integrated DLC turned on, I wouldn’t really bother with SPARKs unless you just really like using them. It’s just too high a price.
+
+With the Lost Towers turned off, however, that is a different story. You get (as we’ll cover later) a rocket and a unit with Overdrive for free? For constructing the building you have to build for story reasons? Yes…Yes I would like that very much. As mentioned above you can rush the Proving Ground, build a SPARK super early, then use them to carry you through the game because they can go on every mission. It’s not without some downside, you are slowing the progress of your other units by feeding XP to the machine, but it does work. If you have the Alien Rulers wandering around and the Viper King is coming for you at Force Level 4 (rude Firaxis, very rude) then building a SPARK asap is a good way to handle him.
+
+With the Lost Towers mission enabled things get tricky. You really don’t want to do that mission before your whole squad has Mag Weapons, especially on Legend. It isn’t impossible to do earlier than that, but it’s really dicey. So that delays you getting a SPARK by a bit. And that mission makes anyone you send on it shaken, which isn’t very good. But that mission does give you a fuckton of XP, so a thing you can do is wait until you have Bluescreen Rounds, then send a bunch of lower leveled soldiers and power level them. You level up your barracks and get a SPARK at basically no risk. That SPARK probably won’t see a ton of combat just because they are joining the party late, but as an emergency carry for a Low Profile mission that pops up super late into a run (the Low Profile jumpscare, as I call it) they are pretty good.
+
+OK, that’s enough nonsense and caveats and other boring stuff, let’s get into the class itself. 
+
+Here is how the rankings for abilities (and other stuff) is going to work. 
+
+★★★★★ - The Best of the best. Abilities and things that you build around, or weapon mods that are best in slot. Things of that nature. The difference between having stuff in this tier and not is so massive I’d consider it nerfing yourself not to grab them. You really, really, really want stuff with 5 stars.
+★★★★☆ - Really strong abilities. Abilities I am always happy to have and would trade a lot of other abilities for, but they aren’t quite as “must have” as the 5 star ones.
+★★★☆☆ - Abilities that are pretty good. Stuff that I would buy with AP quite happily but might pass up if the other ability is better.
+★★☆☆☆ - These are underwhelming. These abilities just don’t really do enough to justify having them. They might have very niche use or be passives that just kind of do very little. Stuff I just don’t care about. They aren’t horrible or useless, but you probably wouldn’t miss not having them.
+★☆☆☆☆ - Trash abilities that are just worth nothing.
+☆☆☆☆☆ - Given to abilities that are actively harmful. There is only one of these in the entire game.
+
+Stats:
+
+To begin, they have the following aim and HP at the following ranks. Oh, and sparks have fancy names for their ranks but they are the same thing. Squire is squaddie, Champion is colonel, you get it:
+
+Rank	Aim (★★★★★)	HP (★★★★★)
+Squire	73	10
+Aspirant	76	10
+Knight	79	10
+Cavalier	81	10
+Vanguard	83	10
+Paladin	84	10
+Champion	85	10
+While they don’t top out at the highest aim, they do have more aim than any unit that isn’t a Sharpshooter or Reaper, and that’s pretty good. They are also the only class that doesn’t gain HP as they level up, but they start at the max HP so who cares? As mentioned above they also have 1 armor and 10 defense to start, gaining a point of armor with each armor upgrade.
+
+Weapons:
+SPARKs wield Heavy Auto-Cannons and BITs
+
+Heavy Auto-Cannons (★★★★☆) - Heavy Auto-Cannons are just cannons but have Shredder built in. There is literally no other difference. Same clip size, same damage, same everything but they are a touch better. Now how long your grenadiers go without shredder is like two missions but hey it's better to not go those two missions without it. Not good enough for me to upgrade them from 4 to 5 stars, but it is better. 
+
+BITs (★★★★★) - BITs allow you to hack objects from a distance but give you barely any hack. Remote Hack is an amazing ability even without the goodies you get from winning the hack check, but it is a slight knock against them. The BIT also lets you carry a heavy weapon, and that’s amazing. A free rocket for just building one of these is amazing. 
+
+Abilities:
+As always, here is a table of every ability the SPARK has and my star rating of each of them. An important note, you cannot go back to get stuff with AP on this class, so if something is across from a really good perk I will hold that against it. Opportunity Cost is a bitch sometimes.
+
+Rank	Future Combat	War Machine
+Squire	Mechanical Chassis (★★★★☆)	Overdrive (★★★★★)
+Aspirant	Bulwark (★☆☆☆☆)	Adaptive Aim (★★★★☆)
+Knight	Rainmaker (★★★★☆)	Strike (★★★☆☆)
+Cavalier	Intimidate (★☆☆☆☆)	Wrecking Ball (★★☆☆☆)
+Vanguard	Repair (★★☆☆☆)	Bombard (★★★☆☆)
+Paladin	Channeling Field (★☆☆☆☆)	Hunter Protocol (★★★★★)
+Champion	Sacrifice (★★☆☆☆)	Nova (★★★★☆)
+GTS	SPARKs don’t get nice things	
+Mechanical Chassis (★★★★☆) - Mechanical Chassis is a passive ability that allows you to jump up to high ground without needing ladders or similar and grants immunity to fire (that’s the only one the game calls out by name with this ability, but it’s really all the SPARKs unique nonsense).
+
+This is slightly funny to rank, but in general it’s very good. Getting easy access to high ground is great. Especially with Overdrive. Immunity to fire is sort of whatever, but hey better have it than not. 
+
+Overdrive (★★★★★) - Overdrive is an active ability that is a free action with a 4 turn cooldown. It grants you an additional action point and makes all abilities that are turn ending only cost 1 action. Every shot you take after the first one has a -15 penalty to aim.
+
+This is extremely powerful. It’s better run and gun, better rapid run, etc. You won’t often get the full juicy “click shoot three times” but even just “move to high ground fire rocket shoot once” is very strong. This is the reason to use this class. Shame they can’t have BS rounds to do a +15 damage to Sectopods. That aim penalty sucks, but luckily you're only stuck with it for (if you pick the right perk) as long as you are a Squaddie (well, “squire” but whatever). And any other squaddie would kill for this perk. 
+
+Bulwark (★☆☆☆☆) - Bulwark is a passive ability that gives you 1 armor and allows you to act as full cover for adjacent allies and enemies.
+
+Another defensive ability I don’t like. I don’t really know what the point of the full cover thing is, like, what are you supposed to do with it? Use it as cover I guess but bunching up like that is begging to get a grenade tossed your way. And enemies can benefit from it which is sad. I have heard of players baiting enemies into using the SPARK as cover then moving to leave them flanked, but honestly that sounds so unreliable to set up I'd rather not even try. And if you take this you can’t have Adaptive Aim so skip it.
+
+Adaptive Aim (★★★★☆) - Adaptive Aim is a passive ability that removes the aim penalty from Overdrive.
+
+Yes I would like a rapid fire that doesn’t take a -15 to aim. It only comes up when you click Overdrive but clicking Overdrive is why you brought this class, so that’s pretty good! This is where SPARKs really come alive (well, they're a robot, so…fully boot I guess?) as a unit. The thing you brought them to do is now actually operating at its best. 
+
+Rainmaker (★★★★☆) - Rainmaker is a passive ability that increases the damage and radius of heavy weapons by 2.
+
+Heavy weapons are good, and making them better is also good. Once you get shredstorm cannons this is hilarious you can deal absurd damage to an absurd number of enemies. But that’s for a bit later into a run. Even with just a rocket this is quite strong. More boom is more better.
+
+Strike (★★★☆☆) - Strike is an active ability that ends your turn deals 7/9/11 depending on armor tier as a melee attack with a 4 turn cooldown. So its chance to hit is aim + 20 - innate defense like other melee attacks. 
+
+If you have Overdrive active with this, if you move only a blue move it’ll cost 1 action. If you move a dash length it will cost 2 actions, and if you move 3 moves it’ll eat your whole Overdrive.
+
+This is kind of annoying to use. If it always cost 1 action when you click Overdrive you could use it to make Overdrive an even stronger Run and Gun + Rapid Fire, but alas, that’s not how it works. A melee attack is a nice tool to have, but because of how finicky it is with Overdrive and because it’s across from Rainmaker I usually skip this. Plus melee attacks have the inherent risks of pulling multiple pods, as I’ve mentioned several times before.
+
+Intimidate (★☆☆☆☆) - Intimidate is a passive ability that grants a chance to panic for any unit that targets the SPARK for an attack. Doesn’t work on overwatch shots, for whatever reason. The chance to panic goes up as your SPARKs armor gets better, but I am unsure of the exact percentages unfortunately. If you do, let me know and I’ll add it!
+Don’t get shot at! 
+
+I hammer this home every chance I get but you don’t want to get targeted in the first place. And this doesn’t actually get out of getting hit, it might do literally nothing. Panic does stun the enemy for a round which can maybe pull you out of a death spiral, but their actions are unpredictable while panicking and they can trigger pods that aren’t currently active by shooting at them. An unpredictable, unreliable, defensive ability is all the things I hate at once! Nope, not having this.
+
+Wrecking Ball (★★☆☆☆) - Wrecking Ball is a passive ability that makes SPARKs destroy terrain while Overdrive is active.
+
+So the use for this is to path through the enemies cover, destroy it, and then shoot at them. But also…this class comes with a rocket…and you could’ve just flanked them anyway. You might be able to set up for the rest of your team but honestly it’s all pretty thin. It’s not useful, but if the ability across from it wasn’t garbage I wouldn’t take it.
+
+Repair (★★☆☆☆) - Repair is an active ability with 2 charges that costs 1 AP. You heal a SPARK (including yourself) for 6 HP. Also this is another lying tool tip: it will only ever heal 6 HP no matter how upgraded your bit is.
+
+Now normally this is where I’d go on and on about how healing is bad in this game and post another 2700 word essay about this one ability, but luckily for all of us this actually does something! If you deploy a SPARK wounded, you can use this to heal them back up to full and pretend like they aren’t wounded at all. It gives you a bit of wiggle room on the mission even if you bring a unit with literally 1 HP. Though that isn’t without its problems. For one there is no training center here so you are giving up Bombard to take this. For another, if your SPARK isn’t injured and doesn’t get hit twice this ability is blank. And short of acid SPARKs are immune to everything that could want healing other than straight damage anyway. It isn’t useless, and there is an argument for it, but I just prefer Bombard. If you build multiple SPARKs one of them having this is OK, but I usually don't do that. 
+
+Bombard (★★★☆☆) - Bombard is an active ability with 1 charge that ends your turn. It creates a 5 tile wide blast anywhere within squadsight range that deals 6 damage to all targets caught within it, increasing by 1 for each tier of BIT above the basic one. It doesn’t do any damage to the environment or shred any armor.
+
+This is a weird ability. You’d think it’d be another explosive attack but actually it just does a bit of damage, that’s it. Now “point and deal 6 damage in an AoE” is pretty good but it isn’t as good as also destroying cover. This is sort of the opposite use case of most explosive attacks, it's for finishing off weak enemies instead of setting up. The range on this is nice as well, even if your SPARK is out of position this is still a thing they can do. It’s not the craziest ability, not shredding armor or destroying cover does sort of limit it, but it’s pretty good.
+
+Channeling Field (★☆☆☆☆) - Channeling Field is a passive ability that increases the damage of your next shot by 1 for each time you get attacked on the previous turn. If you miss the extra damage is wasted.
+
+So I have to get targeted for an attack, live to see me next turn, and for all that I get +1 damage that might not even work if I miss? And this is a Major ability? Yea…no…no this is bad. This is very very bad. This would be bad on classes that can actually take a hit like templars and rangers (parry and untouchable) and it’s super bad on this class that despite what the game suggests is not actually a tank. Why did they think a class that can't take cover and heals slow as fingernail growth would be an effective tank anyway? That just pushes you more into alpha striking, which this ability is bad at!
+
+Hunter Protocol (★★★★★) - Hunter Protocol is an active ability that gives you a 33% chance to make an overwatch shot on any enemy that is revealed.
+
+This is amazing. 33% is more often than you think, especially when pods have 3-4 enemies in them. This can really soften enemies up for you without you having to do anything. You literally just see a new pod and suddenly that Andromedon has less HP and armor and you didn't have to do anything. And even if you miss, you are fighting the 0.7x overwatch penalty, if you have a stock that's still a bit of chip damage. Damage that is action economy free is so good. To get the most out of this you want your SPARK to be the one revealing enemies, which means other than your scout they should be at the front of the line. That isn’t too hard to do; they can’t take cover after all. This is just a bunch of free attacks you get for free, that’s pretty good!
+
+Sacrifice (★★☆☆☆) - Sacrifice is an active ability that ends your turn and has a 3 turn cooldown. It causes every attack in a wide area to only target the SPARK, who gains +2 armor and +20 defense while this is active. This also works on AoE attacks. So an acid bomb for example would only deal damage to the SPARK and Codexes’ psi-bomb would only jam the SPARKs gun.
+
+This ability is kind of niche. It needs things to be tilting against you but not tilting so hard that this reads “your SPARK dies.” Though if things are going hard enough against you that might be better than “everyone dies.” The interactions with the psi-bomb is nice and can be helpful, if you are getting acid bombed it’s better if only one unit is. But for things like micro-missiles everyone’s cover still gets toasted so it’s not that good. It’s not the worst but it's a defensive ability that isn’t parry or untouchable, so…eh. Plus the other ability at this level is way better (what a shame they don’t get AP).
+
+Nova (★★★★☆) - Nova is an active ability that is a free action and you can spam forever, kind of. It does 6 damage in a 2 tile burst around the SPARK. The first time you use this on a mission is free, but the next time does 2 damage to you, then 4 the next time, and so on until you’re dead.
+
+If you are like me and feel self loathing and shame everytime you don’t flawless mission (that was a joke) then you only get to use this once, but even using this once is pretty sweet. Run into a group of enemies, deal 6 to all of them, then do something else that is pretty good. In the final chamber (and assuming you don’t care about how many units die in a playthrough) you literally have no reason not to literally kill your SPARK with this, it’s not like you can use them later! But even in a normal context sometimes taking two damage is better than getting merced to death by an entire pod. Plus its a free action so Rulers can’t react to it, might tip the scales in getting them to flee. It’s pretty strong.
+
+And they don’t get a GTS perk, so that’s it. I normally don’t do this because AP exists but I can actually just give you a build for SPARKs, it does:
+
+Adaptive Aim
+
+Rainmaker
+
+Wrecking Ball
+
+Bombard
+
+Hunter Protocol
+
+Nova
+
+And maybe consider Repair and Strike but I usually don’t take those. That’s how I think you should build this class. 
+
+Weapon Mods:
+Now onto weapon mods. And this matters a lot because it’s the only form of power boost you get outside of their abilities. And there is actually a lot you can do here. SPARKs probably have some of the most contested weapon mod slots in a pure “but I want everything on their gun” sense. Shame there is no chosen heavy autocannon to give us 4 attachments. 
+
+Weapon Mod
+Scope (★★★★★)
+Laser Sight (★☆☆☆☆)
+Hair Trigger (★★★★★)
+Repeater (★★★★★)
+Stock (★★★☆☆)
+Expanded Mag (★★★★★)
+Auto-Loader (★★★★★)
+Scope (★★★★★) - We’re here to get the max use out of overdrive and while SPARK aim isn’t bad pushing it higher is always good. Maybe some of the other options are better because SPARKs have easy access to high ground, but also more 100% shots is better.
+
+Laser Sight (★☆☆☆☆) - We ain’t got the space to fuck around with something like this.
+
+Hair Trigger (★★★★★) - Every time you shoot with overdrive you get another roll of the dice with this. With 3 shots that’s a pretty good chance for a 4th. Now they keep getting lower to hit rolls without Adaptive Aim, but if we take Adaptive Aim then we don’t have to worry about that. And obviously “4 attacks in 1 turn” is very, very good. You need an expanded mag/auto-loader to make the most of it, but that’s OK, you need that anyway.
+
+Repeater (★★★★★) - 3 dice rolls in a single turn (hopefully) to delete an enemy is pretty good. SPARKs can’t have BS rounds so this is your only chance to do enough damage with a SPARK to merc a Gatekeeper/Sectopod with only a single character's actions.
+
+Stock (★★★☆☆) - With Overdrive this is a lot of guaranteed damage. SPARK slots are a little too contested for this to be my go to, but it’s still pretty good. Really good with Hunter Protocol as well. 
+
+Expanded Mag/Auto-Loader (★★★★★) - There isn’t really a difference between those except in edge cases but this is absolutely necessary on this class. Having to reload when you want to click Overdrive sucks so bad. In addition Hunter Protocol, the other most powerful ability in this class, eats ammo rapidly so you really need a way to keep stocked up. Expanded Mags are probably slightly better but a lot of classes are hungry for those and Auto-Loaders still work, so whatever.
+
+Utility Items Heavy Weapons:
+
+SPARKs don’t get utility items (that sucks so bad) but they do get a Heavy Weapon slot, so lets go over those
+
+Rocket Launcher (★★★★☆) - Your default heavy weapon and the one I recommend sticking with until you get powered weapons. It’s huge, does nice damage, and with Rainmaker both of those are even better. It can get stuck on terrain which is a hassle but it’s nothing you can’t work around.
+
+Shredder Gun (★★★☆☆) - The shredder gun is actually pretty equivalent to the rocket, maybe even better, but I’m docking it a star because it has an opportunity cost the Rocket doesn’t. And it’s a 50/50 to get this or a Flamethrower. But if you had one of these you’d heavily consider it over the rocket. You might still go with the rocket, but this is in the conversation for sure.
+
+Flamethrower (★☆☆☆☆) - This is terrible. It does little damage and while fire is a neat status effect it actually can harm you if you light a Sectoid on fire for example. It’s good against lost, but I value that about as much as I value a penny, it is technically positive, but actually worthless.
+
+Blaster Launcher (★★★★☆) - Blaster Launchers are damn good on everyone, it isn’t quite best in slot because of Rainmaker but it is extremely powerful and you would not be sad to equip one on your SPARK.
+
+Shredstorm Cannon (★★★★★) - Shredstorm Cannon is best in slot for SPARKs. The way this interacts with Rainmaker makes it huge. It deals absurd damage in an absurdly big area and can damn near clear entire maps in one go. It is so very good.
+
+Hellfire Projection (★☆☆☆☆) - Everything I said about the flamethrower is still true but the opportunity cost is even higher. Next. 
+
+Plasma Launcher (★★★☆☆) - With rainmaker this becomes 3 wide instead of 1 wide and that allows you a good deal of extra flexibility with it. It probably does end up being better than the rocket because of that. I’m only giving it 3 stars because you’d really rather this be something else but it works in a pinch.
+
+PCSs:
+
+😞
+
+Summary:
+
+SPARKs are weird. They have a few things going for them, but in general are a little too high investment to be super worth it. I usually have 1 that I level to sergeant for a Low Profile jumpscare, but that’s an artifact of the settings I prefer when playing this game (I usually have both Lost Towers and Alien Nest turned on) more than the actual class. I wouldn’t ever recommend building more than 2, and even the 2nd one is stretching it. But they are a fine enough unit. If they could use utility items they’d be pretty good, but alas, we can’t have nice things. 
+
+ An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+EDIT: They can pick up the blacksite vial, actually. I was wrong. They just kind of stand there in the cutscene but the game treats it as them grabbing it.
+
+
+Upvote
+188
+
+Downvote
+
+53
+Go to comments
+
+
+1
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+Bigby1002
+•
+2mo ago
+I think a big reason that sparks feel worse than MECs is that with MECs you could put in a soldier who was already trained and immediately get a promoted mec. New sparks have to start from zero. It's a significant investment for not a lot of payoff tbh
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I feel like faction hero units are similar too though. Sure Parry is great on Templars, but if you start training a Templar or Skirmisher late (even if it's your second one for instance) I think that's really questionable. You can get decent use out of two SPARKs but some units just really suffer from being behind the curve, which can especially happen with the free SPARK from Shen's Last Gift, and the other alternative campaign setup option for SPARKs isn't without pitfalls either. Reapers are somewhat unique as their stealth scouting and claymore remains strong pretty much all game. Later game promotions are nice of course, but even the fairly early Shrapnel carries Reaper utility a fair while with everything else being bonuses. And of course, Psi Operatives are completely at the mercy of RNG in terms of when they actually have useful abilities. Needing to build the Psi Lab fundamentally delays them it's just that timing can have them overcome limitations, at least for the late game.
+
+u/TheFatBassterd avatar
+TheFatBassterd
+•
+2mo ago
+Yeah Reapers are pretty great. Mine barely even fire shots directly at enemies. Just scout out pods and blow up vehicles and claymores. They also tend to level up more slowly of course but I find the majority of their worth is in scouting.
+
+redbird7311
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Also, you are stuck buying squad upgrades for sparks despite the fact that you only need one or two while you are, comparatively, paying lower prices for a mech.
+
+I think the devs knew about the mech troopers being meta for EW and they wanted to prevent sparks from dominating in 2, so, they made them less powerful.
+
+u/Reddit-Arrien avatar
+Reddit-Arrien
+•
+2mo ago
+I’ll say this; the main thing holding SPARKs back is how expensive they are. Not just building them, but also upgrading their chassis and cannons. Resistance Heroes don’t have this because a) their weapons are cheap and b) the cost of the core classes’ weapons were lowered to compensate. 
+
+In turn, for Mectronic Warfare mod, the best thing about that IMO is not the skill changes, but they make both building sparks cheaper and made it so there upgrades are just tied to core class weapon upgrades (ie their cannons are upgraded alongside grenadier cannons, their armor alongside the medium armor purchase, and their BIT alongside gremlin upgrades). I wish there was a mod that just does that……
+
+On a different note, since they don’t use cover, you can use SPARKs to safely perform the “Beaglerush Maneuver”; Break concealment by having the pod patrol into you so that they activate their turn, not yours. Normally, they’ll just shoot and likely kill your exposed soldier, but SPARKs are never exposed/flanked, so they’ll virtually always scramble to cover/move closer rather than shoot.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea sparks are super pricy. I often don't even upgrade their armor, it's just not worth it.
+
+If you are doing the "I will bring this robot on every mission and power level them to colonel" strat (which most don't, but I've done it before it works) then it's worth it but other than that...eh.
+
+Winterimmersion
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I got the one mod that gives sparks a dedicated ammo slot, and honestly it makes them so competitive. Almost even worth the cost.
+
+Its a shame they didn't buff them when WOTC released. It would be really nice to be able to send them on covert ops to get stat boosts like other soldiers.
+
+I really want to love Sparks, but during a unmodded wotc playthrough they just fall short.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+A utility slot would go so far. 3 shots with bluescreen rounds and overdrive would deal a minimum of 39 damage to a sectopod/gatekeeper if every attack landed. Maximum of 45 without hair triggers or whatever else. That is a fuck ton of damage. But no, they can't have nice things.
+
+u/Entree_Eater avatar
+Entree_Eater
+•
+2mo ago
+I think they actually were buffed when WOTC released, I'm playing XCOM2 with the reinforcement pack but no WOTC, and my SPARKs can't equip weapon mods and their aim seems to be closer to Grenadier aim than what's mentioned in this post (~65-75ish instead of ~75-85), maybe u/hielispace can provide more details.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The did gain the ability to equip weapon mods in WotC, but I don't think their aim changes. I can test it in a few hours.
+
+u/Entree_Eater avatar
+Entree_Eater
+•
+2mo ago
+Just took a look at my own save again, I have a Squire at 65 aim, Aspirant at 68 aim, and Champion at 77. 0 mods X2 with only reinforcment pack DLC
+
+With tiredness not being a thing pre WotC, and these guys being even more underpowered, feels like there's no real use case for them without WotC 😅
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I meant to post this yesterday to keep my "every 2 days" pattern but I forgot! So I'm posting it now. Psi ops will be on Wednesday, and then I'm done with the classes, hooray!
+
+boozenpuken_0923
+•
+2mo ago
+I’ve only ever used them in “vanilla” WoTC, but I love Sparks for the vibes more than anything. Especially in missions where you don’t necessarily need* stealth.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+They cannot pick up
+
+Weirdly they can pick up loot, which I usually forget because of their other restrictions.
+
+Even though Overdrive is like the main reason I even bother with SPARKs for a fair while, I'd still be hard pressed to rate it 5 stars. I can't tell you the number of times weird line of sight prevented me from seeing a priority target or sometimes any target at all. I think it has to do with them not interacting with cover and peeking mechanics like normal soldiers. Point is, realistically, most of the times I want to use Overdrive I only actually get two shots out of it after moving to reposition. Now it is two shots similar to a Skirmisher but actually with Shredder, either against the same heavily armored target (great on Legend) or softening up two different targets. It's good, but it's not every turn, it's often not even every pod if you're keeping a good pace, and thus I think activating it often is just making up for the "lost" utility while you wait for it to come off cooldown. If you can actually set up 3 shots in a row it's beautiful and I love it, but in practice it's just a better version of a Skirmisher double attack you can use sometimes. It's only 4 stars for me, especially because of Adaptive Aim basically being non-negotiable. It's a shame too because while I don't typically care about Bulwark giving cover to units, the one armor is actually tangible if you ever intend to make a SPARK a tanky type unit. They're still pretty fragile even with two armor points from the Predator Armor tier upgrade, they really can't just take endless shots over and over but can usually shrug off Lost if they get caught up in them.
+
+Rainmaker is just so absurd with Shredstorm. Once you get to the late game you can more often handle two pods at a time, and Shredstorm is just so insane then. Strangely, it's less the spread that I find matters but moreso the distance. With regular heavy weapons on an EXO Suit I so often find myself just out of range for some attacks (til Blaster Launchers) or not quite getting the angle I wanted to with straight shot rockets etc. Rainmaker allows for a lot of flexibility to more realistically catch 4, 5 enemies at a time, sometimes even one shotting them depending on damage rolls and what they are specifically. Rainmaker can clear the entire ground floor of a building or even rip the sides of buildings off for enemies at height, and it's a pretty unique and powerful capability so I rate it decently high. Unfortunately if you're trying to maximize SPARK utility by getting one as soon as you can I think Strike is quite competitive if not even better in the early game, as it's on a cooldown rather than once per mission, allowing you to get better utility in prolonged engagements.
+
+Wrecking Ball is pretty niche but I find myself enjoying it. It's somewhat unreliable for breaking enemy cover but it's great for carving shortcuts through a mission. Want to get to the Chosen Citadel teleporter faster? Want to cut off a turn or two on Guerilla Ops evac? This is the ability for you. Being strictly tied to Overdrive is a bummer, as I don't think this is so OP to not just have it on all the time (after all, Andromedons and Gatekeepers do it inherently), but it's usually not that big of a deal to be mindful of it. It's like a significantly better Wraith activation as it works for your whole team for pathing, and it pairs well with Strike in particular if you want to optimize it.
+
+I treat Bombard similar to Whiplash. In a pinch I have used it occasionally but it's honestly the one charge per mission that kills me. It just isn't Capacitor Discharge no matter how similar it might seem. If it had a bigger AoE I'd probably be more favorable but it's not unusual for me to just not use for an entire mission compared to a jetboots height advantage shot or more shredder etc. If Grenadiers are my AoE Shredders then SPARKS are primarily single target shredders, or otherwise fulfilling a role similar to Skirmishers if I'd think about bringing them.
+
+It's funny that Hunter Protocol has the same issue as with Skirmishers; You have to chew through the XP and leveling of so many whatever abilities to get to an actually good one later in the game. Hunter Protocol is great, in fact I'd say it's the only five star ability of the bunch unless one just REALLY loves Rainmaker. It's not exactly free damage, as it does cost ammo, but it does significantly help their action economy considering they can't double or triple shoot all the time. If you pick this up though I think it does kind of lock you into expanded mags as one of your weapon modifications. You can work around it a bit with autoloaders (which I think are actually superior earlier in the SPARK leveling process), but Protocol should go off often enough that you can end up with a depleted 3 base rounds if a pod activates on the enemy turn. You're not always going to hit, but leaning into this as much as possible makes the SPARK a great spearhead, with a fairly good chance of softening up targets as a more proactive but also passively useful overwatch. You just need ammo, and it works, and that's pretty cool! When it triggers on Lightning Reflexes that's a bummer but it's still more useful than it's not.
+
+It's not evident to me whether an aim scope (to help beat the overwatch penalty) or a superior stock (to do consistent chip damage) is better. Personally, I prefer the Aim just because actually landing a Protocol shot at full power significantly helps in finishing that enemy off after pod activation. I usually prefer 'More Units Dead' over 'Spreading Damage Around' but it's honestly situational as sometimes you really need to squeeze every point of damage out for the best outcome for a turn. I do use the height advantage aim bonus from their jet boots a lot, but I can't ALWAYS shoot from height, I do at times shoot from the ground, so I give the edge to the scope personally. At least with how I tend to play them. It might depend on whether or not you pick up Strike or Rainmaker, as the former can more often end up in the thick of things while the latter I tend to hang back a little for scoped shots and wide spread Shredstorms.
+
+Overall, SPARKs have an interesting niche but it's niche upon niche where I basically only really use three sometimes four abilities out of their whole kit. If these could go on Covert Ops (unmodded anyways), they'd probably be one of my favorite units for Ops and I'd be unlikely to use Skirmishers as I do. But because Skirmishers can do Ops and more importantly can bond AND use Combat Presence, I give the edge to Skirmishers. Being able to go on any mission even if injured is a handy thing to have in your back pocket though as a team fill, even if it's just one. Some missions you'd be hard pressed to avoid damage to your SPARK if you have bad pod activation (e.g. I sometimes have Retaliation missions like this, also supply crate tagging ones from time to time), but in general it's not TOO hard to keep your SPARKs alive as long as you aren't crazy reckless.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I think overdrive has to be 5 stars. It's better rapid fire, better run and gun. The things holding it back is the class not the ability. Even if you don't get the juicy "shoot thrice" effect move move attack is called Run and Gun and that shit is 5 stars.
+
+I do agree scope v stock is an interesting choice. I think scopes are probably a bit better but they are also in super high demand so if you stick a stock on this class to save on scopes I don't blame you.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Stocks and autoloaders are probably better til Hunter Protocol, but I think scopes and expanded mags probably beat it later. In the early part of the campaign, being able to reload without losing a move and shoot or being able to free reload into triple shot Overdrive is great. Skirmishers have Grapple as effectively similar. The jetboots are great on SPARKs, made me realize how much I underrate it with Icarus Suit, but it's still not free. It's like a better version of Sharpshooter setup design, similar to the powerful Snap Shot of EU, but also with Shredder.
+
+u/SlavaUkrayini4932 avatar
+SlavaUkrayini4932
+•
+2mo ago
+I think Julian's voice pack justifies getting at least one spark per run
+
+antiguy1
+•
+2mo ago
+•
+Edited 2mo ago
+Psst! Remember what you said about Invert (★★★★★)?
+
+Positioning is a huge part of this game and this forces the enemy into a bad position for 1 action. Then you can just wreck face.
+
+Wrecking Ball does the same thing. Enemies in cover? Not anymore! Except Wrecking Ball can remove cover for multiple enemies instead of just one. This is the ONLY cover destroying ability that isn't either A: limited charges or B: requires an enemy for targeting. You can even make your own high Cover or flank routes by selectively destroying the environment AND it doesn't break Concealment.
+
+It also makes rescue missions hilariously easy since you can just Kool-Aid man the SPARK through the cell wall without triggering the alarm.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+wrecking ball is significantly weaker, it requires you to be within move distance of the enemies, clicking overdrive and wanting to move with it (not super rare but usually I'd rather just be clicking shoot three times or moving to high ground) and importantly it doesn't move the enemy closer. It removes cover, but so do grenades. The real value of invert is you move the enemy from far away and hard to reach to directly next to you where your range tables can just wreck face. Especially against the chosen who trigger farther away than other enemies.
+
+u/SlavaUkrayini4932 avatar
+SlavaUkrayini4932
+•
+2mo ago
+You can also paint custom pathes for wrecking ball. If you have a high ground with a wall, you can plan a path with a lot of up-downs and U-turns to make a wall of high cover for your entire squad on a high ground that normally doesn't have cover, or even allow you to fire in enemy's direction.
+
+Shooting would probably be better, but it's good to have options!
+
+antiguy1
+•
+2mo ago
+Yeah I should've mentioned waypoint mode for precisely moving troops; I think most people who play this game don't realize that's even an option.
+
+Hydralisk18
+•
+2mo ago
+Not sure if theres a mod, I should definitely look into that, but I'd love to try and playthrough the campaign using only a squad of sparks from start to finish
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The starting soldiers mod can accommodate. Though be warned it means no covert ops so no hunting the chosen!
+
+u/Chubzzy1 avatar
+Chubzzy1
+•
+2mo ago
+I like SPARKs but they are either way too expensive or you get them far too late to matter unless you choose skip the towers mission, which sucks because its my favorite mission in the game. It also sucks that they cant pick up mission objectives, why cant the giant robot pick up an unconscious person? Unfortunately they feel like they are supposed to be a tank character in a game that heavily discourages getting hit.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea unless you are a Templar and can say "lol no" to taking damage you aren't a tank in this game you're a target.
+
+Halollet
+•
+2mo ago
+If you haven't used sparks, use them.
+
+100% agree on their lack of fatigue making them invaluable mid game, especially on higher difficulties.
+
+I usually only had one as sort of a back up incase all my grenadiers were out but I've been using them more and more.
+
+I recently made 3 to get an achievement, the mission had the beast sitrep and oh my gawd. They shredded bezerkers and faceless like they were nothing. It was mid game so was still leveling up my humans and what should have been a slog for a fight was an easy win for the machines.
+
+Also, Shredder Gun should get 6 stars since the spark does not use cover, you can line up the perfect shot and take out 2 pods with ease.
+
+It's so good.
+
+Will in use in the end game? No. But they are a mid game must.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+There's also an achievement for using a SPARK to kill an Avatar. I missed my chance with the Codex part of the game, but they aren't bad on Leviathan. I think it's just that bonds are nice for flexibility on that mission in particular.
+
+Halollet
+•
+2mo ago
+I don't have that achievement either, doing a casual run through tongrab it soon.
+
+But yes, the bonds and teamwork ability is way too good to pass up. Saved my ass tomany times.
+
+But yes I'll have to take either Sparkie Shen, Julian Buttdace, or Lopez the Heavy to go kill an avatar soon.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+If you haven't already passed that part in the story, the easiest way to get the achievement is to last hit an Avatar that pops from the Codex with a SPARK. Otherwise you have to bring a SPARK on the final mission, no other spares spawn.
+
+Halollet
+•
+2mo ago
+That's brilliant. Thanks!
+
+u/ferrofibrous avatar
+ferrofibrous
+•
+2mo ago
+On Legend, Sparks are a great stopgap due to no fatigue. They can generally fill in for a Grenadier's slot on your mission, but also have ranged hack if you have no Specialists available. They're also immune to nearly all Chosen special abilities which can be clutch.
+
+They're great on Lost missions between early armor for the few hits they might take, but being able to do missions with +60 enemies and not be tired is very handy when rest timers are so long on Legend.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Tiredness soft caps on a per mission basis assuming no injuries or death. So even if you fight a TON of Lost for instance, there's only so much it can do unless they get injured in the process. But yeah Tiredness is irrelevant for SPARKs. I just recently had a month on Legend where no joke like 7 missions lined up in two weeks. It was rough going and the SPARK was a nice stopgap, especially for armor shredding.
+
+u/veegeeplz avatar
+veegeeplz
+•
+2mo ago
+They cannot pick up mission objectives like the blacksite vial
+
+Huh. It must be some mod I'm using then, because I always get my SPARKs to take the Blacksite Vial.
+
+Will have to try and find some time later to test this without mods.
+
+They also start with 1 Armor and 10 defense and never get tired.
+
+Again, something I'd have to double-check, but I believe it's 15 Defense.
+
+The chance to panic goes up as your SPARKs armor gets better, but I am unsure of the exact percentages unfortunately. If you do, let me know and I’ll add it!
+
+Eurgh, I used to know this. The gist is that the armor the SPARK currently has accounts for one side of the roll, and the enemy's Will stat accounts for the other.
+
+So if you're wearing "appropriate" armor for the enemies you're facing, it's something like a ~25% chance to Intimidate. But enemies that have especially high Will stats, like Sectoids, are basically impossible to Intimidate.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It might be 15 defense and I just remembered incorrectly. I am 99% sure that SPARKs can't pick up story items though. Because the cutscene is with a human hand for the blacksite. But hey if I'm wrong I'll post a correction.
+
+Good to know the chance for intimidate is about 25%, not that it matters. You shouldn't ever take that ability, but hey good to know.
+
+u/veegeeplz avatar
+veegeeplz
+•
+2mo ago
+It is a pretty funny cutscene with the SPARK. They just stand there and don't animate. No reaching out animation, like with other soldiers.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I do in fact stand corrected I just booted up the game with no mods and the spark can grab the blacksite vial. And they do just stand there. I will correct my guide posthaste!
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+2mo ago
+•
+Edited 2mo ago
+You can build a SPARK as a tank but it is kind of niche. The idea is to use this against biological enemies. The build is:
+
+Bulwark
+
+Rainmaker
+
+Intimidate
+
+Repair
+
+Channeling Field
+
+Sacrifice
+
+Those abilities all have synergy. To use this, run your SPARK in sight of an enemy pod (even multi pod is doable), then use Sacrifice. Support with aid protocol. This gives the SPARK a defence of 10 (innate) + 30 (or 40 with better gremlin) = 40 (50) defence. If you feel like it you can smoke the SPARK additionally for even more defence but this uses a utility item, so that's a heavy price. Up to half of the enemy pod panics, the other half will try to hit the SPARK and mostly miss. Armor will soak the damage. Repair will repair it if it got damage. In the next turn the SPARK has a super shot for a lot of damage. High ground gives aim bonus.
+
+SPARK sacrifice = mimic beacon this turn + haywired MEC = another team member on your side in the back of the enemy = your mimic beacon next turn. Excellent for a target rich environment.
+
+Icing on the cake: Channeling does improve the damage of the shredder gun and the shredstorm cannon. Both the shredder gun and the shredstorm cannon don't use aim, so guaranteed ludicrous level damage in a very large area (Rainmaker). Much better than a blaster launcher shot. The blaster launcher doesn't benefit from channeling field. Ever played a lightning amazon in Diablo 2? Step 1: herd the enemies, step 2: eliminate all of them in one shot, step 3: laugh maniacally.
+
+The disadvantage is that you miss out on Hunter Protocol which indeed is an excellent ability. You also miss out on adaptive aim, but this can be mitigated by holo targeting, scopes and high ground.
+
+But in essence you can build a combat plan around a tank SPARK.
+
+I wonder why you are giving sacrifice such a low rating when you love mimic beacons. Sacrifice is a cooldown mimic beacon with defense, armor and chance to panic enemies not using up a utility item slot so it should be a 6 or 7 star ability with your preferences. If you run a SPARK with those abilities you don't need any mimic beacons on your other team members, freeing up a lot of utility item space. Now your specialist doesn't carry a mimic beacon but a skulljack and a medkit. With this he is now a haywire specialist so MECs in a pod are good for you. You can aid protocol and haywire in the same turn.
+
+u/VanquishedVoid avatar
+VanquishedVoid
+•
+1mo ago
+Mimic beacon is good because a non-teamate is taking all the fire in an emergency and is functionally a room-wide flashbang as long as it's alive.
+
+Sacrifice is mediocre in a bubble because 2 armor really isn't a lot for "I'm taking everything and I barely have the defense to evade hits." Also, OP is super into alpha strike only, no beta strike.
+
+Intimidate > Aid Protocol boosted by Threat Assessment> Sacrifice is a powerful Spark/Specialist synergy.
+
+antiguy1
+•
+2mo ago
+•
+Edited 2mo ago
+Rainmaker over Strike is kinda wild. All Rainmaker is just 2+ damage and +1 radius for ONE attack. That's not value, especially compared to Strike. Strike hits harder than the auto cannon, allows you to reposition and allows you to bypass enemy cover bonuses. Overdrive>Strike to a flanking position>Shoot>Shoot is devastating at any point in the game and it's not even one use like the alternative.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Overdrive into strike doesn't work the way you'd want. If you move a dash length with strike in overdrive, it consumes two actions. Which sucks so bad.
+
+And yes rainmaker is once per mission that's more value than you'd think. Missions are 6 pods at most, and "hey I nuked 1/6th of the map" is insane value. Plus the interactions with shredstrom cannons is truly absurd. You can hit 2-3 pods of enemies and once and easily wipe them all out in a single turn. Obviously that's a bit late into a run but it's still pretty good.
+
+Strike is fine, like I do think it is a reasonable consideration, but rainmaker overall is more flexible and more powerful.
+
+antiguy1
+•
+2mo ago
+Overdrive into strike doesn't work the way you'd want. If you move a dash length with strike in overdrive, it consumes two actions.
+
+My example was for an enemy within one action point of a move, but even if you have to burn two moves to get to a flanking position against an enemy in cover, that's still more effective damage than just sitting still in Overdrive and shooting.
+
+If you insist on Rainmaker, don't get for the Shredstorm. Get it to help your early game Rocket Launcher. Rainmaker's +2 damage means a +50% damage boost to a low damage roll rocket and significantly help with catching all members of a pod at once.
+
+generalguan4
+•
+2mo ago
+They are also bad because they cannot bond with teammates. That means in a squad of 6 if you take one you lose out on two potential bonded abilities
+
+tooOldOriolesfan
+•
+2mo ago
+I only used Sparks as a toy later in the game to play with when I already had a strong squad and knew the game was in hand. In LWOTC they are much more useful IMO. Stronger offensively and can take some damage.
+
+Ok-Huckleberry-419
+•
+2mo ago
+I love them but I use mods for them. It seems ridiculous that they can’t have an ammo slot. No PCS is fine no bonding fine. Should be an upgrade for 3 weapon slots but I can deal with 2. The real issue is the utility slot and there’s no real world reason a mechanical war machine wouldn’t be allowed to have blue screen rounds, other than for balance. I just find it trivial.
+
+u/N7_Rabbit avatar
+N7_Rabbit
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Never bothered to develop one.
+
+u/dmac3232 avatar
+dmac3232
+•
+2mo ago
+I pretty much ignored them for years, but I got bored at a certain point, started using them and now they're one of my favorite units. I frequently run two per mission; they're huge, take a lot of punishment, are immune to fatigue/fear, and have a wide range of means to completely fuck things up. I love them. Plus, the sound/feel of their firearms are just about the most satisfying thing in the whole game.
+
+The amount of sheer damage you can cause with 2 SPARKS, 3 assaults and a reaper is absolutely insane.
+
+u/Synaptics avatar
+Synaptics
+•
+2mo ago
+To me, with SPARKs there's a sort of sweet spot where they work best. Because their weapon/armor/BIT upgrades are separate (and somewhat expensive) just having 1 SPARK is not really worth the cost to keep their gear up to date. But you also don't want to go too heavy on SPARKs because they're not as good as actual colonels in the late-game, and so there's a sense that you're "wasting XP" on them that could be going to real soldiers. Especially since they tend to hit max rank quickly due to their lack of fatigue, at which point you literally are wasting XP.
+
+So IMO they work best when you build about 3 of them. And be sure not to overuse them. It's really tempting to just send all of them out over and over (especially since you pay so much for them) but your real soldiers need to get XP to grow into their full potential. Even if you're not using them all the time, having an extra couple SPARKs at base gives you a strong safety net for those moments when a mission pops up a bad time while everyone's wounded/tired. Or when your best soldier(s) are out on a chosen covert op.
+
+redbird7311
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Sparks are really weird, they are pretty expensive for what is ultimately a good unit with a bit of an identity crisis.
+
+On paper, they can do plenty, they can tank, do plenty of damage, AOE damage/cover destruction, and more.
+
+Problem is that they can’t do most of their roles super well or said roles can be covered better by other classes. They can tank, but they aren’t good enough at it where you want them to and, if you need a tank, you probably have mimic beacons by the time you get a spark. They can hack, but they don’t do a well enough job in my opinion for me to want to want to take one of them over a specialist.
+
+Also, the price really guts them. You are stuck paying squad upgrade prices for a unit you are only gonna have one or two most campaigns. Other classes, even the faction classes, can justify their prices for them, sparks haves harder time doing that, so, a lot of players upgrade them late, which doesn’t help.
+
+I think the devs were trying to avoid the mech trooper meta from EW, for those that don’t know, mech troopers were strong very strong, so strong that not having them was usually considered nerfing yourself.
+
+However, I think they over corrected. They aren’t bad, but, god, they aren’t cheap.
+
+biketheplanet
+•
+2mo ago
+I tried one, once in my first WoTC campaign. Otherwise I never build one. They just aren't too interesting to me, but choice is always good. I know some people love them.
+
+u/jonasnee avatar
+jonasnee
+•
+2mo ago
+While they don’t top out at the highest aim, they do have more aim than any unit that isn’t a Sharpshooter or Reaper, and that’s pretty good. They are also the only class that doesn’t gain HP as they level up, but they start at the max HP so who cares? As mentioned above they also have 1 armor and 10 defense to start, gaining a point of armor with each armor upgrade.
+
+Think its worth remembering that you can give a PCS to your grenadiers, not to mention train them via missions, so in reality sparks aims fall off a lot more than the stats tell you.
+
+Now onto weapon mods. And this matters a lot because it’s the only form of power boost you get outside of their abilities. And there is actually a lot you can do here. SPARKs probably have some of the most contested weapon mod slots in a pure “but I want everything on their gun” sense. Shame there is no chosen heavy autocannon to give us 4 attachments.
+
+Sparks feels like the last class i wanna give a repeater since i usually want to shred armor with them and the base dmg is rather high. hair trigger and extra ammo is always going to take priority on Sparks over repeaters not to mention a scope.
+
+Bulwark (★☆☆☆☆) - Bulwark is a passive ability that gives you 1 armor and allows you to act as full cover for adjacent allies and enemies.
+
+See this is an ability that really is garbage, people moan about blast padding but at least it has no downsides and can be taken alongside what just happens to be the best ability at corporal.
+
+Shredder Gun (★★★☆☆) - The shredder gun is actually pretty equivalent to the rocket, maybe even better, but I’m docking it a star because it has an opportunity cost the Rocket doesn’t. And it’s a 50/50 to get this or a Flamethrower. But if you had one of these you’d heavily consider it over the rocket. You might still go with the rocket, but this is in the conversation for sure.
+
+I personally think its better but would agree with it being equal to rockets because of cost and risk of getting the shitty flammenwerfer - and i dont call my sparks Hans.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Giving a repeater to your opener is actually really good, because it means you start shredding a target and then whoops they are dead and now your turn is much, much simpler.
+
+10times
+•
+1mo ago
+I think Hunter Protocol is one of the best skills in the game. It’s almost silly how often it procs. I don’t know how they calculate aim for it but it feels like it hits more than a normal overwatch shot. Once I get Hunter Protocol I always take a spark, even in late game.
+Also Overdrive is fantastic for the chosen stronghold missions. I save it for when the chosen dies and it’s time to bust their resurrection pillar. Three high damage shots at the pillar from a single unit is super helpful.
+
+u/NotARabidDugong avatar
+NotARabidDugong
+•
+13d ago
+2 things. First, I actually was able to retrieve the Blacksite vial with my SPARK. Second, the Julian voice is the best dialogue in the game and makes having one worth it at all times. Especially when you cover him with smiley faces!

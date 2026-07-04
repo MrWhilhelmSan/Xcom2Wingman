@@ -1,0 +1,250 @@
+I made a post about this a while ago but it wasn’t the best organized and this series would be incomplete without it, so let’s explain force level, or FL, for short. Force level is the game’s internal clock of increasing strength of the aliens you fight. It starts at 1 and counts up to 20 (though any mechanical difference actually stops at 18, for whatever reason). This clock ticks up once every 14 days on legend (it’s 10.5 days on any other difficulty, which is the only difference).
+
+Beyond that, the game separates out units into 3 categories: followers, leaders, and bosses. Followers can appear in multiples in a pod, leaders cannot, and there is (with the exception of story and avatar facility missions) only one boss enemy per mission. As force level ticks up enemies get moved from leader to follower. You start only being able to fight Sectoids as leaders but eventually 2 can appear in a pod at once, for example. There are also a few enemies that don’t fit into this paradigm. 2 Faceless spawn on every retaliation mission but with specific sit reps or other extenuating circumstances cannot spawn on normal missions. Codexes also only start showing up after you skulljack an officer for the first time. Berserkers and Lids cannot spawn on normal G. Ops without specific sitreps but do spawn on the soonest retaliation  missions and on UFO/Chosen defense missions (lids also spawn on chosen stronghold missions). Alien Rulers follow their force level cues as well if you let them wander around or after you activate them from the story mission or by going to their facility. 
+
+Also the Lost follow their own rules, they only show up when their sitrep is active, and get upgraded at the same time as troopers go from standard to advanced and advanced to elite, but don't obey the normal pod structure. We'll cover them in more detail in the enemy guide.
+
+In addition, at specific force levels enemies level up from standard to advanced and advanced to elite. In general followers level up one FL earlier than the pod leaders. Obviously this doesn’t apply to each enemy type but it is important to know. Also the chosen operate on a different system so they don’t appear here, but they are boss monsters so they can’t share a mission with rulers. 
+
+OK, that’s enough set up, the rest of this post is very simple, it’s a giant table of when each enemy can spawn. Enemies in bold are leaders, enemies in italics are enemies that move from leader to follower. If I list an advanced version of a previous enemy, that means the other type can no longer spawn. The dates included are for legend as well. You can do the math for other difficulties but because it’s 10.5 days that’s less helpful and this guide is focused on Legend anyway. As posts goes this is the one with the least commentary from me, it’s just a giant list of info. OK here we go:
+
+Force Level	Date	Enemies				
+1	March 1st	Sectoids	Officers	Troopers	Lost	
+2	March 15th	Faceless*				
+3	March 29th	Stun Lancers	Priests	Turrets		
+4	April 12th	Vipers	Purifiers	Viper King (Boss)		
+5	April 26th	MECs				
+6	May 10th	Mutons				
+7	May 24th	Advanced Troopers	Berserker*	Sectoids	Codexes	
+8	June 7th	Adv. Officers	Shieldbearers	Adv. Priests	Spectres	Vipers
+9	June 21st	Adv. Purifiers	Berserker Queen (Boss)			
+10	July 5th	Heavy Lancers	Mutons			
+11	July 19th	Archons	MECs			
+12	August 2nd	Heavy MECs	Chrysalids*	Archon King (Boss) 		
+13	August 16th	Codexes	Elite Troopers			
+14	August 30th	Andromedons	Elite Priests	Elite Shieldbearers	Elite Officers	
+15	September 13th	Elite Specters	Elite Purifiers			
+16	September 27th	Sectopods (Boss)	Elite Lancers			
+17	October 11th	Archons				
+18	October 25th	Gatekeepers (Boss)	Heavy MECs	Elite Specters		
+19	November 8th	No change				
+20	November 22nd	No change				
+*These enemies don’t obey the normal pattern, as above.
+
+And as I said above, the Chosen count as boss enemies so they won’t ever share the floor with Sectopods/Gatekeepers except on special missions and they will never ever share a mission with a ruler.
+
+Also the spawn rates of Alien Rulers is mean as all hell. Force level 4 for the Viper King?! 4?! Force level 9 for the Berserker Queen is OKish but Force level 12 for the most dangerous enemy in the game! Rude Firaxis, just rude. 
+
+OK so how do you actually use this information? Well, without a mod like Force level display it can be tough to keep track of exactly what FL you are on, which is why I included the dates (though personally I find it annoying to have to keep looking up what FL I’m on, hence the mod, but it isn’t necessary), but after you know that, you can have absolute clarity about the pool of enemies you are going to fight and in what amounts. The game will always throw the newest enemy available at you when it ticks over on the next standard mission so if you just crossed into FL 6 be prepared for some mutons. The pool of enemies the game has to throw at you will just get larger and larger and eventually you get the shadow chamber to make keeping a mental model of all of this redundant, but before that it is useful to know “hey there might be some MECs should watch out for that.” In addition it can stop the game from jump scaring you, if the Rulers are wandering around and you just ticked over to FL 12 the Archon King is on the next mission and you should be prepared for that, and it can basically make the “ENEMY UNKNOWN” the shadow chamber gives you redundant, because you can just look at the chart. It is also a good way to keep track of your tech progress. I like to get mag weapons around FL 4, for example. If you just ticked over to Fl 13 and don’t have plasma tech at least started it means you are running behind. The enemy just upgraded to tier 3 you should, as well. 
+
+And that’s it. This is a smaller one than usual but I didn’t want to have this get drowned out by the enemy guide, so I made it on its own. See y’all then!
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+102
+
+Downvote
+
+22
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/hielispace avatar
+hielispace
+OP
+•
+21d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+And we've hit 20 parts. But only 3 to go, so we're almost done. There is going to be a bit of a gap before I post the next one because it'll take me a while to write the enemy guide, but it'll happen, I promise.
+
+darkdiashi
+•
+21d ago
+I missed the last one and realized I hadn’t seen any posts in a while, so I just hunted down parts 18 and 19 like an hour ago. The timing is immaculate lol
+
+u/Khaim avatar
+Khaim
+•
+21d ago
+Wait, so does this mean enemies advance faster on lower difficulty? That seems backwards.
+
+u/hielispace avatar
+hielispace
+OP
+•
+21d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yes, but tech research takes twice as long as Legend. So effectively enemies scale up faster. Or more accurately you have to do more missions with weaker gear.
+
+TheMaverick427
+•
+20d ago
+Do you know if XP gains are slower on Legend as well? If not I guess your soldiers should be leveling up faster relative to the force level on Legend (assuming you don't take injuries all the time). 
+
+u/hielispace avatar
+hielispace
+OP
+•
+20d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Xp isn't gained slower but it takes more to rank up
+
+u/faket15 avatar
+faket15
+•
+20d ago
+Just a few small corrections:
+
+The real difference between leaders and followers is that you only have one leader per pod, not that followers can appear in multiples. Some follower types are limited to one per pod. That includes Purifiers, Shieldbearers, MECs, Spectres and Elite Lancers.
+
+Turrets can appear at FL 2. The table is also missing their upgrades at FL 8 and FL 14.
+
+Priests are FL 3 minimum on standard pods, but FL 2 on the terror leaders list. That means you can see priests in the first retaliation.
+
+The FLs for MEC and Heavy MEC followers were a thing at some point in the base game, but not in WotC. MECs can appear as leaders or followers at FL 5, but are limited to one per pod. Same for Heavy MECs at FL 12. You can see basic MECs as followers up to FL 17, but only on terror pods.
+
+Elite Priests are leader-only, just like the other priests, but I'm sure this was just a typo.
+
+Berserkers can appear as followers at FL 17.
+
+Basic Spectres can appear as followers at FL 14. Elite Spectres as followers at FL 18 are only a thing in terror pods, but on standard pods you can still see basic Spectre followers for the entire game. They are limited to one per pod.
+
+There should also be a note somewhere that Chosen Strongholds and Chosen Avenger Assaults include strong pods, with +2 FL.
+
+u/RJ815 avatar
+RJ815
+•
+19d ago
+•
+Edited 19d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I feel like I've seen two Purifiers in the same pod before, but it might have been a SITREP or something. I've definitely seen two MECs and Spectres per pod, not even that rare (at least on Legend anyways). But it may be certain special missions change spawn rules, like Facilities definitely seem to. It's possible doubled up Spectres were a SITREP but I feel like I see them often enough to doubt that. Double MEC may be Automated Defenses mainly and I didn't pay attention.
+
+u/faket15 avatar
+faket15
+•
+19d ago
+Elite Spectre and normal Spectre count as different units, so you can see Elite Spectre leader + Spectre follower pretty often. The same is true for Heavy MEC + MEC, but they overlap for a much shorter period. Automated Defenses can give you double (or triple, or even quadruple) MEC pods. Some specific missions have fixed pods that break the rules for random pods: Lost and Abandoned is the only mission with multi-Purifier pods, but 2 MECs is pretty common in the Golden Path missions.
+
+jordanlcwt
+•
+21d ago
+Much appreciated, only vaguely knew about these before.
+
+May i ask what your next guides are? Chosen? Enemies? Rulers? XP? Modifiers (like the permanent dark events one)? Mods?
+
+u/hielispace avatar
+hielispace
+OP
+•
+21d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Dark Events I've covered. Enemies are next, then Chosen, then Rulers. I could sneak in XP actually it isn't complicated so it'll be quick to write.
+
+u/ChadGPT420 avatar
+ChadGPT420
+•
+21d ago
+I’m assuming this doesn’t even take LWotC into consideration, otherwise I’m so far behind lmao
+
+u/hielispace avatar
+hielispace
+OP
+•
+21d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Nope, I actually don't know how LWotc does it's force level stuff. This is all just for the base game.
+
+u/RJ815 avatar
+RJ815
+•
+21d ago
+•
+Edited 21d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I feel like there was a weird circumstance where I saw a boss pod (e.g. Gatekeeper leader) on the same mission (not a facility, just G Ops or Council) as an Alien Ruler. I remember being caught out by not thinking it was possible. Notably (I think) it was a reappeance of a Ruler, not a first encounter, so I wonder if that's a factor? Rulers don't explicitly show up on the Shadow Chamber so I wonder if it bypasses typical boss pod "rules".
+
+Typically I try to burn down Rulers with Banish and/or just have The Nest up til late game unless I want an extra challenge (read: annoyance), so it's not often I'm in scenarioes where it even could overlap like this.
+
+u/hielispace avatar
+hielispace
+OP
+•
+21d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Was this on an alien facility? Because those can have two boss monsters
+
+u/RJ815 avatar
+RJ815
+•
+21d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Nope, some random Lost mission. Either a Guerilla Ops or Council mission with em. Not Integrated DLC, but bespoke The Nest mission (already complete at this point) without killing the Berserker Queen in one go. I recently killed a Gatekeeper off to the side and on my way towards the objective (whatever it was, maybe some Psi Transmitter X4 or something) the Queen was in the path. Nasty surprise after using some resources.
+
+I think I've never seen a Ruler and a Chosen on the same mission but I wonder if the coding is different (since Alien Rulers was pre-WotC) and/or if it just never lined up that way. I know I've for sure seen double Sectopods late game, but that may just be due to Facilities and/or Show of Force SITREP.
+
+u/hielispace avatar
+hielispace
+OP
+•
+21d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Hm, weird. Not sure if that was bugged or intentional or not. The game considers them all boss monsters, but it does change the spawn patterns of a mission for rulers/chosen. So...idk
+
+u/RJ815 avatar
+RJ815
+•
+21d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Might have been a bug.
+
+I distinctly remember that campaign feeling anomalous.
+
+Because The Nest was bespoke, I saved it for late game to polish off armors already with Plasma Weapons and most story missions done by then. Accordingly, once the Rulers were unleashed, the high Force level meant they showed up VERY quickly. I don't quite remember if it was back to back to back, but if not it was definitely like every 2 missions or something. IIRC, I think you generally play with Integrated DLC from other stuff you wrote so maybe not using "WotC code" as an option messes with them. Integrated hints at them on Facilities, non-Integrated does not mention ANYTHING other than followers sometimes spawning with them / an atypical enemy count via the Shadow Chamber. It was also a rare campaign where Banish Repeaters didn't knock them out so all escaped through one portal before being finished off in a later mission. I don't explicitly remember because like all of them were on their last health bar by the time I encountered them again but I feel like each of those "reappearance" missions still had a boss pod, with a Ruler and at least one follower spawning seemingly like just an extra pod for that mission rather than a replacement. Notably the Berserker Queen and Archon King showed up on Lost missions so I wonder if different spawning rules there influenced things?
+
+u/hielispace avatar
+hielispace
+OP
+•
+21d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+If you do the Nest late they will show up one after the other after the other. Literally will give you no rest. The game wants to have spawned them in earlier so it'll just chain spawn them. Which is why it's a good idea to actually do that mission a bit earlier, if you think you can either get banish before the Archon King shows up are don't think you need it.
+
+Or just roll in with 6 colonels and clean every ruler out with ease. But there's a space between early and super late where you actually get punished for doing the Nest when you did.
+
+u/RJ815 avatar
+RJ815
+•
+21d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I mean I had a Superior Extended Mag + Repeater + Banish on deck for each one of them.
+
+It's been a while but I think what happened in terms of spawn order was this: Viper King not killed on Nest, disappeared via portal. Next mission was Queen, also Banish fail, disappeared via portal. NEXT mission was Archon King, also Banish fail, disappeared via portal. In each case the raw damage of Banish plus a potshot or two before they escaped via the portal meant they were down to a health bar or one and a half at most, even accounting for Legend. (Because of that experience I've since gotten better at dumping Dual Strike, Chain Shot, etc into them first before trying for a brute force kill due to some lack of luck with Repeater.)
+
+Once all three of them showed up and portaled out once, then I had a slightly harder time gauging their appearance with the Shadow Chamber. It was something like 2 or 3 missions until the Viper King showed up again, but some of those missions might have been Facilities or Retaliations or whatever. After him the Queen showed up 2 missions later as did the King 2 missions after that, all of them finished off on their second appearance.
+
+I tend not to rush my Legend campaigns so by the time I was there I was well on my way to usually being able to take out two pods at once and rocking 6 colonels or thereabouts, all with plasma or chosen weapons.
+
+u/faket15 avatar
+faket15
+•
+20d ago
+Did the mission have the Psionic Storm SitRep? Gatekeepers can spawn as normal pod leaders there.
+
+u/RJ815 avatar
+RJ815
+•
+20d ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Interesting. I don't specifically recall, but maybe. Good to know and keep an eye out though.

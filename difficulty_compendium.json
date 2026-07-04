@@ -1,0 +1,123 @@
+{
+  "aim_assist": {
+    "Rookie": {
+      "base_multiplier": 1.2,
+      "consecutive_miss_bonus": "+15% aim assist after missing a shot",
+      "enemy_consecutive_hit_penalty": "-10% aim penalty for enemies after hitting an XCOM unit",
+      "hidden_mechanics": "Shots with 50%+ real probability have hidden additional bonuses."
+    },
+    "Veteran": {
+      "base_multiplier": 1.0,
+      "consecutive_miss_bonus": "+15% aim assist after missing a shot",
+      "enemy_consecutive_hit_penalty": "-10% aim penalty for enemies after hitting an XCOM unit",
+      "hidden_mechanics": "Maintains player assist after successive misses to avoid bad streaks."
+    },
+    "Commander": {
+      "base_multiplier": 1.0,
+      "consecutive_miss_bonus": "+10% aim assist after missing a shot",
+      "enemy_consecutive_hit_penalty": "None (enemies fire with their real aim)",
+      "hidden_mechanics": "This is the highest difficulty with slight aim assist after misses."
+    },
+    "Legend": {
+      "base_multiplier": 1.0,
+      "consecutive_miss_bonus": "None (0% assistance)",
+      "enemy_consecutive_hit_penalty": "None",
+      "hidden_mechanics": "The percentage displayed on screen is 100% real. No mercy mechanics or assistance."
+    }
+  },
+  "enemy_timeline": {
+    "March (Start)": {
+      "enemigos_comunes": ["ADVENT Trooper", "Sectoid"],
+      "prioridad_tactica": "Kill the Trooper first (deals direct damage); leave the Sectoid for last (usually spends its first turn raising zombies or mind controlling, dealing no immediate damage).",
+      "evento_clave": "First contact with the first Chosen."
+    },
+    "April": {
+      "enemigos_comunes": ["ADVENT Officer", "ADVENT Stun Lancer"],
+      "prioridad_tactica": "Eliminate Stun Lancers immediately (they charge melee and can render your units unconscious or disoriented). Beware of the Officer's mark.",
+      "evento_clave": "First Retaliation mission appears."
+    },
+    "May": {
+      "enemigos_comunes": ["Viper", "Faceless", "Muton"],
+      "prioridad_tactica": "Never melee attack a Muton (they have automatic counterattack and will knock you out). Use grenades to shred Muton cover.",
+      "evento_clave": "Missions with complex SITREPs begin to appear."
+    },
+    "June": {
+      "enemigos_comunes": ["ADVENT MEC", "Chryssalid"],
+      "prioridad_tactica": "MECs fire micro-missiles in an area if your soldiers are grouped. Spread out your squad. Use Combat Protocol or EMP against MECs.",
+      "evento_clave": "Appearance of heavy robotic enemies."
+    },
+    "July": {
+      "enemigos_comunes": ["Berserker", "Archon", "ADVENT Shieldbearer"],
+      "prioridad_tactica": "Kill the Shieldbearer before they grant shields to allies. Archons use Blazing Pinions; move out of the red area during your turn.",
+      "evento_clave": "Chosen evolution (they obtain new traits/strengths)."
+    },
+    "August": {
+      "enemigos_comunes": ["Sectopod", "Gatekeeper", "Andromedon"],
+      "prioridad_tactica": "Focus fire on Sectopods. They have heavy armor and fire multiple times. Use Specialists with hacking or Bluescreen rounds.",
+      "evento_clave": "Late game: extinction-level threats in tactical combat."
+    },
+    "September (Late Game)": {
+      "enemigos_comunes": ["Avatar", "All previous threats"],
+      "prioridad_tactica": "Final assault and preparation of the Avatar Project network.",
+      "evento_clave": "Access to the final mission at the ADVENT Fortress."
+    }
+  },
+  "chosen_traits": {
+    "debilidades": [
+      {
+        "nombre": "Adversary: Reapers",
+        "descripcion": "Receives increased damage (+50%) from attacks made by Reaper faction soldiers."
+      },
+      {
+        "nombre": "Adversary: Skirmishers",
+        "descripcion": "Receives increased damage (+50%) from attacks made by Skirmisher faction soldiers."
+      },
+      {
+        "nombre": "Adversary: Templars",
+        "descripcion": "Receives increased damage (+50%) from attacks made by Templar faction soldiers."
+      },
+      {
+        "nombre": "Shell-Shocked",
+        "descripcion": "Receives significant increased damage from explosives (grenades, missiles, claymores)."
+      },
+      {
+        "nombre": "Brittle",
+        "descripcion": "Takes massive additional damage from close range attacks (within 4 tiles) or melee."
+      },
+      {
+        "nombre": "Bewildered",
+        "descripcion": "Receives increased damage in the same turn if attacked 3 or more consecutive times."
+      }
+    ],
+    "fortalezas": [
+      {
+        "nombre": "Shadowstep",
+        "descripcion": "Does not trigger player reaction fire or Overwatch."
+      },
+      {
+        "nombre": "Kinetic Plating",
+        "descripcion": "Generates energy shields whenever a player's shot misses them."
+      },
+      {
+        "nombre": "Blast Shield",
+        "descripcion": "Immune to explosive damage."
+      },
+      {
+        "nombre": "Grounded",
+        "descripcion": "Immune to melee attacks (such as Ranger sword or Templar gauntlets)."
+      },
+      {
+        "nombre": "Mind Shield",
+        "descripcion": "Immune to mental status effects (panic, disorientation, mind control)."
+      },
+      {
+        "nombre": "Planeswalker",
+        "descripcion": "Teleports randomly to another cover immediately after taking damage."
+      },
+      {
+        "nombre": "Regeneration",
+        "descripcion": "Heals a fixed amount of health (e.g., 3-5 HP) at the start of each of their turns."
+      }
+    ]
+  }
+}

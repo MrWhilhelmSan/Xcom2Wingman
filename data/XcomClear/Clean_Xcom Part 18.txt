@@ -1,0 +1,377 @@
+Another area of this game that can be a little tricky and has a few outright traps in it, so let’s go through each building, when to build them, and why. The star rating system for this is a little silly,  and I’m going to give a recommended time for each building. 1st, 2nd, 3rd, etc, but for the sake of completeness I’ll include it anyway. Just because it’ll annoy me if only one of my guides doesn’t have one of them. We’ll get to the big table of facilities and all that, but first, a word about engineering in general.
+
+The thing you have to know is that the best thing your engineers can be doing until very late into the game is to excavate new spots. Excavating gets you a new facility (eventually), supplies and the ability to excavate even more. It is such a massive value proposition. Now you don’t need more than 2 facilities being excavated at one time usually so your 3rd+ engineer can staff facilities and if your entire roster is bleeding out staffing the infirmary is not a bad idea, but in general remember ABE, Always Be Excavating.
+
+In addition you want to excavate the things that will take the least time first. New facilities means more strength, and more strength faster is better than more strength slower. Don’t get cute with trying to line up a power relay on an elerium conduit for example just build the building that you need on that slot (there is maybe one exception to this, but I’ll get there).
+
+With that out of the way, onto the big list of facilities.
+
+Facility	Cost	Effect	Staffed Effect	Placement	Upgrade Cost	Upgrade Effect
+Defense Matrix (★★☆☆☆)	150 supplies, 2 power, 28 days to build, 10 supplies in upkeep	Creates 2 turrets for base defense missions. Should reduce chance of chosen sabotage (we’ll get there)	Buffs the turrets to super heavy turrets	Never	75 supplies, 2 power, 10 supplies in upkeep	2 additional turrets
+Guerilla Tactics School (★★★★★)	100 supplies, 3 power, 28 days, 25 supplies in upkeep	Allows training of rookies into any class. Unlocks Combat Training	Trains rookie into whatever class	1st/2nd	N/A	N/A
+Infirmary (★★★☆☆)	175 supplies, 3 power, 42 days, 35 supplies in upkeep	Allows removal of phobias	Staffed by engineer: 50% faster heal time. Staffed by soldier, removal of phobia in 10 days	9th	80 supplies, 2 power	Spend an eleirum core to restore a soldier to full HP and will for one mission. Once per soldier
+Laboratory (★★★★★)	175 supplies, 3 power, 40 days, 25 supplies in upkeep	Can staff a scientist, acts as an additional scientist.	Acts as additional scientist	3rd/1st	175 supplies, 3 power, 40 supplies in upkeep	Allows staffing of an additional scientist
+Power Relay (★★★★★)	100 supplies, 24 days, 10 supplies in upkeep	Grants +3 power, staffed	Grants +5 power	4th	Power Conduit: 80 supplies, 10 supplies in upkeep. Elerium Conduit: 150 supplies, 20 elerium crystals, 20 supplies in upkeep	For Power Conduit, +2 power and additional engineer slot. Elerium conduit is +6 power
+Proving Ground (★★★★★)	125 supplies, 3 power 28 days, 10 supplies in upkeep	Allows building of proving ground projects	50% faster build time	3rd/5th	N/A	N/A
+Psi Lab (★★☆☆☆)	250 supplies, 5 power 20 elerium crystals, 42 days, 55 supplies in upkeep	Allows training of psi-ops	50% faster skill acquisition for psi ops	9th if you really want it.	225 supplies, 15 eleirum crystals, 5 power, 50 supplies in upkeep, allows training of an additional psi-op	
+Resistance Comms (★★★★☆)	160 supplies, 3 power, 32 days	+1 resistance contact	+2 resistance contacts	7th	125 supplies, 3 power, 24 days, 30 supplies in upkeep	+1 resistance contact, extra engineer slot.
+Resistance Ring (★★★★★)	100 supplies, 3 power, 24 days, 10 supplies in upkeep	Allows you to perform more covert ops.	50% faster covert ops.	2nd/3rd	Digital Network: 100 supplies, 2 power, 30 supplies in upkeepHolo Planner, 125 supplies, 2 power, 30 supplies in upkeep	Each upgrade allows +1 additional resistance order.
+Shadow Chamber (★★★☆☆)	200 supplies, 5 power, 30 days, 30 supplies in upkeep	Shows enemy preview, allows you to research shadow projects (aka win the game)	N/A	8th	200 supplies, 4 power, 50 supplies in upkeep	Allows you to research the Psi-Gate (aka win the game)
+Training Center (★★★★☆)	175 supplies, 3 power, 24 days, 30 supplies in upkeep	Allows you to buy abilities with AP, retrain soldiers, upgrade bonds	Improves Bonds, retrains soldiers.	6th	N/A	N/A
+Workshop (☆☆☆☆☆)	300 supplies, 3 power, 40 days, 35 supplies in upkeep	No effect without staffing	Grants two additional engineers that can only go in adjacent spots	I’d rather build nothing	N/A	N/A
+OK, that was annoying, now onto the fun part, actually talking about each building!
+
+Defense Matrix (★★☆☆☆) - Never - What this is supposed to do is stop the chosen from fucking with you as much, but it’s bugged! If you do not have the community highlander mod that does not function, the chosen will still have a 75% chance to sabotage you! Fix your game Jake! Even if it did work, it isn’t that big a benefit. And the turrets on base defense missions are OK. They have squadsight that’s fun but you’ll probably live without them. I say skip this, if you really want you can build this super late into the run, but meh. I never bother.
+
+Guerilla Tactics School (★★★★★) - 1st/2nd - The GTS is the most important building you get. It allows you access to squad size 1 and 2, which are probably the biggest power spikes you get. It allows you to train more rangers and grenadiers. And the other two classes in a pinch but mostly those two. It is basically always my first building. You could argue to do the Ring or Lab first, but I don’t think you should. Squad Size 1 as fast as possible is just that important.
+
+Oh, also very important if you get rid of the GTS you lose any benefit it provides. So you'll lose squad size 1/2. So...don't do that! Just let it sit there all pretty like.
+
+Infirmary (★★★☆☆) - 9th - You'd think the infirmary would be better, but no. It's so meh I forgot to include it the first time! It just doesn't do a lot. Faster wound healing is nice but wasting an engineer on it is very pricy. Removal of phobias ranges from basically nothing to actually quite helpful. It is OK to slot this in the mid/late game where you have time, but doing it early really slows you down and might result in more wounds than if you put something better in that slot.
+
+Laboratory (★★★★★) - 1st/3rd - More science is more better. This is a nice bit of acceleration towards your science. I usually build this 3rd, but you could argue to build it first science is just that important. I don’t know if I would go that far but it is quite good. I also basically always upgrade this once I stabilize and have enough supplies/power to spare. I don’t have an exact timing for it, but yea it’s good.
+
+ Power Relay (★★★★★) - 4th - You have to build this, literally you can’t win without it. So you build it when you have to. This is basically a tax on your engineering time. You will also both staff and upgrade this facility, as doing so is better than building another power relay. 
+
+Proving Ground (★★★★★) - 3rd/5th - The proving ground is quite useful, and of course necessary to win the game. If I didn’t build the lab 3rd I would build this instead. And if you didn’t have to build power 4th I’d build this 4th. If you want to skip the lab then put this third, if you don’t then put it 5th.
+
+Psi Lab (★★☆☆☆) - meh - the Psi Lab is so expensive! It’s expensive in power, it’s expensive in resources, it’s expensive in time. Psi ops are cool and all but are they really worth all this effort and time? No, no they are not. But if you want to build them, then sure, build them after everything important is done. But I usually don’t bother.
+
+Resistance Comms (★★★★☆) - 7th - Honestly you could argue to build this earlier. Contacting more regions is good, and it helps you not lose and is literally necessary to win the game. If you get super lucky with scan rumors and covert ops then you don’t technically need this but that’s rather thin. I build this when I do because every building before it is much more powerful, not because this is bad.
+
+Resistance Ring (★★★★★) - 2nd/3rd - More covert ops are good, so this is good. You get one free covert op a month without this but doing more is very, very helpful. I think you either build this 2nd or 3rd. You either go GTS -> Ring -> Lab or GTS -> Lab -> Ring. Or maybe GTS -> Ring -> Proving Ground. I think it is usually 2nd is my point.
+
+Shadow Chamber (★★★☆☆) - 8th - You know, the whole point of this guide is to win the game, and you need this to win, so…you know…you should probably build this. You can try and line it up with building it on an elerium conduit but if it doesn’t happen I wouldn’t stress about it’s not that big a deal, you can always just build another power relay. 
+
+Training Center (★★★★☆) -  6th - The Training Center is pretty swingy. It can give you everything or nothing. If you get lucky with XCOM abilities this can make certain units golden gods. If you don’t, you still get some power from this, buying conceal or heavy ordinance or medical protocol or what have you, but it isn’t as good. If you go watch Syken’s flawless run he actually builds this 3rd trying to gamble that certain units get Death from Above. Which isn’t necessarily a play I disagree with, it's just kind of risky. I prefer a more safe line where you go for more guaranteed strength, but hey if the gambling pays off you do sort of just win on the spot.
+
+Workshop (☆☆☆☆☆) - Never - I’m pretty sure this is the last 0 star thing in this game, isn’t that fun! OK so what does the Workshop give you, more engineers. And what does it cost? Engineering time, 300 supplies, and power. Aka the things engineers give you. It’s basically spending 1 engineer and building slot for 2 engineers. This is a terrible, terrible trade. I’ve said this before but you want to snowball in X2, get power fast, so you get it faster, and then faster, and then win. This slows you down. If, for example, you wanted to build the proving ground, building a Workshop slows you down from doing so. Not just by eating a building slot but also by potentially forcing you to build another power relay before you can build the building you actually want. It is also expensive as hell. 300 supplies and 40 days?! For this garbage! Building this actively nerfs you, and so you probably shouldn’t.
+
+Summary:
+With all that said and done, here is my recommended build order:
+
+GTS
+
+Ring
+
+Lab
+
+Power
+
+Proving Ground
+
+Training Ground
+
+Resistance Comms (this does basically force you to do a covert op to slow the avatar project, just FYI)
+
+Shadow Chamber
+
+Infirmary
+
+Psi lab if you want, or nothing, or a defense matrix, or…honestly who cares?
+
+With that, see you all next time!
+
+An index to every post in this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+96
+
+Downvote
+
+40
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/MetalPuck avatar
+MetalPuck
+•
+1mo ago
+Please add infirmary I’m at the stage where I have predator armor and about to finish researching warden armor (I did it before plasma rifle, wasn’t planning on it but it was inspired sooooo yeah) and I need a second opinion on whether to do that or shadow chamber first! Thank you!
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh shit I knew I forgot something! Just added it!
+
+u/Chubzzy1 avatar
+Chubzzy1
+•
+1mo ago
+The infirmary is the medikit of buildings. Its primary purpose is to help you recover from mistakes, so it gets less useful the better you get at the game. If you have key soldiers with crippling phobias and/or other high value research to do in the meantime going Infirmary could the right call, if not go shadow chamber.
+
+dwhite10701
+•
+1mo ago
+Man, I was literally just sitting here procrastinating at work thinking "man, it's about time for another one of those insanely long XCom 2 guides." Perfect timing!
+
+ItzEazee
+•
+1mo ago
+I've always hated laboratories, this is probably where I disagree with you the most in this entire series. Build time, building slot, and a bunch of supplies for +1 scientist isn't worth it, especially when Black Market exists and can give you a scientist for less resources.
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+1mo ago
+Me too, mostly. The lab uses a lot of supplies and energy for what it does. The main use is that it increases the chance for breakthroughs but breakthrough research time doesn't profit from more scientists. It's a late game facility for me, like the turrets. When you have the important stuff done after psi lab and shadow chamber, probably after researching plasma weapons and you are swimming in supplies, that's the time to build a lab.
+
+It's more a victory lap facility than anything else.
+
+Certainly the proving ground is much more important.
+
+Mayyybe if you are starved with scientists early get it earlier.
+
+It's a bit better in LWoTC since it doubles the output of staffed scientists and you can staff up to 4 scientists.
+
+u/SidewinderSerpent avatar
+SidewinderSerpent
+•
+1mo ago
+Workshop slander is back!
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You think it went anywhere? I was merely biding my time!
+
+biketheplanet
+•
+1mo ago
+When do you think it is useful to build the workshop? What would you delay? I wouldn't build it early and later I should be snowballing so why waste the time/resources.
+
+baddoge9000
+•
+1mo ago
+Damn, gonna miss u bro. Send me a Xmas postcard from time to time ok
+
+u/PenumbraChaser avatar
+PenumbraChaser
+•
+1mo ago
+The defense matrix does kind of suck. The only marginally fun use I've found for it is to use the Templar ability to swap places with an ally on a turret to put it into the battlefield. Still doesn't do much, but is kind of amusing.
+
+As you note, with squadsight you can use it to take out the tank in the back if you've scouted with a Reaper, but you're probably better off just having a squadsight sniper stand back and take shots at it.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+•
+Edited 1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Unfortunately trees block line of sight for the turrets sometimes. It's a crapshoot whether or not it can even hit certain things. It's a decent bonus still, but you can win Legend without it. If you're unlucky you don't even get a chance to build it for a long time / even past the defenses because you don't have any missions with turret wrecks you can keep! Found that out the hard way. Otherwise on Legend it's viable to build it right around the time a Chosen Avenger Defense is close to happening if you don't focus your Ring activities on fully Hunting the first Chosen you see.
+
+u/PenumbraChaser avatar
+PenumbraChaser
+•
+1mo ago
+Yeah, I only build it in the very late game when I'm just sort of screwing around and have more resources than I can use. I postpone the research that kicks off the story Avenger Defense mission until I have killed all the Chosen, the Alien Rulers, and have shut down MOCX (I like that mod).
+
+I've never had an avenger defense where the matrix made any substantial difference. It is usually like a 17% chance to hit anything with the cannons. Every once in a while they might destroy a bit of cover or something.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I actually find the Matrix to matter more for the story Defense than the Chosen one. The Chosen one is totally optional and might not happen (it's pretty easy to avoid on Commander at least), plus you're basically constantly moving up and have your full team off the bat. The story one though can and probably will have reinforcements landing between your team and the objective from time to time. I've never actually had enemies make it to the landing pad fail state, but I have had them get close and just generally split my team's focus. Even though the turrets have meh aim (staffing makes a difference though), it is FREE when they are there and I noticed the difference when I couldn't get a Matrix out even though I wanted to that late in the game. The story defense also doesn't have your backup units show up right away, so a bit of extra firepower until then is nice, especially against early pods before Squadsight becomes prohibitive on aim.
+
+Greensssss
+•
+1mo ago
+Im beginning to think workshop aint that great either since you get a surplus of engineers down the line. I now go for lab >resistance ring > GTS. I make GTS last since I wont really be able to use it until I get a sergeant to buy the upgrades. I guess I could get GTS early but I feel like the game gives you a good spread of unit types.
+
+Berek07
+•
+1mo ago
+Wait what? Since when is the Lab actually good? Most People/Youtuber spit on the Lab. I though i was the only one enjoying a Lab early. Thanks for the awesome guide and insight. I appreciate the time and Effort you put into it.
+
+I prefer resistence ring first. The Ring might give you Ingeniuer, Scientist and even promotion. In 2/3 runs i got lucky enough to get a Captain very quickly by ring - promotion and build Squadsize 1+2 the moment the GTS finished. Failing that you can contact the other Faction for a free Soldier and 2 more Rolls each for usefull Resistence Orders.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+If you push for it, you can get Squad Size 1 before the first Retaliation (and first time you see a Chosen) on Legend, but I think it might require you to build GTS first unless you get lucky with engineers (and even then I'm not sure of the timing as GTS for specific Squaddies is nice). Since you get one Covert Op for free no matter what, I feel like this disincentivizes the RR to second place, as you only lose a little bit of mission time between the end of the first mission and to when the RR is done. If you didn't get the free mission I feel you could make more of a case for it first.
+
+Leading_Resource_944
+•
+1mo ago
+Did this in the past. And while getting Squadsize 1 before the first retaliation is nice and almost guarantes succes, i find Ring first the better option  to reach Squadsize 2 more quickly.  So i rather suffer through 1-2  mission with 4 instead of 5 people in order to get 6 people around 4-6 mission earlier.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I'm not sure if you can absolutely guarantee enough Promotion rewards from Ops to speedlevel to Squad Size 6. At least not enough to matter? My last Legend campaign I did GTS for 5 fast, and once I got the RR going shortly after turn of the month I think my best soldier (a Ranger natch) naturally leveled once more on a regular mission around then and then I sent him for one Promotion reward Op as like my second Covert Op of the campaign (first one being to the free one) to get the unlock for 6. I might have gotten size 6 a little slower, but getting 5 faster is smoother and more important IMO.
+
+u/Synaptics avatar
+Synaptics
+•
+1mo ago
+The lab also increases the chance of getting breakthroughs. I really like breakthroughs and usually take them when they come up (except for the building cost reduction ones) so I value the lab really highly. GTS -> Ring -> Lab is the same starting order that I end up going most of the time.
+
+u/vndt_ avatar
+vndt_
+•
+1mo ago
+•
+Edited 1mo ago
+The Defense Matrix already has 2 turrets. No staffing needed. Staffing turns them into Heavy Turrets with Squadsight and higher Aim. Avenger Defense missions usually come in a few weeks after the Forge Facility/Codex Coordinates campaign missions, so unless you get the UFO Dark Event/Chosen knowledge fully maxed out, you can just time the building of the matrix.
+
+The second Engineer slot in the Resistance Comms building adds 4 resistance contacts, not just 2.
+
+There should be a staffing effect for the training centre for Bond training.
+
+Note: removing the GTS removes Squad Size Upgrades. Probably a good thing to write in the guide. Some people might try to be smart about removing the GTS after buying all the Combat Training items and having an army of Squaddies.
+
+Upgrades should be done only "just-in-time", as close as possible to when it's needed. You can't un-upgrade a building to get the resources/power usage back, and upgraded buildings have higher upkeep.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+added
+
+rynchenzo
+•
+1mo ago
+What about Infirmary?!
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I just added it.
+
+rynchenzo
+•
+1mo ago
+Cheers, I find it useful as I rarely get flawless runs
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's OK, it's just sort of expensive. I think people probably build it too early when more useful buildings are around. I'd rather have a soldier out for 50 days than tie up an engineer healing them in the early game.
+
+rynchenzo
+•
+1mo ago
+That I definitely agree with, building it later is useful when your soldiers take more damage and take longer to heal.
+
+u/RJ815 avatar
+RJ815
+•
+1mo ago
+•
+Edited 1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I'm glad you gave the Workshop zero stars. I've tried SO hard to get any value out of it when having the Supplies and space to burn, and I've just never been able to make it relevant. The only use case seems to be if you're failing missions that give engineer rewards and then, uh, why? Fix that rather than build a Workshop you probably can't actually really afford over other options. Workshops are also made worse by the fact that they basically HAVE to be built on the central line for maximum utility, which just makes timing and placement even more punishing vs other buildings. If you could staff the GREMLINs anywhere like any other engineer there might be a tiny one star niche, but sadly that is not the case. Definitely wonder what the hell Firaxis' thinking was here.
+
+Otherwise the only real comment I have is that it's nice if you can build the Shadow Chamber on a Shielded Power Coil build slot, and the Psi Lab too if you want to mess around with it. It's far from necessary but if you have at least one of those slots in your third row it's a good use for it. You're going to have to build a Power Relay by your second row and don't always get a shielded in that row. If you do it's an okay boost earlier in the game to help you delay the cost of Relay upgrades / staffing. A Psi Lab and Shadow Chamber on Shielded can prevent you from needing to build a second Power Relay, either until possibly late when it hardly matters or only if you want to contact ALL regions for personal satisfaction.
+
+u/Bomber678 avatar
+Bomber678
+•
+1mo ago
+You forgot to link this one in the index.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh...sadness. I'll fix it when I get home.
+
+u/Mathdino avatar
+Mathdino
+•
+1mo ago
+I'm surprised there's still more guides in the chamber! You doing covert actions next? Enemies?
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Tomorrow is resistance orders, then covert ops, then force level, then enemies, then chosen, then rulers, then I fly into the sunset.
+
+u/TheFatBassterd avatar
+TheFatBassterd
+•
+1mo ago
+If you do the comms so late, what do you do about the Dark events? Just hope that the terrible ones get the counter missions in your starting country? Plus you can't get the "hunt the chosen" covert ops to increase trust with the different factions which limits the number of resistance order cards you can use.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+As long as you contact 3 regions you can counter every dark event. You don't need the res. Comms building to counter dark events you start with 3 contacts.
+
+u/Claycrusher1 avatar
+Claycrusher1
+•
+1mo ago
+FYI OP, this does not appear to have been added to the index post.
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Fixed
+
+u/Claycrusher1 avatar
+Claycrusher1
+•
+1mo ago
+Sorry, I meant that the index post does not have a link to this one. The index stops at part 16.
+
+rynchenzo
+•
+1mo ago
+What's your recommendation for building on the two power coils? Shadow chamber and a power relay?
+
+u/hielispace avatar
+hielispace
+OP
+•
+1mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Whatever building you want to build next. I don't think you should get cute with it. Lining up the shadow Chamber is nice but if it doesn't happen it doesn't happen.
+
+rynchenzo
+•
+1mo ago
+Cheers

@@ -1,0 +1,838 @@
+There are a lot of moving parts in XCOM 2: War of the Chosen: classes, enemies, weapons, utility items, mission types, the Avatar Project, and other such nonsense. Despite this game being a decade old, which hurts me more than it hurts you, new players are still coming here to this subreddit or to the Discord, looking for advice.
+
+After recently achieving what is the greatest gaming accomplishment of my life, a Legend Ironman, deathless, Grim Horizon run with no missions failed or skipped (this is the only time I’ll bring it up I promise), I figured it was time to give back. So I am putting together a series of guides with as much detail as I can possibly provide.
+
+My goals are twofold. First, to serve as a comprehensive reference that can stand in for the frankly awful wiki. Second, to take you, yes you, from someone who has maybe played on Veteran or Rookie and help you reach the point where you can consistently beat Legend Ironman.
+
+If you are already there, I still encourage you to read along and challenge my assumptions. If you disagree with something, that is a good thing. My way is not the only way, and different perspectives only make everyone better. Even if, in the end, we all know I’m right ;-P
+
+But enough talk. Let us get into the guide.
+
+Rangers are the strongest of the 4 basic classes. They get something powerful at just about every rank and shotguns are absolutely cracked. Here is how the rankings for abilities (and other stuff) is going to work. 
+
+★★★★★ - The Best of the best. Abilities that things that you build around. Or weapon mods that are best in slot. Things of that nature. The difference between having stuff in this tier and not is so massive I’d consider it nerfing yourself not to grab them. You really, really, really want stuff with 5 stars.
+★★★★☆ - Really strong abilities. Abilities I am always happy to have and would trade a lot of other abilities for, but they aren’t quite as “must have” as the 5 star ones.
+★★★☆☆ - Abilities that are pretty good. Stuff that I would buy with AP quite happily but might pass up if the other ability is better.
+★★☆☆☆ - These are underwhelming. These abilities just don’t really do enough to justify having them. They might have very niche use or be passives that just kind of do very little. Stuff I just don’t care about. They aren’t horrible or useless, but you probably wouldn’t miss not having them.
+★☆☆☆☆ - Trash abilities that are just worth nothing.
+☆☆☆☆☆ - Given to abilities that are actively harmful. There is only one of these in the entire game.
+
+Stats:
+
+To start, their aim and HP at a given rank is as follows. 
+
+Rank	Aim (★★★★☆)	HP (★★★☆☆)
+Squaddie	68	5
+Corporal	71	6
+Sergeant	74	7
+Lieutenant	76	8
+Captain	78	8
+Major	79	9
+Colonel	80	10
+As aim goes, this is the 2nd highest of the best classes, but functionally it ends up being the best, because of how sniper rifles work (see the sharpshooter class). In terms of HP they have the “good” growth rates, but that doesn’t matter too much. You’re still probably getting one shot from a crit until you get predator armor anyway. But hey more HP is better than less. 
+
+Weapons:
+Rangers can wield either Shotguns or Assault Rifles (and the Bolt Caster) as primary weapons and wield a sword as a secondary.
+
+Shotguns (★★★★★) - The absolute best weapon type in the game. They deal 4-6 to damage at base, meaning they one shot troopers even on a bad damage roll, and they have the ever holy short range table. This gives them a bonus up close and penalties far away. This seems like a “some good some bad” thing but actually it’s basically all upside. XCOM 2 (take a shot every time I say this in one of these guides) is about alpha striking. You want to kill enemies before they even get a turn. So the absurd bonuses shotguns give at close range means Rangers are the only one of the 4 base classes that can (without high ground) get a 100% to hit 100% to kill basic troopers at squaddie. That is worth its weight in gold. Shotguns also have an in-built 10% crit chance, which is nice later into the game where it can be possible to get 100% to hit 100% to crit. And finally they have 4 ammo per clip, because apparently they didn’t feel the need to hurt this weapon in any way. For more information, see the weapon guide.
+
+Assault Rifles (★★★☆☆) - Rifles are what I consider the baseline weapon. They do 3-5 damage at base which is fine but means that you can low roll and not one shot troopers, which is sad. They have a 4 clip, which is as good as it gets, and they have the medium range table, which has some benefits for being close but doesn’t have drawbacks from being far away. It’s fine, but only fine. This is the “I mean it’s OK” weapon. It’s fine, nothing to complain about but nothing exciting. 
+
+The last thing to rate before we move onto the class proper is their secondary weapon, the sword. 
+
+Sword (★★★☆☆) - Swords are a melee only weapon that, like all melee weapons, can’t be used at range, take no ammo, and have a +20 bump to accuracy. They do, at base, 3-5 damage (the damage for the other tiers is in the weapon guide) and have a 10% chance to crit.
+
+The sword is fine. It is risky to use (covered more when we get to slash) at the start but has a lot of uses in the Rangers abilities. At base you only have a 88% chance to hit something with it which can absolutely screw you if you miss because it puts you right next to the enemy, but it’s fine. Not great, not bad, but pretty good.
+
+That's all the standard weapons, but let's cover the special items you can get. 
+
+Starting with the least impactful, the TLP items. The TLP Shotgun (★★★★☆) is covered in more detail in the weapon guide but suffice it to say it's basically always worth equipping until the late game and/or you get really lucky with weapon mods. The TLP sword has no unique effects at all, so equip it if you want but it's just for looks. 
+
+Moving onto the Alien Hunters DLC. It will give you access to the Hunter's Axe (★★★★☆) and Bolt Caster (★★★☆☆). For our purposes, the Axe gives +1 damage to your sword and a ranged throw attack that is a free action (more detail in the weapon guide) and the Bolt Caster gives a lot more aim and damage compared to a bolt caster but at the cost of only having one clip. 
+
+Basically, always have one ranger equip the axe and I wouldn’t use the Bolt Caster over the Shotgun, if you want more info. See the Weapon Guide.
+
+And finally once you kill the Chosen Assassin you will gain access to the Katana (★★★★★) and the Arashi (★★★★★). More details are in the weapon guide, but the jist is that the Katana is a sword that does +1 damage, cannot miss*, and pierces 5 armor and the Arashi is a beam shotgun that has 4 weapon attachments instead of 3. 
+
+These are the best in slot items for the ranger. You should equip them on a ranger as soon as you unlock them. The Katana in particular is insane for its interaction with bladestorm. Turning a powerful but unreliable skill into an absolute power house. 
+
+Now we can finally move onto the actual abilities of this class.
+
+Abilities:
+To not bury the lead, here is a table of my view of each ability, again what each start rating means is above. If that’s all you want, then here you go. If you want my explanation, it’s below.
+
+Rank	Assault	Scout
+Squaddie	Slash (★★★☆☆)	
+Corporal	Blademaster - (★★★★☆)	Phantom - (★★★☆☆)
+Sergeant	Shadowstep - (★★★☆☆)	Shadowstrike (★★★☆☆)
+Lieutenant 	Run and Gun - (★★★★★)	Conceal (★★★☆☆)
+Captain	Bladestorm - (★★★★☆)	Implaccable (★★★☆☆)
+Major	Untouchable - (★★★★★)	Deep Cover - (★☆☆☆☆)
+Colonel	Reaper - (★★★★☆)	Rapid Fire - (★★★★★)
+GTS Perk	Hunter’s Instinct (★★★★☆)	
+If that’s the only information you wanted, there you go, thanks for reading. If you want to read why I gave each thing its rating, then here we go!
+
+Slash (★★★☆☆) - Slash is an active ability with no cooldown that has the Ranger use their sword at a dash length on one enemy. You choose what tile adjacent to that enemy (within range) you end up on. 
+
+So Slash is sort of weird to rank, but here’s why I gave it three stars. At the start of a run, and as I mentioned when going over the sword it has a 3-5 damage range (4-6 with the axe) at an 88% hit rate. That is just not reliable enough. Sometimes you just have to say “fuck it” and gamble on it, but you never want to. Running in deep to the enemy position can open you up to activating another pod, which can lead to some very bad things happening. And if you miss…well, you’re kind of boned. The later into the game you go, the more reliable it gets, but also the more another ability named Run and Gun sort of takes its shine away. Still, you will probably click this a lot throughout a run, and so 3 stars it gets. 
+
+Blademaster (★★★★☆) - Blademaster is a passive ability that grants +10 aim and +2 damage to all sword attacks. This includes using Slash, Bladestorm, and Reaper but does not include throwing the Hunter’s Axe. 
+
+This makes Slash much more appealing. Because of the aim bump from corporal, this allows Slash to have 100% hit rate on anything without innate defense. Now if you click it on a basic trooper and they just die, no fuss. And with the Axe you are 1 damage away from auto-killing sectoids. Now this isn’t perfect, you still have to be vary of activating another pod. But just “click and they die” is always going to be good. It also makes other abilities like bladestorm and reaper much stronger because they also benefit from the aim and damage boost. If you don’t pick this up at this rank, consider heavily going back for it to buy with AP. 
+
+Phantom (★★★☆☆) - Phantom is a passive ability that allows your soldier to stay in concealment even when the rest of your squad is revealed. This  also works on Retaliation missions or other missions you don’t normally start concealed.
+
+OK so if this was vanilla I’d bump this up a star, maybe two. But this is more focused on WOTC, so it gets knocked down a good bit. Reapers have this perk, but better. This completely overshadows this ability's main role, which is to scout. There is still a reason to pick this up, but it isn’t as necessary as it is in vanilla. That reason is if your Reaper is tired/wounded/dead. If you start with Reapers you can pick up two of them eventually, and at that point you really don’t need this, but before then (or if you start with another faction) then for your B team having a phantom ranger is still worth it. With all of that said, I recommend taking Blademaster on every ranger but one. One ranger gets phantom and serves as your scout when your Reaper is unavailable. 
+
+Shadowstep (★★★☆☆) - This is a passive ability that makes your ranger completely ignore overwatch. This also works on things like suppression or bladestorm or any form of reaction attack. 
+
+The enemy's overwatching just isn’t that big of a threat most of the time, and this doesn’t really even solve overwatch when it does happen. It just lets one unit ignore the problem. But there are times where it can be nice to be able to slash a chosen will watchful to break it for example. Heavy MECs can overwatch on reveal and so sometimes the flow of a turn means you want to use your ranger first. If the counterattack dark event pops this is actually quite useful. It can be helpful sometimes, but it isn’t that useful. Still, not terrible. If I take shadowstrike at this level I don’t feel the need to come back for this, but I also don’t hate it when I have it.
+
+Shadowstrike (★★★☆☆) - Shadowstrike is a passive ability that gives your ranger +25 aim and crit when they are unobserved. 
+
+The game says when in concealment, but that’s not actually how it works, the tooltip is a lie. If the enemy you are shooting at cannot see your ranger, either because they are concealment or because they are behind a building or whatever, then your shot will get the 25 aim and crit bump. Also, if you start a slash from a location the enemy cannot see, the game will give you the effect of Shadowstrike on that slash even if the tooltip says otherwise. Hooray for a strategy game lying to the player! 
+
+Anyway, onto discussing how good this is. It’s tough. If you really try, you can squeeze a lot out of this, but the cute little sword interaction doesn’t come up much if you have Blademaster (do not rely on sword crits!), but one of your rangers (if you take my advice) doesn’t have Blademaster, and on that unit it can be quite useful. Also if you do pick up phantom (or Conceal) from the training center with AP then you can just fire a shot with +25 aim and crit, and that’s not bad! It can be a little tricky to use this a bunch, but it's nice to have. It isn't rated 4 or more stars just because it's really specific. It’s really hard to use this more than twice a mission. Now twice per mission isn't bad, but it's only twice. If you want to skip this for Shadowstep I get it, but I would recommend thinking about going the other way. It’s a hard call. 
+
+Run and Gun (★★★★★) - Run and Gun is an active ability with a 3 turn cooldown that grants you an additional action point that cannot be used on moving. 
+
+The game says it grants an action after dashing, it’s lying (again). It's just an action point that can’t be used for moving. If you click Run and Gun then fire your gun the ability is wasted. You can reload, activate Run and Gun, move, then shoot. It’s just another action point.
+
+All that said, this ability is insane. This lets you attack with your shotgun, the best weapon type in the game, at point blank range, where you get a huge aim bump! This combined with laser sights and talon rounds can just delete fuckers with crits. And it's flexible, too! Sometimes you need to dash to just throw a grenade in the spot you want or to get LoS for someone else in your squad or whatever. It is the 2nd strongest ability in the ranger class, always take this. Never even think about not taking it. Just click this always.
+
+Conceal (★★★☆☆) - Conceal is a one charge active ability that puts your soldier in concealment. It cannot be used if you are flanked. 
+
+This is the most straightforward ability in the world. It lets you scout after firing your gun or slashing. If you have Shadowstrike it can be a “give me 25 aim and crit right now” button. Yea, it’s pretty good. I usually buy this with AP because not having Run and Gun is a bad idea, but yea. It’s good.
+
+Bladestorm (★★★★☆) - Bladestorm is a passive ability that grants the Ranger a sword slash against any target adjacent that moves or attacks. 
+
+This will get the aim and damage bonus from Blademaster if you have that perk and it will suffer the overwatch penalty, meaning a 0.7x aim multiplier is applied. So if you have 78 aim, plus 20 additional aim from it being a sword attack, and the enemy has no innate defense you have 69% chance to hit (the game rounds all chances to hit up to the nearest percent). If you have Blademaster it’s a 76% chance. Also important to know, a Mutons ability to negate and counter melee attacks does apply to Bladestorm, so be a little careful with that. 
+
+So obviously this is strong. It’s just free attacks. It can be used against reinforcements as well, just stand on the little flair and slash at every enemy as they come down. But it’s not without its issues. 76% is not 100%, and if you absolutely count on the damage from this to take a kill, you will eventually come up empty and get punished. Still, just free damage is pretty good. And then you get the Katana and this becomes extremely broken. The Arashi never misses and cannot be dodged, so now that 70ish percent attack roll is an auto hit that pierces 5 armor and the ranger's damage skyrockets. But that is super late game and not enough for me to give this 5 stars. Still, I pretty much always take this. It’s also super funny if you get multiple soldiers with it, you just make 1000 sword slashes on the enemy’s turn. It's fun. 
+
+Implaccable (★★★☆☆) - Implaccable is a passive ability that gives you an additional move only action if you get a kill. 
+
+This isn’t super great when you first pick it up. It lets you retreat to a safer position after shotgunning someone’s brains out but this is a game about Alpha Striking so hopefully the enemy is too busy being dead for that to matter. It can give you some extra forward momentum but that’s not that useful. It’s sort of whatever. But when combined with Untouchable this can be very silly. So usually I just buy it with AP once I get that. It isn’t worth too much on its own.
+
+Untouchable (★★★★★) - Untouchable is a passive ability that, if you score a kill on your turn, the next attack against you on that turn will always miss. This includes explosions, chosen attacks, Gateway, Dimensional Rift-anything that the game thinks is an attack. That means it doesn’t work on fall damage or enemies self-destructing on death. 
+
+This is amazing! It turns your ranger into a mini mimic beacon. Combine this with Implaccable to turn your ranger into an attractive target by having them stand in the middle of nowhere and you just blank an attack per turn. To get the most of this it’s helpful to know the enemies’ AI patterns. For example andromodons always go for their punch if they can, so if you park your ranger right next to them, they will just whiff. But this isn’t so good against MECs micro missiles because someone is still getting hit and your cover is still exploding. But hey even without that this ability is ace. Always take it. Especially compared to its “competition.”
+
+Edit: apparently this only covers the first attack on the alien's turn. So if you are fighting a ruler or something, this doesn't do anything.
+
+Deep Cover (★☆☆☆☆) - Deep Cover is a passive ability that, if you do not attack in a turn, you automatically Hunker Down. 
+
+This ability actually reads “does nothing.” I literally cannot imagine a situation where this is helpful. If you rolled Aim from the Training Center then maybe but even then are you passing on Untouchable for this? No, no you are not. Is it worth the 20-30 AP it takes to get both of those? Still probably not. Just pretend this ability isn’t here and you won’t miss it.
+
+Reaper (★★★★☆) - Reaper is an active ability with a 4 turn cooldown that makes your next sword attack always hit and if it kills you get an action point back that can be used on anything, and if you get another sword kill you get another action point back, and so on. Each successive hit lowers your damage by one. 
+
+So if you have the basic sword and you start by doing 3-5, your next will do 2-4, then 1-3, then 0-2, then 0-1, then just 0. Because you are just clicking Slash, this gets the bump of damage from Blademaster. You can’t use this and Run and Gun on the same turn. Also you can’t use this and Serial on the same turn if you pick that up from the Training Center. 
+
+Reaper is very good, but of the two chain kills it is the worse one. It has a bunch of restrictions Serial just doesn’t. Each hit does less and less damage, all your targets have to be within one move of you (Reaper refunds only one action point not two). It’s just a little specific. Sometimes you click this literally just to kill one enemy and then shotgun another. And hey, that’s still pretty good. The most use you will get out of this is in the final chamber, but that’s OK. A colonel ability being good in the final mission is what you’d want. Worth buying with AP 100% of the time, but I wouldn't pass up the other ability for it.
+
+Rapid Fire (★★★★★) - Rapid fire is an active ability with a 5 turn cooldown (it has no cooldown in the vanilla, isn’t that silly) that causes you to shoot your gun twice, each with a -15 penalty to aim. 
+
+Importantly if your total aim goes above 115, your chance to hit will still be 100%. So if you have the default colonel ranger of 80 aim you need 35 additional aim (which can be achieved from the shotguns range table by being 1 or 2 tiles away) to get a 100% hit on both shots, assuming the enemy has no innate defense or cover. 
+
+This is the strongest ability Rangers have bar none. Insert shotgun into face + click rapid fire + talon rounds + laser sight = dead anything. That deals a minimum of 28 damage with the Arashi (2 less with a storm gun), with Hunter's Instinct active that's 30 damage minimum. Very, very few enemies can survive that. sectopods, gatekeepers, andromodons, and Avatars at full health are the only enemies that can take that attack and not die. And it's not far off of killing those. Avatars have 35 health and 4 armor, it takes only shredding that armor and 5 other damage to guarantee a kill on the final bosses. 
+
+In addition, taking two 70% shots is better than taking one 85% shot if you only need to hit once (in that situation, the numbers work out that the two 70% ones have a 91% chance of hitting at least once and a 49% chance of hitting twice, just to illustrate my point). This is the best way to delete Avatars in the final mission outside of banish. Even if you have a rifle this is still good. Two shots is almost always better than one. 
+
+Just take this always. Also buy Reaper with AP (or be sad on Vanilla) but make sure you take this.
+
+Hunter’s Instinct (★★★★☆) - Hunters Instinct is the GTS perk for the Ranges and it is a passive ability that increases your ranged attack damage by 1 (by 3 in vanilla) if the target is flanked and gives swords a +10% (+15% in the base game) chance to crit. 
+
+The sword crit is basically nothing because it is unreliable but the +1 damage is great. More damage is more better! Tough to justify with that 200 supply cost on Legend but I almost always pick it up. In vanilla this is very silly (why +3?! Why did they do that?!) but in WoTC it’s just “pretty good.” certainly worth it for the guaranteed extra 2 damage from a rapid fire, as mentioned above. In vanilla this ability is absurd because +6 damage on a no cooldown rapid fire is hilarious, but alas, WotC hit it with the nerf stick.
+
+Armor and Utility Items:
+OK that is every ability covered now onto every armor, utility item, weapon mods, and PCSs! I am not going to sit here and type out a review of literally every utility item for specifically this class but I will highlight some good options. Similarly I’m going to cover the armors in broad strokes. More detail will be in the armor and utility item guides respectively. One final note: the ratings here are necessarily much looser. Basically everything in here is strictly positive and it's really more about the opportunity cost of not giving something to another unit than the strict power of a ranger. But still, more stars is better, less stars is worse. 
+
+Anyway, here’s a table of how good each armor type is:
+
+Armor
+Light (★★★★☆)
+Medium - (★★★☆☆)
+Heavy - (★★★★☆)
+Viper Suit/Armor (★★★★☆)
+RAGE Suit/Armor (★★★★★)
+Icarus Armor (★★★★★)
+So, basically, try and get special armor on them. The benefit of light/heavy armor is just worth more on this class than the extra utility item. I gave them the same star rating, but I do usually prefer light over heavy armor on Rangers, but heavy armor is also good. The question is if you prefer a grappling hook or a rocket in the mid game or a grappling hook or a blaster launcher in the late game (also the Viper and RAGE Suit specific buffs) in the late game. I do think the grappling hook is better, it’s just a lot of mobility and the spider/wraith suit buff mobility on top of that. But having a rocket is literally never bad and if you roll salvo from the Training Center it’s a serious consideration. 
+
+For the Viper Suit and RAGE Suit, I usually give both of these to rangers (because why not have multiple rangers in a squad?) but if you have to pick only one the RAGE Suit is a bit stronger. They both buff mobility but while the Viper Suit gives a very powerful freeze attack, it can whiff and that’s not great. The RAGE Suit melee attack can also miss, but it is free movement, if it doesn’t miss it is extra damage and shred and you get a heavy weapon. That’s just hard to beat. Still if you get Death From Above from the Training Center, maybe go the other way. The Icarus Armor is the best armor for every class because teleporting anywhere on the map is broken but that isn’t interesting so I’m moving on. If you have a better candidate (sharpshooter, someone with DfA) give it to them if not sure why not.
+
+For utility items, the ones that are standout are grenades, because you start with them, mimic beacons, because they are broken, and special ammo. The rest are fine but if you want my views on them, go read my (yet to be written) utility item guide. These ratings reflect how often you want to equip that item on this class, not the rating of the item itself. Again that’s in the utility item guide.
+
+Frag/Plasma Grenade (★★★☆☆) - So your starting item is a grenade, and they are the class that wants to use them probably the 3rd most out of the starting ones. Throwing a grenade with anyone is always fine, but because they have (effectively) the highest aim of any base class they generally want to be the one following up after one. But hey sometimes you want to throw a grenade with them and so you will. If you want to sub out the grenade for a flash bang early, they aren’t a bad person to carry it, but also not the best. 
+
+And just to briefly go over it, plasma grenades are also fine but by that point I usually transition to having special armor and experimental ammo so I don’t use them a lot but hey they work because they always work.
+
+Mimic Beacons (★★☆☆☆) - Mimic beacons are broken, everyone knows that, but rangers probably want to hold them the 2nd least of any base class. They break concealment when thrown, bad for your scout ranger, and they are for bailing out a turn when your damage isn’t enough to handle every enemy active. Rangers are the ones pushing that damage so it just isn’t what you want to spend their action on. You still need enough damage on the follow up to kill everything after you throw the meme beacon after all.
+
+Experimental Ammo (★★★★★) - Generally speaking, experimental ammo is the thing you want to equip on your ranger, which is why I left it for last. The 5 star rating is for how good ammo is on them generally, there simply isn’t something else I want to equip over them on this class specifically. Below are the star ratings for each ammo in particular, not them as a whole. 
+
+Here is a table of how I rank each of them.
+
+Ammo Type 
+Viper Rounds (★★★☆☆)
+Dragon Rounds (★★★☆☆)
+AP Rounds (★★★☆☆)
+Tracer Rounds (★★☆☆☆)
+Talon Rounds (★★★★★)
+Bluescreen Rounds (★★★★★)
+Viper/Dragon Rounds (★★★☆☆) - I’m looping these together because for my purposes they are the same item. They give a +1 damage and a status effect on certain units. Those units are slightly different (see utility item guide), but whatever. Now, +1 damage is good. And I’d equip this over a grenade most of the time, but it has its limitations. The units that are vulnerable to poison/fire aren’t as dangerous as the ones that are immune (generally) and +1 damage isn’t as much damage as you could be doing with certain other ammo. But hey, if you roll this from the Proving Ground, slap 'em on this class it’ll do just fine.
+
+Tracer Rounds (★★☆☆☆) - So tracer rounds just give a flat aim bump, and on this class that can so easily get to 100% to hit, I’m just not sure what’s that doing here. I mean, is it better than a grenade? I mean, maybe sometimes? I am very unimpressed with them. Are they bad? No. Are they good? Also…also no.
+
+AP Rounds (★★★☆☆) - AP rounds can be effectively +5 damage, but often you can shred your enemy before your ranger starts blasting them, and so that +5 is sometimes +1 or even +0, and that’s sad. The best use of these on rangers is against AVATARs to just nuke them off the field, but there are other ways to kill AVATARs that are more effective. They're fine, but you can do better.
+
+Talon Rounds (★★★★★) - Now this is the real shit. There’s a reason this is the only ammo type I brought up when talking about abilities. +15 to crit and +1 crit damage is exactly what this class wants to do. This is probably better at killing AVATARs than AP frankly. This is usually your best choice. There's a reason I included them in my calculations when talking about rapid fire. 
+
+Bluescreen Rounds (★★★★★) - The other candidate for best special ammo on Ranger is Bluescreen. That +5 damage against 1/4th of all enemies (and the most dangerous ones) is just so juicy. But, you know what also works against robots? Critting them twice with Talon Rounds. This is a situation where you can literally check the Shadow Chamber and spec as needed. I generally default to Talon Rounds, but if you slapped BS rounds on literally all 6 of your units I won’t tell you you're wrong, because you probably aren’t. 
+
+Weapon Mods:
+Let’s go through each weapon mod and why or why not you might want it on this class. I will assume you are using a shotgun for this, but if you want to know what to put otherwise, go check out the (not yet written) Specialist guide.
+
+Here is a table of my ratings of each of them, with the understanding that higher tier versions are always better than the lower tier ones so I didn’t differentiate between them here. I am also considering that some classes want certain weapon mods over others, and that does factor into things, you do have to choose who gets what from a limited pool after all.
+
+Weapon Mod
+Scope (★★☆☆☆)
+Laser Sight (★★★★★)
+Hair Trigger (★★★☆☆)
+Repeater (★★★★★)
+Stock (★★★★☆)
+Expanded Mag (★★★☆☆)
+Auto-Loader (★★☆☆☆)
+Scope (★★☆☆☆) - So if you are using a rifle consider this a 4 star but if you are using a shotgun you just don’t need this. I mean, it won’t hurt, more aim is literally never bad. But, like, what are we doing here? The point of the class is to insert a shotgun into your enemies throat and pull the trigger. You don’t need more aim, you will sit at 100 or close to it most of the time. Especially considering that other classes need them more and you can’t have a laser sight and a scope at the same time.
+
+Laser Sight (★★★★★) - This is what you want on a shotgun. Without these you cannot get to 100% crit, and you really, really want to auto crit. If you find a laser sight at any point, they are your rangers property basically exclusively. Also classes (except maybe one) really don’t need them.
+
+Repeater (★★★☆☆) - Repeaters are the slot machine weapon mod. Sometimes they pay out huge and you win big and the enemy instantly falls over dead, and sometimes you will go an entire run forgetting you equipped one. You can throw them on literally any soldier and get good mileage out of them but rangers like shooting their gun so why not? There are a few classes that want them a tiny bit more but literally equip them on whomever. The reason for the 3 star is just that they are still RNG at the end of the day and some weapon mods are better for them specifically. 
+
+Hair Trigger (★★★☆☆) - Hair Triggers work just about the same on everyone but an extra action on ranger is often stronger than on other classes that have weaker guns, which gives them a leg up. There aren’t many classes that want them more, either. If you get one of these as a random drop, I’d equip it on rangers. But if you don’t I wouldn’t hound one down, so 3 stars seem fair. 
+
+Stock (★★★★☆) - Alas, sometimes you simply can’t risk getting close enough to use shotguns effectively. And in those situations having a stock to just do a bit of chip damage can be really nice. Every class loves stocks but rangers might love them a little more because it gives them something to do in situations where otherwise they would just sit there and be sad. The only drawbacks are a) you could also have them on another class with worse aim to give them more reliable damage and b) there is an opportunity cost to using this over something else. But hey, they work pretty well.
+
+Expanded Mag (★★★☆☆) - Before you get rapid fire, this is kind of whatever. More shots before you have to reload is good, but if you are pacing yourself properly through a mission, this just won’t come up. Now sometimes shit goes sideways and you will want more ammo, but hopefully this doesn’t happen. Now, once you do get rapid fire. Everything flips. Now you need this to get the most out of the class. Luckily around that time you get the Arashi and one of your Rangers gets one of these for free. But for your other rangers, do consider swapping a weapon mod. Before then, probably not. Unless you get like Hail of Bullets or something from the Training Center. 
+
+Auto-Loader (★★☆☆☆) - Auto-loaders for rangers is basically an expanded mag. Technically you get more ammo out of it but because you can’t clip Rapid Fire with 1 bullet in this clip and another in an auto-loaded clip this drops in usefulness. The only niche for them is that they help you deal with Codexes’ psi-bomb, but, eh, that’s not really worth a weapon slot. They're fine, but I’d rather have something else.
+
+PCSs:
+And lastly, let us go over PCSs, luckily for me, there just aren’t that many of them. So this’ll be quick! Here is a table of how I value each of them on Rangers. And as before, the higher quality ones are always preferred.
+
+PCS
+Aim (★★★★☆)
+HP (★☆☆☆☆)
+Dodge (★☆☆☆☆)
+Will (★☆☆☆☆)
+Mobility (★★★★★)
+Aim (★★★★☆) - Aim is something everyone wants, and rangers need it the least because, you know, shotguns. So it can be hard to justify giving them an Aim PCS over your other units. But it does buff the hit rate of bladestorm and still is good if you have a shotgun. If you are absolutely overflowing in aim PCSs, first of all, good job rolling high on the RNG check and second yea sure use one on this class. I can’t give this 5 stars because there are simply candidates who need them more, but you won’t regret using them on this class.
+
+HP (★☆☆☆☆) - I’m going to say this for every class. But this does basically nothing. This is a game about alpha striking. Hopefully you simply don’t get hit. Now if you do, will this save you? Only maybe! Get crit and you still just drop dead. The opportunity cost is also so high. You can’t have a better PCS if you have this one. Honestly just sell these.
+
+Dodge (★☆☆☆☆) - It’s an HP PCS, but worse! Literally don’t even think about using this. Dodge is just too unreliable to even consider a real stat on your soldiers. A classic case of “every bad for enemies, useless for you.” If you see a dodge PCS just see it as picking up credits for when you sell them at the black market. 
+
+Will (★☆☆☆☆) - Will is only ever used for psi defense in X2, and that is just not a stat I care about. Most things that interact with will just don’t matter. I just sell these.
+
+Mobility (★★★★★) - Extra mobility is premium on Rangers. It means more flexible slashes, more flexible Run and Guns, more flexible Implaccables. This is everything you could want on this class. The only bad part is not being able to use an aim PCS.
+
+Summary:
+OK, let's explain. No, there is too much, let me sum up this class. Rangers do it all. They scout, they shoot, they stab. They are your main work horses and damage pushers. They also bring excellent defensive utility by scouting pods and using untouchable to blank attacks. The only thing to watch for is not to slash enemies too far away so you don’t reveal 15 other pods and get your entire squad killed. But hey, avoid that and this class sings. 
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+315
+
+Downvote
+
+60
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/mrgarrettscott avatar
+mrgarrettscott
+•
+3mo ago
+Hoping this series of guides becomes a permanent part of the side bar
+
+Fabulous_Jellyfish71
+•
+3mo ago
+me too :D
+
+Ok-Huckleberry-419
+•
+3mo ago
+Pretty cool write up. Enjoy the work and analysis. 👍
+
+u/hielispace avatar
+hielispace
+OP
+•
+3mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Thanks!
+
+Flubinurgen
+•
+3mo ago
+This was so much fun to read! Also very informative and great summary of the class, thanks for the great post :) Looking forward to the ones to come!
+
+u/hielispace avatar
+hielispace
+OP
+•
+3mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Thank you!
+
+u/Shooter-__-McGavin avatar
+Shooter-__-McGavin
+•
+3mo ago
+I'm only about halfway through, but I have to compliment you on the thoroughness of this guide, and you manage to keep things tongue-in-cheek enough so it isn't a dry read. Keep it up!
+
+Fuckin' A on Run & Gun, that skill has saved my ass so often it's beyond comprehension.
+
+It's the type of skill you always hope shows up on a soldiers bonus skills, along with Shredder
+
+u/hielispace avatar
+hielispace
+OP
+•
+3mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Thank you very much. Writing something this long and trying to keep it both complete, entertaining, and useful was a challenge!
+
+And yea Run and Gun is king. It's so fucking good.
+
+I will do a separate guide about the training center and AP eventually where I talk about all that. But this post was 7000 words gotta stop eventually.
+
+shinobigarth
+•
+2mo ago
+R&G is completely busted.
+
+u/XCOM_Finx avatar
+XCOM_Finx
+•
+3mo ago
+Good write up overall, although I have many disagreement on these rating.
+
+Bolt Caster - This it depend on if you mean specifically for Ranger than sure 3/5 is appropriate because Shotgun, but overall its an awesome weapon that when combine with AP rounds can help one shotting high priority target such as Mec. On Specialist its an easy 5/5, it turns a class that is notoriously bad at damage dealing into a very potent damage dealer... anyway I digress.
+
+Shadowstep - This one is not a disagreement but i'm confuse because in the summary you rate it at 2/5 and in the detailed explaination at 3/5 so is it 2 or 3 stars?
+
+Implacable - My biggest disagreement, i'd easily rate this one a 5/5 and even go further and make the claim that its the best Ranger ability. Basically you make the claim that this is not an alpha striking ability, but I would argue the exact opposite thanks to its combo potential. Untouchable, Serial, Death From Above, Teamwork, Combat Presence, Inspire, Hair Trigger all are made much better thanks to Implacable. On top of that the way I see Implacable is that if your game sense is very well acute, Implacable is a proactive Run & Gun on a per turn basis instead of on a cooldown.
+
+Hair Trigger - I think you are undervaluing this attachment. As you rightfully said Shotgun are the best weapon type and they can 100 to 0 a target easily which if you get a hair trigger to proc that means your Ranger goes from killing a single target to 2 which sure is inconsistant but when it happen is great for alpha striking.
+
+Repeater - You made the claim that Rapid Fire is the best Ranger ability in the game and I don't think so mainly because its an overkill ability for most enemy. In the few case you do need massive damage Rapid Fire is all you need. Plus most target can easily be one shot with a shotgun if you are on point with research. All this makes the repeater simply unnecessary for them. I'd say for Ranger repeater is a 1/5.
+
+Stock - Assuming you get close to your target, Ranger's hit chance is always very high if not guarantied so what does a stock really do for a Ranger? An other 1/5 for me.
+
+Expended Mag & Auto-Loader - Those I think can be handy for Ranger if you are lucky and roll Serial or Death From Above since those ability will allow your Ranger to kill many target per turn which result in high ammo usage.
+
+u/hielispace avatar
+hielispace
+OP
+•
+3mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Thanks! And I think disagreement is good, so on with the show.
+
+>This it depend on if you mean specifically for Ranger than sure 3/5 is appropriate because Shotgun, but overall its an awesome weapon that when combine with AP rounds can help one shotting high priority target such as Mec
+
+Yea I was rating it on this class, as would be appropriate. I also don't like the Bolt caster much on Specialist, to be honest. It's just not that flexible. And turn timers are a thing and it slows you down from having to reload, but also it's on the class (if its on Specialist) that let's you basically extend turn timers. Eh, maybe it's a me thing but I don't like it very much. I don't think it's bad. I sometimes use them on the first retal mission for faceless, but eh.
+
+>Shadowstep - This one is not a disagreement but i'm confuse because in the summary you rate it at 2/5 and in the detailed explaination at 3/5 so is it 2 or 3 stars?
+
+Oops, that's a typo. It should be 3 stars. I'll go fix that now.
+
+>I would argue the exact opposite thanks to its combo potential. Untouchable, Serial, Death From Above, Teamwork, Combat Presence, Inspire, Hair Trigger all are made much better thanks to Implacable. 
+
+Sure it works with those pretty well. But so does, like, just using those normally. I don't think implaccable is the Sause there. Especially because of how the move only action works in skills that refund or give you extra actions can be a little wonky. And you have to get lucky in the training center or in play for a lot of those as well. I just don't find that much to do with implaccable most of the time. Like, I killed the enemy, and now have a move to do...nothing with. Because I have 5 other guys to kill a pod of 4.
+
+>Hair Trigger 
+
+I think Hair Trigger is my choice for the second/third attachment on shotguns. If I don't have rapid fire/chain-shot/hail of bullets/whatever then I'd prefer it over every other attachment. But they just aren't as necessary for this class as laser sights. Like, if you never used them and went with a stock or a repeater or an expanded mag is that going to be so much worse? No, probably not. It is RNG after all.
+
+>Repeater 
+
+There are enemies that you simply won't one shot no matter how hard you try. Archons, Gatekeepers, Mutons if you are behind on research or don't get a crit, Berserkers, (well, you can one shot those if you have a colonel, but then the games almost over so whatever), and the big ones are rulers and chosen, which are the most important enemies to kill. Just the chance to say "actually fuck you you're dead" on those targets is so huge. It is only a chance, but that's pretty good!
+
+>Stock - Assuming you get close to your target, Ranger's hit chance is always very high
+
+Yea but you're not always very close to your target. Sometimes moving up will activate another pod, sometimes you are on a stupid sewer mission and the sight lines are all over the place because they were programmed by a monkey and moving up won't give you LoS, sometimes the chosen is 160000 tiles away and just activated and you don't have run and gun yet. It can be nice to just shoot the shotgun with a 2% chance to hit and know you will do something.
+
+>Those I think can be handy for Ranger if you are lucky and roll Serial or Death From Above since those ability will allow your Ranger to kill many target per turn which result in high ammo usage.
+
+I don't think you're really disagreeing with me here. That sounds like a 3/5 or 2/5 (because auto-loaders are worse for chain kills) attachment to me.
+
+shinobigarth
+•
+2mo ago
+Repeater is one of the only things I disagree (just generally speaking) with hielispace on. Except for rangers if after you've put the laser and maybe the stock on their shotgun and you've got the continent bonus for adding a 3rd attachment, then maybe throw a superior repeater on there, but otherwise I just don't care for repeaters. The 15% chance isn't high enough for me to really justify taking up a mod slot on most classes, except for skirmishers because they can always attack twice.
+
+u/XCOM_Finx avatar
+XCOM_Finx
+•
+2mo ago
+As you said its unreliable, but on Ranger is much worse because most target they shoot will often just die in a single attack, its also why they benefit much more from hair trigger. Repeater are more impactful on other class. Grenadier who will often be shooting high HP/Armor target to shred but might simply insta kill them. Specialist when they hit Major and can do crazy overwatch chain can single handlely drop a whole pod and repeater only makes that more probable. Skirmisher damage output is low but they brr so they simply benefit more from it. Reaper... do I need to explain lol?
+
+shinobigarth
+•
+2mo ago
+On grens I always like to put a scope (because they have the worst base aim) and at least extended mag or auto-loader if we have a spare. For me that leaves repeaters as being 3rd in priority for them.
+
+As for sharpshooters, I tend to run them down the gunslinger tree and repeaters don't proc on pistols. BUT if I'm wanting them to be a dedicated sniper then they always get an auto-loader.
+
+Repeaters are obviously awesome when they do their job but for most classes I have other mods that I'd rather put on their guns. To each their own I guess, as I think repeaters are less objective and more open for debate.
+
+machine1979
+•
+3mo ago
+Thanks for the write up, will look forward to the following parts. It would be great to read up on your tactics a bit. I'm currently trying to complete my first legendary ironman run and I have been shying away from run and gun, for fear of activating too many pods by advancing too quickly. But you seem to see rangers going up close as your bread and butter.
+
+Also curious about the tactical legacy pack. I have it purchased but not installed. I didn't realize it added new weapons.
+
+u/hielispace avatar
+hielispace
+OP
+•
+3mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+If you beat the mini-campaign missions (or use the TLP unlocker mod) you get a unique shotgun, rifle, sniper, cannon, pistol, and sword. The pistol and sword have no unique effects but the other weapons come with free attachments.
+
+So the fear of activating too many pods at once is true and real. That's basically how you lose in this game. But the game gives you the tools to know when and when not to move up by the time you have Run and Gun. Every mission has a set number of pods, you can know going in how many enemies you have to fight even without the shadow chamber. An easy mission is 3, a medium mission is 4, a hard mission is 5, a very hard mission is 6 pods. It's that simple. So if you are fightning pod number 2 on a medium mission, you know two other pods are out there somewhere. One of them is probably camping the objective or is behind it so you are in danger of activating one other pod if you move up. But if you bring a Reaper (and you should) you can move them up past where you are going to run and gun to know if its safe. Or you can start your turn with Run and Gun with a mimic beacon to throw if you do reveal another pod. The risk/reward is actually pretty easy to calculate. "If I can delete this enemy, is that worth the chance the revealing another pod. Would I rather get shot at or risk that?" Usually, it's OK to take the risk, especially if you plan to minimize it. Also, against the last pod in the mission...you can just blow them up.
+
+u/jonasnee avatar
+jonasnee
+•
+3mo ago
+The sword has a higher hit chance.
+
+u/hielispace avatar
+hielispace
+OP
+•
+3mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+No it doesn't. Shotguns have an in built 10% crit, plus 40% from flanking, plus 5-15% from laser sight (actually more because laser sights give more crit if you are super close). You can push your crit to over 100 with a shotgun. Not so with a sword.
+
+u/jonasnee avatar
+jonasnee
+•
+3mo ago
+Sorry i should have maybe been more precise here, the special sword from TLP has higher hit chance than normal swords.
+
+u/hielispace avatar
+hielispace
+OP
+•
+3mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+No it doesn't. I have tested this myself multiple times it has the same 88% chance to hit at squaddie as a normal sword, it's just a display bug. It displays the 20% aim bump that is innate in all melee weapons while the normal sword doesn't.
+
+StableLower9876
+•
+3mo ago
+Thank you GameFAQs
+
+u/Sharoth01 avatar
+Sharoth01
+•
+3mo ago
+Thanks for this writeup. I learned a few new things.
+
+Aleventen
+•
+3mo ago
+Fuckin huge
+
+RegularFootman
+•
+3mo ago
+Awesome analysis. Thanks!
+
+dwhite10701
+•
+3mo ago
+Great guide! I'd add a point about Untouchable -- it doesn't cover an enemy attack during your turn (like an alien ruler attack, for instance). I got hit bad a couple of times in that scenario.
+
+u/hielispace avatar
+hielispace
+OP
+•
+3mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh good to know! I will add that post haste! I love it how this game just doesn't tell you these things.
+
+xabierus
+•
+2mo ago
+Amazing work tyvm!
+
+tooOldOriolesfan
+•
+3mo ago
+The Bolt caster is really good due to the high damage and accuracy it provides. If I take a second ranger they will usually get this weapon. Early in the game I often give it to my specialist since they have combat protocol to use if it is unloaded.
+
+I've found Icarus armor to work really well on Grenadiers. I used to use it often on the sharpshooter or ranger but the grenadier works better IMO.
+
+Bluescreen rounds tend to go to my specialist and grenadier although I know some prefer to use AP rounds on the grenadier. Usually it is Ranger-Talon, Sharpshooter-AP, Grenadier&Specialist-Blue.
+
+u/hielispace avatar
+hielispace
+OP
+•
+3mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I don't like the Bolt caster much personally, it's just too much a loss of flexibility. But you're in that the damage and accuracy are very nice. I don't think I'd ever equip one on a Ranger, though. The two things shotguns give are damage and accuracy. So I'm just not getting much in the trade. Giving them to specialists is much more appealing.
+
+Icarus armor is good for everyone. It's the best armor in the game it's a free teleport to anywhere on the map. But it can only go to one person. I think sharpshooters and grenadiers do make a stronger case for it than Rangers I agree. Because they don't have Run and Gun.
+
+Bluescreen rounds can (and often do) go on everyone. It's+5 damage it's just so insane. I think it's a pretty tough decision between talon and BS on Rangers. It depends on what the shadow Chamber shows you honestly. Like are you fighting chosen? Then talon is better. Is there a sectopod and 15 codexes? Then BS rounds are the way to go. I do find Talon rounds are my default choice on this class, but if you just equipped a sets of BS rounds on everyone you bring out that is just fine.
+
+dwhite10701
+•
+2mo ago
+Nothing better than putting the Icarus armor on a ranger with bladestorm and the katana, then dropping him smack in the middle of an unactivated pod and watching him decimate the whole group.
+
+shinobigarth
+•
+2mo ago
+•
+Edited 2mo ago
+Ranger is the only class I don't give BSR to unless I don't have spare Talon, or you see that the mission is almost purely robo. Sharpshooters if you have going down the slinger tree, should always have BSR. At colonel, being able to attack 5 times with a BSR pistol can potentially leave a sectopod nearly dead or all the way dead if the armor has been shredded. The extra damage from BSR is at least the same, or more than just ignoring the armor with AP ammo, but will do even more if the secto's armor is gone, plus it lets the sharpshooter hit codices for more, where AP ammo wouldn't do anything.
+
+u/jonasnee avatar
+jonasnee
+•
+3mo ago
+I am pretty sure reaper is on the sword line.
+
+You are too kind to tracer rounds, if you have them there are other classes that benefit from it more. I would never give my ranger those.
+
+Hair trigger and instant reload are better than stocks for rangers, you generally go for high hit chance shots, if you are trying to nick an enemy with low hp where hit chance dont matter then basically any other class/weapon is better for it, esp. specialist are good with stocks.
+
+I also notice you dont mention vests even though they are a descend option.
+
+Will (★☆☆☆☆) - Will is only ever used for psi defense in X2, and that is just not a stat I care about. Most things that interact with will just don’t matter. I just sell these.
+
+This is wrong, will is used to decide the chance your soldier gets critically wounded rather than die. I would probably agree that its still a bad option.
+
+Aim (★★★★☆) - Aim is something everyone wants, and rangers need it the least because, you know, shotguns. So it can be hard to justify giving them an Aim PCS over your other units. But it does buff the hit rate of bladestorm and still is good if you have a shotgun. If you are absolutely overflowing in aim PCSs, first of all, good job rolling high on the RNG check and second yea sure use one on this class. I can’t give this 5 stars because there are simply candidates who need them more, but you won’t regret using them on this class.
+
+NO.
+
+Rangers do not need accuracy. If you have aim PCS give them to your sharpshooters and Grenadiers, they actually need the aim.
+
+HP and Dodge is way better options, it should go:
+
+Mobility: 5
+
+Dodge: 4
+
+HP: 4
+
+Aim: 2
+
+Will: 1
+
+u/hielispace avatar
+hielispace
+OP
+•
+3mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I am pretty sure reaper is on the sword line.
+
+It sure is. Whoops! I even have the order right when I rank everything individually.
+
+Hair trigger and instant reload are better than stocks for rangers, you generally go for high hit chance shots
+
+While this is usually true, there are situations where you can't move up and get those hit chances, and in those cases stock is nice. It is also good for rapid fire because if you can't quite get close enough to make both shots double 100% now you are upping your min damage roll by quite a bit.
+
+I also notice you dont mention vests even though they are a descend option.
+
+I didn't mention vests because vests are both a waste of research time, an elirium core, and your utility item slot. I can't cover every utility item in that section, I'll go over them in depth when we do utility items. But I think if you forget vests exist you're run is better for it. Don't build vests.
+
+will is used to decide the chance your soldier gets critically wounded rather than die
+
+That's true, I forgot about that. I also don't care. I am not wasting a PCS slot to gamble slightly better that my dead soldier might not be dead.
+
+Rangers do not need accuracy.
+
+This is usually true, but they also have an ability called bladestorm. If you do not buff your aim (or have the katana) you're to hit will sit at around 60-70 percent. With an aim PCS you can push that quite a bit higher. Now eventually you will have the katana and not need that, but if you bring 2, 3, 4 rangers on a squad they still want more aim for more bladestorms. Also it lets you take rapid fires from further tiles away while still having two 100% shots, and that's pretty good.
+
+I do agree other classes want them more.
+
+HP and Dodge is way better options
+
+HP, Dodge, and Will PCSs are actually free supplies at the black market. I think they are fake, I would rather have the supplies then have them on a soldier they are have that little of an impact.
+
+u/Ok_Simple_5093 avatar
+Ok_Simple_5093
+•
+2mo ago
+Will also determines how quickly your soldier gets tired, and prevents them from gaining negative traits. Putting will PCS on all your primary squad members early on means they can go on more missions together, level up quicker, and bond quicker. I'm almost certain you can replace pcs on soldiers, so you can slap on mobility and aim once the soldier is comfortably leveled, or if you've padded their will stat on covert missions.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+>Will also determines how quickly your soldier gets tired, and prevents them from gaining negative traits.
+
+As far as I am aware, it does not. Tiredness is percent based, not number based. You lose something like 10% of your current will when you see a new pod (don't trust that number) and if you hit a certain percent you get tired. I think that's how it works.
+
+So will PCSs have no effect on how often people can go on missions.
+
+u/Ok_Simple_5093 avatar
+Ok_Simple_5093
+•
+2mo ago
+From my experience I notice soldiers with higher will go much longer before entering the tired state, so I'm not entirely sure
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I have spent the last 20 minutes trying to find out and have failed. I know the Chosen's brutal trait is an exact number, but not other sources of will lost. So...um....I don't know! Not sure what to do from here.
+
+u/Ok_Simple_5093 avatar
+Ok_Simple_5093
+•
+2mo ago
+It would make sense that fatigue is based on a threshold of will, because otherwise it doesn't matter how much will you have if it's based on percent lost, if all soldiers lose the same % regardless of their will or level. It would make sense that a soldier with 50 will gets fatigued slower than a soldier with 30 will under the same circumstances. Seems that going below 66% of max will causes the tired state, so that's 33 will from a max of 50, or 20 from a max of 30. Doesn't make sense to me that a soldier with 50 will would lose 20 points to will for the same action that a soldier with 30 will would only lose 10 points, if that makes sense.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+See I thought it doesn't matter how much will you have. That will was only psi defense (and bleedout, but whatever). That's how I thought it worked. I agree that'd be dumb, but as far as I know that is how it works. It wouldn't be the only dumb mechanic in this game. I am going to dig into the games code to find out if I have to!
+
+u/Ok_Simple_5093 avatar
+Ok_Simple_5093
+•
+2mo ago
+Yeah I'd check specifically to see if the loss to will is a uniform percent of the max or if it is scaled to soldiers max will, reducing the losses as will increases.
+
+u/Ok_Simple_5093 avatar
+Ok_Simple_5093
+•
+2mo ago
+So I just started a facility mission with a fully rested squad of fairly varied max will. They are all in concealment and they have all just seen enemy troops. As far as I've read, this is the only event that would cause will loss so far this mission and there is a 50% chance for each soldier to experience loss. All 6 of them have already lost some will with that event so I'm not sure if it was just incredibly unlikely that all 50% chance to lose will hit or if everything I've read is wrong and movement DOES cause will loss.
+
+Assuming it's the former, and they only lost will from observing an enemy unit, here's how much each one lost:
+
+Ranger: 41/45 - 4 will lost - 9%
+
+Ranger: 39/47 - 8 will lost -17%
+
+Specialist : 51/53 - 2 will lost - 4%
+
+Specialist: 45/57 - 12 will lost - 21%
+
+Grenadier: 41/54 - 13 will lost - 24%
+
+Sharpshooter: 42/45 - 3 will lost - 7%
+
+I really don't think the amount of tiles moved changes will loss because the soldier that moved the fewest tiles lost the second most will. And I'm not sure how max will plays into this as the soldier with the second highest will had the highest will loss.
+
+There's no flat will loss, but also not a fixed percentage will loss either. It's a small sample size but still thought it was interesting.
+
+u/Ok_Simple_5093 avatar
+Ok_Simple_5093
+•
+2mo ago
+Or I guess a simpler way to put it, is if an action like seeing a lost, causes a 33% chance to lose will, that when a soldier does lose will its a uniform number of points, rather than a percentage of the max will. Say, 5 points lost if the will loss chance succeeds. This means a soldier with 50 will can sustain more will loss success chances before they get to 66% of their max will, than a soldier with 30 will.
+
+[deleted]
+•
+2mo ago
+Mark-C-S
+•
+3mo ago
+I got a Will PCS just today and was just wondering if anyone actually uses them, and on what soldier. Now I know 😂
+
+u/Ok_Simple_5093 avatar
+Ok_Simple_5093
+•
+2mo ago
+I put will pcs on players early on if i get them because it reduces fatigue, and i can send my primary squad members on missions more frequently to level up and bond quicker. Replace with mobility and aim later on and then supe up my primary squad stats with covert missions.
+
+SublightD
+•
+2mo ago
+Great guide. Only thing I disagree on is for those of us that aren’t gods at this game, having the utility slot is a game changer. Sure I’d love to grapple across or phase wall the map with light armor. But sometimes I just need that extra nade to clear cover, or most importantly, carry a psi shield. There’s nothing worse than watching my MCd ranger destroy my team.
+
+God players will tell me not to ever get in that position, but for us mere mortals, the safety net is a big deal.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I think grappling hooks will get a new player out of a jam more often than a grenade or a mind shield will. Like if you get mind controlled, you have 5 units to solve that problem on your next turn and if you have brought suboptimal utility items, that problem is harder to solve.
+
+Wanting an extra grenade is legit, but you know what's better than a grenade at clearing cover? A big ass rocket! So if you find yourself wishing your ranger had more cover destruction, an exo suit beats predator armor everytime. Even more if you get the rage suit, though that's late game.
+
+There is an interesting discussion about how to write guides for all skill levels. Like, if you can flawless the entire game (which I cannot), then medical protocol is useless. It literally doesn't function. But if you can't do that, then it might have some uses. How good is a medkit does change based on your skill level (kind of, I think they are always bad and they are a trap newer players fall into, but that's a discussion for later!)
+
+I don't really know what to do with that. I mean, I can imagine how I was at lesser skill levels, sure. But part of what has pushed me higher is equipping the right items! So should I tell people to play worse because they are new? That seems odd to me.
+
+u/Jumpy_Walk8542 avatar
+Jumpy_Walk8542
+•
+2mo ago
+Totally get this. It's common in a lot of turn based strategy games like Heroes of Might and Magic and DnD-based games like BG3. If you play optimally, you don't need healing because you don't get hit, and on higher difficulties you can't afford to be hit (because healing will not compensate for it) so you have to play optimally anyway.
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+2mo ago
+•
+Edited 2mo ago
+Abilities:
+
+Conceal isn't only useful when there is no reaper around as a scout but also in ambushes. In ambushes on covert missions the priority is getting to the extraction point as you can't kill all enemies. They have more reinforcements than you can kill. Being able to scout after the initial encounter is huge. Usually you don't have your reaper on covert operations because he is so valuable in your fighting team. Rangers with conceal however are great in covert missions.
+
+Weapon mods:
+
+Repeaters are op when they trigger, but they don't trigger that often. I think of them more of a bonus and not something that is reliable enough to base a fight on. The ranger is a soldier I would consider to not have a priority on this. Priority 1 is the reaper because of banish. Priority 2 probably SPARK because of overdrive, priority 3 anyone with serial and/or killzone, priority 4 specialist because of overwatch and covering fire (it improves covering fire a lot because the repeater has no overwatch penalty and no shooting through cover penalty, so it's excellent on low percentage shots which are made anyway during the enemy turn). Death from above also profits from a repeater as long as you don't have Dark Lance. The value of the repeater is further diminished by the high damage of the shotgun and by using the sword (then the ranger isn't shooting). The shotgun does kill enemies on it's own, you don't need the repeater on it. The repeater is best used for low damage weapons or multishot shooting soldiers (reaper, skirmisher, SPARKs, specialist).
+
+I don't quite see the value of stocks for the ranger because when do you miss? Not that often and you replace a high damage hit with a low damage hit. Any enemy that has low hp, is behind cover and is worth it to expose yourself can be killed with the sword. The stock is really great on skirmishers (shoots often, weapon is not high damage), specialists with covering fire, everyone else who does low percentage shots. For must die enemies on low hp, throw a grenade, use hail of bullets (if your grenadier has it) or use combat protocol. I think more valuable for the ranger are weapon mods that improve damage (laser sight) or improve the chance to get more high damage shots out per turn (hair trigger, auto loader). Strengths should be reinforced. This is high damage hits for the ranger. A stock reinforces multiple shot abilities and low percentage shots which are not the realm of the ranger.
+
+My ratings for ranger would be laser sight 5, expanded magazines/auto loader 4 (but expanded mags have priority on reaper, sharpshooter, skirmisher, SPARKs and grenadier, so it's usually auto loader), hair trigger 3, everything else 2.
+
+PCS:
+
+Usually mobility is the best, but dodge and hp can be argued if your innate mobility is already high. While alphastrike is plan A you can't rely on plan A to work every time. Sometimes (often?) you can't guarantee that there are no activated enemies left standing after your turn and then it would be good if you have a plan B. That plan B is survivability and dodge or hp would certainly help. Rangers are the most exposed soldiers (maybe except templars but templars have parry and deflect). Since mobility can also be improved with covert ops the value of mobility implants diminishes with very high mobility soldiers. The difference between a soldier with 18 mobility and one with 21 mobility is much smaller than between 13 mobility and 16 mobility. Not only in relative values but also in usefulness. Going beyond 18 mobility is very optional and then you can look for alternatives.
+
+A high dodge ranger (100% is possible with covert operations) is close to being broken. Sprinting into a group of enemies with shadowstrike and blademaster is a really great opener and you can practically disregard the consequences. Better than a plasma grenade.
+
+I wouldn't rate aim pcs that high. As you wrote rangers don't need it because they are fighting from close range where they get aim bonuses for the range they fight from. Usually their enemies are flanked, so aim is also not needed for negating cover. Aim pcs are great on grenadiers built as gunners and on sharpshooters for hitting things behind cover. The specialist can also use them for his covering fire shots and overwatch. I think hp and dodge pcs are at least competetive with aim pcs for the ranger if not better.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+>In ambushes on covert missions the priority is getting to the extraction point as you can't kill all enemies. 
+
+That ain't true, you can just kill all of them. As long as you bring three soldiers to any mission with a risk of ambush (or bring a mimic beacon, if you are late enough into the game to afford to give one up) you can just kill the reinforcement pod and then every one else. It just isn't that hard. It's more tedious than anything.
+
+>dodge and hp can be argued if your innate mobility is already high. While alphastrike is plan A you can't rely on plan A to work every time.
+
+You know, I should've made this one first, actually. I think I might post a guide to actually beating missions next instead of the next class guide, or maybe I'll finish all the class guides next? Idk but I should make that guide.
+
+Anyway, the plan B shouldn't be getting hit, it should be stunning the enemy. Frost bomb, mimic beacon, flashbang, parry, untouchable all exist to, in one way or another, turn the enemy's turn off. HP and Dodge are stats you hope never come up. And they aren't enough to save you from catastrophic failure. If an entire mission gets away from you and everything starts going to shit, a few extra points of HP *might* be the difference between life or death, but you don't really control which unit the aliens target so it might not, and even if they do target your Ranger, they might just get crit and die anyway. And if you have a super high dodge stat yes you become basically immune to crits and that's great, but by the point you can stack that much dodge up you have several majors and colonels and the game has lost the ability to hurt you unless you massively fuck up.
+
+rynchenzo
+•
+2mo ago
+Great stuff, keep the guides coming please it's really helpful for a newbie like me.
+
+genericJohnDeo
+•
+2mo ago
+I don't think deep cover is as bad as people think it is. It's not a "does nothing" ability, it just doesn't fit into the most standard alpha strike playstyle, especially not when you assume you can be near perfect every turn.
+
+Deep cover let's you trade your regular attack for an overwatch attack and hunker down. You take an aim and crit penalty for an extra 30 defense and 50 dodge. That's not a bad trade if you know you can't finish a turn with less than 2 enemies alive.
+
+It also works really well with the odd 2-3 specialist strategy where you basically use a group of specialists to give one soldier a constant 20-40 defense buff. That combo let's you give your ranger 50-110 defense which is enough to overwhelm nearly every enemy's ranged attack. The only attacks you have to worry about are the 3 or so melee attacks that have 75+ aim ( and mutons are the only really dangerous ones there). In the right context it can actually be better at fixing a bad situation Than most abilities.
+
+It makes you play the game in a weird way, but This strategy worked really well for me in a beta strike no sqaud size upgrade run.
+
+It also changes the calculus on dodge a little because with the serpent armor it's really easy to hit 100 dodge with a single PCS (or 1-2 covert ops) making the ranger Immune to crits and allowing them to actually tank several successful hits.
+
+The only other thing I'll add is that Will PCS does have a use you didn't mention. It let's you take a soldier on missions more often which can be pretty decent.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+>Deep cover let's you trade your regular attack for an overwatch attack and hunker down.
+
+Yea that's a terrible trade. Especially on this class which is the best at pushing damage through. And it's across from untouchable, the skill that blanks an attack!
+
+>That's not a bad trade if you know you can't finish a turn with less than 2 enemies alive.
+
+If that many enemies are left active you need to be throwing a mimic beacon and then trying to kill as many of them as possible to clean them up on the crack back. Otherwise things are going to snowball against you very fast.
+
+>It makes you play the game in a weird way, but This strategy worked really well for me in a beta strike no sqaud size upgrade run.
+
+Beta strike changes the math on a lot of abilities, which is why this guide is not about it. The entire calculus of abilities changes.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+You wrote “arashi” when you meant “katana” in the section about bladestorm.
+
+For weapon mods, repeater has 5 stars in the table but 3 for the description. I’d also probably rate it 1 star for the ranger (outside of the super early game). As you mentioned, the proper ranger build involves 100% crit and 100% aim. I’m rarely flanking something with my ranger that isn’t already dying to the crit. If I am, I have a plan to finish it with a different squad member - I’m not counting on the repeater.
+
+IMO repeaters are best in the early game (and then replaced when you start getting the superior attachments) and on assault rifles for specialists and/or low ranking units (like for the SITREP that requires all sgt or lower). And I could maybe see an argument for them on beam cannons, since your grenadiers are usually the opening salvo to get the shred going. But those so desperately want aim and ammo already that repeater is hard to fit in (and largely unnecessary with proper xcom fundamentals, as I’m sure you’d agree).
+
+Stock I think falls in a similar area - good in the early game when you can still miss and/or don’t have the mobility to achieve full hit chance. But once you start getting higher ranking rangers with mobility PCSes, stock is basically worthless.
+
+If you’re playing with the TLP, the energy sweeper (don’t remember the name prior to the beam upgrade) is very good and usually has the upgrades you want. You’ll obviously play the arashi as soon as you get it. But you’ll probably want a second shotty in the meantime for missions with 2 rangers. And if you roll the modular shotguns, you’ll want that second shotty alongside the arashi rather than the energy sweeper. The mods I’d go for are 1. laser sight, always; 2. Hair trigger or one of the ammo ones 3. Whichever you didn’t choose for 2.
+
+Hair trigger is just too valuable on a class that has such high value actions like the ranger. Proccing a hair trigger feels like cheating. Especially with implacable. But I can definitely at least see an argument for mag/reloads just to keep your ranger’s tempo high if you have to choose between them. It’s a guaranteed floor of action economy (not having to worry about taking time off to reload) for a class that wants to be constantly running and gunning (no pun intended - in fact, maybe an actively negative pun here given that “run and gun” the ability literally lets you reload, move, and fire all in the same turn because it’s busted).
+
+PCS is always mobility. Aim is cute and all, but you don’t need it (again, we are always 100/100 as you say). And the Aim PCSes are too valuable to just be frittering away. You need these on your sharpshooters and grenadiers. And potentially even stuff like skirmishers.
+
+CLT113078
+•
+2mo ago
+I love serial rangers with expanded magazine and autoreloader. You can wipe out so many enemies on a single turn with it.
+
+panadarama
+•
+2mo ago
+I just heard Bradford moaning with joy from ooooooooooooovvvvvver thhhheeeeeeeeeeeeeeeere^^
+
+voudo
+•
+21d ago
+as you wrote, the ranger is by far THE one machine killer. Used different variations of him and 3 on a squad is pure gold. thanks for this
+
+Vodoriga
+•
+2mo ago
+When will we get more guides? I see you wrote quiet a bit, i'd be a shame if i'd have to wait a week for other class since in my sceadule i should attempt my first ironman run.
+Thank you regardless.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I plan to post one every two days.
+
+Vodoriga
+•
+2mo ago
+Much obliged

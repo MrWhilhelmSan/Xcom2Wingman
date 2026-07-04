@@ -1,0 +1,665 @@
+So this class is broken. They should not have made this. It breaks the logic of this game so hard. It lets you do some truly silly things. I think my flawless rate when I have a reaper vs when I don’t is like 80% compared to 50% or something silly like that. So yea, best class in the game and it isn’t close. As for why, it’s Shadow it’s because they have Shadow, but for more details, let’s go:
+
+Here is how the rankings for abilities (and other stuff) is going to work. 
+
+★★★★★ - The Best of the best. Abilities and things that you build around, or weapon mods that are best in slot. Things of that nature. The difference between having stuff in this tier and not is so massive I’d consider it nerfing yourself not to grab them. You really, really, really want stuff with 5 stars.
+★★★★☆ - Really strong abilities. Abilities I am always happy to have and would trade a lot of other abilities for, but they aren’t quite as “must have” as the 5 star ones.
+★★★☆☆ - Abilities that are pretty good. Stuff that I would buy with AP quite happily but might pass up if the other ability is better.
+★★☆☆☆ - These are underwhelming. These abilities just don’t really do enough to justify having them. They might have very niche use or be passives that just kind of do very little. Stuff I just don’t care about. They aren’t horrible or useless, but you probably wouldn’t miss not having them.
+★☆☆☆☆ - Trash abilities that are just worth nothing.
+☆☆☆☆☆ - Given to abilities that are actively harmful. There is only one of these in the entire game.
+
+Stats:
+
+To begin, they have the following aim and HP at the following ranks:
+
+Rank	Aim (★★★★★)	HP (★★☆☆☆)
+Squaddie	75	5
+Corporal	79	5
+Sergeant	82	6
+Lieutenant	85	6
+Captain	87	7
+Major	89	7
+Colonel	91	8
+This class actually has the best aim in the game, because they have the best aim growth and unlike a certain sharpshooter actually has a range table that helps them! They have lower HP, but, honestly who cares? HP just isn’t that important a stat.
+
+Weapons:
+Reapers wield the Vector Rifle and the Claymore. And I’ll go over the claymore in the ability guide because that’s kind of all it does so I’ll just go over the Vector Rifle.
+
+Vector Rifle (★★☆☆☆) - Vector Rifles have a unique better medium range table, but at the cost of doing 3-4 damage instead of 3-5. Also the later upgrades of the gun deal even less damage than the normal assault rifles (details in the weapon guide). As trade-offs go, it isn’t great. More accuracy is great but less damage is very sad. It gets even worse as you rank up, but this class actually has the highest damage ability in the game (fucking why did they do that) so its fine. If I could give them a normal rifle I would, but you can’t, so it's fine.
+
+Abilities:
+As always, here is a table of every ability the reaper gets. I also cheated on a certain ability because it deserved it.
+
+Rank	Stealth	Saboteur	Marksman
+Squaddie	Shadow (★★★★★★★★★★)	Claymore (★★★★★)	
+Corporal		Remote Start (★★★★★)	Blood Trail (★★★☆☆)
+Sergeant	Target Definition (★★★☆☆)	Shrapnel (★★★★★)	
+Lieutenant	Silent Killer (★★★★☆)	Distraction (★☆☆☆☆)	Needle (★★☆☆☆)
+Captain	Sting (★★★☆☆)		Soul Harvest (★★★☆☆)
+Major		Highlands (★★★★★)	Banish (★★★★★)
+Colonel		Homing Mine (★★★★☆)	Annihilate (★★☆☆☆)
+GTS	Infiltration (★★☆☆☆)		
+If you are looking at that and wondering how a class can possibly have that many 5 star abilities, it’s because Firaxis forgot to fucking balance them. As for the details, well, here they are:
+
+Shadow (★★★★★★★★★★) - Shadow is both a passive and active ability. It puts the Reaper in a unique stealth state that gives them +5 mobility and reduces enemy detection radius to 1 (to start). Also when you take shots or other actions it gives you a chance to break shadow rather than a guarantee. You also get an active ability version that has 1 charge and can be used as a free action. So even after you break Shadow you can go right back in. You cannot enter shadow the same turn you left it or while flanked.
+
+So the way Shadow works is a little complicated. The game starts you off with a 0% chance to be revealed and enemy detection radius being 1 tile around them. Then after you take a shot it jumps to 50% (and rolls at that percent) and if you are still in shadow enemy detection radius becomes 3 tiles. Then it goes to 80% and enemy detection radius is at 5 tiles and it doesn’t increase after that. Also for some reason shaking someone from Dazed has a 10% chance to reveal you. In addition, anytime you hack an objective, steal the blacksite vial, or accomplish any sort of mission objective that isn’t shooting someone in the face you will always drop out of Shadow. You also can’t return to Shadow if you have some mission critical item. 
+
+You might see I gave this 10 stars instead of 5, and that’s mostly for the bit but also because this shit is broken. Like not in the normal “very good” sense no I mean “they should not have put this in this game it is too good and needs to be nerfed” sense. 
+
+This is, bar none, the best perk in the game. The only one that even comes close to competing with it is locked to Psi-Ops and so you can’t have it at squaddie. This one perk radically transforms how missions play out. Now you can literally scout out every single pod on a mission ahead of time. It almost turns the main loss condition, activating multiple pods, off. It doesn’t quite, a pod can come from an angle you didn’t scout or you can move in a way your reaper didn’t scout, or get super unlucky and have your Reaper patrolled into, but it comes as close as is reasonable. It enables an extremely low risk high reward playstyle where you scout a pod, overwatch trap it, kill it easily, and repeat. And you get another charge of it! Even if you are revealed because you had to take a shot or whatever you can just go right back into it! I don’t know what they were thinking with this, it’s too good. But hey it’s in the game and you should abuse the fuck out of it. An important note, sometimes you will simply have to take a shot with your Reaper in Shadow, do it. They gave you another charge of this ability so leaving it isn’t that bad. And even if you are about to run out of charges, you still got at least two pods of scouting out of it that’s fine. 
+
+Claymore (★★★★★) - Claymore is an active ability that has 1 charge, costs one action, and does not end your turn. It stays on the ground on a specific tile and can be shot at to explode, dealing (at base) 5 damage in a 3 tile cube. It can be shot by anyone but if the reaper shoots it they remain in concealment, and it also doesn’t break squad concealment. It will also be set off by other explosives (this does not include the gas or acid grenade).
+
+Oh and giving this class Shadow wasn’t enough they need a second broken tool. This actually reads, in the early game, “delete one pod from the map for free.” Short of a Sectoid, this plus a grenade one shots literally everything in the early game. And if you throw a grenade powered by a grenadier onto it, that pod is now dust. Just delete a “2 trooper + officer” pod off the map. Or you can just shoot it with your reaper and stay in concealment, that works too! The only downside is that this eats their secondary weapon slot but honestly, I’d take that trade. Shit is crazy.
+
+Remote Start (★★★★★) - Remote Start is an active ability with a 2 turn cooldown that ends your turn. Your reaper fires a shot at any explosive environmental object, so cars, explosive barrels, fuel tanks, etc, that then explodes and deals double damage with double the radius. This almost always results in dealing 12 damage. This does not break stealth.
+
+Yet more broken nonsense from this class! The first enemy that can survive this attack is a muton, at force level 5! And you get this at corporal. If a pod just so happens to patrol next to a car, boom, they dead. That’s it, lights out. And it doesn’t break concealment so you can be 16000 miles ahead of the rest of your squad and kill that pod with 0 risk to yourself. The only “downside” is that you don’t get to choose to set this up, the situation just has to present itself to you, but hey “you only get to cheat the pod system and laugh at this game sometimes” isn’t much of a criticism. This is such a silly class man.
+
+Blood Trail (★★★☆☆) - Blood Trail is a passive ability that causes your Vector Rifle to deal +1 damage to targets that were wounded this turn.
+
+Hey, this is the first not broken Reaper ability! Hooray! This is only OK. Oftentimes it won’t make the difference between guaranteeing lethal and not because an injured unit probably only needs 3 damage to finish them off, but it's good against Chosen, Rulers, and once you get Banish it is a lot of extra damage. It’s decent, but not mindblowing. I usually get it with AP once I get Banish.
+
+Target Definition (★★★☆☆) - Target Definition is a passive ability that marks every enemy the Reaper sees so you can see a highlight of them even when in the Fog of War.
+
+I’ve sort of come around on this ability, but I still don’t think it's that good. It does give you extra information to play with, but oftentimes you can live without. If you don’t have mods that tell you exact sight lines of enemies (and for this guide I’m assuming you don’t) then it can be really annoying or even impossible to know exactly when you’d trip that pod. But at the end of the day it can save you from activating another pod, and I can’t hate an ability that does that. Information is power.
+
+Shrapnel (★★★★★) - Shrapnel is a passive ability that increases the damage of the claymore by 3 and increases the radius by 1.
+
+Oh good now the claymore one shots stun lancers. That’s what it needed, because it was so weak before. That increase in radius is not to be underestimated. The extra flexibility and enemies you can hit with this are so good.
+
+Silent Killer (★★★★☆) - Silent Killer is a passive ability that doesn’t increase the chance you are revealed when you take a kill with the vector rifle.
+
+OK, that is technically what that ability does but it is confusingly worded. Because you start at 0%, if you get a kill you stay at 0%. If you fail to get a kill it’ll go up to 50%, then if you get a kill it’ll give you another 50% roll. The way to read this is “if you only ever get kills, you won’t ever be dropped from Shadow.”
+
+This is a perk I go back and forth on. On the one hand, missions aren’t (usually) long enough to need the extension to shadow because you get that extra charge. The real utility is that if your reaper has vision on a pod that hasn’t activated yet, which does happen a fair amount, you can shoot with them (if you get to 100%, which is not hard for this class) without any risk of triggering that other pod. I basically always pick this up, mostly because the other option at this rank is terrible, and I know a lot of people really like it, but I think it’s just “very good.”
+
+ Distraction (★☆☆☆☆) - Distraction is a passive ability that puts your Reaper into shadow whenever the claymore gets a kill if they are not in Shadow already.
+
+OK, so this is useful if a) you are out of Shadow (and you get Silent Killer this rank), b) you want to be back in Shadow (meaning you aren’t fighting the last pod on a mission) and c) have a claymore left. Those do not all happen at the same time basically ever. I don’t think I’ve taken this perk in years and I can’t think of a single reason to ever do so. Don’t take this.
+
+Needle (★★☆☆☆) - Needle is a passive ability that grants your reaper 2 armor pierce while in Shadow.
+
+I mean it's OK, but usually reapers are finishing off targets that are already shredded, so what difference does this make? It has some synergy with an ability you get next level but that honestly isn’t usually worth building for. If you have a savant reaper then maybe buy this with AP, but honestly? Meh.
+
+Sting (★★★☆☆) - Sting is an active ability with 1 charge that ends your turn. It fires a shot that, no matter what, won’t break you out of Shadow.
+
+This is a kind of mediocre ability that has a surprising amount of synergy. If you roll either Holo Targeting or Shredder from your XCOM perks this is a way to apply those on a class that usually wants to attack last. Otherwise it can be good if you can’t get a 100% shot but can’t risk dropping Shadow for whatever reason. Otherwise it’s kind of whatever. It’s good, but not that good.
+
+Soul Harvest (★★★☆☆) - Soul Harvest is a passive ability that gives the Reaper a +5 crit chance every time it gets a kill, to a maximum of +25.
+
+There are two ways to build your Reaper for the late game, either as a crit fisher or to maximize the use of Banish. You can’t really do both so you have to commit. This is the center piece of the crit fisher build. With just a little extra crit from this, a superior laser sight, and talon rounds you can get pretty good crit numbers, eventually reaching 100% if you get close enough And, obviously “point and crit” is quite strong. But it has its problems. For one, you have to build your gun to synergize for this instead of Banish which I feel is the wrong choice most of the time (you can kind of do both if you get lucky, but I’ll cover that later). The 2nd is that it’s slow. You need two kills to replicate the same crit chance as a Shotgun after all. And finally it relies on having Talon Rounds to really get the most out of it, and sometimes your reaper won't roll Tactical Rigging. But even then, just a lot of crit is good and it's completely passive, so you can just throw this on your Reaper and get pleasantly surprised when you get more crits rather than building for it.
+
+Highlands (★★★★★) - Highlands is a passive that gives you an extra charge of your Claymore. 
+
+Why do they keep giving this class broken nonsense?! One claymore already sets you up to easily wipe a pod, now you get to two that twice? It’s even better with a perk they get next rank. This shit is amazing, take it, obviously. I don’t think you need me to say that more of one of the most broken abilities in the game is better.
+
+Banish (★★★★★) - Banish is an active ability that has 1 charge, always reveals from Shadow, and ends their turn. You shoot at a target until they die or your gun runs out of ammo. Each shot suffers a -15 penalty to aim and cannot crit.
+
+So this is the highest single target damage ability in this entire game. You know, on the class that needed help being good. This class was someone’s pet in Firaxis. I can just feel it. If you are just walking around with a gun that has no upgrades, this is only very good. Three shots at a target is a lot of damage, but a ranger’s rapid fire will do more because Vector Rifles are a low damage gun. The real silliness is if you give your Reaper an expanded magazine. Because now you are shooting them 6 times in a row! That’s obviously nonsense, but it gets even more silly. Each of those shots has the chance to prox a repeater trigger. So if you have a superior expanded mag and a superior repeater, you have 62% chance to instantly kill your target. If you have Insider Knowledge, it jumps to 79%. 79% chance to just remove an Alien Ruler from the field, or the Chosen, or an AVATAR. Whatever you’re shooting at dies to 4/5th chance. Does that sound good to you? And even if they don’t, you just shot them 7 times. I doubt they're doing too hot. Always take this, even though it should’ve been a skirmisher ability. Also when you get this go and buy Blood Trail with AP. You need to injure the enemy before you click Banish; it won't trigger in between shots (unlike holo targeting, which will), but if you do it’s plus 6 damage, that’s pretty good.
+
+Homing Mine (★★★★☆) - Homing Mine is an active ability that uses a claymore charge, costs 1 action, and does not end your turn. You stick the claymore to an enemy, decreasing its radius by 1 but causing any shot against that enemy to set the claymore off. And the game doesn’t tell you this, but it makes the next shot against that enemy always hit, no matter what.
+
+This gives you a bit more flexibility with your claymore. Instead of needing both actions to land and shoot the claymore, you can stick it to an enemy then find a good time to shoot that target and get the same effect. The problem is you aren’t as likely to hit multiple enemies, because the radius of the boom gets smaller. The real benefit to this is the secret “the next shot can’t miss” buff it gives. Now you can open on a pod with a chain shot and just waste a Sectopod off the jump. It’s also good if the AVATAR in Leviathan teleports 1600 miles away and you can barely see them, now that 40% chance is a 100%, works great! It’s good, but not anything broken despite being on this class but it’s good.
+
+Annihilate (★★☆☆☆) - Annihilate is a passive ability you must have Banish to acquire. It buffs banish to keep shooting at available enemies even if the first one dies. You’ll now shoot at every active enemy, moving onto the next when one dies, until every enemy in line of sight is dead or you have no more ammo.
+
+First of all, why are we buffing Banish? It doesn’t need it. Second of all, this is kind of whatever. If you get really lucky with Repeater kills this can do silly things but I wouldn’t bank on that. This just conflicts with the main use case of Banish, which is to delete a high value target. You just don’t often have enough shots left over for this to be impressive. This at best saves your squad enough AP to mop up everything else. And it can screw you up by auto targeting a mind controlled ally (they count as enemies, and Annihilate does not discriminate) or causing an Archon to enter battle frenzy or what have you. Those situations aren't common, but it is worth noting. In the end, however, it’s more damage for clicking the button you were already going to click, it’s not that bad. 
+
+Infiltration (★★☆☆☆) - Infiltration is the GTS perk, it makes Reapers invisible to ADVENT towers and gives them 25 hack.
+
+Why…do I want this? Invisibility to towers might give me some better pathing I guess, but…I mean…I don’t really care. 25 hack to a class that isn’t specialists just isn’t enough to really want to hack stuff. It doesn’t do nothing, but also it costs 200 supplies, that just ain’t worth it.
+
+XCOM Abilities:
+A new segment for our hero classes, they get XCOM perks right off the bat so they go in their class guides. They also get a unique list compared to everyone else. Here’s the list and my star rating of all of them. I’m not going to give an explanation of any of them (except Tactical Rigging) because they are just perks from other classes, but yea here you go:
+
+Ability
+Shredder (★★★☆☆)
+Holo Targeting (★★★☆☆)
+Deadeye (★★★☆☆)
+Squadsight (25 AP) (★★☆☆☆)
+Killzone (25 AP) (★☆☆☆☆)
+Tactical Rigging (★★★★★)
+Shredder (★★★☆☆) - Reapers want to last hit enemies, but this has decent synergy with Sting I guess. With banish you can shred the armor of a Ruler with this, that’s not bad. But at the end of the day, this isn’t this class's job.
+
+Holo Targeting (★★★☆☆) - Again, not what this class wants to do but good if you have Sting. Usually you want to set this up before you click Banish, but if you don’t it’s good to have it in a pinch I guess.
+
+Deadeye (★★★☆☆) - Deadeye is better on this class than on sharpshooters because you can actually get 133 aim with a scope, being very close, and this class having very good aim to get a 100% to hit Deadeye shot. In the end this is still very risky to use, especially because you want to be last hitting enemies, but sometimes more damage is what you need.
+
+Squadsight (25 AP) (★★☆☆☆) - I don’t know why you would want this on this class. This class has more vision than normal. Why do I need squad sight? I can see more pods than everyone else. I don’t know what the point of this is. Also it costs 25 AP, so skip it. It’s technically more vision, and that’s not bad, but also just not worth buying with AP.
+
+Killzone (★☆☆☆☆) - So I have to drop out of Shadow, somehow still know a pod is about to wander past without activating them, then click Killzone? No…no I’m not going to do that. This is antithetical to what this class wants to do. Skip it.
+ 
+Tactical Rigging (★★★★★) - Tactical Rigging grants this class a utility item slot. It is their only way to get one.
+
+Holy shit this is broken. You know what’s better than a 7 shot banish? Getting all 7 of those shots buffed by bluescreen rounds! The only downside to this is I have to make this guide longer to talk about utility items, but that’s a me problem. Always take this when you get it.
+
+Weapon Mods:
+Now onto weapon mods. I’ll keep this brief because the reddit character cap, but here’s the table:
+
+Weapon Mod
+Scope (★★★☆☆)
+Laser Sight (★★★☆☆)
+Hair Trigger (★★★☆☆)
+Repeater (★★★★★)
+Stock (★★★☆☆)
+Expanded Mag (★★★★★)
+Auto-Loader (★★☆☆☆)
+Scope (★★★☆☆) - Scopes are always good, but this class has the literal best aim in the game, so you don’t really need them. If you get 3 attachments this is a good choice for your 3rd one, but otherwise there is better.
+
+Laser Sight (★★★☆☆) - Laser sights are necessary for the crit fishing reaper build, but that’s a 3/5 build for reapers so laser sights get a 3/5. 
+
+Hair Trigger (★★★☆☆) - Free actions are good on everyone, but because Reapers guns deal the least damage and they spend a lot of time not shooting, it isn’t what you want on this class specifically, but if you have an extra early game go ahead and throw it on.
+
+Repeater (★★★★★) - Repeaters are necessary to get the maximum out of Banish and are just very strong generally, so always equip them on this class.
+
+Stock (★★★☆☆) - You often use stocks to clean up an enemy on very low HP, and with silent killer this is exactly what reapers want to be doing, so this can be a decent choice. Also if your chance to hit with Banish is low this will do damage with each hit regardless, which is pretty good. The problem is that this class has such high aim that you usually aren't missing shots. This is pretty filler on this class. 
+
+Expanded Mag (★★★★★) - Shooting 6 times with Banish is a lot better than shooting 3, always equip these.
+
+Auto-Loader (★★☆☆☆) - Reapers just don’t have enough slots for this. There are too many strong options to really justify putting these on, but they aren’t terrible. Just replace them with something better when you get the chance.
+
+Utility Items:
+Faction units can’t change their armor, so we’re just going to go over their utility items. They only get one if they roll Tactical Rigging, but if they do they are very, very good. The ones you’d consider are a grenade, mimic beacon, and experimental ammo. There are others you could try but for the sake of keeping this short I’m just going over those three.
+
+Frag/Plasma Grenade (★★★☆☆) - Grenades are good items, but they always reveal you from Shadow when thrown, which is not ideal. Still it lets you double explode Claymores by yourself, that's not bad. It’s just a little outcompeted.
+
+Mimic Beacon (★★★☆☆) - Mimic Beacons are broken, but is this really what you want your reaper to be doing? Throwing one of these? Their gun is low damage so it’s not terrible, but again it reveals them from Shadow if you throw it so there are better candidates.
+
+Experimental Ammo (★★★★★) - This is what you want on your Reaper. But they are not all created equal so here’s the full list.
+
+Ammo Type 
+Viper Rounds (★★★☆☆)
+Dragon Rounds (★★★☆☆)
+AP Rounds (★★★★☆)
+Tracer Rounds (★★☆☆☆)
+Talon Rounds (★★★☆☆)
+Bluescreen Rounds (★★★★★)
+Viper/Dragon Rounds (★★★☆☆) - These are functionally the same item, they give you a conditional +1 damage. They don’t work on every enemy you fight, but if you are planning on Banishing a Ruler or Chosen this is not a bad option. There is better, but these work pretty well. It can be plus 6 damage on a Banish, that’s pretty good.
+
+AP Rounds (★★★★☆) - AP Rounds are good if you don’t roll shredder from the tree and want to open on an enemy from Shadow, especially an Avatar. You can nearly OHKO an Avatar with Banish, AP Rounds, and a superior expanded mag (if you have insider knowledge and every attack lands, it is a full one shot kill, fun fact). For the final mission that’s exactly what you want. On missions other than Leviathan I’d probably prefer BS rounds, but these are good.
+
+Tracer Rounds (★★☆☆☆) - More aim is good, but this class is super accurate so you don’t really need it.
+
+Talon Rounds (★★★☆☆) - This is for the crit fishing build, that build is ⅗ so this gets ⅗ on this class.
+
+Bluescreen Rounds (★★★★★) - So with banish this is plus 30 damage on a Sectopod/Gatekeeper. That’s…that’s pretty good. The two enemies with the most HP just nuked from orbit is quite nice. This is what I default to on this class, it’s also what I default to on most classes. 
+
+PCSs:
+And lastly, let us go over PCSs. As always the higher quality ones are always preferred.
+
+PCS
+Aim (★★★★☆)
+HP (★☆☆☆☆)
+Dodge (★☆☆☆☆)
+Will (★★★★☆)
+Mobility (★★★★★)
+Aim (★★★★☆) - Everyone wants aim, but this class doesn’t really struggle with it. It might help you get to more 100% 6 shot Banishes though, that’s good.
+
+HP (★☆☆☆☆) - I’m going to say this for every class. But this does basically nothing. This is a game about alpha striking. Hopefully you simply don’t get hit. Now if you do, will this save you? Only maybe! Get crit and you still just drop dead. The opportunity cost is also so high. You can’t have a better PCS if you have this one. Honestly just sell these.
+
+Dodge (★☆☆☆☆) - It’s an HP PCS, but worse! Literally don’t even think about using this. Dodge is just too unreliable to even consider a real stat on your soldiers. A classic case of “every bad for enemies, useless for you.” If you see a dodge PCS just see it as picking up credits for when you sell them at the black market. 
+
+Will (★★★★☆) - Reapers by default have the lowest will of any class so you can’t just spam them on every mission, but this helps you bring them out more. And reapers are broken, so that’s pretty good!
+
+Mobility (★★★★★) - More mobility on your main scout class is elite. It lets you gain even more information more quickly. Also it is sort of extra aim because the closer you get to an enemy the more your aim table kicks in. This is the best one.
+
+Summary:
+People overuse the word “overpowered” but if anything deserves that label it's this stupid class. They gave it everything, it is not OK. If you are struggling in this game, go into the additional options menu and click “start at Reaper HQ” and then everything will be better. There’s a reason top players sometimes ban themselves from using them. I mean look at how many 5 star abilities they have! And Shadow! As I said at the start, class is broken. 
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+154
+
+Downvote
+
+53
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/G-unit32 avatar
+G-unit32
+•
+2mo ago
+It's taken nearly 10 years but this guide has been worth waiting for. Great work OP.
+
+u/bill-smith avatar
+bill-smith
+•
+2mo ago
+I still think you underrate Silent Killer, but otherwise, sure.
+
+You'd be interested to know what Long War of the Chosen did to the Reapers. They nerfed Shadow. It is charge based, but it only lasts 2 turns. They did buff the stealth Ranger, though, so you can bring a concealed scout on every mission even without Reapers. The Reaper is still an extremely strong class in that game.
+
+Garr_Incorporated
+•
+2mo ago
+Throwing knives at the enemies, shooting from the back with cover penetrating shots on wounded foes or flanking the enemy for incredible crit and relocation. Love them to bits.
+
+u/The_James91 avatar
+The_James91
+•
+2mo ago
+It's my favourite class, but yeah, it's broken OP. You basically just have a 'delete this pod' ability in the early game and a 'delete this unit' ability in the late game. Man though setting up an insane explosion hits like crack.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Remote Start is my crack personally. It's RNG whether or not enemies will even stand next to a car. On Legend the Claymore needs a little oompfh, like being activated by a grenade, to consistently clear/cripple pods. Much less so for Remote Start. It does monster damage even with all the damage sponge aspects of up to Legend.
+
+u/Windigroo7 avatar
+Windigroo7
+Cake icon
+•
+2mo ago
+I think Silent Killer has an argument for 5 stars as it basically removes the only downside of Reapers; being unable to reliably kill enemies without breaking concealment. Yes, it does have an extra charge, but that means there's a real chance of taking at most two shots to kill per game with your Reaper, and as you always say, guaranteed things are the best in this game.
+
+With that perk, the Reaper becomes an excellent finisher for wounded enemies. You shot an enemy and was left with some HP? I can save moving a troop, a grenade or combat protocol because my Reaper will easily flank and finish it off without breaking Shadow. This also boosts Blood Trail as again, it gives you the chance to take shots without worrying.
+
+biketheplanet
+•
+2mo ago
+Not only is this class completely broken, it also impacts the Ranger class. Before WOTC, you had a real choice with how to build the Ranger class. You really need to scouting to keep the whole squad alive, but then you sacrificed the raw damage output and melee capabilities of the Ranger class. With WOTC you can just ignore the scouting abilities on the Ranger (except for one or two as a backup to the Reaper).
+
+So, introducing the Reaper broke two classes!
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Shadowstrike with prolonged or reupped concealment is something, but overall I agree.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You still need a phantom ranger for when your Reaper is tired, but yes it makes a 50/50 decision a 75/25 or 80/20 decision.
+
+u/Sweet_Oil2996 avatar
+Sweet_Oil2996
+•
+2mo ago
+If you want use for your scout rangers again you can use the mod covert infiltration.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2567230730
+
+This is the mechanic Long War of the Chosen uses for missions. When you do a mission you don't do it immediately, but your team needs time on site to infiltrate before it can do the mission. This way the team is out on the field longer which makes it necessary to have multiple teams because you are running multiple missions at the same time.
+
+Including fatigue this means your reaper needs two to three weeks before he is available again for another mission. Now you can't have a reaper on the team every time and you'll need ranger scouts.
+
+Long War of the Chosen alters the Shadow mechanic so it is no more that broken as in WoTC. Shadow is now an active ability that lasts for two turns but is a cooldown ability. The ability tree has changed a lot. Now there is a knife tree that competes with the rifle tree. The knife replaces the claymore. No more claymores, no more remote start. The reaper is no longer your explosives guy. Knife throws never reveal you if you are in the shadow. If the knife tree is fully built you can even solo missions with the reaper. It strengthens the silent killer theme. Banish has been nerfed so each subsequence shot done with banish does 1 damage less. On the other hand, banish is now a cooldown ability.
+
+Still excellent as a scout and if you want him to make into the silent killer you are now using knifes.
+
+shocky32
+•
+2mo ago
+Nothing more fun than throwing a homing mine on a Sectopod or Gatekeeper and using Banish.
+
+wearyoldtraveller
+•
+2mo ago
+The only time I found Banish really useful was dealing with the Archon King. To kill it the first time you meet it, you just homing mine it and shoot with Talon Rounds + Superior Repeater + Superior Mag Upgrade. If you have the continent bonus that gives + to weapon mods, you're taking 8 shots that has a 30% chance to instakill it.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Banish is good versus all damage sponge enemies and is more pronounced on Legend. It's basically THE best method for killing Chosen in their citadels. You only get a scant few turns until they revive on Legend, so you can Banish a Chosen and then have the rest of your team dump rounds into the Sarcophagus. You might have a few regular enemies spawn in but you should be able to safely one cycle the Sarcophagus even with all challenge factors on Legend, potentially not even letting the Chosen get off a shot or ability the whole time.
+
+Other than that Banish is the best ability vs Rulers, but you may have to game the system and put off fighting Rulers to best use it. You definitely can with non-Integrated DLC, as they are hardlocked behind a non-expiring mission. Mostly though then Banish feels like "I don't want to deal with the Rulers but I do want the rewards." The nice part is is that even if the dice roll on Repeaters fails, it still does SO much damage you can either finish them off normally or more or less force them to portal out immediately after, at least not endangering your squad compared to the nasty surprise they otherwise can sometimes be.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+While you kind of mentioned it indirectly, it's notable that Reapers are S+ if playing ironman. Savescumming for information (e.g. you ran into dumb sightlines for a nasty reveal / failed ambush, or you Intel-ed the Dark Event and immediately reloaded or you brute forced a Hack to see what'll happen) is an option though a cheesy one on normal campaigns. You can turn the game into an efficiency of action economy puzzle, rather than one where you are forced to deal with more randomness. While this isn't strictly totally different on ironman, it does mean riskier plays are more punishing. Scouting with the mission start Concealment or with Phantom Rangers is something but it's really limiting since the detection range is big enough to stymie almost anything but Grenadiers and Sharpshooters. You have to really be aggressively forward moving to have your Reaper revealed, which can happen but you still have a massive safety net as long as you keep or reup Shadow.
+
+===
+
+It's also notable that Reapers can work as stealthy spotters for Squadsight Sharpshooters if you do want to use them early (there's pros and cons) AND that even on missions where you don't get a Concealed insertion (such as Retaliation or certain VIP missions), Shadow works just fine. I'm assuming you're alluding to Stasis as the other broken ability but I'd say Shadow is still stronger. Besides all the later game investment necessary, Stasis is fixing or mitigating a mistake on an activated pod, while Shadow is fundamentally changing how you approach and attack pods while opening up strategies completely unique to Reapers, while being an awesome support class and decent to great damage depending on what you're doing. Remote Start is like an RNG second claymore that's stronger when it does set up. It's not always relevant, there will probably be entire missions you don't use it once, but there will also be missions it's a second pod delete button LONG before Banish, since WHEN to use your one claymore is something to think about for Legend. On Commander and below you can almost always use it on the first pod you see.
+
+Also when you get this go and buy Blood Trail with AP
+
+I find myself picking Blood Trail much earlier on Legend. As MUCH as I like Remote Start, I honestly think Trail first is better, and I used to never do it in that order. A solid Reaper shot low rolling and not being able to kill a single basic trooper sometimes is sad. Now, the ability has to have the unit damaged to buff at all, but other than Claymore or Remote Start or Sting (which is later) I wouldn't generally consider a Reaper an "opener" class. Outside of the original ambush and such, they seem to be more of a finisher class with multiple skills pointing that way. I've found myself plenty of times having enemies that'd survive with 1 HP even with a 100% shot (unless it crits), so Trail is a consistent difference maker, which is funny as I overlooked it forever with other OP skills, like Remote Start having huge damage potential.
+
+===
+
+Speaking of Remote Start, my second Supply Raid of my current Legend campaign rolled Surgical SITREP, which SUCKED. I actually didn't even really think it was possible to complete with basically Sergeant skills at best, at least not without injury. I had to really stretch it, but I was able to Flawless that mission (which included armored mutons and MECs btw) from a mix of Hunter's Axe, Frost Bomb, and Remote Start as action economy tools. I knew all three were good already but it made me appreciate them even more just how much they help action economy. The claymore into grenade combo allowed me to save my frost bomb even with a little cleanup, which I would have used on the last pack when thin on resources but a second Remote Start cleared them, incidentally also using Target Definition to safely track them.
+
+Why…do I want this?
+
+I've been puzzled by their GTS perk for a while, trying to think of like ANY use case that'd even barely justify it. The only thing I can think of is that it... might (?) be useful for mitigating the door hack on a soldier that's captured, but damn is that niche and with a little work you can extract the soldier out in a single turn anyways. Undoing capture is already a waste of resources in many ways and I'm not sure I'd ever want to send a Reaper solo to do it, so a Specialist breaks the door and this perk is then literally whatever minus maybe sometimes not getting spotted by a search light, which just comes up so rarely as ever relevant when you can see the radius and path around it. And of course that's still different from the tried and true method of just blowing a whole in the facility and scrambling out which many prefer. I can see some value in other GTS unlocks but the Reaper one might just be the very last thing I'd say to spend money on once you're sitting on thousands of supplies.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I do agree that Shadow is stronger than Stasis. Stasis is broken but it doesn't fundamentally break the math of the game and let you scout every fucking pod for free. And you also don't get Stasis *at Gatecrasher!*
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The only real value of Stasis to me is working as a "better" frost bomb vs targets that'd otherwise only lose action points and not get a full stun. The only truly valuable thing is does is uniquely stop the Archon King's Devastate ability, whereas regular Archon pinions can usually be trivialized. But:
+
+A) The Archon King has to be on that mission and you have to be ready for it.
+
+B) You need a Psi Soldier AND a Psi Lab, both hefty investments on Legend.
+
+C) You need favorable RNG to even roll Stasis in the first place at a point where the crowd control even matters.
+
+It's such a confluence of events that it's almost irrelevant to really plan for and consider. Stasis can be handy against other targets but it's a perfect example of a win more bonus. It's the difference between possibly a Flawless mission and maybe an injury or two, but that's assuming you've already burnt up to 2 Mimic Beacons and up to 2 Frost Bombs. Are you like pulling the whole map? Late game you can manage it with multihit abilities but it's basically showing off or being wildly reckless at best. By contrast, even if you don't start with a Reaper they're probably the priority first faction contact when you can with Covert Ops, and they remain useful all game long (as you say, even with Gatecrasher) with late game utility in Banish. Even if you don't get lucky with Repeaters (and my last campaign all 3 Rulers bypassed an Execute with extended mags), Banish should still tear their HP apart. While it is unfortunate and chaotic if a Ruler manages to portal out, the fact that a single Reaper can effectively nullify them regardless of the outcome (assuming sufficient Aim of course) makes it a clearcut case of Reaper >>> Psi Operative. I like Psi soldiers as a late game supplement for Specialists, but honestly even for the final mission I almost always prefer other classes anyways, such as Templars for unique late game utility.
+
+giabao0110
+•
+2mo ago
+Mfw the supposedly stealth class does more explosive damage than grenadier
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+They did not balance this class at all did they? "What if the sneaky scout class also did the most damage, had explosives, and had every possible weakness covered up?" Silly, truly silly.
+
+u/Weltallgaia avatar
+Weltallgaia
+•
+2mo ago
+If no one can see or hear shit, it IS stealth
+
+u/ulughen avatar
+ulughen
+•
+2mo ago
+Frankly Remote Start should be Lieutenant ability with 1 charge per mission. Still would be auto-pick.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea it'd still be very pickable. "Whoops the pod is in the wrong spot and now take 12 damage" is just absurd. Not under your control, but ridiculous.
+
+alexis_ramest
+•
+2mo ago
+Great guide! Lots of info I didn't know about. I've never picked Soul Harvest. Do the stacks reset every mission or are they permanently buffing the Reaper?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+They reset every mission
+
+alexis_ramest
+•
+2mo ago
+Then yeah it sounds only ok
+
+baddoge9000
+•
+2mo ago
+I rate the guide shadow/5 stars. Gj lil bro
+
+u/veegeeplz avatar
+veegeeplz
+•
+2mo ago
+I always enjoy reading these write-ups of yours. Just picking through your Templar one currently.
+
+I notice that you say that Banish should've been a Skirmisher ability, which is an idea that's also crossed my mind previously. Do you have any other thoughts regarding how you'd balance this class? (Or any of the other XCOM 2 classes.)
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Cut banish from Reapers, they don't need it and by giving it to Skirmishers they have something to do late game. I'd also give Sharpshooters an actual range table so they can 100% at squaddie without a scope, make it a good range table to because they can't move and shoot. Probably also cut Deadeye and Return fire or stronger perks so their early game is better.
+
+Other than that shotguns could use a slight nerf, I think specialists could use a buff probably a better skill in place of field medic and ever vigilant, something more alpha strike oriented. Other than that I think the balance is pretty good.
+
+u/veegeeplz avatar
+veegeeplz
+•
+2mo ago
+Thanks for sharing.
+
+I agree that Sharpshooters need something. 2AP to fire is really awkward to work around a lot of the time, and they don't really make up for it until much later.
+
+I've never really worked out what I'd want to do with Specialists, besides fixing Covering Fire. I think their core design is mostly fine, they just stick out like a sore thumb in a game where you alpha-strike 90% of the enemies.
+
+Besides that, I think most of your thoughts are spot on. Looking forward to your next write-ups.
+
+someguyhaunter
+•
+2mo ago
+The first few runs I had with reapers I discounted them thinking they were snipers without any punch.
+
+As soon as I started using them as recon units and abusing the abilities with weapon attachments they became #1 and a must bring in all cases.
+
+u/ToasterStrudlez avatar
+ToasterStrudlez
+•
+2mo ago
+I've got two reapers and boy is it fun. Really love sending them solo into an ADVENT blacksite to stealth it, yeah I'm missing out on exp, but it's rule of cool. Probably my favorite of the WOTC heroes.
+
+No longer do I have to worry about being an idiot and sending my squad one tile too far...
+
+Was raiding a UFO, had a lot of sectoids, and I mean a lot, and there was like 9 grouped up? Fun times. Reapers are fun especially if you're playing against modded enemies, and also if you have the mod which lets you eventually bring 8 guys through GTS... But that's modded territory soooo...
+
+Garr_Incorporated
+•
+2mo ago
+Doesn't Remote Start also makes the explosives double their explosion range?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+They do! Can't believe I forgot to say that, it's fixed now.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+While it's extremely niche, I saw a video recently that showed it is viable to do Shen's Last Gift with a Reaper (thanks to a STUPID 32 damage Remote Start) even with just ballistics. I'm not sure how much value an early SPARK really has on Legend (since you're still at best trading a whole bunch of Tired or possibly even Shaken soldiers for it), but it was interesting to see it was even possible, as I felt the mission was kind of a suicidal task without at least mag weapons. I tried to push for an early (but not RUSHED) SPARK on my current Legend + Integrated DLC Grim Horizon campaign as an option in my back pocket and even then without hard rushing Proving Ground I still only got it out around the time Mag Weapon research did too.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's sort of tough to justify doing that mission with your Reaper. Sure you get a boatload of XP but you effectively force your Reaper onto the bench for like 2-4 missions. That sucks. And honestly if you have that mission turned on it isn't for the spark its for the XP. If you want a free spark just unclick the mission and build one for free at the Proving Ground
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I agree. I found the investment of the mission too much to do all that early on Legend. A low rank SPARK is just not worth much versus other soldiers and has major downsides of not building up bonds (especially early when level 1 and 2 are pretty good) and not being able to go on covert ops missions. I do think there's a bit of fun you can do with a SPARK but you can also avoid them all game long and be fine, or probably even better for making better long term investments. If you buy one from the Proving Grounds you're also spending alien alloys away from weapon upgrades etc. Maybe if you don't go for Predator armor it's something but the armor is more useful for the utility item slots really, as well as unlocking stuff like EXO Suits which remain good.
+
+===
+
+The XP for doing the mission is nice but if you're benching soldiers into Shaken for a while I question the trade off, especially if they're your good soldiers that could kill Chosen or more easily Flawless missions to avoid injury. I'm almost certain that a Covert Ops that gives a promotion, especially into Captain, is likely the better play with less opportunity cost.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I usually do the Lost Towers with my B team once I get bluescreen rounds because then the mission is a joke and you can rank up a lot of lower level units.
+
+Leading_Resource_944
+•
+2mo ago
+Can somepne varify if the Reaper gets any Exp for Claymore or Remote Explosiv Kills? 
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+They do
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yes, it counts as damage from them. Similarly, if you have another soldier detonate a claymore against a Chosen with Reaper weakness, it'll also do extra damage.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+Only thing I want to add is re: the weapon mods. In the late game if you roll modular vektor rifles, I think auto-loader is actually a solid third, but you can use just a regular or advanced rather than superior.
+
+Reaper almost never needs to reload, esp with expanded mag. The exception is right before they are about to fire off banish. Say you popped 2 claymores and maybe took a sting shot + a guaranteed kill shot. That’s 4 of your ammo down. You can obviously set up by manually reloading. But having the auto-loader just gives a bit more flexibility in terms of being able to move + banish against like a teleporting chosen or something.
+
+Especially since the class doesn’t really need the extra aim, crit is only relevant if doing the other build as mentioned, and hair trigger is like..fine. But I’m not trying to plan my reaper’s turn around a 15 (or 20% at best) chance for a free action. There’s just not much for them to do with it once they roll it since they are typically only trying to take last hits.
+
+It’s super niche and requires rolling the breakthrough for, but worth mentioning imo. But yeah I agree 100% with mag and repeater as first 2 options.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I feel like scope (either aim or crit), repeater, and extended mag is the correct setup for Banish. While Reapers do have good Aim, some of the harder enemies (notably Gatekeepers) have a high defense stat. Now you might not Banish a keeper specifically but Defense is relevant on late game enemies and especially harder difficulties.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+•
+Edited 2mo ago
+You don’t need scope and you don’t need crit IMO.
+
+Their aim is already quite good and crit (as OP mentions) is a different build (and probably just strictly worse, given how good the banish build is). The crit numbers also just simply don’t matter when you’re taking 6-7 banish shots with repeater. Either repeater kills them (highly likely) or they live and it’s an easy enough cleanup regardless of crit or no crit.
+
+Gatekeepers are dying to blue screen rounds regardless. Whether it’s BSR from banish or from chainshot or from fan fire, they are dying to BSRounds.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Unless I'm mass shooting Lost I've never been in a situation where I felt I needed an autoloader on a Reaper, let alone always having access to extended modified vektor rifles. I prefer both Sharpshooters and Rangers for Lost killing, though Skirmishers can be good in a pinch too. And I feel like prioritizing autoloaders to those classes is better (sometimes also Grenadiers if using ammo burning skills), as it helps them both thin the herd of Lost (if help is even needed in the first place) as well as keeping mobility up to not really stop to pause and reload. Rangers in particular excel at mobility momentum and sharpshooters can Death from Above / Serial more targets that way too (though Darklance has an built-in autoloader). Reapers already have so much mobility in Shadow that I risk overextending them rather than them needing to keep pace. I've never put an autoloader on a Reaper and have never noticed a time I would. Mags are strictly superior for Banish and the only other time you're dumping rounds all the time is Lost.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+I never said anything about the lost, you did?
+
+You don’t have to “prioritize” the auto loader - you literally just throw a basic one on there in the third slot (if you have it). The classes who want autoloaders still get the premium ones. The vektor rifle can use a shitty basic one.
+
+The idea is that you play the map normally, picking off random units, shooting at claymores and remote starts the way your reaper always does. And then by the time you need to banish something, you always have the ability to move + full clip dump because you have the autoloader (and you’re not realistically taking more than 6 shots with the reaper leading up to that).
+
+You can do the normal 1 action reload. But there’s some instances - such as teleporting chosen - where the ability to move + fire a full clip banish without having to reload is quite valuable.
+
+It’s niche, but I think it’s the best “third” option if you get modular rifles. Just because the others don’t actually do anything that you care about. The above scenario, while niche, actually does something when it comes up. +aim, +crit, and +action on hair trigger mostly don’t.
+
+u/wyrzo avatar
+wyrzo
+•
+2mo ago
+(normal difficulty player) I always was pushed back by vector rifles dmg. Sniper just did more dmg, and in the later stages of the game, he really does pack a punch, while reapers weapon looked like a stick in comparison. A rookie mistake, I know. I guess I should give them a try next time I play wotc.
+
+inconspicuous_bear
+•
+2mo ago
+•
+Edited 2mo ago
+Something worth mentioning that I hadn’t seen (apologies if I missed it) is that the vektor rifle does +3/4/5 crit damage which is the same as shotguns and higher than any other weapon. Despite the low damage of the weapon at base, you can one shot a lot of early/mid game enemies with a crit, and flanking and getting closer range for a laser sight is trivial for a reaper. 
+
+I think needle is a bit better than you give it credit for. Combine with shredder you’ve got +2 damage and +2 armor shred on armored targets which makes reapers great at weakening or sometimes even one shotting armored enemies with crits. Add in holo targetting and they quickly become the go to first shot against the many high health and armored enemies. 
+
+A practical example is hitting a muton and leaving it in kill range for a stock/lightning hands/quick draw, or killing it straight up if you have some damage boosts from breakthroughs or special ammo. I guess my point is, don’t sleep on the value a reaper can have beyond just a finisher, especially in the early/mid game when you might not have the juice to kill everything otherwise.
+
+I’d also argue the value of the repeater is a bit overstated. Without it, when is 6 shot banish alone really not enough to get you through the pod or alien ruler? Having a laser sight + expanded mag gives you the best of both worlds really.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+The main problem with needle is that it plays kind of awkwardly.
+
+Reaper wants to ideally be last-hitting units to try to stay in stealth. It’s what makes needle (and rolling shredder/holo targeting) kind of awkward. AP is at its best when it’s actually penetrating armor. If your team is being built correctly and you’re taking engagements correctly, you should mostly be shredding armor via cannons and explosives. Meaning the AP on a “finishing” hit is going to be pretty irrelevant most of the time.
+
+If you are doing as you propose with holo targeting, shredder, and needle as your “opening shots” with a reaper, you’re risking losing your stealth. Which is probably suboptimal. You’re bringing the reaper for their scouting potential, claymores, and banish (in the late game). Turning them into a bootleg grenadier feels like a weird option when you could just be using your grenadiers to do that role.
+
+Repeater + expanded mag is the mathematically correct option for taking out the only enemies that you actually need banish for - rulers and chosen. Placing crit on the weapon instead and giving them talon rounds can let you do some crit stuff (especially if you’re stacking with soul harvest) but I’m just not sure that it’s worth it. Not only do you have to go out of your way to ensure that the reaper always gets the last hit for their stacks, the damage on the vektor rifle is low enough that even with the crit boost, it’s just not super impressive.
+
+Talon rounds takes you to 7-8 damage per shot. Blood trail can add +1 if they have already taken damage. That’s not enough to rely upon with alien rulers. Or the chosen. The archon king has 120 health, 5 armor, 25 defense, and 35 dodge. Even the viper king has 69 with 3 armor (and 25 dodge).
+
+Assuming you’re still shredding all their armor with grenadiers, setting up blood trail and holo targeting, you’re still not favored with 6 (or 7, if you have level 4 mags) shots of 8-9 damage - and that’s assuming every shot is a crit. Your max crit is still only 60. Let’s just assume you crit on 4 shots, hit all of those, hit on one regular shot, and miss on one regular shot. And roll dead even on the +1 damage per shot for the crits. We will even give the +1 to the standard shot that hits. Thats 8+8+9+9+5=39. Which is pretty close to the best scenario you can expect.
+
+If you have a repeater, not only are you super favored to just outright kill it, you can run ammo like dragon or poison for the guaranteed +1 damage on the shots without relying on the crits and your floor scenario where you don’t outright kill it with repeater still leaves the target close to as damaged as the crit build would have. You’re taking 6 (or 7) shots at 5-6 damage and inflicting a DOT that triggers on any/all subsequent ruler reactions that they take. Applying the same math, we get 5+5+6+6+6=28. Before the DOT damage.
+
+And any low rolls on the crit build cost you an extra damage, because talon only gives +1 on crits rather than flat on the status condition Ammo. What if you encounter the alien ruler before you’re able to fill stack your soul harvest - which is pretty likely to be the case? Well in the case, we are looking at 40 crit. Since we are looking at low rolls, instead of rounding “up” to 4 crits (as we did for 60%, ~3.6 crits per 6 shots), let’s round “down” to 2 crits (from 2.6 expected crits). Let’s still assume that we only miss 1 shot because of holo targeting and that we have blood trail. We can still assume that we go dead even on our damage spread and roll +1 on half of our shots, but again we round down; given that we hit 5 shots, we get +1 on 2 of them. We will go 1 crit and 1 standard shot. So we have 8+9+4+4+5=30 which is just barely above the floor for the repeater build (the 20% case where repeater doesn’t outright just kill them).
+
+Ok-Huckleberry-419
+•
+2mo ago
+Starting reapers so you can eventually get 2 Col reapers is disgusting. Changes the game significantly.
+
+Mark-C-S
+•
+2mo ago
+Ah man you're right, why isn't Banish a Skirmisher ability?! That would make so much more sense, and help replace their really lackluster end game abilities. Instead of making Reapers even more broken.
+
+Calinate
+•
+2mo ago
+You didn't mention prox mines. I like to use them on Reapers since they don't break stealth. It's like having another claymore charge. Maybe not worth giving up BS rounds for though.
+
+u/TyphonNeuron avatar
+TyphonNeuron
+•
+2mo ago
+Meh, I don't really agree. I found far more utility for skirmishers and templars. I only get a reaper as cover action to get in contact with the faction and hunt chosen and get resistance orders, hopefully between the eyes.
+
+[deleted]
+•
+2mo ago

@@ -1,0 +1,617 @@
+Now that the normal utility items are out of the way, let’s go over the Proving Ground! This will cover everything that building can do, not just the utility items it grants you. I won’t talk about any details about the Proving Ground, when to build it, if you should (yes, you need it to win), etc. that will be in the building guide. I also won’t talk about SPARKs, because they will get their own class guide and I don’t need to repeat myself more than I already do. 
+
+As for the rankings, it’s about how worth it the project is to do. Some projects I literally never touch and others I want to do instantly and forever. More specifically:
+
+★★★★★ - Projects I do ASAP. I will literally do them as soon as possible and drop everything else the proving ground is doing.
+★★★★☆ - Projects I click on quite often, not “oh my god I need this now” good but still very strong.
+★★★☆☆ - Projects I do if I have 10000 cores lying around and feel like it, but could go without. They aren’t bad but they aren’t that good.
+★★☆☆☆ - Projects I usually skip but might do in the late game while I’m just fucking around waiting for the Shadow Chamber to finish up. But don’t actually consider doing it seriously.
+★☆☆☆☆ - Projects you should not do under basically any circumstance.
+
+As for items it gives you, that follows the same ranking scheme as my utility items, which I’m not going to repeat to save space. But, you know, more stars is better is how it goes.
+
+Experimental Ammo (★★★★☆) 
+Experimental Ammo costs 1 elerium core, and after 10 days you get a random ammo out of the pool, each with a different effect. In the normal game without mods (though popular ones address this) there is no anti-dupe logic. It can just keep rolling the same ones over and over again. The list isn’t that big so that isn’t likely, but it is possible. 
+
+As for how worth it this is to do, you really, really want Talon Rounds for your Ranger and the rest are good enough that rolling them is still perfectly fine. And they only cost cores so you aren’t really robbing yourself of much by spamming this. You want to save a few cores back for 
+
+Here’s the table of Experimental Ammo in no particular order:
+
+Ammo	Cost	Time	Effect	Additional Note
+Viper Rounds (★★★☆☆)	1 core	15 days	+1 damage, 33% chance to poison	The +1 damage is only to enemies weak to poison
+Dragon Rounds (★★★☆☆)	1 core	15 days	+1 damage, 33% chance to burn	The +1 damage is only to enemies weak to fire
+Tracer Rounds (★★☆☆☆)	1 core	15 days	+10 aim	
+Talon Rounds (★★★★☆)	1 core	15 days	+15% crit chance, +1 crit damage	
+AP Rounds (★★★★☆)	1 core		Pierces 5 armor	
+Viper Rounds (★★★☆☆) - +1 damage and a chance to poison is great, but the most dangerous normal enemies are all machines and therefore immune to poison. Still, before they start showing up this is pretty good, its +1 damage, that’s good! It’s really good against rulers because poison is a nasty status effect, but otherwise these are good but not great. 
+
+Dragon Rounds (★★★☆☆) - These are the same as viper rounds except for some reason Gatekeepers are immune to fire but not poison and vipers are immune to poison but not fire so you’re trading +1 damage on those enemies specifically between those two items. Poison is generally a better status effect but burning is also really mean, just turns off psionic and most melee attacks. Though it is actively bad to burn the Chosen because then they can only do their attacks that hurt you rather than their attacks that daze you, which generally you prefer. Again, good against rulers, but it’s these and Viper Rounds are basically interchangeable.
+
+Tracer Rounds (★★☆☆☆) - More aim is more better, but these are just so heavily outcompeted they are hard to justify bringing. The earlier you roll these the more likely you are to equip them, especially if you roll them first and like just unlocked predator armor so you have a bunch of empty utility item slots, but this is the ammo I’m least happy to roll most of the time.
+
+Talon Rounds (★★★★☆) - Ranking this is slightly weird because you only really want them on rangers (and maybe reapers, but only maybe). But they are so good on Rangers that I am usually actively hard rolling for these because of that power, so I guess 4 stars? A friendly reminder that star ratings are fake, but like a lot of fake things are more useful than not, so I use them. But they can’t tell you everything. 
+
+AP Rounds (★★★★☆) - There are a few circumstances where these actually outdo bluescreen rounds in usefulness, specifically against rulers and chosen and AVATARs, but in general BS rounds are stronger. Still, there are some circumstances where these are better than a top 3 utility item isn’t that nuts?! Before you get the darkclaw your gunslinger really, really wants these and clicking banish with AP rounds is always very fun. These are good, very good, in fact. 
+
+Experimental Grenades (★★★☆☆) 
+Similarly to experimental ammo, you spend 1 core to get a random grenade out of the set. Though this time there are only 3 of them so the odds you get screwed and don’t get the one you want are even lower.
+
+I don’t tend to go for experimental grenades much. The only class that really wants these are grenadiers and with the frost bomb and BS rounds they probably want other utility items more, and so this feels like kind of a waste. In a lot of situations I’d prefer plasma grenades over these in fact. But those situations don’t include alien rulers. So if you are about to go fight one of those, maybe consider doing this. Also important to note, none of them destroy cover, hence why I usually prefer plasma to them. Also they all take 15 days to make on Legend but if I put that in the table everything gets squished too much.
+
+Grenade	Cost	Damage	Shred	Radius	Extra Effect	Note
+Gas Grenade (★★★☆☆)	1 core	3-4	1	4	Poisons any enemy hit. Creates a poison cloud in the area.	Goes through walls, does not trigger claymore
+Gas Bomb (★★★☆☆)	1 core*	4-5	2	5	Same as above	Same as above
+Incendiary Grenade (★★★☆☆)	1 core	2-3 (in vanilla it’s 4-5) 	1	3	Burns any enemy hit. Sets area on fire.	Sets the environment on fire.
+Incendiary Bomb (★★★☆☆)	1 core*	5-6	2	4	Same as above	Same as above
+Acid Grenade (★★★☆☆)	1 core	3-4	2	3	Acid burns any enemy hit, puts acid on the floor in area.	Does not pass through wall or trigger claymore
+Acid Bomb (★★★☆☆)	1 core*	4-5	3	3	Same as above	Same as above
+For the bomb upgrades, you have to do the Advanced Explosives project, but they cost 1 core both before and after that.
+
+Gas Grenade/Bomb (★★★☆☆) - Probably the best of the experimental grenades simply because it has the biggest radius. And a bigger radius means you catch more units in it at once, and that’s really good. It’s not so much better than them to deserve more stars than them, but it’s still the best one. Again, I prefer plasma to these because none of the experimental grenades destroy cover and that’s very important but these are good.
+
+Incendiary Grenade/Bomb (★★★☆☆) - Why did they nerf this in WotC? Was it because of Purifiers? Were they too lazy to give Purifiers a different item? Weird. Anyway this is the worst experimental grenade. It does the least damage before the upgrade (again why?) and while fire is a good condition it’s not so much better than acid or poison to justify that. But whatever, it sets things on fire and for rulers that’s kind of all that matters.
+
+Acid Grenade/Bomb (★★★☆☆) - They shred the most and that’s good. And this is the only way XCOM has to afflict acid burning onto ADVENT. But that’s kind of all they do. If you really want to stack up conditions on Rulers you can burn them, poison them, and acid burn them but honestly you’re probably better off being less fancy. Still, it’s funny to riddle the enemy with 10000 conditions. So that has value. Again, none of the special grenades or bad I just usually don’t bother.
+
+Experimental Vests (★☆☆☆☆)
+Unlike grenades and ammo you don’t unlock these off the bat you have to do the shieldbearer autopsy first. But after that they work the same as ammo and vests. Where you spend one core for a roll at a vest.
+
+Don’t do these. Pretend these aren’t here. There is maybe maybe one vest that is worth using but to have to roll RNG for even a chance to get it…no…no I will be doing that. I had the vest slot mod installed for a playthrough once and I still didn’t click this because it wasn’t worth the cores. Vests are bad folks!
+
+Vest	Cost	Time	HP gained	Effect
+Hazmat Vest (★☆☆☆☆)	1 core	10 days	2 (3)	Immunity to fire, poison, and acid (not frost)
+Plated Vest (★☆☆☆☆)	1 core	10 days	2 (3)	+1 armor
+Stasis Vest (★☆☆☆☆)	1 core	10 days	2 (3)	Regains 2 HP per turn (to a max of 8 HP gained over a mission)
+If you do the purifier autopsy, each vest grants +1 HP, hence the number in parentheses 
+
+Hazmat Vest (★☆☆☆☆) - This is the only vest that is maybe good, but I’m still giving it 1 star because of the rigmarole of trying to get it. Those status effects are nasty! And just ignoring them is quite nice. But, as I’ve said so much to be redundant at this point, the opportunity cost is just too high. You could justify these on a Templar who didn’t roll Fortress, but even then…you could still just bring a grenade…and that’s probably still better…so…
+
+Plated Vest (★☆☆☆☆) - So stacking armor is funny, but it isn’t good. You can get a maximum of 4 armor on a unit with this, blast padding, and a war suit and that’s cute, but it doesn’t actually do anything. This is a game about not getting hit, not stacking armor to the moon. And you have to give way too much up to equip this. 
+
+Stasis Vest (★☆☆☆☆) - Can you believe I thought this was overpowered when I first played this game 9000 years ago? What a fool I was. This is just a worse medkit! It’s a medkit that only works on one unit, and I already hate medkits! Nope, not fucking with this. 
+
+Heavy Weapons (★☆☆☆☆)
+Heavy Weapons cost 1 core and take the same amount of time as experimental ammo/grenades/vests, but can only be used by someone wearing heavy armor. 
+
+Now that star rating might look insane at first glance, but the thing is, every heavy armor starts with a rocket by default, and rockets are the best heavy weapon, so then why am I doing this to get worse items? One of them is maybe competitive with rockets but because of the RNG nature of these, this still isn’t worth it to do.
+
+Heavy Weapon	Cost	Firing Mode	Damage	Shred	Radius	Range	Additional Notes
+Rocket (★★★★☆)	1 core	Direct	4-7	2	4	27	Blocked by obstacles
+Flamethrower (★☆☆☆☆)	1 core	Cone (60 degree arc)	4-7	0	7	25	Inflicts burning
+Shredder Gun (★★★★☆)	1 core	Cone	6-9	2	12	25	Pierces 1 armor
+Rocket (★★★★☆) - The one you get for free and also the best one. Just point, click, and now that pod is exploded. This is just a better grenade in a game where grenades are really good. The only annoying part is that getting stuck on terrain is a bother, but otherwise, no notes!
+
+Flamethrower (★☆☆☆☆) - This is worse than the rocket in every way. It doesn’t shred, is less flexible, and while burning in nice it just isn’t that useful. It doesn’t even destroy cover! The only time I ever used this was for the achievement.
+
+Shredder Gun (★★★★☆) - This is maybe better than the rocket. It’s close at least. The major downside is the closer range so it can be a little hard to use, but otherwise it does more damage and pierces 1 armor and is huge. If flamethrowers didn’t exist it might even be worth getting, but they do, and a 50% chance to roll those and waste your core means I never use these. Which is sad.
+
+Powered Weapons (★★★★☆)
+Powered Weapons can only be done after you make at least one WAR Suit, cost 1 core, 100 supplies, and take the same amount of time as experimental ammo/grenades/vests, and can be used by any heavy weapon. 
+
+I’m docking a star because some of these suck but the ones that are good are so good that I’m willing to actually get these. Because the difference between a Blaster Launcher and not a Blaster Launcher is a lot.
+
+Heavy Weapon	Cost	Firing Mode	Damage	Crit Damage	Shred	Radius	Range	Additional Notes
+Blaster Launcher (★★★★★)	1 core, 100 supplies	Direct	7-9 	+2	3	4	45	Blocked by obstacles
+Hellfire Projector (★☆☆☆☆)	1 core, 100 supplies	Cone 	6-8	+1	0	7	25	Inflicts burning
+Plasma Blaster (★★☆☆☆)	1 core, 100 supplies	25 Tile line	7-9	+2	0	12	25	
+Shredstorm Cannon (★★★★★)	1 core, 100 supplies	Cone	8-10	+2	4	12	25	Pierces 4 armor
+Blaster Launcher (★★★★★) - These things are insane. You can point them 16 billion tiles away, they are fucking huge, and they nuke every bit of cover in the radius. There is an argument to just run around with 6 of these in the end game. It isn’t necessarily the strongest thing but it does work and it is very funny! This is the strongest heavy weapon in the game, bar none.
+
+Hellfire Projector (★☆☆☆☆) - It’s an upgraded flamethrower, but flamethrowers are bad so that doesn’t matter much. This is the “aw dang it” option of powered weapons.
+
+Plasma Blaster (★★★☆☆) - This is basically a Null Lance you get to carry around, but compared to the better options it's really hard to justify. It’s probably better than the rocket just because it does more damage, but ask me another day and I might flip on that, this isn’t great.
+
+Shredstorm Cannon (★★★★★) - The other very, very good option. It’s close range and therefore not quite as versatile as the Blaster Launcher. It does do more damage, however. So bringing one of each isn’t a bad idea. I think I still prefer the Blaster Launcher but this thing is killer.
+
+Special Armor (★★★★★)
+Now let’s go over the special armors you can build. Costs, buffs, everything. These are all very good, which is good, because I like being positive! Also these are the costs for Legend, just FYI. In addition all of these armors (other than the Icarus armor) only have one utility item slot unlike normal Predator armor. 
+
+Suit	Cost	Time	Mobility	Dodge	HP	Armor	Unique
+EXO Suit (★★★★★)	4 Trooper corpses, 1 core, 10 alloys, 10 elerium crystals	9 days	-	-	+5	+1	Heavy Weapon Slot
+Spider Suit (★★★★☆)	3 Stun Lancer corpses, 1 core, 10 alloys, 10 elerium crystals	9 days	+1	+20	+4	-	Grappling Hook
+WAR Suit (★★★★★)	125 supplies, 20 alloys, 20 crystals, 1 core	15 days	-	-	+6	+2	Heavy Weapon Slot. Shield Wall Ability
+Wraith Suit (★★★★☆)	125 supplies, 15 alloys, 15 crystals, 1 core	10 days	+2	+25	+6	-	Grappling Hook, Wraith
+Serpent Suit (★★★★★)	1 core, 10 alloys, 10 crystals	9 days				-	Grappling Hook, Frostbite
+Serpent Armor (★★★★★)	125 days, 15 alloys, 15 crystals	Instant				-	Grappling Hook, Frostbite
+RAGE Suit (★★★★★)	1 core, 10 alloys, 10 crystals	10 days	+1	-	+6	+1	Heavy Weapon Slot, Rage Strike
+RAGE Armor (★★★★★)	125 supplies, 20 alloys, 10 crystals	Instant	+2	-	+7	+2	Heavy Weapon Slot, Rage Strike
+Icarus Armor (★★★★★)	1 core, 125 supplies, 20 alloys, 30 crystals	15 days	+1	-	+7	+1	Vault, Icarus Jump
+EXO Suit (★★★★★) - Rockets are very good, better than most utility items, so trading one out for them is a very good trade, at least most of the time. If anyone roll Salvo from the training center (or is a grenadier) they should be put in one of these. As can anyone, everyone loves throwing rockets around.
+
+Spider Suit (★★★★☆) - While not quite as much of a universal donor as EXO Suits, these are still great and similarly if anyone gets Death From Above they need one of these. The extra mobility and grappling hook are also fantastic. Generally I’d rather have the rocket but on classes like rangers or sharpshooters this is better. Though I don’t actually end up building these much, just because the Serpent Suit is a strict upgrade and you usually get them at about the same time if you let Rulers wander around. If you don’t though, then you should build this.
+
+WAR Suit (★★★★★) - This is the best non-unique armor in the game. In the end it’s just a slightly better EXO Suit. But EXO Suits are so good that that’s fine, it’s so good! Its unique ability is terrible, but that’s OK, just don’t use it. Speaking of…
+
+Shield Wall (★☆☆☆☆) - Shield Wall is an active ability that is a free action and has 2 charges. It turns your unit into high cover. Moving or attacking cancels that state. 
+
+I can’t think of a reason to click this. It’s a free action so you are always giving up your entire turn for this. That is always a bad trade. Also you’re bunching up which isn’t good when enemies have explosives. Don’t use this.
+
+Wraith Suit (★★★★☆) - This is very good despite the fact that I don’t usually build them. The Serpent Suit just outcompetes it is all. Still, if you want more light armor, then build this. It’s ability is a little weird, but it’s not bad.
+
+Wraith (★★★☆☆) - Wraith is an active ability that is a free action and has 2 charges. It allows you to go through objects as if they weren't there. 
+
+This is a bit of extra mobility but before clicking it it can be hard to tell exactly how much, making it a little tricky to use. Still, if you are lacking in mobility on a turn then click this and see if it helps. It’s free after all.
+
+Serpent Suit (★★★★★) - Unlocked by killing the Viper King, this is just a better Spider Suit, and Spider Suits are amazing, so this is even more amazing! As I said above I can usually get away with skipping Spider Suits entirely for this instead. Also this can panic Vipers, but I don’t actually know the odds on that, if someone does drop a comment and I’ll include it here. As for its unique mechanic…
+
+Frostbite (★★★★☆) - Frostbite is a free action with one charge, but the charge is only consumed on a hit. If you miss there is a 2 turn cooldown before trying again. It targets anyone within grapple range and, if it hits, freezes them just like the Frost Bomb. ADVENT soldiers will also get pulled out of cover, usually about 1-2 tiles. Importantly it freezes the Alien Rulers one additional action compared to the Frost Bomb.
+
+It can miss, and that’s sad, but it’s free and can shut down an enemy for an entire turn and maybe even make them easier to kill. This is great against AVATARs especially. This is why this is just a complete upgrade over the Spider (and Wraith Suit).
+
+Serpent Armor (★★★★★) - Unlocked by researching powered armor, you just buy this from Engineering rather than the Proving Ground, but I thought it was best to include it here. This doesn’t do anything fancy, it is just an upgrade of the Serpent Suit in a rather boring way, but it's better than a very good armor…so…you know…do it.
+
+RAGE Suit (★★★★★) - Unlocked by killing the Berserker Queen, this is an upgraded EXO Suit. It has a heavy weapon slot, which is amazing as always, and it has Rage Strike and it can panic Mutons and Berserkers. This is extra mobility for Grenadiers or Rangers, which are the main candidates for this, but hey it works on anyone.
+
+Rage Strike (★★★★★) - Rage Strike is a free action with one charge that is consumed on a hit or miss. It will move the unit to the target and attacks them with a 6 damage and shreds 2 armor and has a chance (I think 20%?) to stun the target. It can miss, but you will always move even if you miss.
+
+Extra damage as a free action and a free move? Yes please. Sometimes I click this just to move, I don’t even care if it hits. Obviously hitting is better but the extra mobility is just so good. 
+
+RAGE Armor (★★★★★) - Just like the Serpent Armor in that you buy it in Engineering, and it is a strict upgrade. I always buy it as soon as I can, I don’t have more to say.
+
+Icarus Armor (★★★★★) - This is the strongest armor in this game and it isn’t close. The other Alien Ruler armors are good, but this is elite. You get two utility item slots and two very powerful special powers. It can also panics Archons as a cherry on top. It’s as good as it gets, as for those unique abilities…
+
+Vault (★★★★☆) - Vault is a passive ability that lets you jump up and down on roofs without needing ladders or similar, you can just jump up and down. 
+
+This is absurd. High ground is very, very good and now you can just…have it, whenever. The only “downside” is it isn’t a grapple you have to move your legs over there but hey that’s fine.
+
+Icarus Jump (★★★★★) - Icarus Jump is a free action with 2 charges that lets you teleport to anywhere on the map that is open to the sky. So you can’t teleport into a building but you can teleport onto one.
+
+There isn’t anything better than teleporting anywhere on the map for free, twice. Why do they let you do it twice? The other ones are once, why is this one twice? This is amazing for Leviathan especially to teleport into an Avatar's face and blow them up with rapid fire or fan fire. Yea, this is elite.
+
+Misc. Projects
+This is for all the projects that don’t fit into the ones above, except Mechanized Warfare, I’ll talk about that when I talk about SPARKs. 
+
+Project	Cost	Time	Result
+Skulljack (?????)	75 Supplies	20 Days	Gives one skulljack
+Skullmining (★★★☆☆)	125 Supplies, 1 core	15 days	Upgrades Skulljacks to give +25 hack and the Skullmining ability
+Plasma Grenade (★★★★☆)	100 Supplies, 1 core, 10 alloys, 10 crystals	15 days	Upgrades frag grenades to plasma grenades, unlocks Advanced Explosives
+Bluescreen Protocol (★★★★★)	1 core	18 days	Allows you to build Bluescreen Rounds and EMP Grenades
+Battlefield Medicine (★☆☆☆☆)	3 Viper Corpses, 1 Core, 75 Supplies	12 days	Unlocks Nanomedikits
+Advanced Explosives (★★★☆☆)	75 Supplies, 1 core, 10 alloys, 10 crystals	21 days	Upgrades Grenades to Bombs
+Skulljack (?????) - The skulljack is a utility item that, without doing Skullmining, has no effect beyond the two story uses of skulljacking an Officer and a Codex. Despite what the display says, these attempts will always succeed.
+
+How…am I to rate this? On a purely functional level, this does nothing. It dilutes the enemy pool with Codexes and removes some pips off the Avatar Project and..that’s it. That is not usually worth your utility item slot. But also, you must build this to win, and winning is good. This is a “small key argument” if you’re familiar with that. So I’m just going to…not give this a rating. You have to do it to win, but otherwise it’s bad is a rather awkward position for me to be in.
+
+Skullmining (★★★☆☆) - Skullmining upgrades the Skulljack to give any unit holding it 25 hack and allows you to use Skullmining.
+
+Skullmining is an active ability with one charge that allows you to attempt a 70% chance to one shot any ADVENT soldier at melee range. On a success the target will always die and there will be a hack check to either gain a little intel, a lot of intel, or take 2 points of damage on a failure. If you fail the 70% chance you get 1 action point back. If you kill a Priest with this they won't go into sustain and similarly a Purifier won't ever explode when this kills them. 
+
+This item is weird. It wants to be used on specialists because of the hack bonus but actually it’s best on rangers who can use it as Run and Gun on a stick. Succeed the chance and the unit dies, yay. You might take 2 damage, but that’s not so bad. You fail the check and now you’re right next to them with a shotgun, and they die anyway. It’s a win-win! You can also use it to stack hack to the moon, but I don’t usually go for that. The problem is it’s just hard to fit on a slot. There are too many too strong utility items for this to be worth it most of the time. That said, in the band before you get special armor but have predator armor this can slot in quite nicely. If you have the time to do it. I usually don’t, but it works. And hey you have to bring the skulljack out at least twice this gives it another thing to do when you do that, which isn’t bad.
+
+ 
+Plasma Grenade (★★★★☆) - Plasma Grenades are good, this gives you them, so it’s good. I run Plasma for a long, long time. Only switching them out on grenadiers when Andromodons start showing up. The only thing not giving this 5 stars is that a lot of other projects are much better than this one, but I always do this in a playthrough.
+
+Bluescreen Protocol (★★★★★) - I give a breakdown of what this gives you in the other guide, but the short version is that those items are broken, and therefore this is broken. It is really that simple BS Rounds are absurd and this lets me build them so I do this. You don’t necessarily have to do it the instant you unlock it because robots don’t start becoming super common until a bit later, but I always do anyway just to get it out of the way.
+
+Battlefield Medicine (★☆☆☆☆) - This upgrades medkits, but I hate medkits, so I don’t care. To my knowledge this doesn’t upgrade Medical Protocol or Restoration so I don’t think there is any reason to do it. Also if you don’t build medkits before you do this it makes medkits more expensive, which doesn’t matter if you build a medkit you build it instantly but it is funny! 
+
+Advanced Explosives (★★★☆☆) - If you build special grenades do this, if you don’t (and I usually don't) then don’t. Honestly it’s that simple. They upgrade those items, but because I prefer plasma I don’t see the need to do this. But if you do like them, and I wouldn’t fault you for it, then do this.
+
+Alien Hunters
+I am going to put this here and not elaborate, because I explain everything in here in the weapon mod (or the other utility item guide). But for completeness, here they are:
+
+Item	Cost	Time
+Bolt Caster (★★★☆☆)	45 supplies	7 Days
+Frost Bomb (★★★★★)	35 supplies	7 Days
+Hunters Axe (★★★★☆)	40 supplies	7 Days
+Shadowkeeper (★★★☆☆)	35 supplies	7 Days
+And that’s it! Next time we go back to classes and cover the WotC classes! See you then!
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+103
+
+Downvote
+
+42
+Go to comments
+
+
+1
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+Mark-C-S
+•
+2mo ago
+Hey OP, just a note that there's a Random Spark ability in the text there (shield wall).
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Nope, shield wall is the ability WAR suits give you. I forgive you for not knowing that, because no one ever clicks it!
+
+Mark-C-S
+•
+2mo ago
+Oh haha, yeah I forgot they do that completely 😂
+
+u/ulughen avatar
+ulughen
+•
+2mo ago
+Tracer Rounds are one of the best ammo in game losing to obvious bluescreen in general and talon on ranger until very late when your squad is decked out with T4 scopes and aim PCS, 10 aim is huge. Everything bad in this game starts with a missed shot or unintended pod pull.
+
+AP ammo is "i dont have anything else to fill a slot and already have medkit on someone else" tier. Most of relevant armored enemies are also robotic and who are not - not very threatening. Just use bluescreens and shred armor.
+
+Fabulous_Jellyfish71
+•
+2mo ago
+Yeah Tracer in early game but bluescreen for lategame is amazing
+
+u/Chii avatar
+Chii
+•
+2mo ago
+i'd rather an extra grenade over tracer rounds.
+
+Fabulous_Jellyfish71
+•
+2mo ago
+not everyone can be as perfect as a Grenadier, Chii
+
+baddoge9000
+•
+2mo ago
+Thanks bro
+
+u/SlavaUkrayini4932 avatar
+SlavaUkrayini4932
+•
+2mo ago
+I'm curious: would you rather play with a 2+1+1(GTS) squad size against 50% smaller enemy pods or with a 4+2+2(GTS) squad size against 50% bigger pods?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+More units with bigger pods. You gain power per unit more than Advent does.
+
+u/SlavaUkrayini4932 avatar
+SlavaUkrayini4932
+•
+2mo ago
+How much bigger the pods would need to be for you to choose a 4-man/50%-pod situation over squad size 8?
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+Squad size 8 is pretty nuts. You can reliably take out multiple pods.
+
+You’d probably need to have not only way more advent units, but more units per pod. And maybe even multiple “pod captains” per pod to balance that out.
+
+With 8 units that have endgame gear and 4 bonds, you’d feel pretty comfortable taking on even a dozen units at a time. And you could do that multiple times per mission pretty easily. Before end game/full colonels, obviously a little less.
+
+So like probably starting at at least doubling the enemy count and doing it within the pods to have pods of like 5-6 units popping at a time rather than 2-3. So that if you pop multiple pods you’re staring down a dozen enemies.
+
+But realistically you’d probably need to do more. Xcom scales so much harder than advent. Levels/abilities, armor, utility items, bonds, etc are all just so powerful. Not just powerful but flexible. 4 Bonds in particular with squad size 8 would let you do a lot of shenanigans.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Duck sized Muton
+
+Fabulous_Jellyfish71
+•
+2mo ago
+Unironically adorable as long as the gun doesn’t work properly and can still melt people with plasma
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+[Rounds]
+
+After using them more, I found myself pretty underwhelmed with AP rounds. The thing is, if you're doing well, armor on priority targets isn't going to last long, and if you're NOT doing well I don't think it makes that much of a difference. Think about it, what is armored enough to be a problem? For ALL robotic units I'd firmly state bluescreen always is better. An enemy needs 5 points of armor just to break even with bluescreen, and as soon as that armor is gone bluescreen is outperforming it. I'd "weigh" bluescreen at probably 7 points of damage even if it's only literally five, due to things like Fanfire and other effects of bluescreen. If you really are trying to slam that much armor you're looking at stuff like Gatekeepers, Andromedons, Shieldbearers, and Sectopods, especially on Legend. I'd argue Bluescreen is unequivocally best for Sectopods. Fanfired AP vs Bluescreen is night and day unless you're not hitting the Sectopod with anyone BUT one Sharpshooter. It's niche and late but damn is it powerful as a delete boss button.
+
+===
+
+As for the rest, IMO whenever I'm regularly fighting Gatekeepers I pretty much always have Disruptor Rifle or Darklance/Darkclaw. Lance isn't amazing vs Gatekeepers other than a distance attack. Darkclaw is effectively inherent AP so it lets you get up close and personal for bluescreen to hurt. Disruptor always crits against Gatekeepers so again that plus bluescreen can potentially do a ton of damage, even if you're not removing armor at all to brute force it a bit or perhaps timing your attack for when the shell is open. Anyways, in my opinion despite an Andromedon being both organic and then robotic, I still prefer bluescreen. Softening it up with Holo Targeting so the rest of your squad can damage it is a good move. It's not unusual for me to have a Ranger dump a sword slash or shotgun blast right into its face, but that leaves your Ranger right next to its melee heavy second form. A quirk I like to take advantage of is that if a Sharpshooter kills the first half of an Andromedon with Death from Above or Serial, it can take another shot against it (unlike Priests a lot of the time). Chances are you took quite a few actions to get down its first phase if you did it in one turn, so using bluescreen to brute force the second feels good. Usually if you chip a bit of damage from the second phase you can bluescreen sniper the Andromedon into dead with Plasma, potentially even being able to chain to ANOTHER target.
+
+===
+
+This pretty much leaves Shieldbearers. Which IMO are some of the least threatening ADVENT out there, not helped by them being extra tanky on Legend for a while. If you can one or two tap them with a Sharpshooter, there's maybe something to be said for that but in general they are one of my lowest priority and last targets I go for. You almost always get a free turn of "stall" with their high priority shield activation. And you know what's the funniest part? If you DO have to deal with their shields on other alive enemies, bluescreen bypasses it anyways. Shieldbearers are one of the few armor heavy organic targets and I STILL think Bluescreen outperforms. It basically only means bluescreen is bad on Shadow Chamber or SITREP notifications of heavy / exclusive organic enemies which honestly actually isn't that common. Before WotC AP rounds were probably better but if they're relevant at all I feel they are only relevant before you get Darkclaw and Darklance. Both are OP enough you should somewhat prioritize taking down the Hunter if you use Sharpshooters at all, as it's a genuine tier above Plasma whereas the Assassin and Warlock weapons are niche but not AS valuable, both absolutely requiring high rank class skills to get the most out of (Reaper, Guardian, etc). The early Death from Above on Sharpshooters is all you need to carry a Darklance. It's not quite rookie or Squaddie but it is close.
+
+===
+
+[Vests]
+
+Stasis Vest is a medkit that doesn't cost action economy though. Generally speaking it's still probably worse than a different item like ammo, definitely better to use a mimic beacon, but a case could be made for Rangers at least. If for some reason your first Chosen Citadel isn't taking a Specialist with a Medkit as backup, it's not bad. That said it's definitely not going to stop you being multihit or crit to death, and as you learn to play better and more aggressively you don't need it. It's similar to Enemy Within where the Secondary Heart just comes too late to really be relevant, and the cost is steep too. If my Rangers are even NOT in light armor I'll occasionally give them a Hazmat as a niche mobility boost, as I tend to never really use grenades on Rangers outside of the early game. But Grapple is just much better the vast majority of the time. I tend to slap a Mimic Beacon on Templars because they often enough get Fortress and because IF I have to not use a class' attack, a Templar (especially with low focus) is often who I'd prefer, plus sometimes they are out of position or would be with a Rend etc.
+
+===
+
+[Heavy Weapons]
+
+While Plasma Blaster is Null Lance I think it's actually quite a bit worse. Psi Soldiers are a support hero class that is significantly less dependent on positioning for a lot of their best abilities. Thus moving up to use Lance is less of an issue. IIRC it's also influenced by enemy Will scores so sometimes it can high roll. I've almost never managed to get good use out of the Plasma Blaster as Grenadiers typically have more precise positioning for grenades and such. And really, on Legend I prefer leaning into Salvo, which almost always prefers Blaster Launcher as almost position agnostic or Shredstorm for being like a shrapnel shotgun. Sidenote: Rainmaker on a SPARK with Shredstorm is hilarious. Even if you pull multiple pods you can potentially clear an entire ground floor of a building that way, and can even aim upwards to rip off sides of buildings. It requires you to invest in SPARKS which definitely have a lot of cons, but I thought I'd mention it as it's pretty fun and funny when you do get it going. I'm not sure if it's tactically sound, but it is some of the strongest AoE in the game if you care about that.
+
+===
+
+[Suits]
+
+I'd actually rate WAR suit lower just because its special ability is so marginal over EXO. On Legend while cores aren't necessarily an issue the extra supplies above and beyond the earlier purchase of EXO is just not worth it. Commander and below go for it, but I'd say it's a waste on Legend. I also tend not to build that many Wraith suits as its utility is also pretty marginal, but I have hit the Wraith button more times than the Shield Wall, so that's... something? My experiences with a similar One For All ability in Enemy Within makes me assume Shield Wall has the exact same issues or similar enough. EXO Suits do the important part and are cheaper.
+
+===
+
+[Misc]
+
+As silly as it is I'd personally give Bluescreen an effective six star rating. Why? Well not only is it SO good for so many situations, it's not dependent on RNG. You unlock it, you build it, you get bespoke ammo items. I WISH the other experimental ammo would work this way so I could buy appropriate amounts vs 4 venom rounds I'm basically never going to use. Or dragon rounds I use VERY sparingly. The timing, the consistency, the raw power, bluescreen are just stupid good. Unless you're drowning in Cores because of Vulture or whatever, you can skip Experimental Ammo any campaign and be fine if not more than fine. I only ever miss Dragon rounds when an organic lives by 1 hp but whatever. That's usually due to issues with Glancing or low damage rolls in general.
+
+Nanomedikits do interact with Medical Protocol but if you don't use it then yeah it's a waste. Back in Enemy Unknown I'd call this and how armor worked back then "mistake points".
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+Re: grenadiers, I think there’s basically 3 options for them:
+
+tracer rounds - I use these a lot early game, especially before colonels and superior scopes on cannons. The shred is too imperative. Once I feel like aim is in a solid spot, I’ll move to one of the below.
+
+blue screen rounds - busted for the reasons you mention, but also because grenadiers are often targeting mechs. Chainshot with BSrounds can potentially 1shot a sectopod.
+
+war suit/exo suit - utilizing the heavy weapon synergy with salvo
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I've just never unlocked tracer rounds at a time it mattered. Too many other things I prefer over Experimental Ammo in the Proving Ground, if I even build it early at all what with WotC providing other means to manage Avatar Progress. My typical approach to Grenadiers is to bypass ammo entirely for a while and go for EXO/Heavy weapons. Then in the mid game I can lean into grenades (Heavy Ordinance, Volatile Mix) and rockets, etc that all have guaranteed hit chance and their aim doesn't matter. I do like shooting with them occasionally once they can get Holo Targeting up, but I still would (and do) even if they miss, and the damage when it does connect is just a bonus. If I have it to spare, they tend to be my second priority for aim scopes and/or aim PCS. Scopes and stocks tend to be my preference on them, so they can at least do chip damage each time they fire. Expanded mags are also nice but I tend to go for that later in the game when there are more ammo based abilities I use more often. Suppression and Demolition are both weak early game. Hail of Bullets tends not to be a priority for me (especially compared to Salvo as action economy) and I usually wait til Saturation Fire. Later in the game bluescreens for buffing armor shredding and occasionally chain shot is pretty nice. I've gone entire campaigns without using chain shot though if I don't intentionally long term stack aim on them, as grenade and heavy weapon utility remains useful throughout the game.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+Yeah probably just a playstyle difference. I don’t heavily prioritize exo suit and heavy weapons. War suit and powered weapons are fine, but I don’t love exo/heavy as much.
+
+I’m already rolling my experimental ammo fishing for talon rounds for rangers anyway, and tracer rounds have such good general utility in that time frame where you’re sitting on mag weapons and non-colonels. Exotically if you end up with nothing to do with extra predator armor slots .
+
+I definitely think it’s totally viable to just use grenadiers primarily for grenades and heavy weapons. I just lean into the cannons and shredding and later holo targeting a little bit more. I usually end up getting both ordinance and holo targeting with AP, but the order depends on each specific grenadier.
+
+I don’t lean on hail of bullets that much (and while I use saturation fire, I always wish it was closer to shredstorm cannon), but the expanded mag is still super useful for chain shot. Chain shot is really awkward in a 3 round clip since it takes 2 bullets. I think I value aim stacking on them a bit more highly. If you’re focusing more on just grenades and heavy weapons, it makes sense that you’re deprioritizing scopes, aim PCSes, and expanded mags for them.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Funnily enough while I think powered weapons are great (to the point you can bypass "regular" heavy weapons minus the free rocket entirely), I actually don't really like the WAR suit, especially on Legend. The extra armor is nice but I don't tend to receive enough damage on Grenadiers for that to make a difference. If anything they'll get shot by an Andromedon and the armor basically won't even matter then. I might pick it up late game because why not but especially on Legend EXO >>> WAR, because EXO is way earlier and decently cheaper. The nice thing about EXO is that they can also become hand me downs. While EXO pairs best with Grenadiers for obvious synergy, they aren't hard locked to them. If I don't have a lot of Shredders on my team I might give one to a Ranger, so they aren't stuck making crappy shotgun shots from a distance if it's too dangerous to move in. Light armor is obviously better on them, but there have been times I gave them some extra help that way, as I really only most care about talons on Rangers so the one inventory slot isn't a big deal, it's not that common for me to play with Predator's 2 except in the midgame for Mindshields or whatever.
+
+===
+
+I also feel like EXO suits pair nicely with Psi Soldiers if you ever use them, both early and late. Early you're at the whim of starting behind and RNG for if you even have any useful skill unlocks, as Soulfire is kind of whatever. Psis care a lot less about equipped items and their rifles, so I usually turn them into "Super Specialists" so to speak. They're actually a decent choice for later game Bolt Casters as they can do other things when out of ammo, and I like EXO on them as they are far less reliant on positioning in general (other than Null Lance but eh) so you can get better value out of stuff like Shredstorm or unguided rockets. Ammo or a Beacon is all I tend to care about on a Psi and even then I don't always shoot unless I'm just deleting with a bolt caster shot. I find flamethrowers are super underwhelming in general (probably were better when it totally locked down melee), but rockets, blaster bombs, and shredstorms are worth having IMO, and are even more silly with SPARKs. An EXO suit kind of makes a regular soldier into a SPARK / temporary MEC soldier, which is nice considering SPARKS can't do Covert Ops or get the various benefits of bonds. I tended to only use Teamwork for the most part but honestly the other benefits of Bonds have come up on Legend way more for me, even niche stuff like Stay By Me.
+
+If you wanted to hardcore lean into cannon firing then the "non explosives" skills + tracers or bluescreen are fine. I find I just don't need scopes on anybody but rare Sharpshooters and sometimes Reapers and SPARKs, so I can correct their Aim issues with a Scope + Holo Targeting a lot. I actually find Hail of Bullets way more useful on other classes in general, as typically I use my Grenadiers as armor shredding first and foremost, whether that's heavy weapons or grenades or direct shots, but shots always feel like the riskiest, so you usually have to be decently close and they don't have great defensive skills like Rangers or Templars. Perhaps Blast Padding might change my mind sometime but I just never felt pushed into that route, as armor is generally fairly binary or you could do something silly like Overdrive Serum if you really wanted. Berserkers come early enough even on Legend.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+I basically never get exo suits early enough in a run to where they feel worth it (kind of like the way you feel with tracer rounds). And by the time I want powered weapons, the extra expense on war suits isn’t really a problem. I usually end up giving them to specialists if they aren’t in grenadiers. They often lag behind the rest of my units, so being able to do something like bond + blaster launcher or threat assessment + blaster launcher or something is nice.
+
+For psi ops, I usually tend to lean towards wraith suits for the extra mobility. Usually on legend by the time they finish training, you’re swimming in resources anyway. And your sharpshooter is hopefully on Icarus armor at that point. For psi soldiers, I don’t feel like they have a need to gain more “premium actions” like the war suits give with their built in powered weapon. Their kit already has so much busted stuff im almost never even firing with their weapon. I just want them to be in range to use their abilities (null lance, void rift, etc) to their fullest effect
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yeah Specialists with heavy armor are also pretty decent. I glossed over it a little but that's another thing I meant by hand me downs. Salvo on Grenadiers is huge for getting more value out of heavy armor and typically I'll have an EXO suit or two before getting WAR suits. Typically by leaning heavy on Plasma Grenades + Heavy Ordinance + Volatile Mix + Salvo I tend to have enough armor shredding in most cases on Grenadier without ever really having to worry about the aim stat on them past the mid game. I do sometimes directly fire their cannon into Sectopods and Gatekeepers but that's late enough in the game you're starting to round out your tech and equipment etc. For me typically Specialists and/or Sharpshooters are the first to get ammo on them with bluescreen. If I get lucky with a good experimental ammo or good scan that gives one another soldier can start wielding ammo, but it's typically only one on Legend in my experience before I start actually intentionally running ammo projects mid late game.
+
+===
+
+Psi's are fine in light armor but I've never felt they were super limited on mobility, especially because I often hang back and use Inspire or Stasis a fair bit as support skills (as well as trying to keep them in range for stuff like Solace which is pretty good). Void Rift is a really good and consequential AoE attack that I love (even if I basically only ever get to use it once per mission with them), and it kind of works like a psi heavy weapon. I've rarely gotten good value out of Null Lance, and though the damage can be quite good it feels like an even more finicky Remote Start and way later in the game. Psis are late enough in the game that a Blaster Bomb can work on them if they otherwise can't do anything else all that useful that turn. The way I use psis it's not unusual for all their best abilities to hit cooldown at some point and I'm just kind of whatever on stuff like Insanity. Domination can also be hit or miss, I think specifically of one particular time I grabbed a late game lancer and things like archons just blasted into death before it even got a turn. A weird stun I guess but overkill.
+
+rynchenzo
+•
+2mo ago
+You missed talon rounds, which are ridiculous on a Ranger with a laser sight on their weapon.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I mostly commented on things I disagree with or that I feel I can provide more nuance. Talons are my preferred ones on Rangers yes due to being able to almost guarantee crit with shotguns. Rangers with talons are the other delete unit button, and due to how strong bluescreen rounds are, talons are the best general alternative for organic enemies. I'd generally recommend slapping bluescreen on as many soldiers as you can, especially Specialists and Sharpshooters. I think it's one of the most impactful damage upgrades you can do for them, though I understand the idea of leaning into support with Specialists more and doing a skulljack and medkit for instance. In the later part of the game as XCOM power climbs I think you can drop the medkit for bluescreen, as skills still give you a few "free" heals or you can buy them with AP etc. I sometimes give ammo to Grenadiers (this is the only one I'd even consider tracer on but I don't think it's worth it, too weak for the opportunity cost) but typically I run heavy weapons on them and grenades. I'd really only think about ammo with Saturation Fire and even then I'd still be more prone to lean bluescreen for robotics spam in the late game and to pair well with armor shredding. Skirmishers and Reapers are the only ones I'd really consider alternative ammo on. I'd typically run a spare utility item on a Skirmisher but with Tactical Rigging or just other choices something like Dragon Rounds or AP is generally fine since Skirmishers have a little less damaging power by trading it for flexibility. You're not guaranteed ammo on a Reaper but if anything that would be my AP choice, in part for stealth damage and because Shred is semi-common on them and AP goes farther then, not to mention the potential of Banish. Pure RNG if you can run ammo on a Reaper at all though. Once I get talons they basically permanently sit on Rangers as a damage upgrade. I also felt like it was more interesting to talk about tactical changes for different classes. A case could maybe be made for talon on Reaper or Sharpshooter but I feel like crit fishing with them makes less sense. Both of those classes benefit from Scopes and Rangers can more easily get crit approaching 100%.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+Re: crit fishing with sharpshooters using talon rounds - not something I’ve done myself. But I do remember a video coming into my feed a while back of someone using talon rounds on their sharpshooter specifically for the Alien Ruler missions. Basically the idea was to use Fan Fire with talon rounds alongside the GTS perk that increases crit (I assume this applies to pistols as well as rifles, but I’m honestly not sure) to try to burst them down. I am not sure if it’s good or even really necessary given all the other anti alien ruler tools (banish, especially). But I suppose it’s a potential application.
+
+Functionally speaking, it’s probably close enough to “objectively correct” to just always give sharpshooters BSrounds. Arguably, you could say this applies to all classes with the possible exception of ranger. Like I think if someone was new and the only tip they were given was “give blue screen rounds to every single unit” that’s probably closer to being correct than being wrong, even if it’s not fully optimal
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+There are tools at your disposal (e.g. Steady Hands) that give extra crit, as well as leaning into a laser scope instead of an aim scope. You can get crit pretty high with talon rounds, but I'm not quite sure you can get it to 100%, probably close though on a flanked or exposed target. (Which is usually why I just let the normal crit range be there and not plan for it, as opposed to Rangers being something you can plan around.) Not every target you shoot at will count as exposed though (e.g. robotics), so it's less applicable. While Rangers will also shoot at similar targets, I feel like they are more often the organic delete button, and you can more consistently position for flanking as well as getting additional bonuses like the GTS Ranger perk. Looking online it says scopes don't impact pistols, as obviously extended mags and autoloaders don't matter. Special ammo does though which is what's confusing as Sharpshooters are a rare case where their secondary weapon is actually a similar weapon, and not a sword, or bomb, or grenade launcher.
+
+===
+
+There are situations where other rounds for snipers could be useful. I've tried AP on them as a natural fit, as merking a Shieldbearer in potentially one shot (especially on Legend) does feel nice. The main issue is that Death from Above is not solely sufficient til Darklance, and Serial is a pretty late game skill at which point you either have Darklance or damaging Plasma rifles if keeping up with your tech. If the Shadow Chamber or SITREP tells me it's mostly organic enemies, then I'd be less likely to take bluescreens unless there are also robotics on there (which feels like most of the time past a certain point). I've never really felt venom rounds are worth the hassle, but the debuff and damage of burning from dragon rounds is okay. The inherent extra damage and the burning might be able to kill a unit that'd otherwise survive at 1-3 hp. It's decent, but generally speaking from a certain point on robotic units are the worst ones. Even the basic MEC, while unlikely to be that threatening with direct shots, can missile your units at a big distance for guaranteed damage and armor shredding. If I've kept them up I've even had them knock units off of rooftops which is even more damage. Thus at a certain point the game tips in the favor of bluescreens, where you can power through even without armor shredding or delete units with. There is basically no real alternative for one or two tapping robotics with bluescreen with either DfA/Serial or Fanfire. Everything else is just more damage on targets that usually aren't a huge deal, vs eliminating targets that are almost always a problem if left unchecked.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+I forget that steady hands exists, so fair shout there.
+
+Also re: shield bearers, you may not be aware but BSRounds actually bypasses and collapse their shield. - which also includes collapsing any shields it placed on allies - so I’m pretty sure they are just strictly better than AP against them as well.
+
+I typically use tracer rounds on sharpshooters in the early game (if I even bring them) and then basically exclusively BSRounds once those are available.
+
+Re: the class and how they feel prior to darklance - I mentioned this to the OP in the actual sharpshooter thread, but there’s a mod you might be interested in. It is a mod that changes balance so maybe not everyone’s cup of tea. But the mod changes the Bolt Caster into a sniper rifle instead of an assault rifle.
+
+The basic gist is that sharpshooter sucks prior to darklance and bolt caster sucks basically always. This change makes both feel slightly better without being super OP.
+
+bolt caster still takes 1 action to fire (instead of 2 like a sniper rifle) - which makes it feel a little like a “baby darklance” because you can still move and fire
+
+bolt caster still requires a reload after every shot - it will trigger DFA, but you’re mostly using it to have the ability to move, shoot, and reload each turn, in some order
+
+it can’t receive any mods, but it does have an inherent aim boost. This helps with sharpshooters who have poor aim early. Especially before you get aim PCSes and superior scopes. One of the reasons I’m often running tracer rounds on sharpshooters in the early game
+
+I have definitely enjoyed playing with it. It makes sharpshooters feel actually useful and fun to include prior to dark lance. It also makes the bolt caster actually fulfill the role that I think the devs wanted from it, which is another stun tool against alien rulers as well as a weapon that has a little bit of “front loaded” power In that it can’t take mods (but is more powerful than your standard un-modded weapon). So it can be kind of an early game crutch. But! The “crutch” still forces you to use the “weakest” class to take advantage of it.
+
+I definitely recommend giving it a spin some time on a run and see how you feel about it. It definitely changes some of the sharpshooter tree evaluations. Like kill zone and serial are basically worthless since you’re basically turning the class into a DFA bot with this early and darklance late. But I basically build my sharpshooters that way anyway, with the expectation that I want to build and optimize them around darklance anyway.
+
+Definitely removes some of the class frustrations
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I wrote about bluescreen in the long parent comment:
+
+.... This pretty much leaves Shieldbearers. Which IMO are some of the least threatening ADVENT out there, not helped by them being extra tanky on Legend for a while. If you can one or two tap them with a Sharpshooter, there's maybe something to be said for that but in general they are one of my lowest priority and last targets I go for. You almost always get a free turn of "stall" with their high priority shield activation. And you know what's the funniest part? If you DO have to deal with their shields on other alive enemies, bluescreen bypasses it anyways. Shieldbearers are one of the few armor heavy organic targets and I STILL think Bluescreen outperforms. It basically only means bluescreen is bad on Shadow Chamber or SITREP notifications of heavy / exclusive organic enemies which honestly actually isn't that common.
+
+==
+
+and how they feel prior to darklance
+
+I actually still use Sharpshooters anyways, usually at least one on some missions. They're good for mitigating Lost into almost trivial (though Rangers are probably better and more flexible I think) and I do think there is utility in "guaranteeing" shots on a Lancer you want dead or whatever. Sharpshooters are easily a long range damage support and somewhat unique in their ability. And if you have to take a coinflip 50/50 shot on something like a retaliation mission at least they don't risk damage to themselves and injury timers. Even with GTS first I'm not exactly spoiled for choice in early Legend as it takes a while to get more of other classes. The Sharpshooter IMO is fine, and does more damage than my Specialists tend to for a bit. Specialists are mostly there as anti-Chosen bullshit in the early game and how assault rifles work is okay. A bolt caster is something but eh, I wouldn't bother til bluescreen. If I want damage I'd rather take a different class, but if I'm worried about injury or needing a revival, then that's when a Specialist is at its most useful IMO, at least until late game with Disruptor Rifle.
+
+rynchenzo
+•
+2mo ago
+Why do you run Sharpshooters, they are terrible until you get the Chosen weapon and just block a spot for someone better, like another Ranger or Grenadier
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I specifically noted Sharpshooters with Darklance and Darkclaw for late game damage. Bluescreen still applies there as it helps when they take sniper shots and Darkclaw is AP anyways when pistol firing. On Legend they can be a bit short on organics from full health / armor, but even in that case toss a grenade to break cover/armor and then Death From Above them.
+
+I agree that Rangers and Grenadiers are better for a fair while. You only need one or two Sharpshooters you can pick up from the Black Market or missions. I'd still rather take a Sharpshooter over a Specialist though. Not much point in the damage of a Specialist til bluescreen and even then really later for Guardian or being someone to hold Disruptor Rifle.
+
+giabao0110
+•
+2mo ago
+Early game where you meet your first Sectopod without a good specialist or a EXO suit, Acid grenade is a life saver.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You don't meet sectopods in the early game, they show up at Force Level 16. That is long, long, long after you have exo suits
+
+giabao0110
+•
+2mo ago
+Not that early but definitely before i got my first exo suit or im just researching wrong.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You are probably researching wrong. Sectopods are the 2nd to last enemy the game throws at you. You should have mostly beam weapons by then.
+
+u/ThanosWasRight161 avatar
+ThanosWasRight161
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Always wished XCom 2, had A Paperback Strategy Guide.(at least I never saw one) Man if there was ever a game you needed a heads up going in it’s this damn game. So much base building I did wrong.
+
+u/abcder733 avatar
+abcder733
+•
+2mo ago
+Either there’s been a bit of a nerf to Serpent Armor, or there’s a typo when you say it takes 125 days to make lol
+
+u/Revenge_accounted_be avatar
+Revenge_accounted_be
+•
+2mo ago
+Battlefield medicine makes medkits cure venom acid and fire. You never have to plan for failure but with some mods that add bigger enemies with more hp sometimes you have to tank some damage and advanced medkits are a really usefull tool with a specialist. Not entirely useless but yeah, it takes some dedication to make it worthwhile
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Medkits always cure every status, you don't need battlefield medicine for that. And also I hate medkits. I made an entire 2800 word essay on the subject 2 days again. It's in the index.
+
+u/comfortingmyself avatar
+comfortingmyself
+•
+2mo ago
+Nice guide as always, just some miscellaneous thoughts:
+
+- I'm pretty sure the Experimental Ammo has (some) logic to avoid dupes. I don't think I've ever had my first two Experimental Ammo projects return the same result, which definitely should've happened organically in all the time I've spent playing this game. And I've had multiple campaigns where my first five Experimental Ammos gave me all five different types of ammo, which if I'm mathing correctly is just under 4%, but it feels like that happens more often than that.
+
+- I wish Heavy Weapons could upgrade into Powered Weapons, something analogous to the Advanced Explosives project. But I can never justify building Heavy Weapons when other projects have more priority and there's a 50% chance for any result to be a dud. Powered Weapons are still annoying in that they have 50% duds too, but at least by that point in the game I might not have anything better to build.
+
+- I feel like Plasma Grenade is a 5 star project, primarily because it's available a lot sooner than 90% of all the other great projects. This and Bluescreen Rounds are pretty much the only two great projects that are available early. In fact I'll usually build Plasma Grenades first because it's a much cheaper investment for my entire squad to benefit, and Bluescreen Rounds still take a little more time to become truly OP.
+
+- I still give my Skullmine to my Specialists because Rangers already have multiple ways to dash and attack and Rangers have other items they rather want more. I can never have enough intel so I'll try to fish for a Skullmine every mission, as long as I can safely arrange it.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Special ammo might have some anti dupe logic, but if it does I a have no evidence for this other than it feels like it. I've definitely gotten dupes before getting all 5. I think some popular mods make it have no dupes? Maybe the highlander does???? Idk.
+
+antiguy1
+•
+2mo ago
+AP rounds are.. not great. Their use case is presumably for heavily armored enemies, but the better play is open with an armor shredding attack. With AP ammo, what, you'd shoot first, then for anything tougher than a Muton you're still going to need 2+ attacks anyways. If you have another soldier shred them first.. then what value did having the AP ammo bring? They're probably at their strongest around mid game where shredding attacks don't fully remove enemy armor. 
+
+Small clarification on Tracer Rounds. The +10 aim is only for standard shots. Most abilities that use aim do not benefit (sword attacks, Demolition, Killzone, Justice, etc).
+
+Also Frostbite and Rage Strike do not use their charge if they miss.
+
+Flamethrower does have a small niche in that it is not an 'explosive', meaning it won't trigger Lost swarms (and do double damage to them) and can affect Chosen with Blast Shield.
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+I tend to agree on AP rounds. If BlueScreen didn’t exist, they would probably have more of a home as ways to punch through stuff like sectopods. But most of the heavily armored units are mechs and BSrounds are just nuts.
+
+There’s maybe some argument for them against the chosen, but I agree you tend to be better off just shredding them instead. Honestly probably just speaks to shredding being probably slightly overturned.
+
+I could also see a hypothetical world where they saw more play on Rangers if Talon rounds didn’t exist. But they do, so…
+
+I think tracer rounds still work for stuff like chain shot that applies range penalties and is technically not considered a “standard shot” (as it doesn’t trigger DFA).
+
+antiguy1
+•
+2mo ago
+I think tracer rounds still work for stuff like chain shot that applies range penalties and is technically not considered a “standard shot” (as it doesn’t trigger DFA).
+
+Yeah that's one of the things you don't notice until you've really put time into the game. My first playthrough l leaned heavy into Killzone ambushes but then I installed a mod that showed accurate aim calculations and realized scopes did literally nothing for that skill...

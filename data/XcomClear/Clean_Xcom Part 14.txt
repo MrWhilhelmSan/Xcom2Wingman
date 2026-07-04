@@ -1,0 +1,557 @@
+It’s the best of classes, it’s the worst of classes. It’s Psi-ops! This is both the strongest class in the game (except maybe a fully maxed out late game sharpshooter/ranger) but also this class is terrible and you probably shouldn’t use them. Is that confusing? Well, allow me to explain!
+
+To use a psi-op you have to research psionics then build the Psi Lab. The details of the Psi Lab will come in the buildings guide but suffice it to say this building is kind of a rough sell, it’s very resource hungry. But regardless after you build it you can throw a rookie into it and you will get a choice of 3 abilities to train in. They will take 15 days (on legend, I believe it’s 10 days on lower difficulties) to get. They can’t gain XP normally; this is the only way to level them up. And you can just learn one ability after the other. If you leave them cooking long enough, you can get every ability on their tree. Additionally, they rank up for every ability you give them and have their own unique ranks. So if they have one power they are an initiate, two they are an acolyte, etc.
+
+This is a tough sell, generally. The classes in this game are insanely strong, so the extra effort to get what is admittedly a very powerful unit just isn’t worth it. You can beat the game without ever touching these guys and it wouldn’t even be that much harder, if harder at all building the Psi Lab does slow you down in building other things after all. Psi-ops are win more, if you are familiar with that concept. They help you beat runs you’ve already got locked up, not get a run from maybe losing to winning. But they are fun, and have the best anti-ruler ability in the game so maybe you build them just for that. Or just for fun, they are fun!
+
+As for the rankings, because you unlock this class so late I’m only considering the use case of their abilities for the late game, so for example Soul Fire would be amazing if you got it early, but you don’t so it gets docked down a few points. OK enough of an introduction, let’s get to it.
+
+Here is how the rankings for abilities (and other stuff) is going to work. 
+
+★★★★★ - The Best of the best. Abilities that things that you build around. Or weapon mods that are best in slot. Things of that nature. The difference between having stuff in this tier and not is so massive I’d consider it nerfing yourself not to grab them. You really, really, really want stuff with 5 stars.
+
+★★★★☆ - Really strong abilities. Abilities I am always happy to have and would trade a lot of other abilities for, but they aren’t quite as “must have” as the 5 star ones.
+
+★★★☆☆ - Abilities that are pretty good. Stuff that I would buy with AP quite happily but might pass up if the other ability is better.
+
+★★☆☆☆ - These are underwhelming. These abilities just don’t really do enough to justify having them. They might have very niche use or be passives that just kind of do very little. Stuff I just don’t care about. They aren’t horrible or useless, but you probably wouldn’t miss not having them.
+
+★☆☆☆☆ - Trash abilities that are just worth nothing.
+
+☆☆☆☆☆ - Given to abilities that are actively harmful. There is only one of these in the entire game.
+
+Stats:
+Rank	Aim (★★★☆☆)	HP (★★☆☆☆)
+Initiate	67	5
+Acolyte	69	5
+Adept	71	6
+Disciple	72	7
+Mystic	73	8
+Warlock	74	8
+Magus	75	8
+They have the worst aim and HP growths of any unit, but that also doesn’t matter at all. Like even a little, none of their abilities use their gun and they actually have amazing survivability because of one ability they get. These stats are sort of irrelevant.
+
+Additionally they start with a Psi, basically their hack stat, of 50 but they gain a random amount between 4-12 per rank up. So I can’t put it in the chart. More is always better but it’s out of your control and I wouldn’t stress about minmaxxing it, very few of their abilities actually care about this number.
+
+Weapons:
+Psi-ops wield normal assault rifles (and therefore can use the Bolt Caster) and the Psi Amp. 
+
+Assault Rifles (★★★☆☆) - They use them worse than Specialists because they have the worst aim, but you’ll still probably click shoot with this class a decent amount. Not all the time, they have a lot to do, but sometimes. They make a good candidate to hold the Bolt Caster because they have stuff to do that isn’t shoot.
+
+Psi Amp (★★★★☆) - Another weird thing to give stars to, but its bonuses are nice. The extra Psi strength is sort of whatever but higher level psi amps deal extra damage. I recommend skipping the tier 2 amp and just waiting for the tier 3 one. You are using this class late anyway so waiting on that isn’t a big deal. Their best skill doesn’t even care about any of this. 
+
+Abilities:
+
+Here is the table, as a reminder you can learn any of these in any order, other than the two “upgrade” ones, which I’ll flag when we get there. 
+
+Rank	Telepath	Resonant
+Initiate	Soulfire (★★★★☆)	Stasis (★★★★★★)
+Acolyte	Insanity (★★☆☆☆)	Inspire (★★★★☆)
+Adept	Soul Steal (★★☆☆☆)	Stasis Shield (★☆☆☆☆)
+Disciple	Solace (★★★★☆)	Sustain (★★★☆☆)
+Mystic	Schism (★★★☆☆)	Fortress (★★★☆☆)
+Warlock	Fuse (★★★☆☆)	Domination (★★★★★)
+Magus	Null Lance (★★★★☆)	Void Rift (★★★★★)
+GTS	No soup for you!	
+Soulfire (★★★★☆) - Soulfire is an active ability with a 3 turn cooldown that ends your turn. It deals (at base) 4-6 damage to any organic target that cannot miss and pierces armor. 
+
+“Click and do damage” is very good, obviously. If you got this early it'd be 5 stars easy, but you don’t, so 4 stars. It’s really good for knocking enemies down in HP to keep Serial/Reaper chains going, hit an Avatar to force them to teleport into a better spot for you. It’s good. It would instant one shot a trooper if you got it early, but you don’t, so sad.
+
+Stasis (★★★★★★) Stasis is an active ability with a 3 turn cooldown that costs one action point and does not end your turn. It puts any enemy (except Chosen) into a bubble. Inside that bubble they cannot take actions but you cannot harm them in any way. Units are not cured of damage over time effects but won’t take them inside the bubble. They are effectively removed from the battlefield for one turn.
+
+Your eyes do not deceive you, this ability has 6 stars, because Stasis was a mistake. They should not have put this in this game. Let me ask a rhetorical question, how do you lose soldiers? Well, by the enemy taking too many actions. The solution? Take an enemy off the board. For the cost of one action you take an enemy and remove them from play for an entire round. This cuts any pod you are fighting in strength by so much. Stasis a Sectopod to kills its fodder buddies, stasis an Andromedon to not get Acid Bombed, stasis a fucking Alien Ruler to reposition. Oh yea, this shuts down Alien Rulers entirely. You get an entire turn to just…do whatever. It interrupts Devestate! You get a whole turn to maneuver around it! Whatever problem you are having, putting it in a bubble is guaranteed to help. There’s a reason they made the Chosen immune, they knew they fucked up. This is the only skill that rivals Shadow in its insanity. The only reason this isn’t better is that it’s on a class locked behind the late game (though honestly Shadow might still be better, it'd be closer though) Otherwise I’d give it 100 stars.   
+
+Insanity (★★☆☆☆) - Insanity is an active ability that ends your turn and has a 3 turn cooldown. You roll your psi strength against their will (I believe the percent chance is literally just psi strength - minus as a percent, but someone do correct me if I’m wrong) and if it works a random mental status effect is inflicted on the enemy. They can panic, be disoriented, or be mind controlled for 2-3 turns.
+
+If this was earlier in the game I’d be nicer to it, but at this point you have so many tools at your disposal that a stun tool as unreliable as this just isn’t what you want. I basically never click this even when I use psi ops. The only reason to learn it is to upgrade Void Rift, but we’ll cover that in a bit. You should learn this and then not use it. I mean it’s fine, like it’s not the worst thing in the world, but there is better. I mean this class has Stasis, so…
+
+Inspire (★★★★☆) - Inspire is an active ability that ends your turn and has a 3 turn cooldown (lot of that going around). You grant another action point to any other squad member in line of sight. Except a SPARK, it doesn’t work on SPARKs. They care not for your weak magic.
+
+This is obviously great, often you will click stasis, click inspire in a turn and that is a huge swing in your favor. It’s worse than clicking teamwork (though more flexible) or combat presence, but it is a nice bit of flexibility. I almost gave it 3 stars but it's a little too strong for that, but it is on the weaker end of 4 star abilities.  It’s sort of a B+/A- skill, if that makes sense. 
+
+Soul Steal (★★☆☆☆) - Soul Steal is a passive that upgrades Soul Fire. You must have learned Soul Fire for this to be offered for you to learn. You now heal half the damage you deal with Soul Fire back, rounded down.
+
+I mean, it’s free healing for doing a thing you’d do anyway. If you have Sustain and are unlucky enough to have to use it then this is a way to build back your HP but honestly how often does that happen at this stage of play? It’s a passive and it’ll trigger sometimes but honestly skip it for better stuff offered. 
+
+Stasis Shield (★☆☆☆☆) - Stasis Shield is a passive that upgrades Stasis. You must have learned Stasis for this to be offered for you to learn. You can now target allies, not just enemies.
+
+Funny that Stasis is broken and this does nothing. There are very, very, very, very few situations where Stasising an ally is better than Stasising an enemy. If one unit is already injured and can't survive an attack and you don't have vision on the enemy and also you are out of other stun tools and also don't have anything better to do then I guess you'd click this, but I'm really grasping at straws here. Just stasis enemies, that’s broken. Don’t bother with this. 
+
+Solace (★★★★☆) - Solace is a passive ability that creates a 4 tile radius aura around the Psi-Op that negates any mental debuff. So the Psi-Op and any ally within the aura cannot be mind controlled, dazed, disoriented or stunned. They can still be knocked unconscious, for some reason.
+
+AKA “hey Warlock go fuck yourself” the perk. This is shutting down a lot of nasty stuff the aliens can do to you. Though it doesn’t fix Stun Lancers stabbing you in the face and knocking you out, for some reason. This also almost trivializes the Chosen because they can’t daze you. Also good for Avatar mind control in the final chamber if you let them live a round. This is great, take it. 
+
+Sustain (★★★☆☆) - Sustain is a passive ability that triggers when the Psi Op would die, instead they don’t, are put at 1 HP, and are in a stasis bubble until the start of your next turn. This can only trigger once per mission.
+
+It is a get out of death free card! The only problem is a) you’d prefer to never have this matter at all and b) the aliens aren’t guaranteed to target your psi op with their attacks. You can, if all else fails, run into the middle of nowhere with your Psi-Op and say “look at me I’m a target” and treat them as a mimic beacon that screams in agony and will be wounded for 16 years once you get back to base, but hey, if you have to, you have to. And just cheating death is obviously good if it happens.
+
+Schism (★★★☆☆) - Schism is a passive ability that is an upgrade to Insanity. You must have learned Insanity for this to be offered to you. It makes Insanity deal 2-4 damage automatically, even if it fails, and applies the Ruptured Status. So attacks deal an additional 2 damage to them. (the game says it "ruptures" them, but has a different damage modifier than the Rupture skill, because...fuck you that's why.)
+
+This is the reason to learn Insanity. It’s auto-damage which is nice and applying Rupture is good. The real thing is that if you have Void Rift (which I’ll cover in a minute) it also buffs that. I still don’t click Insanity much when I have this, but it buffs a different great skill to be even better, and that’s quite nice.
+
+Fortress (★★★☆☆) - Fortress is a passive ability that makes you immune to poison, fire, acid and explosions. 
+
+That is a nice list of immunities, but at this stage of play how often are you getting owned by those? It can help you path, because you ignore fire or acid on the ground, and on templars this is quite nice for enemies that explode on death, but for this class it’s just sort of a “nice to have” perk.
+
+Fuse (★★★☆☆) - Fuse is an active ability with a 3 turn cooldown and ends your turn (yet again). It lets you explode any grenades or explosives the enemies have on them, including if they are dead and haven’t thrown them yet. So if an officer has a grenade on them, it’ll blow up on themselves and blow up their own cover, shred them, etc.
+
+This perk is really funny. “Thanks for bringing explosives for me to use, idiot!” The best use for this is on perks while you are in stealth to blow up a whole pod at once. There aren’t a ton of situations where this is exactly what I want to click, but it can save you a grenade by using the enemies and that’s not bad. And it’s funny, that’s worth a lot!
+
+Domination (★★★★★) - Domination is an active ability that has 1 charge and ends your turn. You target one non-robot enemy and roll a psi check against their will and if you win you mind control that enemy until the Psi Op dies, evacs out, or the mission ends. They work for you now!
+
+This is absurd. The sheer change in action economy you get when you click this is ridiculous, assuming it works that is. You get a mimic beacon that shoots back and will scream in pain! It’s the best of all possible worlds! The best target for this is Andromedons, because they have shit will and 207 billion HP and armor. Though as a small note, if a unit you have mind controlled dies, it counts as a death on the final stats screen. Does that matter? No. Does it bother me a lot? Yes.
+
+Null Lance (★★★★★) - Null Lance is an active ability that has a 5 turn cooldown and ends your turn. It deals 7-11 damage at base (+1 for each tier of psi amp after the first one) in a 1 wide, 17 tile long line (technically it is as long as your sight line is, but that is almost always 17 tiles) ignoring all cover and obstacles. It will hit allies but does no damage to structures.
+
+This is basically just another heavy weapon you get to carry around. It can be hard to line up more than two enemies to hit with it but that’s OK two enemies hit with a fucking psionic laser is pretty good! Though there is a very important bug with this ability I have to talk about. If you don’t shout “kamehameha” at your screen when you use this your save file will corrupt itself. Just important for you to know that 😉
+
+Void Rift (★★★★★) - Void Rift is an active ability that has a 6 turn cooldown and ends your turn. It deals 3-5 damage (at base) and rolls a 50% chance to apply Insanity to every creature within a 7 wide radius. 
+
+This is an extremely powerful ability, especially if you have Schism. Because then every target in the area (that isn’t a robot) gets an extra 2-4 damage and is ruptured. You can delete whole pods with this if you catch them unaware, or at least get close. This is basically the reason to learn Insanity and Schism as far as I’m concerned. 
+
+Armor and Utility Items:
+Moving onto armors and utility items, here is my view on which of those you should consider. I won’t go over every utility item because I’d be here all day, but I’ll go over the ones I think are important. Similarly armors will be covered by category and in more broad terms because this guide is already very long.
+
+Here is a table of how good each armor type is on this class:
+
+Armor
+Light (★★★☆☆)
+Medium - (★★★★☆)
+Heavy - (★★★★★)
+Viper Suit/Armor (★★★☆☆)
+RAGE Suit/Armor (★★★☆☆)
+Icarus Armor (★★★☆☆)
+So for armors, they don’t have any special reason to want to be in light armor beyond wanting the extra movement. Everyone wants to carry a rocket around and because this class has sort of rough aim and no reason to invest in it just giving them another big boom is good. I wouldn’t use the alien rulers on them just because they have better candidates, but it’s not like they don’t work.
+
+As for utility items, I think we only have 3 to go over. Grenades, Mimic Beacons, and Bluescreen Rounds. Normally I’d talk about special ammo more detailed but for a class that has 0 gun related perks, there is no need.
+
+Frag/Plasma Grenade (★★★☆☆**)** - I mean, sure? It’s not like this is bad on this class but why did you become a wizard if you want to throw grenades at people? You’ll use them if you have them but…I mean…really? This is what you’re doing with the power to manipulate the fabric of reality?
+
+Mimic Beacon (★★★★★) - Look someone has to carry it and because Stasis is only one action (what were they thinking) you can throw this and click Stasis in the same turn for maximum stun. At this point you can have as many mimic beacons on a mission as you want, so why not give this class one?
+
+Bluescreen Rounds (★★★★☆**)** - Just because they don’t have any shooty abilities doesn’t make BS rounds a bad choice. +5 damage is +5 damage no matter what. It’s basically this or another mimic beacon (or heavy armor). Honestly this class's utility items don’t matter that much. They just don’t have any reason to need to care.
+
+Weapon Mods:
+This class has no gun abilities, literally none. So I’d actually recommend giving them the bolt caster instead of decking out a gun for them. If you do want to give them a gun, my advice isn’t really any different to that of specialists, minus anything I said about Guardian.
+
+PCSs:
+I’m feeling a bit like a teacher on the last day of school going over things this class does not care about, but sure. Why not?
+
+PCS
+Aim (★★☆☆☆)
+HP (★☆☆☆☆)
+Dodge (★☆☆☆☆)
+Will (★★★☆☆)
+Mobility (★★★★☆)
+Aim (★★☆☆☆) - What are you doing? You have 7 other classes to give PCSs to and this class doesn’t give a fuck about its aim. I guess if you have 10000 aim PCSs then sure. But also, who cares?
+
+HP (★☆☆☆☆) - I mean they don’t care that much about their PCS but on a class with Sustain and this late into a playthrough I don’t know how you would ever be in danger of dying.
+
+Dodge (★☆☆☆☆) - It’s an HP PCS, but worse. Again just sell these.
+
+Will (★★★☆☆) - It lets you bring them out a bit more but weirdly will has no effect on psi offence, so it won’t help you in an actual mission much. It’s fine to give this to the class that doesn’t need anything else.
+
+Mobility (★★★★☆) - Mobility is good because it can give you a few extra tiles of reach with Null Lance/Stasis/whatever, but other classes want this more. If you are bringing a Psi Op on the final mission and just want the best in slot, this is it.
+
+Summary:
+
+Despite the absurdity this class gives you they aren’t worth it due to their cost on the strategic layer. But if you do build them and they cook in their little Psi Lab enough they are the strongest class in the game. What is ADVENT supposed to do about Stasis and Domination and Null Lance and Void Rift on the same unit? Cry, that’s what. Before WotC this was the undisputed best end game unit, but with the darklance and katana and the training center that's less true than it was. Still, if you really want to have a wizard on your team for Leviathan, they are damn strong. It's just a shame the process to get them isn't really worth it. 
+
+ An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+169
+
+Downvote
+
+50
+Go to comments
+
+
+1
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+And with that, all the classes are done! Hazzah! We still have more to do. Next up is the Training Center/AP guide, then the weapon guide, then probably the research guide, base building guide, then enemies, chosen, and rulers and then that's it. So we're over half way through but not quite down yet!
+
+u/cyborgdog avatar
+cyborgdog
+•
+2mo ago
+I started XCOM 2 like a month ago and thanks to your guide it went from a frustrating game to one of my favorites games ever, I saved your directory post in my favorites as well, good job Commander.
+
+-FurtherReading
+•
+2mo ago
+I love these posts and can't wait to read the rest! Without much time to game nowadays getting to read through each of these is almost as good as a playthrough. Thanks for all the hard work you're putting in.
+
+Novaseerblyat
+•
+2mo ago
+Some minor corrections: the rupture from Schism "only" increases damage by +2, unlike the +3 from the Grenadier Colonel ability, and Void Rift only has a 50% chance of rolling Insanity on each organic inside. There's some other minor stuff too, like how Null Lance range is actually based on soldier vision range (and thus is cut short by the Assassin's Mountain Mist or slightly increased by that one otherwise completely ass hack reward), but those don't matter as much in a vanilla run.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Wait why does Schism have a different damage modifier than Rupture? The game says it ruptures the enemy! Stop lying Firaxis! The rest I did not know and have will update.
+
+Novaseerblyat
+•
+2mo ago
+Because Rupture technically isn't a status effect like something like burning or poison, it's instead a modifier to the damage itself the same way shred and pierce are - where Schism applies '2 rupture' and the Rupture ability applies '3 rupture' if that makes sense.
+
+1 damage rupture's relatively common in mods (especially applied by enemies) for this exact reason.
+
+u/Reddit-Arrien avatar
+Reddit-Arrien
+•
+2mo ago
+On the plus side, the damage from schism is applied after rupture, so in practice its damage starts at 4-6.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I have literally never seen Mountain Mist even show up in the Dark Events list and it's rare I even get hit by a blinding grenade by the Assassin. I have no idea what might trigger either as I can go entire campaigns without seeing either. This is definitely niche knowledge I expect few know.
+
+Novaseerblyat
+•
+2mo ago
+The Mountain Mist Dark Event isn't actually real, that's why. It's cut content, no idea why it was added to the wiki.
+
+u/Chubzzy1 avatar
+Chubzzy1
+•
+2mo ago
+You nailed it with the "win more" criticism. Unless you rush the psi-lab to the detriment of literally every thing else, the typical psi-op experience is them sitting in the lab for 2 months before they give Advent the belt in the last 2-3 mission of a campaign.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I believe there's streams/recorded videos of people trying this on Legend. It's the only difficulty where it'd really matter early and the opportunity cost is crippling. Hell for me even just hard rushing Magnetic Weapons was more crippling than I'd expect when there's other important shorter research afoot.
+
+u/GoodHeavens1942 avatar
+GoodHeavens1942
+•
+2mo ago
+'They can still be knocked unconscious, for whatever reason.'
+
+As powerful as the solace field probably is, I don't know if I'd trust it to protect me against the psychic effects of a crowbar to the skull.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Gordon Freeman knows this one weird trick!
+
+Garr_Incorporated
+•
+2mo ago
+"I wonder if the aliens are edible."
+
+u/comfortingmyself avatar
+comfortingmyself
+•
+2mo ago
+It's impressive how thoroughly WotC managed to nerf Psi Ops, despite (to my knowledge) making zero direct changes to the class. So many indirect changes all come together to make Psi Ops a shadow of their former selves:
+
+- Bonds take a couple of otherwise-exclusive Psi Op abilities (Inspire and Solace) and let any unit use them. Also your Psi Ops will take forever to make Bonds of their own.
+
+- Fatigue means that you can't use your Psi Ops as often as you'd like.
+
+- General power creep with Reapers and Templars existing, the Chosen weaponry becoming available late game, and the Training Center overhaul to let any unit use all their best skills.
+
+- Breakthroughs don't really benefit Psi Ops, certainly less of a benefit than they provide to other classes. It's not like there's a dedicated breakthrough for Psi Ops or anything like that.
+
+- Alien Rulers were nerfed in a gajillion ways, so the single biggest reason to rush Psi Ops (early access to Statis) has likewise become less relevant.
+
+- The Barrier Dark Event doubles enemy Tech and Psi resistance, and usually there's bigger priorities to thwart.
+
+In base Xcom 2 I pretty much always built the Psi Lab. Nowadays I only build it if I'm just wanting to fool around in the endgame.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+There's a case to be made for using the Covert Op option that forms a soldier bond. Even if initial compatibility is garbage (and it's not unusual to see 4 or below etc), as far as I know as soon as soldiers have level 1 they will always reroll into higher, typically the 7.0-7.5 range from what I've seen. Once you're there it's time consuming but not impossible to get Level 2, though Level 3 is a hefty investment for that late and probably unnecessary anyways given Inspire and alternatives. Level 3 feels like overkill in general, especially for how long your soldiers are out of the action on Legend, but I do use Dual Strike more on Legend so eh.
+
+Novaseerblyat
+•
+2mo ago
+Unless I've consistently gotten lucky across my nearly 1300 hours, compatibility clamps to exactly 7.5 if below once bonded.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You might be right. I don't often pair people that have naturally low compatibility, and I typically only do the relevant Covert Op once or twice per campaign. It's almost exclusively an option for Psi Ops or a late game unit reward that has good Training Center unlocks.
+
+charioteer117
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Psi Operatives are my favorite class, even over the faction soldiers because casting your psi magic all over the aliens is just very fun and cool. Usually they are a lategame class but you can also rush a Psi Lab after getting magnetic weapons and you’ll have Psi Ops in the midgame with half their abilities available, but as long as you have the basic 3: inspire, soulfire, stasis, they’ll perform decently well. It’s not the BEST strat, but it is viable. I will also say it’s bullshit that Legend doubles Psi Lab timers because that adds up very quickly.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Psis already take too long to train and it's excruciating on Legend. It is many multiple months to fully train them. IMO your best strat on Legend for using them at all is to always cook up two at once, so at least one might be usable before the game is over. I typically build a Psi Lab in my third row of Facilities and it feels like an 'appropriate' spot as I settle into my resources, already have Mag weapons, etc. It's a gamble to see if they pay off before being irrelevant, or like only being available in the late LATE game, but that's also okay as I typically build it on a shielded power spot, so it only costs me supplies and rookies I'd otherwise not use. I don't think you can justify building this without avoiding power consumption on Legend, as it's too hefty a cost for potentially too little reward. But my runs have usually allowed me to do the Lab and the Shadow Chamber on those spots so I don't have to sweat the rest of my base building, especially since I typically already have all facilities I'd consider essential (except Shadow Chamber sometimes but it's not like you can totally avoid it) by the end of the second row.
+
+stuckinatmosphere
+•
+2mo ago
+The Psi-Op lets you drop void rifts on all three Avatars in the final room and that's very funny.
+
+Also if you bring one of these guys, a specialist with good Hack, and are running Double Agent, you get even more friends on every mission. Good times had by all.
+
+u/Bomber678 avatar
+Bomber678
+•
+2mo ago
+What, and also use the Templar ability to create a psi clone?
+
+u/WittyFix6553 avatar
+WittyFix6553
+•
+2mo ago
+I’ve been following along for a while now but I do have one question:
+
+Would you say that XCOM is about alpha strikes?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Someone should count how many times I say the words alpha strike in this guide series. I bet it's a lot.
+
+u/Bomber678 avatar
+Bomber678
+•
+2mo ago
+It's really unclear what his view is on how you should play xcom 2. I think using overwatch a lot when you trigger a pod?
+
+u/Reddit-Arrien avatar
+Reddit-Arrien
+•
+2mo ago
+-The last time I played (which is not too long ago), fuse has no cooldown, so it can be spammed every turn if you want to.
+
+-afaik the damage from schism is applied after rupture, so in practice it’s starting damage is 4-6 rather than 2-4
+
+-Domination works against Dark VIPs, and if you make them evac, that counts as a successful capture (save you the effort to KO them and have a soldier carry them out).
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Ha, Stasis does deserve six stars. It has a solid niche on Legend, and if you have the resources to do it it can be worth pursuing even a single psi soldier borderline just for that. In my current campaign I lucked out on early ranks of my one of my psi soldiers being Stasis and Void Rift, two of my favorites. I was like wow, I actually get to use these soldiers for a change (as I was on the cusp of getting plasma upgrades)! RNG is a fickle mistress in XCOM but just being able to use Stasis against Sectopods or Andromedons feels great. At the same time though I delayed Plasma probably a whole month more than I needed to, so that's on me and opting to cover the gaps with Bluescreen instead.
+
+I'd contest that Shadow is still better. The ability to engage entire pods with such safety is huge. Stasis is just a 'mistake' delayer, whereas Shadow does more than just win more. The fact that Stasis is technically a first rank ability on Psi Operatives makes me wish to play the version of the game where their ranks weren't RNG, and instead progressed like SPARKs or whatever. If I could get Stasis that early I'd probably actually get a Psi Lab out soon after the Psionics research is available early game.
+
+I dock some points from Inspire since it takes your full turn and I often forget since Stasis is a busted one action only. It's a worse Combat Presence and Teamwork. Both are still good and I use it all the time, but it does make me wonder if I would have been better served just having a different class. This detail in particular is what gives me a shove towards giving a Bolt Caster (usually with Bluescreen) to this class, so at least I can reload and Inspire on the same turn as not a total waste. Bonding with Psis is often awkward both due to compatibility (do I really have time to do the bonding Covert Op?) and due to the fact I'm often starting to have some Level 3s by the time I even get my first usable Psi Op.
+
+I have never used Stasis Shield, or a Sustaining Sphere, even though I can see the appeal of both. It's a defensive ability that spends precious action economy. I'd probably only even consider it if I somehow pulled 3 pods and was SURE my Captain+ was going to die without it. And honestly at that point I'm just trying to fix a situation that could sour into a squad wipe, like a Sectopod getting off all its actions nearby.
+
+Because of their ranged support, fulfilling a similar role as a Specialist but way better, I've never really had my Psi Op take that much damage to even worry about Sustain (let alone healing). I find they are one of the classes least dependent on positioning unless you're leaning into heavy weapons and/or Null Lance, so typically no more than one or two enemy units can even see them. That said, Solace is great as an ultra version of Stand By Me. It's not that hard to move a backline Psi Op in such a way to cure ailments if you somehow end up in that situation, and it's great to mitigate debuffs. One of the only good defensive abilities in the game, and that's because it's completely passive.
+
+The only thing I knock against Void Rift is that the animation for individual Insanity applications is tedious as all hell. That said when you get all your buffs out I'd argue this is the strongest heavy weapon type attack in the game. Sometimes it'll outright kill units in one application, and those that don't are usually left crippled by Insanity rolls and Rupture damage. Were Psis to have normal skill progression I can see why this would be Colonel, but by the nature of how they level you can potentially get this earlier in the "leveling" process, giving a great offensive tool to your arsenal. I typically have my Psis roll in EXOs or WAR Suits anyways at a certain point, so more boom and AoE is always great!
+
+u/V-Lanner avatar
+V-Lanner
+•
+2mo ago
+I must have the worst luck my psi ops received shredder and kill zone lol. The low aim hurts, I may go aim for the PCS having shred on multiple targets with plasma rifle is too good to pass up.
+
+u/shuipz94 avatar
+shuipz94
+•
+2mo ago
+I thought Psi Ops can't get bonus abilities from the Training Center (in WotC)? It's why I always use Rookies with Standard combat intelligence for Psi Ops. Unless, they can roll bonus abilities through the Advanced Warfare Center in vanilla?
+
+u/V-Lanner avatar
+V-Lanner
+•
+2mo ago
+You know, I think you're right I am playing a modded version of xcom2 right now. Next time I'll state that to avoid any confusion.
+
+u/customcharacter avatar
+customcharacter
+•
+2mo ago
+Despite the absurdity this class gives you they aren’t worth it due to their cost on the strategic layer.
+
+Disagree. Sure, they take a while to build up, but it's not like you have to lock them in a closet the whole time. The moment you get Stasis they become useful, and Tired Psi Ops can still progress their learning. The only thing that stops them is healing an injury.
+
+The time investment really isn't that bad either. It's a base of 10 day for on-rank abilities, which is halved with a staffed Engineer. Though for some reason this is more than doubled on Legendary to 25, so even with Legendary basically doubling the length of the game it's still a harsher timesink...but it's a lot safer than bringing a Squaddie to a FL 20 mission.
+
+I would also point out that natural Psi caps at 100 and the median roll is +8.5, so you need to roll consistently below average to not reach that by the time they hit Magus.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You aren't ever really in a position to bring a squaddie to a FL 20 mission, though. Like, the runs over at that point you're just stalling it out.
+
+u/customcharacter avatar
+customcharacter
+•
+2mo ago
+Are you sure? It only takes ~6 and a half months on non-Legendary/9 and a half months on Legendary for FL to hit that point. That's ~mid-October 2035/~January 2036.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea basically all my campaigns on legend end in Feb 2036, so just a little bit after FL 20.
+
+u/customcharacter avatar
+customcharacter
+•
+2mo ago
+Eh, maybe it's a skill difference then, because my one successful L/I run went to June 2036, and it was not a victory lap.
+
+According to the screenshot I took, I lost 22 soldiers, and I'm pretty sure most of those were Squaddies when I was trying to fill out my roster again after my third Chosen takedown went terribly, hence why I brought it up.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+oh yea if you get squad wiped killing a chosen you might be sent back down the mountain. But that's pretty rare. And in that case then yea getting a psi op can be a way to sort of stabilize (also buying people off the black market). But that is a niche situation. Even when I'm not going for deathless runs I lost like 1 soldier post FL 16 at most, usually to a sectopod that I couldn't stun.
+
+u/plzreadmortalengines avatar
+plzreadmortalengines
+•
+2mo ago
+I think this is the big important point though - psi operatives provide a sort of insurance against losing a campaign to squad wipes in the mid-late game. I agree psi labs should be one of the last things you research/build, but if somebody was playing legendary for the first time I would absolutely not advise them to skip it entirely.
+
+I have come back from full squad wipes with colonels on L/I, and psi ops are a big part of making that easy.
+
+u/Dry_Area_1278 avatar
+Dry_Area_1278
+•
+2mo ago
+just wanted to pop in and say I've been enjoying the guide! Your thought process is very clear and easy to follow, and I've learned a lot. Thanks for all the hard work!
+
+antiguy1
+•
+2mo ago
+Solace does not protect the Psi-Op from Mind Control. I can vouch for that personally.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Huh, I may have run into that as well but it seems like a bug. The wording on the ability specifically says it's supposed to extinguish/block all mental impairments including for themselves.
+
+baddoge9000
+•
+2mo ago
+Thanks Matt. I salute your effort 👌
+
+u/N7_Rabbit avatar
+N7_Rabbit
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I know they are op but i just can't. Psi is for aliens we have guns!
+
+redbird7311
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Psi-operatives are very odd and used to be my favorite class, hands down, but now I find the things I liked about to be things I don’t like.
+
+They are usually considered the strongest class in the game, but also are the most unnecessary as you said. I also find them the most boring class because they are too strong and versatile. That kinda sounds contradictory, but most battles with them maxed out go like this:
+
+Player runs into problem.
+
+Psi-operative uses one of their many abilities to either trivialize or outright solve the problem.
+
+They give the player a lot of margin for error to the point where things can really only go wrong with them in your team is if you actively misuse them or just get really unlucky. To me, X-com is at its best when it forces you to think and plan, something that psi-operatives don’t encourage as much as most other classes.
+
+Also, and this is a preference I prefer going on the journey for promotions and abilities with my soldiers and I won’t understand the decision to just stick psi-operatives in a lab as their training. It feels a lot better having the story of how my specialist save day because she shutdown a sectopod, how my soldiers beat the odds, got that one crit when they needed it the most, how they came out of a bad situation with 1 hp, barely scraping by, and/or how they saved a teammate bleeding out by doing just good enough to deny death. Meanwhile, psi-operatives don’t really get that, they stay in the lab and aren’t that hard to replace, so, I didn’t find myself caring for them too much.
+
+Which is odd, because I used to like the fact that I didn’t have to send them on missions to level up and how they are so strong.
+
+u/Aleolex avatar
+Aleolex
+•
+2mo ago
+Dont you unlock the psionics research right after the sectoid autopsy? I understand wanting to prioritize other research but I'd hardly call that late-game.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yes but what they mean is a combination of the following:
+
+You need to prioritize this tech over the MANY other useful things early game (like Bluescreen, I'd also argue Plasma Grenades, Mag Weapons, and continent bonuses at least, probably also the basic Proving Ground into Skulljack)
+
+Psi Labs have a hefty power, supplies, and maintenance cost consumption, especially if you're going for both slots to mitigate the deep time cost on Legend (it's less bad on Commander)
+
+The RNG nature of skill unlocks means you might be cooking a Psi Op for up to months to get them actually worth taking over another soldier. If you're unlucky the best skills might get locked to the last 4 or so unlocks. On Legend, with a dedicated Engineer for training reductions you're still looking at half a month typically for unlocks, and that's assuming they never get injured or go on a covert op or whatever.
+
+IMO, the best case scenario for their usability on Legend is by the time you get Plasma weapons. Which if you can survive that long I'm not sure how you can really lose anymore other than total carelessness about the AVATAR Project and/or complete squad wipes on your best soldiers.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You unlock psi ops after researching both the sectoid autopsy and psionics. But then you have to build the psi lab on top of that. At the absolute fastest without shooting yourself in the foot you might be able to get it around Force Level 10-12ish, but even then it's probably wiser to do other things with the energy you spent getting this far. And on top of that you have to stick the psi op in the lab to actually get abilities, which pushes things even further out.
+
+u/Darkone259 avatar
+Darkone259
+•
+2mo ago
+Psi operatives are by far the coolest but they can feel weak at times that's why using mods for them is just often better in my experience, i wish they when with the Xcom EU way in the base game making it so any class could become a psi operative ontop of their original class, spreading out the abilties more idk
+
+u/FreeMystwing avatar
+FreeMystwing
+•
+2mo ago
+As soon as I saw the title of this post, I thought - if you don't gas up Stasis as one of the best abilities in the game you'd be trolling.
+
+Garr_Incorporated
+•
+2mo ago
+I think the reason Solace does not fix Unconscious is because that is the effect you are put into when using Medikit on your Bleeding Out units. So this aura would effectively awaken various units that are meant to stay down. Though this is still rather nonsensical.

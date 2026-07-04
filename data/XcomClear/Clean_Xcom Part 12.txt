@@ -1,0 +1,751 @@
+I’m going to say something that may sound contradictory, but is not. Skirmishers are both overhated and the weakest of the faction units. What do I mean by this? Well they have a reputation for being a terrible unit amongst some of the X2 community and I don’t agree. In the early game they are extremely powerful. They aren’t as obviously broken as reapers or as flashy as templars but they are very good. I’d go so far as to say on Gatecrasher specifically I think they are the strongest unit you can have on that mission. The problem is that power doesn’t carry into the late game. None of their late game perks are that good, in fact most of them are quite bad, and so when your ranger is running around rapid firing people and reapers get Banish skirmishers are still doing the same thing they were as a squaddie. Still, their base tool kit is strong enough to give them a lot of power to play with, but they do end up, in the long run, being the weakest late game unit, and that’s sad.
+
+Here is how the rankings for abilities (and other stuff) is going to work. 
+
+★★★★★ - The Best of the best. Abilities and things that you build around, or weapon mods that are best in slot. Things of that nature. The difference between having stuff in this tier and not is so massive I’d consider it nerfing yourself not to grab them. You really, really, really want stuff with 5 stars.
+★★★★☆ - Really strong abilities. Abilities I am always happy to have and would trade a lot of other abilities for, but they aren’t quite as “must have” as the 5 star ones.
+★★★☆☆ - Abilities that are pretty good. Stuff that I would buy with AP quite happily but might pass up if the other ability is better.
+★★☆☆☆ - These are underwhelming. These abilities just don’t really do enough to justify having them. They might have very niche use or be passives that just kind of do very little. Stuff I just don’t care about. They aren’t horrible or useless, but you probably wouldn’t miss not having them.
+★☆☆☆☆ - Trash abilities that are just worth nothing.
+☆☆☆☆☆ - Given to abilities that are actively harmful. There is only one of these in the entire game.
+
+Stats:
+
+To begin, they have the following aim and HP at the following ranks:
+
+Rank	Aim (★★★★☆)	HP (★★★☆☆)
+Squaddie	68	5
+Corporal	71	6
+Sergeant	74	7
+Lieutenant	76	8
+Captain	78	8
+Major	79	9
+Colonel	80	10
+They have exactly the same aim and HP growths as rangers,  which is good. It’s the 2nd best aim growth and HP isn’t that important a stat so it’s all good.
+
+Weapons:
+Skirmishers wield their bullpups and ripjacks.
+
+Bullpup (★★☆☆☆) - Bullpups are shotguns that have a 3 clip and deal 3-4 damage instead of 4-6. So…a really bad shotgun. It gets worse as the gun levels up, their damage grows barely at all. Bullpups are kind of the worst of all worlds. The short range table is usually a blessing, but because this class grapples around it can be a little iffy. They do low damage, and they have a small clip. If you could give this class a normal rifle or shotgun they’d be much better.
+
+Ripjack (★★☆☆☆) - Ripjacks are basically swords that does a flat 4 damage rather than having a range and are used by specific abilities in the skirmisher's skill tree instead of just slashing with it. So it’s a slightly worse sword. It isn’t that big of a deal though.
+
+Abilities:
+As always, here is a table of every ability the skirmisher gets. 
+
+Rank	Hussar	Judge	Tactician
+Squaddie	Marauder (★★★★★)	Justice (★★★★☆)	Grapple (★★★★★)
+Corporal	Reflex (★★☆☆☆)		Total Combat (★★☆☆☆)
+Sergeant		Wrath (★★★☆☆)	Zero-in (★★★☆☆)
+Lieutenant		Whiplash (★★★★☆)	Full Throttle (★☆☆☆☆)
+Captain	Combat Presence (★★★★★)	Retribution (★★★☆☆)	Interrupt (★★☆☆☆)
+Major	Waylay (★★☆☆☆)	Reckoning (★★★☆☆)	
+Colonel	Manual Override  (★★☆☆☆)	Battlelord (★☆☆☆☆)	Judgement (★☆☆☆☆)
+GTS	Parkour (★☆☆☆☆)		
+Only 1 5 star ability after squaddie, ouch. 
+
+Marauder (★★★★★) - Marauder is a passive ability that makes your standard shot a non-turn ending action. So if you don’t move you can shoot twice.
+
+The ability so good they nerfed the rest of the class out of fear! If you target one enemy with this, your gun becomes a 6-8 damage one instead of 3-4, that’s pretty good. Obviously you have to not move and not miss for that, but because of the grappling hook this class gets, that's not that big of a problem. It’s a lot of extra damage and action economy, it’s obviously very, very good. Shame skirmisher’s gun isn’t that good otherwise this would be even crazier.
+
+Justice (★★★★☆) - Justice is an active ability that costs 1 action, isn’t turn ending, and has a 3 turn cooldown. It targets one humanoid enemy (so ADVENT, codexes, spectures, and AVATARs) and rolls a chance that is your aim + 20 - their defense and cover (so no range table is applied) to pull them adjacent to you and slash at them with your ripjack.
+
+This is very good. Because the enemy is pulled directly next to you and this only costs 1 action if it hits and you click shoot you can kill an officer with just the skirmisher's actions alone. The chance to hit is also usually very good unless the enemy is in full cover. It is very good, doesn’t work on every enemy, but is very good.
+
+Grapple (★★★★★) - Grapple is an active ability that is a free action and has a 2 turn cooldown. You grapple, just like having a Spider Suit.
+
+A grappling hook on Gatecrasher?! Yes please! It’s a ton of extra mobility and (because of the +20 aim bonus from height) aim for free. You get this so early compared to normal spider suits. This never goes out of style.
+
+Reflex (★★☆☆☆) - Reflex is a passive ability that grants you an additional action point the turn after you are targeted for an attack. This only works once per mission.
+
+I can only repeat this so many times before I sound like a broken record, but this is a game about alpha striking, you don’t want to get targeted. And it’s not like skirmishers get parry to negate the damage they just have to eat it. Now in a turn where everything is going to shit and you are starting to nose dive into a death spiral this can bail you out. It lets your skirmisher shoot three times (or probably move shoot shoot) in a turn. So it can be helpful, but it is more of a recovery tool, and I don’t like recovery tools in this game. It is probably the better ability at this level, but eh. 
+
+Total Combat (★★☆☆☆)  - Total Combat is a passive ability that lets you throw utility items as a non-turn ending action. So you can throw a grenade then shoot or move, for example.
+
+On any item that isn’t a grenade, I don’t know what this is doing for you. You can already shoot and then do something else so what’s the difference between throwing a mimic beacon then shooting or shooting then throwing a mimic beacon? The real use case is so you can grenade someone’s cover then shoot at them. And that sounds good, but in practice it’s just hard to pull off. You don’t have launch grenade so you can’t throw your grenade that far, so often you need to move up to throw it and now this ability has done nothing for you. There are situations where this is helpful, but eh. It’s just hard to actually use in practice. I honestly prefer Reflex over this. And given my suspicion for most reactive abilities in this game that is saying something. It’s fine, and if you think it’s better than take it, but meh. This whole rank is meh.
+
+Wrath (★★★☆☆) - Wrath is a non-turn ending action that costs 1 AP and has a 3 turn cooldown. It gives you the same chance to hit as Justice, but can target anyone and pulls you towards the target to slash them instead of you pulling them. If this misses you don’t move and you can’t choose the tile you end up in.
+
+It’s Slash, this is just Slash but it costs 1 AP. In fact it’s a lot worse than slash because getting this to 100% to hit is actually really hard. I used to really like this ability, the more time goes on the less and less I like it. If it hits great you pull yourself to the enemy and can shoot with your last AP too but if you miss you don’t move so your plan is sort of ruined. I don’t know, it’s not that bad and it can be useful but the more time passes the less I click it. 
+
+Zero-in (★★★☆☆) - Zero-in is a passive ability that gives every shot after your first one on a turn +10 crit chance, and if they are against the same target, it’s +10 aim as well. EDIT: If you do anything else, move, grapple, reload anything the bonus will go away.
+
+That crit chance is sort of whatever because skirmishers don’t have anything to incentivize them to go crit fishing but a free +10 aim on heavy targets you need to shoot a lot is pretty good. Nothing mind blowing, but it’s not bad. 
+
+EDIT: because apparently if you do literally anything other than shoot twice in a row the Zero-in bonus breaks, this class actually prefers expanded mags over auto-loaders.
+
+Whiplash (★★★★☆) - Whiplash is an active ability that is a free action and only has 1 charge per mission. You make an attack that has a similar chance to hit as Justice/Wrath, it does a 6 flat damage, but 12 to robots and does not pierce armor.
+
+This is very good “hey you take 6” is obviously strong. It can miss, that sucks, and it doesn’t pierce armor so the extra damage on robots takes some work to get that to fully sing because you have to shred armor first. That isn’t too hard, but it is a thing you have to do. It also only works once per mission, which is sad. That’s not that big a deal most of the time, most missions just don’t have that many enemies in them, but on Leviathan it's a problem. Still, this is quite good.   
+
+Full Throttle (★☆☆☆☆) - Full Throttle is a passive ability that grants your skirmisher +2 mobility per kill gained for the rest of the turn.
+
+I don’t even know how I would use this. Like, I have to shoot, get a kill and then move and for some reason that move has to be enabled by 2 extra mobility. That does not seem very likely. If you are fighting lost this is funny but that’s not a reason to take this.
+
+Combat Presence (★★★★★) - Combat Presence is an active ability with a 2 turn cooldown that costs 1 action and does not end your turn. You target one ally within line of sight and they gain an additional action point.
+
+Holy shit this is good. Trading actions 1 for 1 is extremely powerful. This lets you get a pseudo rapid fire, extend serial/reaper chains, or just give you a little extra flexibility. It is probably the most powerful ability skirmishers have, it's just that good. Shit’s crazy.
+
+Retribution (★★★☆☆) - Retribution is a passive ability that causes skirmishers to slash at any target that moves or attacks within melee range.
+
+It’s Bladestorm, they just made Bladestorm again. But it’s worse, because skirmishers don’t get Blademaster. It’s chance to hit on a target with no innate defense at this rank is 69% and it only gets lower from there. And 70% is just too low to base a gameplan around. You can do the same “run into an unactivated pod slash at all them” thing with this as you can with Bladestorm, but why am I using a super special hero class to do something a normal unit can do better? There isn’t any katana or similar to make this insane, so it sits a good few rungs below Bladestorm in power. Still, its free attacks sometimes that’s pretty good.
+
+Interrupt (★★☆☆☆) - Interrupt is a one charge active ability that ends your turn. When the enemy moves or attacks, the skirmisher can take any action other than overwatch. If they make an attack, it does not suffer the overwatch penalty. Their first action fully resolves before Interrupt triggers, so if they move into cover for example the shot you take with this will be reduced by it. 
+
+I don’t really know what the point of this is. Like, why not just go on overwatch? Sure if you take a shot with this it’s more likely to hit in theory, but if the enemy moves into full cover then that is probably no longer true. And I don’t really know what the point of doing other stuff is. I guess you could throw a grenade during the enemies turn which is cute but, like, what are we doing here? You might be able to squeeze use out of this, but honestly skip it.
+
+Waylay (★★☆☆☆) - Waylay is a passive ability that lets you take as many overwatch shots as you had actions remaining. So had both actions remaining on the previous turn you take two shots.
+
+Why are we building around overwatch on a class with the short range table? There are times where you will sit on your butt and just click overwatch and nothing else, but is this really going to be the difference maker between life and death? Its benefit is so marginal for a Major perk. You know specialists get Guardian at this rank right?
+
+Reckoning (★★★☆☆) - Reckoning is a non-turn ending action that costs 1 AP and has a 5 turn cooldown. You run in and slash the enemy. It acts just like the ranger’s Slash but only costs 1 AP.
+
+This….this is just Wrath again! It’s literally just Wrath but you always move and pick the tile you end up in. With Retribution you can click this then get a bunch of bladestorm attacks off if you attack a fresh pod, but doing so is just worse than doing it with a ranger. You get to keep an action point, but…so what? This can give you a lot of forward momentum because you can dash, slash, then move again and that can be useful sometimes but this is literally just Wrath but again most of the time. Why is this a Major perk again? Why does it have a 5 turn cooldown when you can spam slash???
+
+Manual Override  (★★☆☆☆) - Manual Override is an active ability that has no cooldown and costs 1 action and does not end your turn. Every ability’s cooldown on the skirmisher is reduced by one.
+
+This is the best Colonel ability skirmishers get, and isn’t that sad. There will be situations where you really, really need to grapple and this will shave the one turn off that cooldown, it’s just sort of thin. And if you have time to sit there and spam this, you could’ve just waited for everything to come off cooldown anyway. It’s not bad, but if the other Colonel abilities weren’t garbage then you could justify skipping this.
+
+Battlelord (★☆☆☆☆) - Battlelord is an active ability that has 1 charge and ends your turn. You get to take an action after an alien moves or attacks twice. The game says “each time” but this ability is bugged (Firaxis why?!) so it only works twice.
+
+This is better Interrupt, in effect. You get to use Interrupt twice on a turn. If you have a colonel, why is the enemy getting to take so many actions? I guess if you like throw a mimic beacon and they shoot at it you get to take two more shots that round so it’s technically +1 attacks, but also what are we doing here? You know rangers get rapid fire here right? The situations where this is useful are just so specific. Skip it.
+
+Judgement (★☆☆☆☆) - Judgement is a passive ability that makes it so any enemy who attacks the Skimisher has to roll a will check (I am unsure of the exact percentage, but I know it increases with your armor tier) or they panic.
+
+What are we doing here? Why are we getting targeted for attacks at colonel?! Why is a bad SPARK ability the capstone of this class? What?! This baffles me, truly and completely. Panicking the enemies is nice and all, but this is the turn after you needed the enemy stunned if you got targeted, not during. It doesn’t interrupt enemy attacks after all. This offends me that they think I might want this.
+
+Parkour (★☆☆☆☆) - Parkour is the GTS ability that gives you a 5% chance to gain an additional action point after taking any action. This roll happens after you do anything, move, shoot, grapple, click Whiplash, anything.
+
+A 1/20 chance to maybe do something? For 200 supplies? No thanks. You can get the dice to roll for this a lot, but as anyone who’s played D&D before will tell you just because you roll a lot of dice doesn’t mean any of them are going to be a Nat 20. This is just too luck based for how much it costs. You’re basically spending 200 supplies on a regular hair trigger, that shit ain’t worth it.
+
+I do want to mention at this point a variant strategy that The Reddest of Goats (https://www.youtube.com/watch?v=nKLMIHusFik)  ) figured out where you Hunker down and apply Aid Protocol to a skirmisher and use their reactive abilities (specifically return fire which we will talk about in a minute) to become basically unhittable and wear down the enemy. This works because if you stack defense high enough ADVENT literally can’t hit you with normal attacks because their to hit rolls are static, and with return fire or retribution you can just slowly whittle away at ADVENT as they miss you over and over again. For example an advanced trooper has an aim of 70, so if you get 70 defense by hook or by crook (hunkering down gives 20, high cover gives 40, and aid protocol gets you over the line) they literally cannot hit you and because skirmishers have so many reactive abilities you just slowly chip away at them. And the idea is pretty similar for other unit types as well. That's just one example.
+
+Now this is funny, and it works to an extent, but it has a lot of issues. One is that it requires you to bring 3 specialists to keep aid protocol up at all times due to the ability’s cooldown. You have to bring medkits to heal the skirmisher up when (and with this it is more a when not an if) you get hit anyway. And a lot of enemies punish this heavily. Heavy MECs will happily use explosives on one unit, Sectopods can get three shots off from high ground and just kill you if you get unlucky, a Viper’s bind doesn’t have a to hit roll if they get next to you, and you need a mindshield or you are begging to get owned. In addition it basically paralyzes the rest of your squad, they can’t jump into a fight or you’ll ruin the setup. There is just so much variance involved in doing something like this than just playing the normal “alpha strike or die” style that I find this build kind of underwhelming. It’s so specific compared to just…not doing this and doing anything else. But it doesn’t not work, it’s just really specific and annoying. And if your skirmisher doesn't roll Return Fire it barely functions, so I wouldn't recommend it. It is very funny however, you get an enemy phase build from Fire Emblem in XCOM that’s hilarious.
+
+XCOM Abilities:
+
+Here are the XCOM abilities skirmishers can learn, and yet another area they get kind of screwed on, how sad.
+
+Abilities
+Return Fire (★☆☆☆☆)
+Lightning Reflexes (★★★☆☆)
+Tactical Rigging (★★★★★)
+Volatile Mix (★★★☆☆)
+Saturation Fire (★★★★☆)
+Return Fire (★☆☆☆☆) - So I have to get shot at, not the best start, and then I make a short range table shot off with the overwatch penalty on a gun with a 3 clip…yea…no…I’m good. I think this might actively nerf you in some situations when you take it. It is necessary for the Enemy Phase build I mentioned above, but I don’t really go for that.
+
+Lightning Reflexes (★★★☆☆) - Lightning Reflexes is a passive ability that makes the first overwatch shot miss the skirmisher on their turn.
+
+This is better Shadowstep most of the time. Usually there isn’t more than one enemy on OW and this solves that cleanly rather than requiring some offensive action from your skirmisher/ranger/whatever directed at that enemy. Still, overwatch isn’t that common, so it’s not the most helpful, but probably worth picking up. 
+
+Tactical Rigging (★★★★☆) - Tactical Rigging is a passive ability that grants you an additional utility item slot.
+
+Utility Item slots are good, so this is good. You get to carry a grenade, a mimic beacon, whatever along with special ammo. That’s pretty good. If this shows up, take it. Skirmishers get a utility item slot by default so you don’t absolutely need this, but it is good.
+
+Volatile Mix (★★★☆☆) - If you get this early, then your skirmisher gets to play on Veteran for a little bit as their grenades one shot troopers again. And obviously “click and kill trooper” is very good. I bring up a ton of non-RNG ways to kill troopers in this guide series for a reason. Now it won’t last, eventually troopers level up to advanced and you can’t one tap them anymore, but hey even then extra damage is good. I wouldn’t pick this up if it shows up super late, but if it doesn’t then go ahead and take it.
+
+Saturation Fire (★★★★☆) - Taking a fuck ton of shots and maybe blowing up a bunch of cover is pretty good, but not as good as it is on grenadiers. You roll each shot with the short range table, so the attacks far away will probably miss. But even then it is a bunch of cover removal and having a grapple lets you use this pretty flexible. Though to be warned this ends your turn unlike a normal shot.
+
+Hey, Firaxis, why can’t this class roll Shredder? Or Holo? Or hell why not Rapid Fire? I would kill to let this class have Blademaster for their ripjacks. Templars can get Reaper but skirmishers can’t have any fun? For shame! 
+
+Weapon Mods:
+Now onto weapon mods. Luckily for skirmishers they can really make anything work. Unluckily they really want all of these, but hey that’s how it goes.
+
+Weapon Mod
+Scope (★★★★☆)
+Laser Sight (★☆☆☆☆)
+Hair Trigger (★★★★☆)
+Repeater (★★★★★)
+Stock (★★★★☆)
+Expanded Mag (★★★★☆)
+Auto-Loader (★★★★☆)
+Scope (★★★★☆) - More aim is more better. The short range table can make this not super necessary, but if you want to max out the use of Saturation Fire or similar, this is good. And skirmishers are more likely to shoot from farther away than rangers so this can help with that.
+
+Laser Sight (★☆☆☆☆) - Bullpups don’t have anything to really justify crit fishing on them, so this is a waste.
+
+ Hair Trigger (★★★★☆) - Every shot you take has a chance to roll the extra action and this class shoots twice in a turn. You get pretty decent odds to make it shooting three times in a turn. With a superior hair trigger you have a 27% chance to get an additional action. With insider knowledge it jumps to 36%. And that is pretty damn good. 
+
+Repeater (★★★★★) - Similar logic to the Hair Trigger, but instant killing is better than an additional action. Though of course they go hand in hand quite well.
+
+Stock (★★★★☆) - Two shots per round means two props of a Stock if you miss both. With an advanced stock (which you can get pretty early with a little luck) you can kill a Trooper by just clicking shoot twice. And even in the late game “hey idiot take 6” is still good.
+
+Expanded Mag/Auto-Loader (★★★★☆) - Short of Saturation Fire no ability consumes more than 1 ammo at a time so these are pretty interchangeable. Having to reload can slow you down a lot from clicking shoot twice so having to do that less or having a way out of it is good. Expanded Mags are maybe a little better, but I wouldn’t stress about it.
+
+Utility Items:
+I think the three to consider here are grenades, mimic beacons, and special ammo. There might be more but these are probably the most important ones.
+
+ Frag/Plasma Grenade (★★★☆☆) - Pairs well with Total Combat and Volatile Mix especially early into a run, and hey grenades are always good. But there is better. Still I run these on this class for a while.
+
+Mimic Beacons (★★★★★) - Because you can shoot and throw this in the same turn, skirmishers might actually be the best unit to hold this in the entire game. Now they really, really, really want special ammo so that probably takes priority, but if you get Tactical Rigging this in the 2nd slot is probably best.
+
+Experimental Ammo (★★★★★) - Skirmishers can shoot twice, so they get double the effect of Experimental Ammo. This is the full list:
+
+Ammo Type 
+Viper Rounds (★★★☆☆)
+Dragon Rounds (★★★☆☆)
+AP Rounds (★★★★☆)
+Tracer Rounds (★★☆☆☆)
+Talon Rounds (★☆☆☆☆)
+Bluescreen Rounds (★★★★★)
+Viper/Dragon Rounds (★★★☆☆) - These are functionally the same item, they give you a conditional +1 damage. Because skirmishers shoot twice that becomes +2 damage, and that’s quite nice. Against Chosen and Rulers this is very good, but as always BS rounds are better. 
+
+AP Rounds (★★★★☆) - Short of throwing grenades or having a grenadier around, skirmishers have no way around armor (why can’t they roll Shredder?!) so this is very helpful against andros and AVATARs and the like. I’d still prefer BS rounds most of the time, but these are good.
+
+Tracer Rounds (★★☆☆☆) - More aim is good, but giving up the extra damage is a tough sell. If you roll these before you have the rest then skirmishers make a good candidate for them,
+
+Talon Rounds (★☆☆☆☆) - Don’t go crit fishing on this class. I know Bullpups kind of act like shotguns but they don't have the innate +10 crit or the damage to justify going for crits. 
+
+Bluescreen Rounds (★★★★★) - This is the last time I get to say this, but yea these things are broken. +10 damage if you focus fire a Sectopod? Yea that seems pretty good. As always, BS is king.
+
+PCSs:
+And as always, here is each PCS:
+
+PCS
+Aim (★★★★★)
+HP (★☆☆☆☆)
+Dodge (★☆☆☆☆)
+Will (★★☆☆☆)
+Mobility (★★★★★)
+Aim (★★★★★) - Everyone wants aim, and skirmishers are no exception. The choice between this and mobility is actually a tough one. I think this is probably best in slot, but it’s close.
+
+HP (★☆☆☆☆) - I’m going to say this for every class. But this does basically nothing. This is a game about alpha striking. Hopefully you simply don’t get hit. Now if you do, will this save you? Only maybe! Get crit and you still just drop dead. The opportunity cost is also so high. You can’t have a better PCS if you have this one. Honestly just sell these.
+
+Dodge (★☆☆☆☆) - It’s an HP PCS, but worse! Literally don’t even think about using this. Dodge is just too unreliable to even consider a real stat on your soldiers. A classic case of “every bad for enemies, useless for you.” If you see a dodge PCS just see it as picking up credits for when you sell them at the black market. 
+
+Will (★★☆☆☆) - It lets you bring up your skirmisher on more missions, but eh? Their power falls off pretty quick so that’s not super helpful. Not terrible, but probably better than selling these, I guess.
+
+Mobility (★★★★★) - Mobility is always super good on a class with the short range table. Is it better than aim I’m not super sure, but it might be. It’s a tough call either way. 
+
+Summary:
+I know I was rather negative throughout this, but skirmishers are not as bad as people say. Sure in the late game all their perks suck and they wield a bad shotgun but who cares they can shoot twice in a turn and have a grappling hook on Gatecrasher. Early power matters most and skirmishers have a lot of it. They scale poorly into the late game, but you can just stop using them at sergeant to have a carry unit for the late game Low Profile mission jump scare. Or use them all the way through because their base kit is so good that they are still perfectly functional in the late game, they just get outcompeted. 
+
+An index to every part of this guide: https://www.reddit.com/r/Xcom/comments/1sp0ypy/an_overly_complete_guide_to_xcom_2_war_of_the/
+
+
+Upvote
+134
+
+Downvote
+
+62
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+baddoge9000
+•
+2mo ago
+Son, its me Dad. Me and ur mom are worried son, this xcom obsession is consuming you. Please come home, we promise the chance of us taking you back is 95%
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+you act like my xcom obsession hasn't already consumed me. I've been playing this game for 10 years get with the program! And I literally just got a job its fine don't worry about it.
+
+baddoge9000
+•
+2mo ago
+Posting xcom essays on reddit is not a job son!😩
+
+/uj what is ur job tho? 🤔
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I'm assistant director at a Mathnasium. Where I can teach people real skills instead of how to be good at a decade old video game.
+
+baddoge9000
+•
+2mo ago
+Oh wow I a director at a mathnasium. I also got an assistant who likes the game.... wait Matt is that you?!?
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+5% chance we disown you and leave you for dead in a gutter. Only 5% though!
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+•
+Edited 2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Damn I was expecting to come to the defense of Skirmishers, but I do agree with the assessment of overhated and weakest. Hero units are, at the end of the day, still useful in their own way, but you just have to know what that way is and Skirmishers do have far more questionable / low impact skills than other classes.
+
+I used to pick up Total Combat all the time as it sounded like the better of the two baseline options at that rank, but then I realized I basically never used its intended effect even though I do throw things with the Skirmisher a fair bit. Typically though, it's going to be a Mimic Beacon AFTER moving / doing one shot. Because of their low damage and the ability to target two different enemies, Skirmishers are good finishers. I can't really think of many scenarios you actually want to throw something first. Perhaps a grenade, but why aren't you taking a Grenadier that does it further, easier, and better? There's maybe a niche here for an acid or poison grenade or something but I just don't really know. Skirmishers are one of my top choices for ammo besides Rangers, and they're also more flexible on which ammo to carry. As such unless you roll Tactical Rigging you might not even carry a grenade past the early game (when they are strongest anyways), and even then I'd still choose a Beacon and ammo... It's actually a one star for me in that it sounds tactically flexible but it's a waste of AP. If there is an XCOM line ability at this rank I'll almost always get it instead. Reflex is better but it only comes into play when combat is going to shit.
+
+I'm surprised you didn't mention the even bigger problem with Wrath, in that it almost always leaves the unit out of cover unless you're somehow flanking the enemy you want to Wrath. Unless it's the last enemy of the pod, Wrath is just dangerous for leaving your Skirmisher exposed to everyone else. You usually want to Wrath into them and then shoot them ideally, and again they don't have something like Parry or Implacable to cover that choice. Justice is much better IMO as like an earlier, weaker Invert, where you can pull distant enemies closer to firing lines of the rest of your squad, without having to give up the cover you already have.
+
+Zero-In would be more useful if you could chain Lost kills, as I think the Skirmisher is one of the best early game Lost killers if you need a little bump just from how their action economy and Headshot works. Sadly autoloaders reset Zero-in so the bonus is never that relevant. It's rare I shoot the same target twice with a Skirmisher and rarer still that the +10 will make a difference. I'm almost always going to try to shoot from height in part because of their easy access to Grapple from the start, and because scopes aren't necessarily the best option for their bull pups. You could make a case for almost any modification due to their flexibility IMO.
+
+The non-armor piercing and miss chance of Whiplash pisses me off. It's not like Full Throttle instead is worth much but HONESTLY I get so little value out of Whiplash in my campaigns. Almost any target I want to hit has enough defense or cover this "Lightning Hands" type attack usually doesn't actually hit, and when it could it's rare that I'd even target it with a Skirmisher anyways. I sometimes use this against robotics (typically an out of position MEC) and gatekeepers but it honestly pisses me off from it usually having coin flip accuracy. Free damage is free damage but when the odds are so bad I care less. But yes Full Throttle is another one of those abilities that I'm not even sure what the intention was at all. There might be some utility with Reflex, but then, once per mission? This ability would be a lot better if it worked kind of like Focus, where you stack +1 mobility for each kill you've gotten on a mission. As is I can't imagine what value you'd get out of it. Why would you want your Skirmisher to be miles ahead on a Lost mission, especially when they already have inherent Grapple?
+
+Funny sidenote about Combat Presence: Psi Operatives' Inspire doesn't work on SPARKs, but Combat Presence does (ever wanted to shoot something FOUR times?). In fact I'm pretty sure you can Combat Presence a Dominated or Haywired enemy as well. I think it's barely worth mentioning as it means you have essentially the two weakest special classes in the game on the same team, but you know, I like my Hunter Protocol and Rainmaker anyways despite it likely being way less flexible than any other soldier for the slot. But anyways more to the point Combat Presence is like THE reason I'd ever take a Skirmisher past the mid game. Their ability to grapple or throw a Beacon gives them an officer type support role (a la Long War) and they can trade one of their actions for an even more damaging action on someone else, like a crit fishing Ranger. I like Teamwork from Bonds and this is an agnostic version. And while it doesn't come up SUPER often it's on a cooldown rather than limited in quantity, though Advanced Teamwork is typically more than enough for most missions.
+
+Retribution's main value IMO is if you Justice an enemy (optionally also shooting them) and they don't end up dying, then Retribution can kill them on their turn, though it's not a guarantee. It's a little safety option but I also forget I have it sometimes as I don't always pick it up. On Rangers pre-Katana I've had SO many misses on Bladestorm that I usually just come back for it with AP on the one or two Rangers I'll even use it on. I prefer this one over Whiplash though because at least it's done more for me sometimes. Skirmishers are good versus lost but they don't have infinite bullets unless you stack autoloaders and this class isn't a priority for them for me.
+
+Interrupt is another confusing ability. If it halted enemies on pod activation it might be fun to throw a grenade on them all or something, but the fact they take cover means it's usually a whole lot of nothing. You're spending one turn now to just take your turn later anyways. Huh? And if you mistimed it as a special overwatch you get nothing out of it without shooting or moving more.
+
+Reckoning is a little better than Wrath as you can dash Slash and then Grapple out to safety at least. Compared to Rangers though where you can build around their sword, this ability makes me really sad by being both late and not really that great. Skirmishers don't get enough bonuses to their Ripjack to make it worth it, and if you want to Ripjack still, just use Justice.
+
+Also damn you actually referenced that niche strategy video. I was considering mentioning it as funny, mostly in the sense of trying to get value out of the basically two worst classes in the game IMO. The team is something on missions with no time limit, but those are already easier by virtue of not needing to make risky moves. The time limit is what makes missions riskier more than anything. That strategy is also dependent on the Skirmisher actually getting Return Fire, which is neither guaranteed nor necessarily early. You going to use multiple Specialists on a team on Legend for using a Skirmisher for a laugh? The notion that it breaks the game isn't notable to me, as it's easy enough to get other overpowered soldiers that are more flexible. I had a run recently where a single Sharpshooter with Shredder made a big difference when my Grenadiers weren't always tied up the way they used to be for armor shredding.
+
+"It’s so specific compared to just…not doing this and doing anything else." I feel exactly the same lol. I think it was born purely out of Skirmisher hate. Basically 'Look guys, you can smurf Skirmishers to not get hit as often!'
+
+If I roll Saturation Fire I prefer Expanded Mags on Skirmisher but it's a small difference (and RNG of course). It's mostly centered around 3 bullets baseline being awkward for a class that can shoot twice. Even a small mag to 4 makes a difference as what is living past two turns typically, and then you can reload before hitting the next pod. I actually like Saturation Fire more on Skirmishers because it can show up before you have Colonel Grenadiers, and my Grenadiers tend to have so many other roles like Holo Targeting, AoE damage + armor shred grenades, single target cannon armor shred, etc. Skirmishers are a support so breaking cover and maybe using experimental ammo during it is cool, almost any ammo can be useful. I personally prefer Dragon Rounds on them though, as they get inherent extra damage vs organics and rarely burning can be a useful status effect if you're going to use one at all.
+
+antiguy1
+•
+2mo ago
+FYI Zero In only works for standard shots taken immediately after the first one. Doing anything else, including using aim-dependant abilities just as Justice/Wrath and free actions such as Auto-Loader reloads and Grapple break the bonus. This is also why Skirmishers greatly prefer Expanded Mags over Auto-Loaders.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh I did not know that. Man this class can't have anything nice can they.
+
+antiguy1
+•
+2mo ago
+Eh, use them on timed missions where their multiple ways to move and deal damage without ending their turn are the most useful. But yeah, definitely the least powerful Colonel-level class.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+They are a good unit, it's just they could've been so much better
+
+generalguan4
+•
+2mo ago
+I’m glad my initial assessment of skirmishers matches your in depth guide of wow this guy sucks compared to all the other classes. Yes you can make it work but he didn’t come close to getting a spot on the a team. I was like ooh I can shoot twice. Wait his shots don’t kill in one hit so I just have to make two rolls instead of one? Rather just move and shoot once.
+
+However a skirmisher is the perfect b team leader or rookie babysitter for a second squad. I used mine to soften up enemies for my rookies and squaddies to land kills on. If they keep missing? Pass them another turn! Grip out of place enemies into the open for easier rookie kills. That was pretty successful.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Random note, I added predator armor and similar to the utility item guide, because I realized it wouldn't be anywhere else if I didn't!
+
+redbird7311
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Poor Skirmishers, I think they were trying to go for a less gimmicky and more, “sustained”, type of unit that stays consistent in performance in missions, Skirmishers don’t really get weaker throughout the mission unlike a Reaper who gets their cover blown early or a Templar who works best with build up.
+
+Problem is that the other two faction classes aren’t that much weaker at their weakest and it doesn’t take a lot of investment to make it where they stay consistently at their strongest for the majority of the mission.
+
+By their 3rd or 4th rank, they are just better than Skirmishers in most situations.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The thing that really struck me is how bad their XCOM perks are. No rapid fire no chain shot hell if they had holo or shredded that'd be killer. They really don't have much going for them late into a run do they?
+
+redbird7311
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yeah, they definitely have the most potential for X-com perks, I even used a mod that randomized some of the X-com perks and it’s amazing how having one or two things really changes the class. Had one with shedder and blue screen rounds and got lucky with one getting holo and rapid fire.
+
+I would still say that they weren’t stronger than reapers and templars after hitting the highest rank, but damn did they do work.
+
+u/bobothegoat avatar
+bobothegoat
+•
+2mo ago
+The Long War version has chain shot as a default perk at sergeant. Funny enough though, I usually take implacable at that rank instead. Of course, LWotC is basically its own game.
+
+MinigunGamer_YT
+Cake icon
+•
+2mo ago
+they are the strongest class simply bc the early game is the most important and skirmishers are by far the best at squaddie rank and around then. They also usually have one good skill per promotion like Zero In, Whiplash, Retribution, Combat Presence, Slash then they completely become ass at Colonel
+
+u/Rnorman3 avatar
+Rnorman3
+•
+2mo ago
+I am also baffled by the skill tree for the skirmishers. It just kind of feels “tacked on” at the last minute.
+
+Zero-in specifically feels like it could have been an entire tree built around their “shoot twice” gimmick. Like the first level could give +10 aim on any shot after the first each turn, and then like +10 (or even 20) crit if it’s against the same target. A follow-up skill could be called like “expose weakness” and give even further crit if hitting the same target and ignore all armor (a little awkward for the second hit, but thematically like he’s learning the enemies weak points after the first shot). And then a third capstone skill that lets the zero-in bonus apply to any shot after a slash/wrath/justice instead of just shooting and then refunds a single action point if you kill an enemy with a second shot/action after focusing them. This kind of gives you some late game punch in terms of focus firing a single target. And if you do get the kill, you get an extra action to either move forward, reload (which bull pups desperately need), or even take a +10 aim shot at a new target. If the crit numbers are high enough, you could also open up the possibility of using talon rounds and going for a crit build.
+
+Full throttle could have also leaned into this same play style by just slightly tweaking how it works. Have it work to where any kill gives 2 stacks of “momentum” where each stack of momentum gives you +1 mobility. Momentum decays by 1 stack each turn. So the turn you get a kill, you have +2 mobility if you’re still using it the way full throttle works in vanilla. But you also get to carry over 1 mobility for the next turn. And then if you get another kill, you can keep stacking it. You could even balance around this in different ways. Maybe at base level, if you lose your momentum stacks you suffer a 1 movement penalty that turn and then a later level of the skill removes that. Or you have a later level say momentum no longer decays. Something like this really plays into the skirmisher’s base mobility with grapple, justice, and wrath as the king of flexibility and mobility on the battlefield.
+
+Now that I’m thinking of both of those things, I’m also feeling like an inverted “steady hands” ability that gives crit if you have momentum stacks (or if you get to a certain threshold of them maybe) could also be interesting.
+
+Having some skills like that would make the bullpup feel less awful with its low damage, low range, and low magazine clip. All of the “do actions on the enemy turn” stuff feels so uninspiring and doesn’t even thematically feel like it matches up with the class’s theme.
+
+I also agree that the xcom skills they can roll kind of suck. Saturation fire just feels like kind of a middle finger to a class with bullpups. Shredder and lightning hands would be incredible for this class. Lightning hands would be super interesting with the ability to fire 3 times (and potentially stack zero-in triggers).
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh god if they could learn lightning hands. Imagine...they gave them fucking return fire when they could've had lightning hands! Wow do they hate this class!
+
+MinigunGamer_YT
+Cake icon
+•
+2mo ago
+total combat is really good for your first skulljack, bc u can still take an action after your skirmisher ripjacks. Useful on exsquiite timing where u need to skulljack around sgt rank.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Oh I had not considered this, that is very good. You could get some nice skullmining value as well. That's interesting.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Ah but there's a caveat, like everything. You mentioned sometimes sticking a Skulljack on Rangers as an option to get into melee, especially because if the mining fails at least you can shotgun blast or sword slash them in the face. Problem is, on any class that's not a Specialist (and even then), your Hack stat is dogshit and that means you're rolling a HIGH chance to eat Feedback damage. Now as you probably know storyline Skulljacking is a different thing, but relevant two times per campaign? Yawn.
+
+===
+
+I will say there have been times I was fine eating the Feedback damage just to get a damage spongey ADVENT unit off the field (and other than Lancers and maybe Priests so few of them even matter to prioritize), but this was almost always as a mistake cleanup move more than anything else. I agree with your assessment that ammo and mimic beacons are the best options for these. In the early game it's unlikely you'll have ammo so the jack is something (especially if you are rushing it for AVATAR Progress etc), but even with Tactical Rigging I'm not sure I'd take a Skullmining Skulljack on a Skirmisher. You're taking a risky roll to hit at all (and it's not like Skirmishers have great point blank options, you'd probably have to Grapple out), you're basically killing your chances at extra Intel (which is most of the point of ever Skullmining in general), and you're having a very high chance of taking damage on top of it. Like, why not just shoot twice from a height advantage? Toss a grenade at their cover with someone else if you're worried about aim, and how about not taking the damage as Skirmishers aren't actually that tanky despite having some skills based around it (not like you can stack armor on them anyways!).
+
+===
+
+Other than Intel harvesting, which is RNG, most of the Skullmining I'm ever intentionally doing is typically for one of two reasons: for some bizarre reason I don't want a Purifier to explode (and they are so nonthreatening in general otherwise), or I'm just sick and tired of Priests and I just want to delete them. It's rare that a Priest truly poses a problem, but once you get to the higher up versions they are like a much worse Sectoid. Stasis is actually far more annoying than Mind Control despite it being way safer, as it fucks with action economy and typically means I want to try to kill them soon before they do a Mind Control probably next turn. Holy Warrior would be my preferred thing they do but I honestly just don't see it come up that often compared to Mind Meld in EU. Words cannot describe how tired I am of them Stasising my units, Sustaining themselves, and worst of all shutting down things like Implacable and Death from Above just to continue to make action economy ever worse. Not threatening enough to wipe out like Lancers, but annoying enough to potentially delay turn after turn. So saying "no, fuck you you're actually dead THIS turn" is a niche option vs Priests, but again I'd still prioritize them on Specialists to at least help with the Hack stat and occasionally give you extra Intel. Feedback sucks but it's rare that Specialists are in direct line of fire enough to worry about damage, it's the injury timer and Flawless pride more than anything.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea you are pretty likely to eat the 2 feedback damage. But if you aren't me and obsessed with flawless missions, eh. Who cares?
+
+I'm also not sure I'd actually do this (any utility item could've been a mimic beacon or BSR) but it is at least interesting.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's basically a one charge per mission Reckoning that eats a utility slot, likely causes self-damage, and likely still leaves the Skirmisher in a bad spot, though at least you can position for cover theoretically. It's because Skirmishers have single AP cost actions (and free action recharging Grapple) that Skullmining is bad here. If you miss the Skullmine you better have Grapple up or otherwise hope a shot and Retribution is enough. If I run a Specialist I'm almost always going to have it as part of some bond pair, so at least I theoretically could move it out or Aid Protocol whatever if I really had to. Skirmisher bond pairs are a little more awkward but I typically try to tie it to a Ranger if I can as they're both mobility classes. Other than Mobility PCS I don't find even more mobility to help Skirmishers that much, whereas Specialists can easily drag behind if ever using their support skills, so the mobility bonus of Skullmining is something. I find myself running the turn timers down to 3-1 on Legend a lot more if I stand and fight vs booking it to the evac, and I haven't been as lucky with Infiltrate, Private Channel etc that mitigates that a lot.
+
+MinigunGamer_YT
+Cake icon
+•
+2mo ago
+u say twice a campaign but for exquisite timing u really need your skirmisher to help fight the codex as you will not have squad size 2 unlocked yet and potentially not even I if you're unlucky. Your troops have very limited options for dealing with psionic bombs at that stage of the game, so sometimes just one more grenade or shot from a skirmisher after the jack can make or break the mission.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I mean sure, I'm not disagreeing with its utility there. But a niche utility for an achievement? Like, lots of builds can help achievements, like stacking Psi Operatives for Who Needs Tygan, or three SPARKS literally ever when you can only really repair one. It's still not something I'd recommend normally. I used to pick Total Combat all the time until I realized I just don't really use it actually. Skirmisher start into a one AP grenade toss is the only general utility I can otherwise think of. Skirmisher is one of the few classes I'd even consider a Skulljack on, but even in the case of a Codex I'd rather have two shots against it (/its split), a Flashbang to mitigate it, or a grenade to soften it up and break cover.
+
+MinigunGamer_YT
+Cake icon
+•
+2mo ago
+fair point, I was just pointing out how in most playthroughs i take reflex in that specific one i take total combat. Corporal Skirmishers Sergenant Templar and Sgt Reaper are all kinda duds.
+
+u/ruler2k2k2 avatar
+ruler2k2k2
+•
+2mo ago
+As someone who enjoys using Skirmishers, this is a fair write-up. A lot of their abilities are either redundant (any of the ripjack stuff) or don’t work as advertised (interrupt & battlelord). Since it wasn’t mentioned in the post, the Skirmisher HQ is why my preferred start is with a Skirmisher. While the description says ‘construction’ time are reduced by 50%, it also applies to excavation times as well.
+
+The damage fall-off by mid-game is pretty bad, as in I’ve had Chosen Stronghold assaults where I didn’t even bring a Skirmisher because even with a Chosen weakness to Skirmishers, their damage wasn’t up to par. But like all personal, there is plenty of covert actions they can be sent on.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yea Skimisher HQ is nuts! But that's not really the unit.
+
+u/PratalMox avatar
+PratalMox
+•
+2mo ago
+Yeah, no disagreement here.
+
+Kind of a Sharpshooter situation, where Firaxis were so worried about how OP the class could be if overtuned that they pre-emptively nerfed them much more than they needed to
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It's sort of the opposite, where they come out of the gate swinging and then... nothing they get nothing after squaddie. But yea it's a similar deal
+
+u/betweentwosuns avatar
+betweentwosuns
+•
+2mo ago
+Bullpups don’t have anything to really justify crit fishing on them, so this is a waste.
+
+This really can't be overstated. Bullpups crit being only a +1 is so much of why they feel underwhelming as a class. You take so many flanking shots, and then your crit reward is often literally not even above your normal damage range.
+
+MartinCeronR
+•
+2mo ago
+•
+Edited 2mo ago
+Regarding the PCS, I think Aim is better than Mobility. An Aim PCS is the only way to increase the hit chance of Justice, Whiplash, and the other ripjack attacks, so that gives it the edge for me.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Ah fair point. I've usually stacked Mobility on them and Grappled to catch up if need be, but I'll try Aim as I typically don't use many of their special abilities past the midgame, and mostly make them double shot turrets with Combat Presence.
+
+u/Jumpy_Walk8542 avatar
+Jumpy_Walk8542
+•
+2mo ago
+•
+Edited 2mo ago
+Thank you again for these guides. Interesting that you rate Battle Lord and Waylay so poorly, especially when you compare Waylay to Guardian. Aren't they fairly comparable? Guardian may be better in a lot of cases and has a higher power cap, but sometimes you lose the coin flip on it when you really need to win.
+
+Apart from that, I think the "strong early, weak late" is an interesting dynamic and does give the Skirmisher an effective niche. They're like a reverse Sharpshooter!
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The thing about overwatch is you shouldn't ever be doing it while enemies are active, only when you are about to reveal a pod. So for Waylay specifically that means you literally didn't move or do anything last turn to get that extra shot off. And this game has turn timers. Will it happen? Sure, maybe. But Guardian just happens in situations where you'd be clicking overwatch anyway.
+
+Battlelord is just better interrupt, but if an enemies first action is to rush into cover it sucks. If they poison spit you now you're extremely nerfed. It just isn't great.
+
+u/Jumpy_Walk8542 avatar
+Jumpy_Walk8542
+•
+2mo ago
+Ah, I see.
+
+On the issue of revealing pods, is there a way to tell when you will trigger a pod with a non-concealed soldier?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yes, but actually no, but yes.
+
+Every enemy has a set sight line. And so you can count tiles and do the math and see if a move will reveal them.
+
+That is in principle, in practice that's impossible. It's an absurd thing to do. But with the Gotcha Again Redux mod the game will just tell you when you'll reveal a new pod if you would have that info in principle. And it should be in the base game because it is some bullshit.
+
+u/Jumpy_Walk8542 avatar
+Jumpy_Walk8542
+•
+2mo ago
+Thanks. I actually asked because I saw there was such a mod. Was wondering if there is a "correct" way to do it without the mod.
+
+u/betweentwosuns avatar
+betweentwosuns
+•
+2mo ago
+Battlelord would be a really cool Sergeant or Lieutenant ability.
+
+u/rabel avatar
+rabel
+•
+2mo ago
+Did I miss Templar guide? You're teasing it in the "Abilities" section with a typo. Does anyone care? Probably not but I'm still obsession over XCom2 so keep 'em coming
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Yes I posted it on Wednesday, but that does remind me that I forgot to post the index in this one, one moment.
+
+u/PenumbraChaser avatar
+PenumbraChaser
+•
+2mo ago
+I think it is interesting that your prefer the Skirmisher over the Reaper on Gatecrasher. I tend not to use Skirmishers, I might need to fire up a game and give it a go.
+
+I'm probably not utilizing the hook properly. I seem to recall it being difficult to put yourself in a position to be likely to land two shots on the sectoid or officer.
+
+Or is it best used to clean up after grenade damage?
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Once you pop the claymore you're left with a 3-4 damage gun and a dream. Like, what are you supposed to do?
+
+Skimishers also have a crap gun but they have justice. And justice + bullpup can one shot the officer. And then you can just camp out and wait for it to recharge because gatecrasher has no time limit. And of course shooting twice is pretty good when everyone else around you has grenades and nothing else.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I don't hate a Reaper start even considering the peashooter bolt action rifle, as it's less bad once you get up to Shrapnel Claymore and that is pretty fast (and I'd DEFINITELY always prefer a Reaper over rookies anyways like the others you have on Gatecrasher), not to mention their ever strong scouting utility without having to take Phantom on a Ranger that's a worse ability anyways and critically not Blademaster to help vs early Sectoids as a pretty time sensitive thing on Legend. Sword slashing a Sectoid is already risky as it's not 100% for a while so not having Blademaster is a mistake IMO unless you're able to run two Rangers early.
+
+===
+
+That said a Skirmisher start is interesting. The HQ scan is pretty strong but I feel it's more relevant midgame, as you're going to need supplies (and critically, engineers) to build facilities and relays and upgrades at the accelerated pace, as well as trying to balance Scientists and tech unlocks for more facilities. To me the real power of a Skirmisher start is their Resistance Orders. Unless I get really lucky with Reapers or Templars, there are situations I run a good number of Skirmisher Orders for a fair while, or even start to prefer them more as the game wears on. I had a disastrous Skirmisher campaign start a while ago but lucked out on really strong Orders that helped the strategic layer while I recovered on the tactical layer. While I always recruit a second faction hero, Skirmishers are probably at their weakest here. They start to fall off midgame once you have access to light armor for Rangers and Sharpshooters, and I was surprised how yucky it felt trying to balance the XP for TWO Skirmishers vs just stacking one on the missions I did take it on. My second Skirmisher just never felt relevant on that campaign, especially when it didn't roll Tactical Rigging but the first did. Still, I agree that the early part of the campaign is when the game is hardest, but I'd still say unequivocally for consistency throughout Reaper > Templar > Skirmisher. Reapers just offer so much tactical flexibility that you have to keep it in mind for missions when you don't have one, because one is either Tired or Covert Ops or healing, whatever.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Reapers on Gatecrasher specifically is a problem. Every mission after that they are the most powerful unit in the game. But you have to get through Gatecrasher.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I feel like is one is struggling with Gatecrasher, even though it can be rough on Legend, then perhaps that difficulty is not the right option. It's a test of worst case scenario tactics with terrible aim and few resources, leaning into how do you deal with RNG. Personally my go to is grenades and high cover / height advantage as much as possible to mitigate RNG (so Reaper with a "grenade" in Claymore and from Concealment for better AoE is not nothing). While Grapple does grant height it's typically only half cover which risks a nasty injury timer more readily, and that was part of why my recent Skirmisher start was rough. Squaddie Skirmisher aim wasn't great, and once I did take damage in half cover I more often would take one shot and then retreat to full cover or Grapple for safety. All the hero units have issues on Gatekeeper, as Skirmishers blow their limited abilities on cooldown quick, the Reaper rifle sucks as soon as you break Shadow, and Templars do not have access to Parry even though Rend is still good.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Gatecrasher is literally gambling. Like, you just don't have enough control over it to flawless it consistently. You can do everything right and still have deaths and that is not true of every other mission in the game. You just don't have the tools you need yet.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Right I agree, but I'd still say a claymore and grenade into deleting the first pod mitigates a lot of risk, and doesn't immediately break Shadow to at least set up for the second pod. While it is true you can wait for Skirmisher cooldowns it was literally the first pod that was an issue that run. The aim and damage just wasn't there, and I kept getting chipped by the enemy compared to the relatively more control I felt with Reaper and Templar, even with something as simple as a single Claymore and single flank shot. You do also have the option of the Reaper shooting the Claymore and then doing an overwatch trap or different concealment break with your rookies to save a grenade. It's still deleting a pod from the first mission, which IMO only a Reaper start can do, saving health for injury RNG for later pods.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+It helps, but you have 2 other pods to deal with. I just find it's easier with a Skimisher. Greande from a rookie -> shoot twice or justice to kill the officer is very nice.
+
+It can happen that you just run into two pods at once on GC, but if that happens I think you just die. Like, what is a Templar supposed to do about that? If you catch two pods on top of each other as a reaper then claymore gaming is gg, but if they catch you then, um, die I guess.
+
+u/RJ815 avatar
+RJ815
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Two pods at a time on Gatecrasher is suicide. It's the first mission, I'd probably just reset.
+
+That said I think I'd attest the Reaper is mathematically superior and I'll summarize why:
+
+As far as I know, Legend Gatecrasher is ALWAYS three pods:
+
+Three ADVENT Troopers
+
+Sectoid and 1-2 Troopers (wiki says only one but I'm not totally sure that's true)
+
+Two ADVENT Troopers and an Officer
+
+===
+
+For a Reaper start the only hard pod is actually the Officer one. At the start, use Shadow to scout for the Trooper only pod. While your units start in Concealment I might not even necessarily move them around that much at this point, unless it's to try to get a height advantage for later. Find the Trooper pod and set yourself up so the Reaper can safely use both actions the subsequent turn. Then, you Claymore, shoot the Claymore, and delete one pod without exposing your Shadow or the rest of your team just yet.
+
+===
+
+Now ideally you'd want to find and isolate the Sectoid pod. An overwatch trap is possible, but risky. Instead, toss a grenade to soften up the Sectoid and damage the trooper(s), though there is a good chance the ADVENT survives, but that's okay actually! You do have the option of using your second of three grenades to guarantee the Trooper dies. I would try to use a height advantage or flank shot with a rookie first though. If all fails and your rookies and RNG are shit, you do have the option to take a 100% accuracy flank shot with your Shadowed Reaper. The Sectoid is almost certain to survive but that's actually okay. As far as I'm aware of from recently learning they actually prioritize Reanimate over Mind Spin, which basically means they shouldn't actually damage you on their turn. If your Reaper broke Shadow that sucks but it's not the end of the world, and you can get lucky. For me I'd still hopefully have two grenades left at this point. I'd consider using another one on the Sectoid just for guaranteed damage, as I'm not sure you can guarantee cover destruction. But hopefully between another grenade, two rookie shots, and a Reaper shot you can finish the pod, and you should still have not taken damage. As long as the Officer pod hasn't gotten in range yet (which isn't a guarantee and this is why you scout with your Reaper), you should be able to reload your rookies and re-Shadow your Reaper.
+
+===
+
+The last pod is the hardest, and it's mostly because of the Officer being a damage sponge. Still, hopefully you have one grenade left. Use it to break cover on the Troopers (at least one but perhaps both). Try to kill at least one trooper, maybe lucking out on two. Now is when you have to pray for help from full cover (where there is some on the ground), but it might actually be the first time in the mission you're actually starting to take shots. You still might get an injury, but at least you should be at the point you only have two enemies left in the mission so hopefully you don't get a death, or at least not more than one. Save your last 100% shot from your Reaper for the officer, and just do what you can to chip him down after the second trooper of that pod is dead.
+
+===
+
+So that's my general strategy. If you're going to wait for Skirmisher cooldowns I don't think it's any less cheesy than this ideal pod engagement. You definitely can delete the trooper only pod and I think it's mathematically worse to use the claymore on the Sectoid pod, just because you can semi consistently get a turn of no damage from the Sectoid no matter what they do, ideally killing the Trooper(s) with them. Learning how high Sectoids prioritize reanimate as their psi ability dramatically helped me with dealing with them early game.
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+See I always found more success claymoring the officer pod. The trooper pod every shot you take has a chance to KO and with grenades you can clean up, then I can reup shadow and go after the officer pod. While if I don't use the claymore on the officer pod sometimes you get marked and then die. Especially if the engagement is a little awkward. For most of my L/I deathless runs I rotated between reaper-skirm-templar until I gave up and picked Reaper at the start screen because I was tired of losing and I always found reaper gave me the most trouble. Templar could also just kill you if you rend the wrong target but that's templars for you.
+
+4 more replies
+u/PenumbraChaser avatar
+PenumbraChaser
+•
+2mo ago
+I ran GC a bunch of times tonight w/Skirmisher and I'm convinced by your logic.
+
+SilentJ28
+•
+2mo ago
+minor typo: "As always, here is a table of every ability the templar gets. "
+
+u/hielispace avatar
+hielispace
+OP
+•
+2mo ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Whoops!
+
+IBlackKiteI
+•
+2mo ago
+I haven't actually played XCOM 2 in ages but am checking out these guides as they come up. Has some mad lad make some kind of well regarded class rebalance mod outside of Long War 2 yet?
+
+u/Responsible_Chair968 avatar
+Responsible_Chair968
+•
+2mo ago
+Some games don’t deserve this kind of attention. Xcom always has. You are fulfilling this game’s prophecy… and our own within it. Well done and thank you and carry on, Commander. 🫡 
+
+u/invasionofcamels avatar
+invasionofcamels
+•
+2mo ago
+I never really got Skirmishers and felt I must be missing something, but nope - this just reinforces the initial suspicion!
+
+What I really don’t get is that the intro narrative (from Betos…?) describes them as “unmatched in close range combat”…or words to that effect. How do they possibly justify that description when they have an underpowered slash attack…and that’s it?
