@@ -190,9 +190,11 @@ col1, col2 = st.sidebar.columns(2)
 with col1:
     supplies = st.number_input("Supplies", min_value=0, value=150, step=10)
     alloys = st.number_input("Alloys", min_value=0, value=30, step=5)
+    power_used = st.number_input("Power Used", min_value=0, value=9, step=1)
 with col2:
     intel = st.number_input("Intel", min_value=0, value=60, step=10)
     elerium = st.number_input("Elerium", min_value=0, value=10, step=5)
+    power_total = st.number_input("Power Total", min_value=0, value=15, step=1)
 
 active_research = st.sidebar.text_input(
     "🧪 Active Research",
@@ -286,6 +288,7 @@ state_context = {
     "Intel": intel,
     "Aleaciones": alloys,
     "Elerio": elerium,
+    "Energia": f"{power_used}/{power_total}",
     "Investigacion_Actual": active_research,
     "Objetivos_Actuales": objectives_str,
     "Elegido_Activo": chosen_name,
@@ -347,7 +350,6 @@ with tab1:
                     # Initialize client
                     client = genai.Client(api_key=api_key)
                     
-                    # Prepare system instruction
                     system_instruction = (
                         "You are Central Officer Bradford, the Commander's chief tactical advisor in XCOM 2. "
                         "Your tone should be professional, military, tactical, and determined, always addressing the user as 'Commander'. "
@@ -363,6 +365,23 @@ with tab1:
                         "you must conclude your response with a structured tactical recommendation report. In this report, list the options (e.g., Option A, Option B) and assign "
                         "a success probability/confidence percentage to each option based on your tactical assessment (e.g., Option A: 85% success probability, Option B: 60% success probability). "
                         "Explain your reasoning for these percentages briefly so the Commander can understand your level of confidence. "
+                        "\n\n"
+                        "CRITICAL REQUIREMENT: At the very beginning of EVERY response, before any greeting or tactical advice, you MUST output a sentence introducing the table, such as: 'Commander, here is the current tactical status I am basing my recommendations on:' or 'Based on our current campaign parameters:'. Immediately after this sentence, output the markdown table summarizing the campaign parameters. The table must be structured as follows:\n"
+                        "| Parameter | Current Value |\n"
+                        "| :--- | :--- |\n"
+                        "| **Difficulty** | [Difficulty name from state status] |\n"
+                        "| **Month / Date** | [Month/Date from state status] |\n"
+                        "| **Supplies** | [Supplies value] |\n"
+                        "| **Intel** | [Intel value] |\n"
+                        "| **Alloys** | [Alloys value] |\n"
+                        "| **Elerium** | [Elerium value] |\n"
+                        "| **Power** | [Power value] |\n"
+                        "| **Weapon Tier** | [Weapon tier value] |\n"
+                        "| **Armor Tier** | [Armor tier value] |\n"
+                        "| **Current Objectives** | [Current objectives list] |\n"
+                        "\n"
+                        "Immediately below the table, you must print this exact disclaimer text:\n"
+                        "*(Note: If any of these parameters are incorrect, please adjust them in the sidebar config so I can update my tactical assessment.)*\n\n"
                         "Always respond in English and maintain military immersion."
                     )
                     
@@ -375,7 +394,7 @@ with tab1:
                         f"- Weapon Tier: {state_context['Armas']}\n"
                         f"- Armor Tier: {state_context['Armadura']}\n"
                         f"- Resources: Supplies={state_context['Suministros']}, Intel={state_context['Intel']}, "
-                        f"Alloys={state_context['Aleaciones']}, Elerium={state_context['Elerio']}\n"
+                        f"Alloys={state_context['Aleaciones']}, Elerium={state_context['Elerio']}, Power={state_context['Energia']}\n"
                         f"- Current Research: {state_context['Investigacion_Actual']}\n"
                         f"- Current Objectives: {state_context['Objetivos_Actuales']}\n"
                         f"- Active Chosen: {state_context['Elegido_Activo']}\n"
