@@ -112,8 +112,8 @@ st.sidebar.markdown("<h3 style='color:#00f2ff;text-align:center;'>🛸 CAMPAIGN 
 api_key = st.sidebar.text_input(
     "Google Gemini API Key",
     type="password",
-    value=os.environ.get("GEMINI_API_KEY", ""),
-    help="Provide your Google Gemini API Key. If set as an environment variable (GEMINI_API_KEY), it will be loaded automatically."
+    value=os.environ.get("GEMINI_API_KEY", os.environ.get("GeminiApiKey", "")),
+    help="Provide your Google Gemini API Key. If set as an environment variable (GEMINI_API_KEY or GeminiApiKey), it will be loaded automatically."
 )
 
 st.sidebar.markdown("---")
