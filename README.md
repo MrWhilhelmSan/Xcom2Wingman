@@ -1,8 +1,8 @@
 ---
 title: XCOM 2 Tactical Wingman
 emoji: 🎯
-colorFrom: Steel
-colorTo: Slate
+colorFrom: blue
+colorTo: indigo
 sdk: streamlit
 sdk_version: 1.30.0
 app_file: app.py
