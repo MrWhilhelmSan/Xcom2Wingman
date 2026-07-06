@@ -1,4 +1,5 @@
 import os
+import re
 import streamlit as st
 import pandas as pd
 from google import genai
@@ -6,6 +7,89 @@ from google.genai import types
 
 # Import local MCP tools to use directly as Gemini tools
 from mcp_server import search_strategy_guide, search_game_config, get_difficulty_mechanics
+from typing import Optional
+
+def override_context_from_query(query: str, context: dict) -> dict:
+    """Parses user query to override sidebar values based on hierarchy (Chat > Menus)"""
+    q = query.lower()
+    
+    word_to_num = {
+        "zero": 0, "none": 0, "one": 1, "two": 2, "three": 3, "four": 4,
+        "five": 5, "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10
+    }
+    
+    def extract_val(keywords: list) -> Optional[int]:
+        for kw in keywords:
+            # Pattern 1: kw is X
+            p1 = rf'\b{kw}\b\s*(?:is|are|=)?\s*(\d+|\b(?:zero|none|one|two|three|four|five|six|seven|eight|nine|ten)\b)'
+            m1 = re.search(p1, q)
+            if m1:
+                val_str = m1.group(1)
+                if val_str.isdigit():
+                    return int(val_str)
+                return word_to_num.get(val_str, 0)
+                
+            # Pattern 2: X kw
+            p2 = rf'(\d+|\b(?:zero|none|one|two|three|four|five|six|seven|eight|nine|ten)\b)\s*\b{kw}\b'
+            m2 = re.search(p2, q)
+            if m2:
+                val_str = m2.group(1)
+                if val_str.isdigit():
+                    return int(val_str)
+                return word_to_num.get(val_str, 0)
+        return None
+
+    # Supplies
+    supplies_val = extract_val(["supplies", "supply", "suministros", "suministro"])
+    if supplies_val is not None:
+        context["Suministros"] = supplies_val
+
+    # Intel
+    intel_val = extract_val(["intel"])
+    if intel_val is not None:
+        context["Intel"] = intel_val
+
+    # Alloys
+    alloys_val = extract_val(["alloys", "alloy", "aleaciones", "aleacion"])
+    if alloys_val is not None:
+        context["Aleaciones"] = alloys_val
+
+    # Elerium
+    elerium_val = extract_val(["elerium", "elerio", "illyrium", "elerio"])
+    if elerium_val is not None:
+        context["Elerio"] = elerium_val
+
+    # Engineers
+    engineers_val = extract_val(["engineers", "engineer", "engineering", "ingenieros", "ingeniero"])
+    if engineers_val is not None:
+        context["Ingenieros"] = engineers_val
+
+    # Scientists
+    scientists_val = extract_val(["scientists", "scientist", "cientificos", "cientifico"])
+    if scientists_val is not None:
+        context["Cientificos"] = scientists_val
+
+    # Power
+    power_match = re.search(r'(\d+|\b(?:zero|none|one|two|three|four|five|six|seven|eight|nine|ten)\b)\s*(?:/|of)\s*(\d+|\b(?:zero|none|one|two|three|four|five|six|seven|eight|nine|ten)\b)\s*(?:of\s*)?power', q)
+    if not power_match:
+        power_match = re.search(r'power\s*(?:is|are|=)?\s*(\d+|\b(?:zero|none|one|two|three|four|five|six|seven|eight|nine|ten)\b)\s*(?:/|of)\s*(\d+|\b(?:zero|none|one|two|three|four|five|six|seven|eight|nine|ten)\b)', q)
+        
+    if power_match:
+        used_str = power_match.group(1)
+        total_str = power_match.group(2)
+        used = int(used_str) if used_str.isdigit() else word_to_num.get(used_str, 0)
+        total = int(total_str) if total_str.isdigit() else word_to_num.get(total_str, 15)
+        context["Energia"] = f"{used}/{total}"
+
+    # Research
+    research_match = re.search(r'(?:research|investigacion)\s*(?:on the way|is|actual|=)?\s*(?:that is)?\s*([a-zA-Z0-9\s]+?)(?:,|\.|\bfor\b|\bin\b|\bthree\b|\b\d+\b|$)', q)
+    if research_match:
+        cand = research_match.group(1).strip()
+        cand_clean = re.sub(r'\b(?:on the way|is|are|actual|a|an|the|that|to)\b', '', cand).strip()
+        if cand_clean and len(cand_clean) > 3:
+            context["Investigacion_Actual"] = cand_clean.title()
+
+    return context
 
 # Set page config with XCOM icon (a radar/target)
 st.set_page_config(
@@ -202,10 +286,12 @@ with col1:
     supplies = st.number_input("Supplies", min_value=0, value=150, step=10)
     alloys = st.number_input("Alloys", min_value=0, value=30, step=5)
     power_used = st.number_input("Power Used", min_value=0, value=9, step=1)
+    engineers = st.number_input("Engineers 🛠️", min_value=0, value=2, step=1)
 with col2:
     intel = st.number_input("Intel", min_value=0, value=60, step=10)
     elerium = st.number_input("Elerium", min_value=0, value=10, step=5)
     power_total = st.number_input("Power Total", min_value=0, value=15, step=1)
+    scientists = st.number_input("Scientists 🔬", min_value=0, value=1, step=1)
 
 active_research = st.sidebar.text_input(
     "🧪 Active Research",
@@ -300,6 +386,8 @@ state_context = {
     "Aleaciones": alloys,
     "Elerio": elerium,
     "Energia": f"{power_used}/{power_total}",
+    "Ingenieros": engineers,
+    "Cientificos": scientists,
     "Investigacion_Actual": active_research,
     "Objetivos_Actuales": objectives_str,
     "Elegido_Activo": chosen_name,
@@ -312,14 +400,77 @@ tab1, tab2 = st.tabs(["💬 TACTICAL ADVISOR CHAT", "📚 RAW DATABASE SEARCH"])
 
 # Chat Interface
 with tab1:
-    st.markdown("### 📞 Communications Channel with the Tactical Advisor")
-    st.write("Consult the Advisor (Central Officer Bradford) about base-building choices, research priorities, enemy counters, or soldier builds.")
+    # Define dynamic initial greeting message
+    def get_initial_greeting():
+        return (
+            "Greetings, Commander. The Hologlobe is operational and I have loaded all strategic intelligence folders into our tactical query engine. Where do we need to focus our efforts today?"
+        )
 
     # Initialize chat history
-    if "messages" not in st.session_state:
+    if "messages" not in st.session_state or len(st.session_state.messages) == 0:
         st.session_state.messages = [
-            {"role": "assistant", "content": "Greetings, Commander. The Hologlobe is operational and I have loaded all strategic intelligence folders into our tactical query engine. Where do we need to focus our efforts today?"}
+            {"role": "assistant", "content": get_initial_greeting()}
         ]
+
+    # Action buttons at the top of the chat tab
+    col_chat_title, col_chat_actions = st.columns([2, 1])
+    with col_chat_title:
+        st.markdown("### 📞 Communications Channel with the Tactical Advisor")
+    with col_chat_actions:
+        btn_col1, btn_col2 = st.columns(2)
+        with btn_col1:
+            if st.button("🧹 Clear Chat", use_container_width=True, help="Clear the current chat history."):
+                st.session_state.messages = []
+                st.rerun()
+        with btn_col2:
+            safe_date = re.sub(r'[^a-zA-Z0-9]', '_', state_context['Mes']).strip('_')
+            filename = f"xcom2_tactical_report_{safe_date}.md"
+            
+            report_lines = [
+                "# XCOM 2 TACTICAL INTELLIGENCE REPORT",
+                f"**Date (Game):** {state_context['Mes']}",
+                f"**Campaign Difficulty:** {state_context['Dificultad']}",
+                "",
+                "## CAMPAIGN STATUS SUMMARY",
+                "| Parameter | Current Value |",
+                "| :--- | :--- |",
+                f"| **Difficulty** | {state_context['Dificultad']} (Val: {state_context['Dificultad_Valor']}) |",
+                f"| **Month / Date** | {state_context['Mes']} |",
+                f"| **Supplies** | {state_context['Suministros']} |",
+                f"| **Intel** | {state_context['Intel']} |",
+                f"| **Alloys** | {state_context['Aleaciones']} |",
+                f"| **Elerium** | {state_context['Elerio']} |",
+                f"| **Power** | {state_context['Energia']} |",
+                f"| **Engineers** | {state_context['Ingenieros']} 🛠️ |",
+                f"| **Scientists** | {state_context['Cientificos']} 🔬 |",
+                f"| **Weapon Tier** | {state_context['Armas']} |",
+                f"| **Armor Tier** | {state_context['Armadura']} |",
+                f"| **Current Research** | {state_context['Investigacion_Actual']} |",
+                f"| **Current Objectives** | {state_context['Objetivos_Actuales']} |",
+                f"| **Active Chosen** | {state_context['Elegido_Activo']} |",
+                f"| **Chosen Strengths** | {state_context['Elegido_Fortalezas']} |",
+                f"| **Chosen Weaknesses** | {state_context['Elegido_Debilidades']} |",
+                "",
+                "## COMMUNICATIONS LOG WITH CENTRAL BRADFORD",
+                ""
+            ]
+            for msg in st.session_state.messages:
+                role = "Commander" if msg["role"] == "user" else "Central Bradford"
+                report_lines.append(f"### [{role}]")
+                report_lines.append(msg["content"])
+                report_lines.append("")
+                
+            report_content = "\n".join(report_lines)
+            st.download_button(
+                label="💾 Save Report",
+                data=report_content,
+                file_name=filename,
+                mime="text/markdown",
+                use_container_width=True,
+                help="Download the campaign status and chat log as a Markdown report."
+            )
+            
+    st.write("Consult the Advisor (Central Officer Bradford) about base-building choices, research priorities, enemy counters, or soldier builds.")
 
     # Container to hold chat history so it remains scrollable
     chat_container = st.container(height=500)
@@ -387,30 +538,38 @@ with tab1:
                         "| **Alloys** | [Alloys value] |\n"
                         "| **Elerium** | [Elerium value] |\n"
                         "| **Power** | [Power value] |\n"
+                        "| **Engineers** | [Engineers value] |\n"
+                        "| **Scientists** | [Scientists value] |\n"
                         "| **Weapon Tier** | [Weapon tier value] |\n"
                         "| **Armor Tier** | [Armor tier value] |\n"
                         "| **Current Objectives** | [Current objectives list] |\n"
                         "\n"
                         "Immediately below the table, you must print this exact disclaimer text:\n"
                         "*(Note: If any of these parameters are incorrect, please adjust them in the sidebar config so I can update my tactical assessment.)*\n\n"
+                        "HIERARCHY RULE: The Commander's query takes absolute priority. If there is a discrepancy between the campaign state block values and what the Commander explicitly describes in their query (e.g., resource counts, active research, power, engineers), you MUST use the values from the Commander's query for both your tactical advice and the parameter summary table.\n\n"
+                        "CONFIG CONTENTS TIP: The DefaultGameData_COMBINADO.txt configuration file contains strategic settings (such as music, sounds, and UI configurations) but does NOT contain specific research point costs, technology templates, or weapon item statistics. Do NOT repeatedly query the game configuration tool 'search_game_config' for values like 'ResearchPoints', 'MagneticWeapons', or specific research project costs, as they are not present in that file. If a config search returns no results, do not retry with similar queries; instead, refer to the strategy guides or difficulty compendium, or answer using your built-in XCOM 2 knowledge base.\n\n"
                         "Always respond in English and maintain military immersion."
                     )
+                    
+                    # Prepare dynamic context (Chat > Menus hierarchy)
+                    local_context = override_context_from_query(user_query, state_context.copy())
                     
                     # Prepare prompt with campaign state prefix
                     state_str = (
                         f"[XCOM CAMPAIGN STATE STATUS:\n"
-                        f"- Active Difficulty: {state_context['Dificultad']} (Internal value: {state_context['Dificultad_Valor']})\n"
-                        f"- Current Month: {state_context['Mes']}\n"
-                        f"- Avatar Project Progress: {state_context['Proyecto Avatar']}\n"
-                        f"- Weapon Tier: {state_context['Armas']}\n"
-                        f"- Armor Tier: {state_context['Armadura']}\n"
-                        f"- Resources: Supplies={state_context['Suministros']}, Intel={state_context['Intel']}, "
-                        f"Alloys={state_context['Aleaciones']}, Elerium={state_context['Elerio']}, Power={state_context['Energia']}\n"
-                        f"- Current Research: {state_context['Investigacion_Actual']}\n"
-                        f"- Current Objectives: {state_context['Objetivos_Actuales']}\n"
-                        f"- Active Chosen: {state_context['Elegido_Activo']}\n"
-                        f"  * Strengths: {state_context['Elegido_Fortalezas']}\n"
-                        f"  * Weaknesses: {state_context['Elegido_Debilidades']}]\n\n"
+                        f"- Active Difficulty: {local_context['Dificultad']} (Internal value: {local_context['Dificultad_Valor']})\n"
+                        f"- Current Month: {local_context['Mes']}\n"
+                        f"- Avatar Project Progress: {local_context['Proyecto Avatar']}\n"
+                        f"- Weapon Tier: {local_context['Armas']}\n"
+                        f"- Armor Tier: {local_context['Armadura']}\n"
+                        f"- Resources: Supplies={local_context['Suministros']}, Intel={local_context['Intel']}, "
+                        f"Alloys={local_context['Aleaciones']}, Elerium={local_context['Elerio']}, Power={local_context['Energia']}, "
+                        f"Engineers={local_context['Ingenieros']}, Scientists={local_context['Cientificos']}\n"
+                        f"- Current Research: {local_context['Investigacion_Actual']}\n"
+                        f"- Current Objectives: {local_context['Objetivos_Actuales']}\n"
+                        f"- Active Chosen: {local_context['Elegido_Activo']}\n"
+                        f"  * Strengths: {local_context['Elegido_Fortalezas']}\n"
+                        f"  * Weaknesses: {local_context['Elegido_Debilidades']}]\n\n"
                         f"Commander's query: {user_query}"
                     )
                     
